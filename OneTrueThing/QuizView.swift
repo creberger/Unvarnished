@@ -116,6 +116,15 @@ struct QuizView: View {
 private struct RoundView: View {
     let quiz: Quiz
     let round: Painting.Round
+    /// How far through the pause before moving on after a right answer, from 0 to 1.
+    @State private var countdown: CGFloat = 0
+
+    /// After a right answer the next round starts on its own; a wrong answer waits for the player.
+    private static let autoAdvanceDelay: Double = 5
+
+    private var pickedRight: Bool {
+        quiz.picked.map { round.statements[$0].isTrue } ?? false
+    }
 
     var body: some View {
         VStack(alignment: .leading, spacing: 14) {
@@ -149,8 +158,28 @@ private struct RoundView: View {
                     withAnimation { quiz.next() }
                 }
                 .buttonStyle(PrimaryButton())
+                .overlay(alignment: .bottomLeading) {
+                    // A bar fills along the button's bottom edge until it moves on by itself.
+                    if pickedRight {
+                        GeometryReader { geo in
+                            Theme.label.opacity(0.6)
+                                .frame(width: geo.size.width * countdown, height: 3)
+                                .frame(maxHeight: .infinity, alignment: .bottom)
+                        }
+                        .allowsHitTesting(false)
+                    }
+                }
                 .padding(.top, 4)
             }
+        }
+        .task(id: quiz.picked) {
+            countdown = 0
+            guard pickedRight, let picked = quiz.picked else { return }
+            withAnimation(.linear(duration: Self.autoAdvanceDelay)) { countdown = 1 }
+            try? await Task.sleep(for: .seconds(Self.autoAdvanceDelay))
+            // Cancelled if the player moved on themselves or left the screen.
+            guard !Task.isCancelled, quiz.picked == picked else { return }
+            withAnimation { quiz.next() }
         }
         .sensoryFeedback(trigger: quiz.picked) { _, picked in
             guard let picked else { return nil }

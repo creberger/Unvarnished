@@ -27,7 +27,7 @@ desc: Ten life-size figures crowd a shallow gold space as Christ's body is lower
 + The figures are packed into a shallow gold box, like painted sculpture in a carved altarpiece. || Rogier imitated the look of wooden shrines that were common in Flemish churches.
 - It's painted on canvas stretched across a church door. || It's an oak panel, made as an altarpiece.
 - It was painted in Spain for a royal palace. || It was made in the Low Countries for the crossbowmen's guild of Leuven.
-@ 0.07 0.31 3 | Top corner | Look into the top corners. | What's hidden in the carving?
+@ 0.07 0.42 3 | Top corner | Look into the top corners. | What's hidden in the carving?
 + Tiny crossbows hide in the painted tracery, the emblem of the archers' guild that ordered it. || The guild of crossbowmen in Leuven commissioned the altarpiece for their chapel.
 - The painter's coat of arms. || The corners show crossbows, the guild's emblem.
 - Two crossed keys, the sign of Saint Peter. || They're crossbows.
