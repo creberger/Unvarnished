@@ -8,7 +8,7 @@ The app zooms into a part of a masterpiece and asks which statement about it is 
 
 There are 100, from the 1290s to 1930: Old Masters, Impressionists, Japanese prints, a Chinese handscroll, a Roman-Egyptian mummy portrait, and modern work including Matisse, Kandinsky, Malevich, Klee and two Mondrians.
 
-They're grouped into eight categories: Renaissance, Golden Age & Baroque, Rococo & Revolution, Romantics & Realists, Impressionism, After Impressionism, Modern, and Asia & Antiquity. On the home screen you pick a category (or All), and the next painting comes from it. Your collection is grouped the same way. The categories, and which painting belongs to each, are set in `tools/categories.py`.
+They're grouped into eight categories: Renaissance, Golden Age & Baroque, Rococo & Revolution, Romantics & Realists, Impressionism, After Impressionism, Modern, and Asia & Antiquity. The home screen lists the categories (and All paintings); choosing one opens its next painting straight away. Your collection is grouped the same way. The categories, and which painting belongs to each, are set in `tools/categories.py`.
 
 Every image is in the public domain. They come from the Met and the Cleveland Museum of Art (both CC0) and from Wikimedia Commons, which hosts public-domain scans from the Rijksmuseum, the National Gallery, the Prado, the Art Institute of Chicago and others. Modern works are limited to pieces made before 1931 by artists who died before 1956, so they're out of copyright in both the US and Europe.
 

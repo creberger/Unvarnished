@@ -1,16 +1,9 @@
 import SwiftUI
 
+/// The first screen: pick a category, and the first painting from it opens straight away.
 struct HomeView: View {
     let library: Library
     @Binding var path: [Route]
-    @State private var upNextID: String?
-
-    /// The painting on offer, if it's still in play in the chosen category.
-    private var upNext: Painting? {
-        guard let painting = upNextID.flatMap(library.painting), !library.isRetired(painting) else { return nil }
-        if let category = library.selectedCategory, painting.category != category { return nil }
-        return painting
-    }
 
     var body: some View {
         ScrollView {
@@ -24,12 +17,14 @@ struct HomeView: View {
                         .fixedSize(horizontal: false, vertical: true)
                 }
 
-                categoryPicker
-
-                if let painting = upNext {
-                    upNextCard(painting)
-                } else {
-                    allDone
+                VStack(alignment: .leading, spacing: 10) {
+                    Text("CHOOSE A CATEGORY")
+                        .font(Theme.mono(12, weight: .medium))
+                        .foregroundStyle(Theme.muted)
+                    ForEach(library.categories) { category in
+                        categoryRow(id: category.id, name: category.name, span: category.span)
+                    }
+                    categoryRow(id: nil, name: "All paintings", span: "Any period, at random")
                 }
 
                 collectionRow
@@ -45,99 +40,66 @@ struct HomeView: View {
         .background(Theme.wall.ignoresSafeArea())
         .foregroundStyle(Theme.ink)
         .toolbar(.hidden, for: .navigationBar)
-        .onAppear { if upNext == nil { upNextID = library.next()?.id } }
     }
 
-    private func upNextCard(_ painting: Painting) -> some View {
-        VStack(alignment: .leading, spacing: 14) {
-            HStack {
-                Text("NEXT PAINTING")
-                    .font(Theme.mono(12, weight: .medium))
-                    .foregroundStyle(Theme.muted)
-                    .accessibilityLabel("Next painting, from \(library.category(painting.category)?.name ?? "")")
-                Spacer()
-                Button {
-                    withAnimation { upNextID = library.next(after: painting)?.id }
-                } label: {
-                    Label("Another", systemImage: "shuffle")
-                        .font(.subheadline.weight(.medium))
-                }
-            }
-
-            Button { path.append(.play(painting.id)) } label: {
-                FramedThumbnail(painting: painting)
-                    .frame(maxHeight: 340)
-                    .frame(maxWidth: .infinity)
-            }
-            .buttonStyle(.plain)
-            .accessibilityLabel("Play \(painting.title)")
-
-            VStack(alignment: .leading, spacing: 2) {
-                Text(painting.title)
-                    .font(Theme.display(24))
-                Text("\(painting.artist), \(painting.date)")
-                    .font(.subheadline)
-                    .foregroundStyle(Theme.muted)
-            }
-
-            Button("Look closer →") { path.append(.play(painting.id)) }
-                .buttonStyle(PrimaryButton())
+    /// Choosing a category plays its next painting; once all are acquired it opens the collection.
+    private func start(_ id: String?) {
+        library.selectedCategory = id
+        if let painting = library.next() {
+            path.append(.play(painting.id))
+        } else {
+            path.append(.collection)
         }
     }
 
-    private var allDone: some View {
-        let category = library.category(library.selectedCategory)
-        let count = library.paintings(in: library.selectedCategory).count
-        return VStack(alignment: .leading, spacing: 8) {
-            Text(category.map { "Every painting in \($0.name) is in your collection." } ?? "Every painting is in your collection.")
-                .font(Theme.display(24))
-                .fixedSize(horizontal: false, vertical: true)
-            Text("All \(count) are acquired. You can replay any of them from your collection, or pick another category.")
-                .foregroundStyle(Theme.muted)
-                .fixedSize(horizontal: false, vertical: true)
-        }
-    }
-
-    /// Chips for choosing which category the next painting comes from, with progress in each.
-    private var categoryPicker: some View {
-        ScrollView(.horizontal, showsIndicators: false) {
-            HStack(spacing: 8) {
-                chip(id: nil, name: "All")
-                ForEach(library.categories) { category in
-                    chip(id: category.id, name: category.name)
-                }
-            }
-            .padding(.horizontal, 20)
-        }
-        .padding(.horizontal, -20)
-    }
-
-    private func chip(id: String?, name: String) -> some View {
-        let selected = library.selectedCategory == id
+    private func categoryRow(id: String?, name: String, span: String) -> some View {
         let total = library.paintings(in: id).count
         let done = library.retiredCount(in: id)
-        return Button {
-            withAnimation {
-                library.selectedCategory = id
-                upNextID = library.next()?.id
+        let complete = done == total
+        return Button { start(id) } label: {
+            VStack(alignment: .leading, spacing: 10) {
+                HStack(alignment: .firstTextBaseline) {
+                    VStack(alignment: .leading, spacing: 2) {
+                        Text(name)
+                            .font(Theme.display(21))
+                        Text(span)
+                            .font(.subheadline)
+                            .foregroundStyle(Theme.muted)
+                    }
+                    Spacer()
+                    if complete {
+                        Label("Complete", systemImage: "checkmark.seal.fill")
+                            .font(.subheadline.weight(.semibold))
+                            .foregroundStyle(Theme.truth)
+                    } else {
+                        Image(systemName: "chevron.right")
+                            .foregroundStyle(Theme.muted)
+                    }
+                }
+                HStack(spacing: 10) {
+                    // Progress toward acquiring every painting in the category.
+                    GeometryReader { geo in
+                        ZStack(alignment: .leading) {
+                            Theme.rule
+                            (complete ? Theme.truth : Theme.ultramarine)
+                                .frame(width: total > 0 ? geo.size.width * CGFloat(done) / CGFloat(total) : 0)
+                        }
+                    }
+                    .frame(height: 4)
+                    Text("\(done) of \(total)")
+                        .font(Theme.mono(12))
+                        .foregroundStyle(Theme.muted)
+                        .frame(width: 72, alignment: .trailing)
+                }
             }
-        } label: {
-            VStack(alignment: .leading, spacing: 2) {
-                Text(name)
-                    .font(.subheadline.weight(.semibold))
-                Text("\(done)/\(total)")
-                    .font(Theme.mono(11))
-                    .opacity(0.75)
-            }
-            .padding(.horizontal, 12)
-            .padding(.vertical, 8)
-            .foregroundStyle(selected ? Theme.label : Theme.ink)
-            .background(selected ? Theme.ultramarine : Theme.label)
-            .overlay(Rectangle().stroke(selected ? Theme.ultramarine : Theme.rule, lineWidth: 1))
+            .padding(16)
+            .background(Theme.label)
+            .overlay(Rectangle().stroke(Theme.rule, lineWidth: 1))
+            .contentShape(Rectangle())
         }
         .buttonStyle(.plain)
-        .accessibilityLabel("\(name), \(done) of \(total) acquired")
-        .accessibilityAddTraits(selected ? .isSelected : [])
+        .accessibilityLabel("\(name), \(span). \(done) of \(total) acquired.")
+        .accessibilityHint(complete ? "Opens your collection" : "Starts the next painting")
     }
 
     private var collectionRow: some View {
