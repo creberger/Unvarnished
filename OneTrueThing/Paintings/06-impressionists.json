@@ -66,20 +66,20 @@
     },
     "where": "The bridge",
     "prompt": "Look at the bridge.",
-    "hint": "What style?",
+    "hint": "What style is the bridge?",
     "statements": [
      {
-      "text": "Japanese-style.",
-      "why": "Monet collected Japanese prints.",
+      "text": "Japanese, inspired by prints Monet collected.",
+      "why": "He owned hundreds of Japanese prints.",
       "isTrue": true
      },
      {
-      "text": "Roman.",
-      "why": "It's Japanese style."
+      "text": "Chinese, copied from a willow-pattern plate.",
+      "why": "It's Japanese-inspired."
      },
      {
-      "text": "Iron industrial.",
-      "why": "It's a wooden footbridge."
+      "text": "Venetian, inspired by a trip to Venice.",
+      "why": "He went to Venice later; the bridge is Japanese-style."
      }
     ]
    },
@@ -91,7 +91,7 @@
     },
     "where": "The lilies",
     "prompt": "Look at the lilies.",
-    "hint": "How many paintings of them?",
+    "hint": "How many water lily paintings did he make?",
     "statements": [
      {
       "text": "About 250.",
@@ -99,12 +99,12 @@
       "isTrue": true
      },
      {
-      "text": "Five.",
-      "why": "He painted hundreds."
+      "text": "About 25.",
+      "why": "About 250."
      },
      {
-      "text": "One.",
-      "why": "He painted many."
+      "text": "About 2,500.",
+      "why": "About 250."
      }
     ]
    },
@@ -116,20 +116,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, Monet's eyes.",
-    "hint": "What troubled him later?",
+    "hint": "What changed his colours late in life?",
     "statements": [
      {
-      "text": "Cataracts, which changed how he saw colour.",
-      "why": "His later works are redder.",
+      "text": "Cataracts, which tinted what he saw.",
+      "why": "His later works turn redder.",
       "isTrue": true
      },
      {
-      "text": "Blindness from birth.",
-      "why": "He had cataracts later."
+      "text": "Lead poisoning from his paints.",
+      "why": "It was cataracts."
      },
      {
-      "text": "Nothing.",
-      "why": "He had cataracts."
+      "text": "Colour blindness from birth.",
+      "why": "It was cataracts, late in life."
      }
     ]
    }
@@ -205,20 +205,20 @@
     },
     "where": "The right stack",
     "prompt": "Look at the right stack.",
-    "hint": "Where are they?",
+    "hint": "Where are the stacks?",
     "statements": [
      {
-      "text": "Near Monet's house at Giverny.",
-      "why": "He painted them in a nearby field.",
+      "text": "In a field near Monet's house at Giverny.",
+      "why": "He could paint them close to home.",
       "isTrue": true
      },
      {
-      "text": "In Holland.",
-      "why": "It's France."
+      "text": "In a field near his childhood home at Le Havre.",
+      "why": "They're at Giverny."
      },
      {
-      "text": "In America.",
-      "why": "It's France."
+      "text": "In a field at Argenteuil, outside Paris.",
+      "why": "He lived there earlier; these are at Giverny."
      }
     ]
    },
@@ -230,20 +230,20 @@
     },
     "where": "The hills",
     "prompt": "Look at the background.",
-    "hint": "What's there?",
+    "hint": "How many of the stacks does the Art Institute own?",
     "statements": [
      {
-      "text": "Trees, hills and houses.",
-      "why": "It's the countryside.",
+      "text": "Six.",
+      "why": "Chicago collectors bought them early.",
       "isTrue": true
      },
      {
-      "text": "The sea.",
-      "why": "It's land."
+      "text": "One.",
+      "why": "It owns six."
      },
      {
-      "text": "A city.",
-      "why": "It's countryside."
+      "text": "Twenty.",
+      "why": "It owns six."
      }
     ]
    },
@@ -255,20 +255,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, the series' success.",
-    "hint": "How did it sell?",
+    "hint": "How did the 1891 show go?",
     "statements": [
      {
-      "text": "The 1891 exhibition sold out within days.",
+      "text": "It sold out within days.",
       "why": "It made Monet rich.",
       "isTrue": true
      },
      {
-      "text": "Nobody bought them.",
-      "why": "They sold quickly."
+      "text": "Not one painting sold.",
+      "why": "It sold out."
      },
      {
-      "text": "They were burned.",
-      "why": "They sold."
+      "text": "Critics forced it to close early.",
+      "why": "It was a hit."
      }
     ]
    }
@@ -344,20 +344,20 @@
     },
     "where": "Bottom right",
     "prompt": "Look at the man in a straw hat at bottom right.",
-    "hint": "Who is he?",
+    "hint": "Who's the man in the straw hat, bottom right?",
     "statements": [
      {
       "text": "The painter Gustave Caillebotte.",
-      "why": "He was a friend.",
+      "why": "A friend and patron.",
       "isTrue": true
      },
      {
-      "text": "Monet.",
+      "text": "The painter Claude Monet.",
       "why": "It's Caillebotte."
      },
      {
-      "text": "A waiter.",
-      "why": "It's Caillebotte."
+      "text": "The restaurant owner's son.",
+      "why": "He's leaning on the railing at the left."
      }
     ]
    },
@@ -369,20 +369,20 @@
     },
     "where": "The table",
     "prompt": "Look at the table.",
-    "hint": "What's left?",
+    "hint": "How many people are in it?",
     "statements": [
      {
-      "text": "Bottles, glasses and fruit after the meal.",
-      "why": "A still life within a scene.",
+      "text": "Fourteen.",
+      "why": "All friends of Renoir's.",
       "isTrue": true
      },
      {
-      "text": "Books.",
-      "why": "It's lunch."
+      "text": "Nine.",
+      "why": "Fourteen."
      },
      {
-      "text": "Nothing.",
-      "why": "It's a meal."
+      "text": "Twenty.",
+      "why": "Fourteen."
      }
     ]
    },
@@ -394,20 +394,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, who bought it?",
-    "hint": "When?",
+    "hint": "What did Duncan Phillips pay in 1923?",
     "statements": [
      {
-      "text": "Duncan Phillips, in 1923.",
+      "text": "$125,000.",
       "why": "It's his museum's star.",
       "isTrue": true
      },
      {
-      "text": "The Louvre.",
-      "why": "It's in Washington."
+      "text": "$12,500.",
+      "why": "It was $125,000."
      },
      {
-      "text": "It was never sold.",
-      "why": "It was bought."
+      "text": "$1.25 million.",
+      "why": "It was $125,000."
      }
     ]
    }
@@ -483,7 +483,7 @@
     },
     "where": "The left",
     "prompt": "Look at the dancer on the left.",
-    "hint": "What's she doing?",
+    "hint": "What's the dancer on the left doing?",
     "statements": [
      {
       "text": "Scratching her back.",
@@ -491,12 +491,12 @@
       "isTrue": true
      },
      {
-      "text": "Dancing.",
-      "why": "She's scratching."
+      "text": "Reading a letter.",
+      "why": "She's scratching her back."
      },
      {
-      "text": "Sleeping.",
-      "why": "She's scratching."
+      "text": "Eating an orange.",
+      "why": "She's scratching her back."
      }
     ]
    },
@@ -508,20 +508,20 @@
     },
     "where": "The floor",
     "prompt": "Look at the floor.",
-    "hint": "What does it suggest?",
+    "hint": "What is the ballet master leaning on?",
     "statements": [
      {
-      "text": "A deep, slanted perspective.",
-      "why": "It pulls us into the room.",
+      "text": "A tall stick, used to beat time.",
+      "why": "He keeps the rhythm with it.",
       "isTrue": true
      },
      {
-      "text": "A carpet.",
-      "why": "It's wood."
+      "text": "A violin, played for the class.",
+      "why": "It's a stick."
      },
      {
-      "text": "Water.",
-      "why": "It's floorboards."
+      "text": "A chair, because of an injury.",
+      "why": "It's a stick."
      }
     ]
    },
@@ -533,20 +533,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, Degas' subjects.",
-    "hint": "How many dancers did he paint?",
+    "hint": "How much of Degas's work shows dancers?",
     "statements": [
      {
-      "text": "Ballet dancers fill more than half his work.",
-      "why": "He was obsessed with them.",
+      "text": "More than half.",
+      "why": "He was devoted to them.",
       "isTrue": true
      },
      {
-      "text": "Only one.",
-      "why": "He painted many."
+      "text": "About a tenth.",
+      "why": "More than half."
      },
      {
-      "text": "None.",
-      "why": "Many."
+      "text": "Almost none until old age.",
+      "why": "He painted them for decades."
      }
     ]
    }
@@ -622,20 +622,20 @@
     },
     "where": "The couple",
     "prompt": "Look at the couple.",
-    "hint": "What's new?",
+    "hint": "What's new in the scene?",
     "statements": [
      {
-      "text": "The boulevards were brand-new, built under Baron Haussmann.",
+      "text": "The boulevards, built under Baron Haussmann.",
       "why": "Paris was being rebuilt.",
       "isTrue": true
      },
      {
-      "text": "They're tourists.",
-      "why": "They're Parisians."
+      "text": "The gas lamps, the first in Paris.",
+      "why": "Gas lighting came decades earlier."
      },
      {
-      "text": "They're ghosts.",
-      "why": "They're people."
+      "text": "The umbrellas, invented that decade.",
+      "why": "Umbrellas were long established."
      }
     ]
    },
@@ -647,20 +647,20 @@
     },
     "where": "The cobbles",
     "prompt": "Look at the cobblestones.",
-    "hint": "How do they look?",
+    "hint": "How big is the canvas?",
     "statements": [
      {
-      "text": "Wet and shiny.",
-      "why": "It's raining.",
+      "text": "About 2 by 3 metres.",
+      "why": "The figures are almost life-size.",
       "isTrue": true
      },
      {
-      "text": "Dry.",
-      "why": "They're wet."
+      "text": "About 1 by 1.5 metres.",
+      "why": "About 2 by 3."
      },
      {
-      "text": "Snowy.",
-      "why": "They're wet."
+      "text": "About 4 by 6 metres.",
+      "why": "About 2 by 3."
      }
     ]
    },
@@ -672,20 +672,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, Caillebotte's role.",
-    "hint": "What did he do for Impressionism?",
+    "hint": "What did Caillebotte do for the Impressionists?",
     "statements": [
      {
-      "text": "He funded exhibitions and left his collection to France.",
+      "text": "Funded shows and left his collection to France.",
       "why": "He was a patron.",
       "isTrue": true
      },
      {
-      "text": "He opposed it.",
-      "why": "He supported it."
+      "text": "Wrote reviews defending them in newspapers.",
+      "why": "He funded them and bought their work."
      },
      {
-      "text": "He invented it.",
-      "why": "He supported it."
+      "text": "Ran the gallery that sold their work.",
+      "why": "That was Durand-Ruel."
      }
     ]
    }
@@ -761,20 +761,20 @@
     },
     "where": "The curtain",
     "prompt": "Look at the gauze.",
-    "hint": "How is it painted?",
+    "hint": "How is the gauze painted?",
     "statements": [
      {
-      "text": "Sheer and light, with quick strokes.",
+      "text": "Sheer and light, in quick strokes.",
       "why": "It veils the cradle.",
       "isTrue": true
      },
      {
-      "text": "Thick and dark.",
+      "text": "Dense and heavy, in thick paint.",
       "why": "It's sheer."
      },
      {
-      "text": "Opaque.",
-      "why": "It's sheer."
+      "text": "Traced from real lace.",
+      "why": "It's brushwork."
      }
     ]
    },
@@ -786,20 +786,20 @@
     },
     "where": "The mother",
     "prompt": "Look at the mother.",
-    "hint": "What's her pose?",
+    "hint": "Whom did Morisot marry?",
     "statements": [
      {
-      "text": "Her hand rests near her chin as she watches.",
-      "why": "A tender pose.",
+      "text": "Eugène Manet, Édouard Manet's brother.",
+      "why": "She knew the Manets well.",
       "isTrue": true
      },
      {
-      "text": "Sleeping.",
-      "why": "She's watching."
+      "text": "Édouard Manet himself.",
+      "why": "She married his brother."
      },
      {
-      "text": "Singing.",
-      "why": "She's watching."
+      "text": "Edgar Degas's brother.",
+      "why": "She married Eugène Manet."
      }
     ]
    },
@@ -811,20 +811,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, its debut.",
-    "hint": "Where was it shown?",
+    "hint": "Where was it first shown?",
     "statements": [
      {
-      "text": "At the first Impressionist exhibition, in 1874.",
+      "text": "The first Impressionist show, 1874.",
       "why": "Morisot was the only woman.",
       "isTrue": true
      },
      {
-      "text": "At the Louvre in 1900.",
-      "why": "It debuted in 1874."
+      "text": "The Paris Salon, 1874.",
+      "why": "It was the Impressionist show."
      },
      {
-      "text": "Never.",
-      "why": "It was shown."
+      "text": "The last Impressionist show, 1886.",
+      "why": "It was the first, in 1874."
      }
     ]
    }
@@ -900,20 +900,20 @@
     },
     "where": "The dress",
     "prompt": "Look at the dress.",
-    "hint": "What pattern?",
+    "hint": "Did Cassatt have children?",
     "statements": [
      {
-      "text": "Stripes.",
-      "why": "They add movement.",
+      "text": "No, she never married or had children.",
+      "why": "She painted mothers and children often.",
       "isTrue": true
      },
      {
-      "text": "Polka dots.",
-      "why": "It's stripes."
+      "text": "Yes, this is her own daughter.",
+      "why": "She had no children."
      },
      {
-      "text": "Plain.",
-      "why": "It's stripes."
+      "text": "Yes, she married Degas.",
+      "why": "She never married."
      }
     ]
    },
@@ -933,11 +933,11 @@
       "isTrue": true
      },
      {
-      "text": "At us.",
+      "text": "At each other.",
       "why": "They look down."
      },
      {
-      "text": "Away.",
+      "text": "Out at us.",
       "why": "They look down."
      }
     ]
@@ -950,20 +950,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, Cassatt herself.",
-    "hint": "Who invited her to exhibit?",
+    "hint": "Who invited her to show with the Impressionists?",
     "statements": [
      {
       "text": "Degas.",
-      "why": "She showed with the Impressionists.",
+      "why": "She showed with them from 1879.",
       "isTrue": true
      },
      {
-      "text": "Picasso.",
+      "text": "Monet.",
       "why": "It was Degas."
      },
      {
-      "text": "No one.",
-      "why": "Degas did."
+      "text": "Manet.",
+      "why": "It was Degas."
      }
     ]
    }
@@ -1039,19 +1039,19 @@
     },
     "where": "Top left",
     "prompt": "Look at the top left corner.",
-    "hint": "What's there?",
+    "hint": "What's in the top left corner?",
     "statements": [
      {
-      "text": "A trapeze artist's green-booted legs.",
+      "text": "A trapeze artist's green boots.",
       "why": "A joke.",
       "isTrue": true
      },
      {
-      "text": "A bird.",
-      "why": "It's legs."
+      "text": "A trapeze artist's red boots.",
+      "why": "They're green."
      },
      {
-      "text": "A chandelier.",
+      "text": "A parrot in a cage.",
       "why": "It's legs."
      }
     ]
@@ -1064,20 +1064,20 @@
     },
     "where": "The bottles",
     "prompt": "Look at the bottles.",
-    "hint": "What's the red triangle?",
+    "hint": "Whose label is the red triangle?",
     "statements": [
      {
-      "text": "The label of Bass beer, an English ale.",
+      "text": "Bass, an English pale ale.",
       "why": "A real brand.",
       "isTrue": true
      },
      {
-      "text": "A warning sign.",
-      "why": "It's a beer label."
+      "text": "Guinness, an Irish stout.",
+      "why": "It's Bass."
      },
      {
-      "text": "A flag.",
-      "why": "It's a label."
+      "text": "Heineken, a Dutch lager.",
+      "why": "It's Bass."
      }
     ]
    },
@@ -1089,7 +1089,7 @@
     },
     "where": "Full painting",
     "prompt": "Finally, its place.",
-    "hint": "Where is it in Manet's career?",
+    "hint": "Where does it come in Manet's career?",
     "statements": [
      {
       "text": "His last major painting.",
@@ -1097,12 +1097,12 @@
       "isTrue": true
      },
      {
-      "text": "His first.",
-      "why": "His last."
+      "text": "His first Salon success.",
+      "why": "It was his last."
      },
      {
-      "text": "A student copy.",
-      "why": "It's his."
+      "text": "His first painting of Paris nightlife.",
+      "why": "He'd painted cafés before."
      }
     ]
    }
@@ -1178,20 +1178,20 @@
     },
     "where": "The edge",
     "prompt": "Look at the edge.",
-    "hint": "What's there?",
+    "hint": "What's around the edge?",
     "statements": [
      {
-      "text": "A painted border of dots, added later.",
+      "text": "A border of dots, added later by Seurat.",
       "why": "It frames the painting.",
       "isTrue": true
      },
      {
-      "text": "A crack.",
-      "why": "It's a border."
+      "text": "A border of dots, added by a restorer.",
+      "why": "Seurat added it."
      },
      {
-      "text": "Nothing.",
-      "why": "It's a border."
+      "text": "A gilded frame painted onto the canvas.",
+      "why": "It's dots."
      }
     ]
    },
@@ -1203,20 +1203,20 @@
     },
     "where": "The island",
     "prompt": "Look at the river.",
-    "hint": "Where is it?",
+    "hint": "How long did Seurat work on it?",
     "statements": [
      {
-      "text": "An island in the Seine near Paris.",
-      "why": "A popular park.",
+      "text": "About two years.",
+      "why": "He made dozens of studies.",
       "isTrue": true
      },
      {
-      "text": "Venice.",
-      "why": "It's Paris."
+      "text": "About two months.",
+      "why": "About two years."
      },
      {
-      "text": "London.",
-      "why": "It's Paris."
+      "text": "About ten years.",
+      "why": "About two years."
      }
     ]
    },
@@ -1228,20 +1228,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, its afterlife.",
-    "hint": "What did it inspire?",
+    "hint": "Which musical did it inspire?",
     "statements": [
      {
-      "text": "The musical Sunday in the Park with George.",
+      "text": "Sunday in the Park with George.",
       "why": "By Stephen Sondheim.",
       "isTrue": true
      },
      {
-      "text": "A film about pirates.",
-      "why": "It's a musical."
+      "text": "An American in Paris.",
+      "why": "It's Sondheim's Sunday in the Park."
      },
      {
-      "text": "Nothing.",
-      "why": "It inspired a musical."
+      "text": "Moulin Rouge!",
+      "why": "It's Sunday in the Park."
      }
     ]
    }
@@ -1317,20 +1317,20 @@
     },
     "where": "The right edge",
     "prompt": "Look at the green face.",
-    "hint": "Who is she?",
+    "hint": "Who's the green-faced woman?",
     "statements": [
      {
-      "text": "A dancer, lit by the club's gaslight.",
+      "text": "A dancer, May Milton, lit by gaslight.",
       "why": "The colour is eerie.",
       "isTrue": true
      },
      {
-      "text": "A ghost.",
-      "why": "She's a dancer."
+      "text": "A dancer, Jane Avril, lit by gaslight.",
+      "why": "Avril appears elsewhere; this is May Milton."
      },
      {
-      "text": "A statue.",
-      "why": "She's a person."
+      "text": "A ghost from a stage show.",
+      "why": "She's a dancer."
      }
     ]
    },
@@ -1342,20 +1342,20 @@
     },
     "where": "The redhead",
     "prompt": "Look at the woman fixing her hair.",
-    "hint": "Who is she?",
+    "hint": "Who's the redhead fixing her hair?",
     "statements": [
      {
-      "text": "La Goulue, a famous cancan dancer.",
+      "text": "La Goulue, the cancan star.",
       "why": "She starred at the club.",
       "isTrue": true
      },
      {
-      "text": "A queen.",
-      "why": "She's a dancer."
+      "text": "Yvette Guilbert, the singer.",
+      "why": "It's La Goulue."
      },
      {
-      "text": "Lautrec's mother.",
-      "why": "She's a dancer."
+      "text": "Lautrec's cousin's wife.",
+      "why": "It's La Goulue."
      }
     ]
    },
@@ -1367,7 +1367,7 @@
     },
     "where": "Full painting",
     "prompt": "Finally, its history.",
-    "hint": "Was it always this shape?",
+    "hint": "What happened to the canvas?",
     "statements": [
      {
       "text": "A strip was cut off and later put back.",
@@ -1375,12 +1375,12 @@
       "isTrue": true
      },
      {
-      "text": "Yes.",
-      "why": "It was cut."
+      "text": "It was folded for shipping and cracked.",
+      "why": "A strip was cut off."
      },
      {
-      "text": "It was round.",
-      "why": "It's rectangular."
+      "text": "It was painted over an older picture.",
+      "why": "A strip was cut off."
      }
     ]
    }
@@ -1456,7 +1456,7 @@
     },
     "where": "The table",
     "prompt": "Look at the table.",
-    "hint": "What's missing?",
+    "hint": "What's missing from the table?",
     "statements": [
      {
       "text": "Money; they don't seem to be gambling.",
@@ -1464,12 +1464,12 @@
       "isTrue": true
      },
      {
-      "text": "Cards.",
-      "why": "There are cards."
+      "text": "Cards; they've finished the game.",
+      "why": "They're playing."
      },
      {
-      "text": "Legs.",
-      "why": "It has legs."
+      "text": "A candle; they play by window light.",
+      "why": "There's no money; the game is quiet."
      }
     ]
    },
@@ -1481,20 +1481,20 @@
     },
     "where": "The standing man",
     "prompt": "Look at the standing man.",
-    "hint": "What's he doing?",
+    "hint": "Where did Cézanne live?",
     "statements": [
      {
-      "text": "Watching the game.",
-      "why": "He's an onlooker.",
+      "text": "Aix-en-Provence, in the south of France.",
+      "why": "The models worked on his family's estate.",
       "isTrue": true
      },
      {
-      "text": "Dancing.",
-      "why": "He's watching."
+      "text": "Paris, in a studio near Montmartre.",
+      "why": "He lived in Aix."
      },
      {
-      "text": "Sleeping.",
-      "why": "He's watching."
+      "text": "Arles, near Van Gogh's Yellow House.",
+      "why": "He lived in Aix."
      }
     ]
    },
@@ -1506,20 +1506,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, the price.",
-    "hint": "What happened in 2011?",
+    "hint": "What sold in 2011?",
     "statements": [
      {
-      "text": "Another version sold to Qatar for about $250 million.",
+      "text": "Another version, to Qatar, for about $250 million.",
       "why": "A record at the time.",
       "isTrue": true
      },
      {
-      "text": "This one was stolen.",
-      "why": "Another sold."
+      "text": "This version, to Qatar, for about $250 million.",
+      "why": "It was another version."
      },
      {
-      "text": "It burned.",
-      "why": "It survives."
+      "text": "Another version, to Qatar, for about $25 million.",
+      "why": "About $250 million."
      }
     ]
    }
@@ -1595,20 +1595,20 @@
     },
     "where": "The village",
     "prompt": "Look at the church.",
-    "hint": "Is it accurate?",
+    "hint": "What's odd about the church?",
     "statements": [
      {
-      "text": "The steeple looks Dutch, perhaps a memory of home.",
-      "why": "The village is partly invented.",
+      "text": "Its steeple looks Dutch, not French.",
+      "why": "Perhaps a memory of home.",
       "isTrue": true
      },
      {
-      "text": "It's an exact view.",
-      "why": "It's invented."
+      "text": "It has no steeple at all.",
+      "why": "It has a tall steeple."
      },
      {
-      "text": "It's a mosque.",
-      "why": "It's a church."
+      "text": "It's lit from inside like a lantern.",
+      "why": "It's dark."
      }
     ]
    },
@@ -1620,20 +1620,20 @@
     },
     "where": "The cypress",
     "prompt": "Look at the dark tree.",
-    "hint": "What is it?",
+    "hint": "What might the brightest star near the cypress be?",
     "statements": [
      {
-      "text": "A cypress, which seems to flicker like a flame.",
-      "why": "Cypresses are linked to death and eternity.",
+      "text": "Venus, the morning star.",
+      "why": "He saw it from his window before dawn.",
       "isTrue": true
      },
      {
-      "text": "A palm.",
-      "why": "It's a cypress."
+      "text": "Mars, the red planet.",
+      "why": "Probably Venus."
      },
      {
-      "text": "A tower.",
-      "why": "It's a tree."
+      "text": "Jupiter, the largest planet.",
+      "why": "Probably Venus."
      }
     ]
    },
@@ -1653,12 +1653,12 @@
       "isTrue": true
      },
      {
-      "text": "In 1889.",
-      "why": "In 1941."
+      "text": "In 1929, when MoMA opened.",
+      "why": "It came in 1941."
      },
      {
-      "text": "It's in Paris.",
-      "why": "It's in New York."
+      "text": "In 1961.",
+      "why": "In 1941."
      }
     ]
    }

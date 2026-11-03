@@ -8,18 +8,18 @@ desc: A small bedroom with a wooden bed, two chairs, a little table and pictures
 + Two, like the two chairs; he hoped for company. || Gauguin came to stay.
 - None. || Two.
 - Five. || Two.
-@ 0.5 0.15 2.5 | The walls | Look at the walls. | Were they always blue?
-+ No, they were violet; the red in the paint has faded. || Research revealed it.
-- Yes. || They faded.
-- They were white. || They were violet.
-@ 0.65 0.2 2.5 | The pictures | Look at the pictures on the wall. | What are they?
-+ Portraits and paintings by Van Gogh himself. || His own work.
-- Mirrors. || They're paintings.
-- Windows. || They're paintings.
-@ 0.5 0.5 1 | Full painting | Finally, the perspective. | Why does it look tilted?
-+ The room really was an odd shape, and he exaggerated it. || It wasn't a mistake.
-- He was drunk. || It was intentional.
-- It was cut wrong. || It's intentional.
+@ 0.5 0.15 2.5 | The walls | Look at the walls. | What colour were the walls?
++ Violet; the red in the paint has faded to blue. || Research revealed the change.
+- Green; the yellow in the paint has faded to blue. || They were violet.
+- Grey; a varnish has turned them blue. || They were violet.
+@ 0.65 0.2 2.5 | The pictures | Look at the pictures on the wall. | Whose pictures hang on the wall?
++ Van Gogh's own paintings. || His own work.
+- Prints by Hokusai and Hiroshige. || He collected them, but these are his own.
+- Portraits by Gauguin. || They're his own.
+@ 0.5 0.5 1 | Full painting | Finally, the perspective. | How many versions did he paint?
++ Three. || In Amsterdam, Chicago and Paris.
+- Two. || Three.
+- Five. || Three.
 
 ## sunflowers | Sunflowers | Vincent van Gogh | 1853–1890 | 1888 | Oil on canvas | National Gallery, London
 desc: Fifteen sunflowers, some fresh and some wilting, crowd a yellow vase against a yellow background.
@@ -31,18 +31,18 @@ desc: Fifteen sunflowers, some fresh and some wilting, crowd a yellow vase again
 + "Vincent," his signature. || He signed with his first name.
 - The price. || It's his name.
 - A poem. || It's his name.
-@ 0.4 0.4 2.5 | The flowers | Look at the flowers. | Are they all fresh?
-+ Some are wilting and dropping petals. || The full life cycle.
-- All are fresh. || Some wilt.
-- They're plastic. || They're painted sunflowers.
-@ 0.5 0.3 2 | The yellow | Look at the yellows. | What pigment?
+@ 0.4 0.4 2.5 | The flowers | Look at the flowers. | Are all the flowers fresh?
++ No, some are wilting and dropping petals. || The full life cycle.
+- Yes, all were cut that morning. || Some are wilting.
+- No, they're dried flowers from the year before. || Some are fresh, some wilting.
+@ 0.5 0.3 2 | The yellow | Look at the yellows. | What made the yellows?
 + Chrome yellow, which can darken with time. || Some has browned.
-- Gold leaf. || It's paint.
-- Lemon juice. || It's paint.
-@ 0.5 0.5 1 | Full painting | Finally, its history. | When did the gallery buy it?
-+ In 1924. || It's among the most popular works there.
-- In 1888. || In 1924.
-- It was stolen. || It wasn't.
+- Gamboge, a tree resin. || It's chrome yellow.
+- Saffron, from crocus flowers. || It's chrome yellow.
+@ 0.5 0.5 1 | Full painting | Finally, its history. | When did the National Gallery buy it?
++ 1924. || It's one of the most popular works there.
+- 1987. || That year another version sold in London for a record price.
+- 1904. || It came in 1924.
 
 ## straw-hat-self-portrait | Self-Portrait with a Straw Hat | Vincent van Gogh | 1853–1890 | 1887 | Oil on canvas | The Metropolitan Museum of Art, New York
 desc: Van Gogh in a yellow straw hat, his face and coat built from short strokes of contrasting colour.
@@ -54,18 +54,18 @@ desc: Van Gogh in a yellow straw hat, his face and coat built from short strokes
 + An earlier painting, The Potato Peeler. || He reused the canvas to save money.
 - Nothing. || There's a painting.
 - A letter. || There's a painting.
-@ 0.5 0.45 2.5 | His face | Look at his face. | How is it painted?
-+ With short strokes of contrasting colours. || He learned from the pointillists.
-- Smoothly. || It's in strokes.
-- In black and white. || It's colourful.
-@ 0.5 0.15 2.5 | The hat | Look at the hat. | What is it?
-+ A straw hat. || He wore it in summer.
-- A crown. || It's straw.
-- A helmet. || It's straw.
-@ 0.5 0.5 1 | Full painting | Finally, his self-portraits. | How many?
+@ 0.5 0.45 2.5 | His face | Look at his face. | How is the face painted?
++ Short strokes of contrasting colours. || He learned from the pointillists.
+- Smooth, blended layers, like the old masters. || It's in short strokes.
+- Thick paint laid on with a palette knife. || It's brushstrokes.
+@ 0.5 0.15 2.5 | The hat | Look at the hat. | Why paint over the back of an older picture?
++ To save money on canvas. || He was always short of money.
+- To hide The Potato Peeler from critics. || He was saving canvas.
+- Because the front was damaged. || He was saving canvas.
+@ 0.5 0.5 1 | Full painting | Finally, his self-portraits. | How many self-portraits did he paint?
 + More than 35. || He couldn't afford models.
-- Three. || More than 35.
-- None. || Many.
+- About 5. || More than 35.
+- More than 350. || More than 35.
 
 ## where-do-we-come-from | Where Do We Come From? What Are We? Where Are We Going? | Paul Gauguin | 1848–1903 | 1897–98 | Oil on canvas | Museum of Fine Arts, Boston
 desc: A long frieze of Tahitian figures, from a baby on the right to an old woman on the left, with a blue idol behind.
@@ -77,18 +77,18 @@ desc: A long frieze of Tahitian figures, from a baby on the right to an old woma
 + The title, written by Gauguin. || In French.
 - A map. || It's the title.
 - A bird. || It's the title.
-@ 0.65 0.35 2.5 | The idol | Look at the blue figure. | What is it?
-+ An idol. || A spiritual presence.
-- A ghost. || It's an idol.
-- A tree. || It's an idol.
-@ 0.5 0.4 2.5 | The centre | Look at the central figure. | What's he doing?
+@ 0.65 0.35 2.5 | The idol | Look at the blue figure. | What is the blue figure?
++ An idol, a spiritual presence. || It watches over the scene.
+- A ghost of Gauguin's daughter. || It's an idol.
+- A statue of the Virgin Mary. || It's a Polynesian-style idol.
+@ 0.5 0.4 2.5 | The centre | Look at the central figure. | What's the central figure doing?
 + Picking fruit. || Perhaps a symbol of knowledge.
-- Dancing. || He's picking fruit.
-- Fishing. || He's picking fruit.
-@ 0.5 0.5 1 | Full painting | Finally, where did he paint it? | Which island?
+- Praying. || Picking fruit.
+- Fishing. || Picking fruit.
+@ 0.5 0.5 1 | Full painting | Finally, where did he paint it? | Where did he paint it?
 + Tahiti. || He lived there.
-- Hawaii. || It's Tahiti.
-- Jamaica. || It's Tahiti.
+- The Marquesas. || He died there later; this was painted in Tahiti.
+- Hawaii. || Tahiti.
 
 ## surprised | Tiger in a Tropical Storm (Surprised!) | Henri Rousseau | 1844–1910 | 1891 | Oil on canvas | National Gallery, London
 desc: A tiger crouches in tall jungle grass, lit by a flash of lightning as wind and rain lash the leaves.
@@ -101,17 +101,17 @@ desc: A tiger crouches in tall jungle grass, lit by a flash of lightning as wind
 - Sleeping. || It's alert.
 - Eating. || It's crouching.
 @ 0.6 0.2 2.5 | The rain | Look at the sky. | How is the rain shown?
-+ As thin silver streaks. || He scratched them into the paint.
-- As dots. || It's streaks.
-- It isn't. || There's rain.
-@ 0.15 0.9 3 | Bottom left | Look at the bottom left. | What's there?
-+ His signature. || Henri Rousseau.
-- A snake. || It's his signature.
-- A flower. || It's his signature.
-@ 0.5 0.5 1 | Full painting | Finally, his job. | What was his nickname?
-+ "Le Douanier," because he worked as a toll collector. || He painted in his spare time.
-- "The Sailor." || It's the customs man.
-- "The Prince." || It's the customs man.
++ Thin silver streaks across the canvas. || A shimmering effect.
+- Drops dabbed on with a fingertip. || It's streaks.
+- A grey wash over the whole scene. || It's streaks.
+@ 0.15 0.9 3 | Bottom left | Look at the bottom left. | Where did Rousseau study plants?
++ The botanical garden in Paris. || The Jardin des Plantes.
+- The jungles of Mexico, as a soldier. || He liked to claim that, but he never left France.
+- Kew Gardens in London. || He studied in Paris.
+@ 0.5 0.5 1 | Full painting | Finally, his job. | What was his day job?
++ Toll collector at the gates of Paris. || Hence "Le Douanier."
+- Customs officer at the Spanish border. || He worked in Paris.
+- Postman in Paris. || He collected tolls.
 
 ## sleeping-gypsy | The Sleeping Gypsy | Henri Rousseau | 1844–1910 | 1897 | Oil on canvas | Museum of Modern Art, New York
 desc: Under a full moon in the desert, a lion sniffs at a woman asleep beside a mandolin and a water jug.
@@ -123,18 +123,18 @@ desc: Under a full moon in the desert, a lion sniffs at a woman asleep beside a 
 + A mandolin and a water jug. || She's a wandering musician.
 - A sword. || It's a mandolin.
 - A book. || It's a mandolin.
-@ 0.9 0.1 3 | The sky | Look at the sky. | What's there?
-+ A full moon. || It lights the scene.
-- The sun. || It's night.
-- A bird. || It's the moon.
-@ 0.4 0.4 2.5 | The lion | Look at the lion. | What's its tail doing?
+@ 0.9 0.1 3 | The sky | Look at the sky. | What's in the sky?
++ A full moon. || It lights the desert.
+- A crescent moon. || It's full.
+- The setting sun. || It's the moon.
+@ 0.4 0.4 2.5 | The lion | Look at the lion. | What's the lion's tail doing?
 + Raised in the air. || It's alert.
-- Wagging. || It's raised.
-- Missing. || It's there.
-@ 0.5 0.5 1 | Full painting | Finally, its history. | Who refused it?
-+ Rousseau's home town, Laval, declined to buy it. || It was rediscovered in the 1920s.
-- The Louvre. || It was Laval.
-- No one. || Laval refused.
+- Wrapped around the woman. || It's raised.
+- Tucked between its legs. || It's raised.
+@ 0.5 0.5 1 | Full painting | Finally, its history. | Who turned it down?
++ Laval, Rousseau's home town. || It was rediscovered in the 1920s.
+- The Louvre, after his death. || It was Laval.
+- Picasso, who owned other Rousseaus. || It was Laval.
 
 ## hammershoi-interior | Interior, Strandgade 30 | Vilhelm Hammershøi | 1864–1916 | 1900 | Oil on canvas | Private collection
 desc: A quiet grey room with a woman standing by a tall window, a white door to the right and sunlight falling on the floor.
@@ -146,18 +146,18 @@ desc: A quiet grey room with a woman standing by a tall window, a white door to 
 + Usually his wife, Ida, often seen from behind. || She's a quiet presence.
 - A maid. || Usually his wife.
 - A ghost. || It's his wife.
-@ 0.5 0.8 2.5 | The floor | Look at the light on the floor. | What does it show?
-+ Sunlight through the window. || It's a soft patch.
-- A rug. || It's light.
-- Water. || It's light.
-@ 0.5 0.3 2.5 | The window | Look at the window. | What's the palette?
-+ Mostly greys and whites. || He was a master of muted tones.
-- Bright reds. || It's grey.
-- Neon. || It's grey.
+@ 0.5 0.8 2.5 | The floor | Look at the light on the floor. | What's on the floor?
++ A patch of sunlight from the window. || A soft glow.
+- A rug with a faded pattern. || It's sunlight.
+- A cat asleep in the sun. || It's just sunlight.
+@ 0.5 0.3 2.5 | The window | Look at the window. | How many times did he paint this apartment?
++ About 60. || He returned again and again.
+- About 6. || About 60.
+- About 600. || About 60.
 @ 0.5 0.5 1 | Full painting | Finally, his nickname. | What was he called?
-+ "The painter of silence." || His rooms feel still.
-- "The loud painter." || He was quiet.
-- "The red painter." || He used grey.
++ The painter of silence. || His rooms feel still.
+- The painter of light. || The painter of silence.
+- The painter of shadows. || The painter of silence.
 
 ## sorolla-seashore | Strolling along the Seashore | Joaquín Sorolla | 1863–1923 | 1909 | Oil on canvas | Museo Sorolla, Madrid
 desc: Two women in long white dresses and veils walk on a bright beach, the wind catching the fabric.
@@ -169,18 +169,18 @@ desc: Two women in long white dresses and veils walk on a bright beach, the wind
 + The whites are full of blues, purples and yellows. || He was a master of light.
 - Pure white only. || There's colour.
 - It's grey. || It's colourful.
-@ 0.25 0.1 2.5 | The hat | Look at the hat. | What's it doing?
-+ The wind tugs at it and the veil. || A breezy day.
-- It's on fire. || It's blowing.
-- Floating away. || She holds it.
-@ 0.5 0.85 2 | The sand | Look at the sand. | Where is it?
-+ A beach at Valencia, Sorolla's home. || He loved the sea there.
-- The Sahara. || It's a beach.
-- The moon. || It's a beach.
-@ 0.5 0.5 1 | Full painting | Finally, how he painted. | Indoors?
-+ Outdoors, on the beach, in the bright light. || He worked fast.
-- From photos. || He painted outdoors.
-- At night. || In daylight.
+@ 0.25 0.1 2.5 | The hat | Look at the hat. | What's the wind doing?
++ Tugging at the hat and veil. || A breezy day.
+- Blowing sand across their feet. || It tugs at the hat and veil.
+- Filling a sail out at sea. || There's no sail.
+@ 0.5 0.85 2 | The sand | Look at the sand. | Which beach is it?
++ Valencia, Sorolla's home town. || He loved the sea there.
+- San Sebastián, in the Basque Country. || He painted there too, but this is Valencia.
+- Biarritz, in France. || It's Valencia.
+@ 0.5 0.5 1 | Full painting | Finally, how he painted. | How did he paint it?
++ Outdoors on the beach, in bright sun. || He worked fast.
+- In his Madrid studio, from memory. || He painted outdoors.
+- At dawn, before the beach filled up. || It's bright midday sun.
 
 ## jack-pine | The Jack Pine | Tom Thomson | 1877–1917 | 1916–17 | Oil on canvas | National Gallery of Canada, Ottawa
 desc: A twisted pine tree silhouetted against a glowing sunset sky over a still lake and blue hills.
@@ -192,18 +192,18 @@ desc: A twisted pine tree silhouetted against a glowing sunset sky over a still 
 + A jack pine. || A Canadian tree.
 - A palm. || It's a pine.
 - An oak. || It's a pine.
-@ 0.5 0.6 2 | The water | Look at the lake. | How is it shown?
-+ In bands of colour. || It's flat and decorative.
-- With waves. || It's still.
-- With boats. || It's empty.
-@ 0.5 0.15 2 | The sky | Look at the sky. | How is it painted?
-+ In stripes of yellow and orange. || It glows.
-- Dark night. || It's sunset.
-- Clouds. || It's stripes.
-@ 0.5 0.5 1 | Full painting | Finally, Thomson's fate. | What happened?
-+ He drowned in Canoe Lake in 1917, in mysterious circumstances. || He was 39.
-- He became a senator. || He drowned.
-- He moved to Paris. || He drowned.
+@ 0.5 0.6 2 | The water | Look at the lake. | How is the lake painted?
++ In flat bands of colour. || It's decorative.
+- With detailed ripples. || It's flat bands.
+- As a mirror image of the sky. || It's flat bands.
+@ 0.5 0.15 2 | The sky | Look at the sky. | Which group did Thomson inspire?
++ The Group of Seven. || Canada's famous landscape painters.
+- The Group of Five. || The Group of Seven.
+- The Hudson River School. || That's American and earlier.
+@ 0.5 0.5 1 | Full painting | Finally, Thomson's fate. | How did Thomson die?
++ He drowned in Canoe Lake in 1917. || The circumstances are still a mystery.
+- He drowned in Canoe Lake in 1927. || It was 1917.
+- He was killed in the First World War. || He drowned.
 
 ## the-scream | The Scream | Edvard Munch | 1863–1944 | 1893 | Tempera and crayon on cardboard | National Museum, Oslo
 desc: A figure with a skull-like face clutches its head on a bridge under a blood-red swirling sky.
@@ -215,18 +215,18 @@ desc: A figure with a skull-like face clutches its head on a bridge under a bloo
 + "Can only have been painted by a madman," in Munch's own hand. || Confirmed in 2021.
 - A prayer. || It's a note.
 - A date. || It's a note.
-@ 0.5 0.55 2.5 | The figure | Look at the figure. | What's it doing?
+@ 0.5 0.55 2.5 | The figure | Look at the figure. | What's the figure doing?
 + Clutching its head. || It's anguished.
-- Laughing. || It's anguished.
-- Singing. || It's anguished.
-@ 0.85 0.45 2.5 | The bridge | Look at the bridge. | Who's there?
+- Shouting across the fjord. || It's clutching its head.
+- Praying. || It's clutching its head.
+@ 0.85 0.45 2.5 | The bridge | Look at the bridge. | Who's on the bridge behind?
 + Two figures walking away. || They don't notice.
-- A dog. || Two figures.
-- No one. || Two figures.
-@ 0.5 0.5 1 | Full painting | Finally, its history. | What happened in 1994?
-+ It was stolen from the National Gallery in Oslo and recovered. || The thieves left a note.
-- It was sold. || It was stolen.
-- It burned. || It survived.
+- A policeman walking toward it. || Two figures walk away.
+- Nobody. || Two figures.
+@ 0.5 0.5 1 | Full painting | Finally, its history. | What happened to this version in 1994?
++ It was stolen in Oslo and recovered. || The thieves left a mocking note.
+- It sold for $120 million. || A different version sold for that in 2012.
+- It was damaged in a flood. || It was stolen.
 
 ## the-kiss | The Kiss | Gustav Klimt | 1862–1918 | 1907–08 | Oil and gold leaf on canvas | Belvedere, Vienna
 desc: A couple wrapped in golden robes embrace on a flowered meadow, the man's robe patterned with rectangles and the woman's with circles.
@@ -239,17 +239,17 @@ desc: A couple wrapped in golden robes embrace on a flowered meadow, the man's r
 - Stripes for both. || They differ.
 - Plain. || They're patterned.
 @ 0.5 0.9 2.5 | The meadow | Look at the bottom. | Where are they?
-+ At the edge of a flower meadow. || Some see a cliff.
-- In a bed. || On a meadow.
-- In the sea. || On a meadow.
-@ 0.6 0.25 2.5 | The woman's face | Look at her face. | Her eyes?
++ At the edge of a flower meadow. || Flowers spill over the edge.
+- On a bed of gold cushions. || It's a meadow.
+- Under a tree in blossom. || It's a meadow.
+@ 0.6 0.25 2.5 | The woman's face | Look at her face. | What are her eyes doing?
 + Closed. || She's absorbed.
-- Wide open. || They're closed.
-- Covered. || They're closed.
-@ 0.5 0.5 1 | Full painting | Finally, who bought it? | When?
-+ The Austrian state, in 1908, before it was finished. || It's never left Vienna since.
-- An American, in 2006. || It's in Vienna.
-- Nobody. || Austria did.
+- Looking at him. || They're closed.
+- Looking at us. || They're closed.
+@ 0.5 0.5 1 | Full painting | Finally, who bought it? | Who bought it, and when?
++ The Austrian state, in 1908. || Before it was even finished.
+- The Austrian state, in 1918. || It was 1908.
+- An American collector, in 1908. || The Austrian state.
 
 ## adele-bloch-bauer | Portrait of Adele Bloch-Bauer I | Gustav Klimt | 1862–1918 | 1907 | Oil, gold and silver leaf on canvas | Neue Galerie, New York
 desc: A woman with dark hair sits in a shimmering field of gold patterns, her dress covered in eye-like symbols.
@@ -263,13 +263,13 @@ desc: A woman with dark hair sits in a shimmering field of gold patterns, her dr
 - Flowers only. || It has eyes.
 @ 0.65 0.2 2.5 | Her face | Look at her face. | How long did it take?
 + About three years. || Klimt made many sketches.
-- One day. || Three years.
-- Ten years. || Three years.
-@ 0.5 0.8 2.5 | The background | Look at the gold. | What's it made of?
+- About three months. || About three years.
+- About ten years. || About three years.
+@ 0.5 0.8 2.5 | The background | Look at the gold. | What is the background made of?
 + Gold and silver leaf. || It shimmers.
-- Yellow paint. || It's metal leaf.
-- Glitter. || It's leaf.
-@ 0.5 0.5 1 | Full painting | Finally, its history. | What happened?
-+ Nazis seized it; her niece won it back in 2006 and it sold for $135 million. || The film Woman in Gold tells the story.
-- It never left Vienna. || It went to New York.
-- It was destroyed. || It survives.
+- Gold paint only. || It's real leaf, gold and silver.
+- Gold leaf and crushed glass. || Gold and silver leaf.
+@ 0.5 0.5 1 | Full painting | Finally, its history. | What did it sell for in 2006?
++ $135 million, to Ronald Lauder. || For his Neue Galerie.
+- $13.5 million, to Ronald Lauder. || $135 million.
+- $135 million, to the Belvedere. || Austria lost the case; Lauder bought it.

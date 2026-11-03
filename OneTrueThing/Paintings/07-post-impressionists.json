@@ -66,19 +66,19 @@
     },
     "where": "The walls",
     "prompt": "Look at the walls.",
-    "hint": "Were they always blue?",
+    "hint": "What colour were the walls?",
     "statements": [
      {
-      "text": "No, they were violet; the red in the paint has faded.",
-      "why": "Research revealed it.",
+      "text": "Violet; the red in the paint has faded to blue.",
+      "why": "Research revealed the change.",
       "isTrue": true
      },
      {
-      "text": "Yes.",
-      "why": "They faded."
+      "text": "Green; the yellow in the paint has faded to blue.",
+      "why": "They were violet."
      },
      {
-      "text": "They were white.",
+      "text": "Grey; a varnish has turned them blue.",
       "why": "They were violet."
      }
     ]
@@ -91,20 +91,20 @@
     },
     "where": "The pictures",
     "prompt": "Look at the pictures on the wall.",
-    "hint": "What are they?",
+    "hint": "Whose pictures hang on the wall?",
     "statements": [
      {
-      "text": "Portraits and paintings by Van Gogh himself.",
+      "text": "Van Gogh's own paintings.",
       "why": "His own work.",
       "isTrue": true
      },
      {
-      "text": "Mirrors.",
-      "why": "They're paintings."
+      "text": "Prints by Hokusai and Hiroshige.",
+      "why": "He collected them, but these are his own."
      },
      {
-      "text": "Windows.",
-      "why": "They're paintings."
+      "text": "Portraits by Gauguin.",
+      "why": "They're his own."
      }
     ]
    },
@@ -116,20 +116,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, the perspective.",
-    "hint": "Why does it look tilted?",
+    "hint": "How many versions did he paint?",
     "statements": [
      {
-      "text": "The room really was an odd shape, and he exaggerated it.",
-      "why": "It wasn't a mistake.",
+      "text": "Three.",
+      "why": "In Amsterdam, Chicago and Paris.",
       "isTrue": true
      },
      {
-      "text": "He was drunk.",
-      "why": "It was intentional."
+      "text": "Two.",
+      "why": "Three."
      },
      {
-      "text": "It was cut wrong.",
-      "why": "It's intentional."
+      "text": "Five.",
+      "why": "Three."
      }
     ]
    }
@@ -205,20 +205,20 @@
     },
     "where": "The flowers",
     "prompt": "Look at the flowers.",
-    "hint": "Are they all fresh?",
+    "hint": "Are all the flowers fresh?",
     "statements": [
      {
-      "text": "Some are wilting and dropping petals.",
+      "text": "No, some are wilting and dropping petals.",
       "why": "The full life cycle.",
       "isTrue": true
      },
      {
-      "text": "All are fresh.",
-      "why": "Some wilt."
+      "text": "Yes, all were cut that morning.",
+      "why": "Some are wilting."
      },
      {
-      "text": "They're plastic.",
-      "why": "They're painted sunflowers."
+      "text": "No, they're dried flowers from the year before.",
+      "why": "Some are fresh, some wilting."
      }
     ]
    },
@@ -230,7 +230,7 @@
     },
     "where": "The yellow",
     "prompt": "Look at the yellows.",
-    "hint": "What pigment?",
+    "hint": "What made the yellows?",
     "statements": [
      {
       "text": "Chrome yellow, which can darken with time.",
@@ -238,12 +238,12 @@
       "isTrue": true
      },
      {
-      "text": "Gold leaf.",
-      "why": "It's paint."
+      "text": "Gamboge, a tree resin.",
+      "why": "It's chrome yellow."
      },
      {
-      "text": "Lemon juice.",
-      "why": "It's paint."
+      "text": "Saffron, from crocus flowers.",
+      "why": "It's chrome yellow."
      }
     ]
    },
@@ -255,20 +255,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, its history.",
-    "hint": "When did the gallery buy it?",
+    "hint": "When did the National Gallery buy it?",
     "statements": [
      {
-      "text": "In 1924.",
-      "why": "It's among the most popular works there.",
+      "text": "1924.",
+      "why": "It's one of the most popular works there.",
       "isTrue": true
      },
      {
-      "text": "In 1888.",
-      "why": "In 1924."
+      "text": "1987.",
+      "why": "That year another version sold in London for a record price."
      },
      {
-      "text": "It was stolen.",
-      "why": "It wasn't."
+      "text": "1904.",
+      "why": "It came in 1924."
      }
     ]
    }
@@ -344,20 +344,20 @@
     },
     "where": "His face",
     "prompt": "Look at his face.",
-    "hint": "How is it painted?",
+    "hint": "How is the face painted?",
     "statements": [
      {
-      "text": "With short strokes of contrasting colours.",
+      "text": "Short strokes of contrasting colours.",
       "why": "He learned from the pointillists.",
       "isTrue": true
      },
      {
-      "text": "Smoothly.",
-      "why": "It's in strokes."
+      "text": "Smooth, blended layers, like the old masters.",
+      "why": "It's in short strokes."
      },
      {
-      "text": "In black and white.",
-      "why": "It's colourful."
+      "text": "Thick paint laid on with a palette knife.",
+      "why": "It's brushstrokes."
      }
     ]
    },
@@ -369,20 +369,20 @@
     },
     "where": "The hat",
     "prompt": "Look at the hat.",
-    "hint": "What is it?",
+    "hint": "Why paint over the back of an older picture?",
     "statements": [
      {
-      "text": "A straw hat.",
-      "why": "He wore it in summer.",
+      "text": "To save money on canvas.",
+      "why": "He was always short of money.",
       "isTrue": true
      },
      {
-      "text": "A crown.",
-      "why": "It's straw."
+      "text": "To hide The Potato Peeler from critics.",
+      "why": "He was saving canvas."
      },
      {
-      "text": "A helmet.",
-      "why": "It's straw."
+      "text": "Because the front was damaged.",
+      "why": "He was saving canvas."
      }
     ]
    },
@@ -394,7 +394,7 @@
     },
     "where": "Full painting",
     "prompt": "Finally, his self-portraits.",
-    "hint": "How many?",
+    "hint": "How many self-portraits did he paint?",
     "statements": [
      {
       "text": "More than 35.",
@@ -402,12 +402,12 @@
       "isTrue": true
      },
      {
-      "text": "Three.",
+      "text": "About 5.",
       "why": "More than 35."
      },
      {
-      "text": "None.",
-      "why": "Many."
+      "text": "More than 350.",
+      "why": "More than 35."
      }
     ]
    }
@@ -483,20 +483,20 @@
     },
     "where": "The idol",
     "prompt": "Look at the blue figure.",
-    "hint": "What is it?",
+    "hint": "What is the blue figure?",
     "statements": [
      {
-      "text": "An idol.",
-      "why": "A spiritual presence.",
+      "text": "An idol, a spiritual presence.",
+      "why": "It watches over the scene.",
       "isTrue": true
      },
      {
-      "text": "A ghost.",
+      "text": "A ghost of Gauguin's daughter.",
       "why": "It's an idol."
      },
      {
-      "text": "A tree.",
-      "why": "It's an idol."
+      "text": "A statue of the Virgin Mary.",
+      "why": "It's a Polynesian-style idol."
      }
     ]
    },
@@ -508,7 +508,7 @@
     },
     "where": "The centre",
     "prompt": "Look at the central figure.",
-    "hint": "What's he doing?",
+    "hint": "What's the central figure doing?",
     "statements": [
      {
       "text": "Picking fruit.",
@@ -516,12 +516,12 @@
       "isTrue": true
      },
      {
-      "text": "Dancing.",
-      "why": "He's picking fruit."
+      "text": "Praying.",
+      "why": "Picking fruit."
      },
      {
       "text": "Fishing.",
-      "why": "He's picking fruit."
+      "why": "Picking fruit."
      }
     ]
    },
@@ -533,7 +533,7 @@
     },
     "where": "Full painting",
     "prompt": "Finally, where did he paint it?",
-    "hint": "Which island?",
+    "hint": "Where did he paint it?",
     "statements": [
      {
       "text": "Tahiti.",
@@ -541,12 +541,12 @@
       "isTrue": true
      },
      {
-      "text": "Hawaii.",
-      "why": "It's Tahiti."
+      "text": "The Marquesas.",
+      "why": "He died there later; this was painted in Tahiti."
      },
      {
-      "text": "Jamaica.",
-      "why": "It's Tahiti."
+      "text": "Hawaii.",
+      "why": "Tahiti."
      }
     ]
    }
@@ -625,17 +625,17 @@
     "hint": "How is the rain shown?",
     "statements": [
      {
-      "text": "As thin silver streaks.",
-      "why": "He scratched them into the paint.",
+      "text": "Thin silver streaks across the canvas.",
+      "why": "A shimmering effect.",
       "isTrue": true
      },
      {
-      "text": "As dots.",
+      "text": "Drops dabbed on with a fingertip.",
       "why": "It's streaks."
      },
      {
-      "text": "It isn't.",
-      "why": "There's rain."
+      "text": "A grey wash over the whole scene.",
+      "why": "It's streaks."
      }
     ]
    },
@@ -647,20 +647,20 @@
     },
     "where": "Bottom left",
     "prompt": "Look at the bottom left.",
-    "hint": "What's there?",
+    "hint": "Where did Rousseau study plants?",
     "statements": [
      {
-      "text": "His signature.",
-      "why": "Henri Rousseau.",
+      "text": "The botanical garden in Paris.",
+      "why": "The Jardin des Plantes.",
       "isTrue": true
      },
      {
-      "text": "A snake.",
-      "why": "It's his signature."
+      "text": "The jungles of Mexico, as a soldier.",
+      "why": "He liked to claim that, but he never left France."
      },
      {
-      "text": "A flower.",
-      "why": "It's his signature."
+      "text": "Kew Gardens in London.",
+      "why": "He studied in Paris."
      }
     ]
    },
@@ -672,20 +672,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, his job.",
-    "hint": "What was his nickname?",
+    "hint": "What was his day job?",
     "statements": [
      {
-      "text": "\"Le Douanier,\" because he worked as a toll collector.",
-      "why": "He painted in his spare time.",
+      "text": "Toll collector at the gates of Paris.",
+      "why": "Hence \"Le Douanier.\"",
       "isTrue": true
      },
      {
-      "text": "\"The Sailor.\"",
-      "why": "It's the customs man."
+      "text": "Customs officer at the Spanish border.",
+      "why": "He worked in Paris."
      },
      {
-      "text": "\"The Prince.\"",
-      "why": "It's the customs man."
+      "text": "Postman in Paris.",
+      "why": "He collected tolls."
      }
     ]
    }
@@ -761,19 +761,19 @@
     },
     "where": "The sky",
     "prompt": "Look at the sky.",
-    "hint": "What's there?",
+    "hint": "What's in the sky?",
     "statements": [
      {
       "text": "A full moon.",
-      "why": "It lights the scene.",
+      "why": "It lights the desert.",
       "isTrue": true
      },
      {
-      "text": "The sun.",
-      "why": "It's night."
+      "text": "A crescent moon.",
+      "why": "It's full."
      },
      {
-      "text": "A bird.",
+      "text": "The setting sun.",
       "why": "It's the moon."
      }
     ]
@@ -786,7 +786,7 @@
     },
     "where": "The lion",
     "prompt": "Look at the lion.",
-    "hint": "What's its tail doing?",
+    "hint": "What's the lion's tail doing?",
     "statements": [
      {
       "text": "Raised in the air.",
@@ -794,12 +794,12 @@
       "isTrue": true
      },
      {
-      "text": "Wagging.",
+      "text": "Wrapped around the woman.",
       "why": "It's raised."
      },
      {
-      "text": "Missing.",
-      "why": "It's there."
+      "text": "Tucked between its legs.",
+      "why": "It's raised."
      }
     ]
    },
@@ -811,20 +811,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, its history.",
-    "hint": "Who refused it?",
+    "hint": "Who turned it down?",
     "statements": [
      {
-      "text": "Rousseau's home town, Laval, declined to buy it.",
+      "text": "Laval, Rousseau's home town.",
       "why": "It was rediscovered in the 1920s.",
       "isTrue": true
      },
      {
-      "text": "The Louvre.",
+      "text": "The Louvre, after his death.",
       "why": "It was Laval."
      },
      {
-      "text": "No one.",
-      "why": "Laval refused."
+      "text": "Picasso, who owned other Rousseaus.",
+      "why": "It was Laval."
      }
     ]
    }
@@ -900,20 +900,20 @@
     },
     "where": "The floor",
     "prompt": "Look at the light on the floor.",
-    "hint": "What does it show?",
+    "hint": "What's on the floor?",
     "statements": [
      {
-      "text": "Sunlight through the window.",
-      "why": "It's a soft patch.",
+      "text": "A patch of sunlight from the window.",
+      "why": "A soft glow.",
       "isTrue": true
      },
      {
-      "text": "A rug.",
-      "why": "It's light."
+      "text": "A rug with a faded pattern.",
+      "why": "It's sunlight."
      },
      {
-      "text": "Water.",
-      "why": "It's light."
+      "text": "A cat asleep in the sun.",
+      "why": "It's just sunlight."
      }
     ]
    },
@@ -925,20 +925,20 @@
     },
     "where": "The window",
     "prompt": "Look at the window.",
-    "hint": "What's the palette?",
+    "hint": "How many times did he paint this apartment?",
     "statements": [
      {
-      "text": "Mostly greys and whites.",
-      "why": "He was a master of muted tones.",
+      "text": "About 60.",
+      "why": "He returned again and again.",
       "isTrue": true
      },
      {
-      "text": "Bright reds.",
-      "why": "It's grey."
+      "text": "About 6.",
+      "why": "About 60."
      },
      {
-      "text": "Neon.",
-      "why": "It's grey."
+      "text": "About 600.",
+      "why": "About 60."
      }
     ]
    },
@@ -953,17 +953,17 @@
     "hint": "What was he called?",
     "statements": [
      {
-      "text": "\"The painter of silence.\"",
+      "text": "The painter of silence.",
       "why": "His rooms feel still.",
       "isTrue": true
      },
      {
-      "text": "\"The loud painter.\"",
-      "why": "He was quiet."
+      "text": "The painter of light.",
+      "why": "The painter of silence."
      },
      {
-      "text": "\"The red painter.\"",
-      "why": "He used grey."
+      "text": "The painter of shadows.",
+      "why": "The painter of silence."
      }
     ]
    }
@@ -1039,20 +1039,20 @@
     },
     "where": "The hat",
     "prompt": "Look at the hat.",
-    "hint": "What's it doing?",
+    "hint": "What's the wind doing?",
     "statements": [
      {
-      "text": "The wind tugs at it and the veil.",
+      "text": "Tugging at the hat and veil.",
       "why": "A breezy day.",
       "isTrue": true
      },
      {
-      "text": "It's on fire.",
-      "why": "It's blowing."
+      "text": "Blowing sand across their feet.",
+      "why": "It tugs at the hat and veil."
      },
      {
-      "text": "Floating away.",
-      "why": "She holds it."
+      "text": "Filling a sail out at sea.",
+      "why": "There's no sail."
      }
     ]
    },
@@ -1064,20 +1064,20 @@
     },
     "where": "The sand",
     "prompt": "Look at the sand.",
-    "hint": "Where is it?",
+    "hint": "Which beach is it?",
     "statements": [
      {
-      "text": "A beach at Valencia, Sorolla's home.",
+      "text": "Valencia, Sorolla's home town.",
       "why": "He loved the sea there.",
       "isTrue": true
      },
      {
-      "text": "The Sahara.",
-      "why": "It's a beach."
+      "text": "San Sebastián, in the Basque Country.",
+      "why": "He painted there too, but this is Valencia."
      },
      {
-      "text": "The moon.",
-      "why": "It's a beach."
+      "text": "Biarritz, in France.",
+      "why": "It's Valencia."
      }
     ]
    },
@@ -1089,20 +1089,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, how he painted.",
-    "hint": "Indoors?",
+    "hint": "How did he paint it?",
     "statements": [
      {
-      "text": "Outdoors, on the beach, in the bright light.",
+      "text": "Outdoors on the beach, in bright sun.",
       "why": "He worked fast.",
       "isTrue": true
      },
      {
-      "text": "From photos.",
+      "text": "In his Madrid studio, from memory.",
       "why": "He painted outdoors."
      },
      {
-      "text": "At night.",
-      "why": "In daylight."
+      "text": "At dawn, before the beach filled up.",
+      "why": "It's bright midday sun."
      }
     ]
    }
@@ -1178,20 +1178,20 @@
     },
     "where": "The water",
     "prompt": "Look at the lake.",
-    "hint": "How is it shown?",
+    "hint": "How is the lake painted?",
     "statements": [
      {
-      "text": "In bands of colour.",
-      "why": "It's flat and decorative.",
+      "text": "In flat bands of colour.",
+      "why": "It's decorative.",
       "isTrue": true
      },
      {
-      "text": "With waves.",
-      "why": "It's still."
+      "text": "With detailed ripples.",
+      "why": "It's flat bands."
      },
      {
-      "text": "With boats.",
-      "why": "It's empty."
+      "text": "As a mirror image of the sky.",
+      "why": "It's flat bands."
      }
     ]
    },
@@ -1203,20 +1203,20 @@
     },
     "where": "The sky",
     "prompt": "Look at the sky.",
-    "hint": "How is it painted?",
+    "hint": "Which group did Thomson inspire?",
     "statements": [
      {
-      "text": "In stripes of yellow and orange.",
-      "why": "It glows.",
+      "text": "The Group of Seven.",
+      "why": "Canada's famous landscape painters.",
       "isTrue": true
      },
      {
-      "text": "Dark night.",
-      "why": "It's sunset."
+      "text": "The Group of Five.",
+      "why": "The Group of Seven."
      },
      {
-      "text": "Clouds.",
-      "why": "It's stripes."
+      "text": "The Hudson River School.",
+      "why": "That's American and earlier."
      }
     ]
    },
@@ -1228,19 +1228,19 @@
     },
     "where": "Full painting",
     "prompt": "Finally, Thomson's fate.",
-    "hint": "What happened?",
+    "hint": "How did Thomson die?",
     "statements": [
      {
-      "text": "He drowned in Canoe Lake in 1917, in mysterious circumstances.",
-      "why": "He was 39.",
+      "text": "He drowned in Canoe Lake in 1917.",
+      "why": "The circumstances are still a mystery.",
       "isTrue": true
      },
      {
-      "text": "He became a senator.",
-      "why": "He drowned."
+      "text": "He drowned in Canoe Lake in 1927.",
+      "why": "It was 1917."
      },
      {
-      "text": "He moved to Paris.",
+      "text": "He was killed in the First World War.",
       "why": "He drowned."
      }
     ]
@@ -1317,7 +1317,7 @@
     },
     "where": "The figure",
     "prompt": "Look at the figure.",
-    "hint": "What's it doing?",
+    "hint": "What's the figure doing?",
     "statements": [
      {
       "text": "Clutching its head.",
@@ -1325,12 +1325,12 @@
       "isTrue": true
      },
      {
-      "text": "Laughing.",
-      "why": "It's anguished."
+      "text": "Shouting across the fjord.",
+      "why": "It's clutching its head."
      },
      {
-      "text": "Singing.",
-      "why": "It's anguished."
+      "text": "Praying.",
+      "why": "It's clutching its head."
      }
     ]
    },
@@ -1342,7 +1342,7 @@
     },
     "where": "The bridge",
     "prompt": "Look at the bridge.",
-    "hint": "Who's there?",
+    "hint": "Who's on the bridge behind?",
     "statements": [
      {
       "text": "Two figures walking away.",
@@ -1350,11 +1350,11 @@
       "isTrue": true
      },
      {
-      "text": "A dog.",
-      "why": "Two figures."
+      "text": "A policeman walking toward it.",
+      "why": "Two figures walk away."
      },
      {
-      "text": "No one.",
+      "text": "Nobody.",
       "why": "Two figures."
      }
     ]
@@ -1367,20 +1367,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, its history.",
-    "hint": "What happened in 1994?",
+    "hint": "What happened to this version in 1994?",
     "statements": [
      {
-      "text": "It was stolen from the National Gallery in Oslo and recovered.",
-      "why": "The thieves left a note.",
+      "text": "It was stolen in Oslo and recovered.",
+      "why": "The thieves left a mocking note.",
       "isTrue": true
      },
      {
-      "text": "It was sold.",
-      "why": "It was stolen."
+      "text": "It sold for $120 million.",
+      "why": "A different version sold for that in 2012."
      },
      {
-      "text": "It burned.",
-      "why": "It survived."
+      "text": "It was damaged in a flood.",
+      "why": "It was stolen."
      }
     ]
    }
@@ -1460,16 +1460,16 @@
     "statements": [
      {
       "text": "At the edge of a flower meadow.",
-      "why": "Some see a cliff.",
+      "why": "Flowers spill over the edge.",
       "isTrue": true
      },
      {
-      "text": "In a bed.",
-      "why": "On a meadow."
+      "text": "On a bed of gold cushions.",
+      "why": "It's a meadow."
      },
      {
-      "text": "In the sea.",
-      "why": "On a meadow."
+      "text": "Under a tree in blossom.",
+      "why": "It's a meadow."
      }
     ]
    },
@@ -1481,7 +1481,7 @@
     },
     "where": "The woman's face",
     "prompt": "Look at her face.",
-    "hint": "Her eyes?",
+    "hint": "What are her eyes doing?",
     "statements": [
      {
       "text": "Closed.",
@@ -1489,11 +1489,11 @@
       "isTrue": true
      },
      {
-      "text": "Wide open.",
+      "text": "Looking at him.",
       "why": "They're closed."
      },
      {
-      "text": "Covered.",
+      "text": "Looking at us.",
       "why": "They're closed."
      }
     ]
@@ -1506,20 +1506,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, who bought it?",
-    "hint": "When?",
+    "hint": "Who bought it, and when?",
     "statements": [
      {
-      "text": "The Austrian state, in 1908, before it was finished.",
-      "why": "It's never left Vienna since.",
+      "text": "The Austrian state, in 1908.",
+      "why": "Before it was even finished.",
       "isTrue": true
      },
      {
-      "text": "An American, in 2006.",
-      "why": "It's in Vienna."
+      "text": "The Austrian state, in 1918.",
+      "why": "It was 1908."
      },
      {
-      "text": "Nobody.",
-      "why": "Austria did."
+      "text": "An American collector, in 1908.",
+      "why": "The Austrian state."
      }
     ]
    }
@@ -1603,12 +1603,12 @@
       "isTrue": true
      },
      {
-      "text": "One day.",
-      "why": "Three years."
+      "text": "About three months.",
+      "why": "About three years."
      },
      {
-      "text": "Ten years.",
-      "why": "Three years."
+      "text": "About ten years.",
+      "why": "About three years."
      }
     ]
    },
@@ -1620,7 +1620,7 @@
     },
     "where": "The background",
     "prompt": "Look at the gold.",
-    "hint": "What's it made of?",
+    "hint": "What is the background made of?",
     "statements": [
      {
       "text": "Gold and silver leaf.",
@@ -1628,12 +1628,12 @@
       "isTrue": true
      },
      {
-      "text": "Yellow paint.",
-      "why": "It's metal leaf."
+      "text": "Gold paint only.",
+      "why": "It's real leaf, gold and silver."
      },
      {
-      "text": "Glitter.",
-      "why": "It's leaf."
+      "text": "Gold leaf and crushed glass.",
+      "why": "Gold and silver leaf."
      }
     ]
    },
@@ -1645,20 +1645,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, its history.",
-    "hint": "What happened?",
+    "hint": "What did it sell for in 2006?",
     "statements": [
      {
-      "text": "Nazis seized it; her niece won it back in 2006 and it sold for $135 million.",
-      "why": "The film Woman in Gold tells the story.",
+      "text": "$135 million, to Ronald Lauder.",
+      "why": "For his Neue Galerie.",
       "isTrue": true
      },
      {
-      "text": "It never left Vienna.",
-      "why": "It went to New York."
+      "text": "$13.5 million, to Ronald Lauder.",
+      "why": "$135 million."
      },
      {
-      "text": "It was destroyed.",
-      "why": "It survives."
+      "text": "$135 million, to the Belvedere.",
+      "why": "Austria lost the case; Lauder bought it."
      }
     ]
    }

@@ -8,18 +8,18 @@ desc: A long frieze of villagers in black gathers around an open grave in a blea
 + A crucifix. || It rises against the sky.
 - A flag. || It's a crucifix.
 - A sword. || It's a crucifix.
-@ 0.45 0.85 2.5 | The grave | Look at the bottom centre. | What's there?
-+ The open grave. || We stand at its edge.
-- A well. || It's a grave.
-- A fire. || It's a grave.
-@ 0.72 0.82 3 | The dog | Look at the dog. | Is it paying attention?
-+ It's looking away, ignoring the ceremony. || A down-to-earth touch.
-- It's howling. || It's indifferent.
-- It's asleep. || It's standing.
-@ 0.5 0.5 1 | Full painting | Finally, where is Ornans? | Why this village?
-+ It was Courbet's hometown; the mourners were real locals. || They posed for him.
-- It's an invented place. || It's real.
-- It's in Spain. || It's in France.
+@ 0.45 0.85 2.5 | The grave | Look at the bottom centre. | Who posed as the mourners?
++ Real villagers of Ornans, including his family. || His father and sisters are among them.
+- Paid actors brought from Paris. || They were locals.
+- Monks from a nearby abbey. || They were villagers.
+@ 0.72 0.82 3 | The dog | Look at the dog. | Where is the dog looking?
++ Away from the grave, ignoring the ceremony. || A down-to-earth touch.
+- Down into the open grave. || It's looking away.
+- Up at the raised crucifix. || It's looking away.
+@ 0.5 0.5 1 | Full painting | Finally, where is Ornans? | How big is it?
++ About 3 by 7 metres. || A size usually kept for history and heroes.
+- About 1.5 by 3 metres. || It's twice that.
+- About 6 by 14 metres. || About 3 by 7.
 
 ## barge-haulers | Barge Haulers on the Volga | Ilya Repin | 1844–1930 | 1870–73 | Oil on canvas | State Russian Museum, St Petersburg
 desc: Eleven exhausted men in rags drag a barge along a sandy riverbank by harness straps, a young man straining upward among them.
@@ -31,18 +31,18 @@ desc: Eleven exhausted men in rags drag a barge along a sandy riverbank by harne
 + Straining against his strap, looking up. || He hasn't given up.
 - Sleeping. || He's straining.
 - Laughing. || He's straining.
-@ 0.12 0.5 2.5 | The leader | Look at the front man. | Who was he?
+@ 0.12 0.5 2.5 | The leader | Look at the front man. | Who was the leading hauler?
 + A former priest Repin met on the Volga. || Repin sketched real haulers.
-- A prince. || He was a former priest.
-- Repin's father. || He was a hauler.
-@ 0.8 0.4 2.5 | The distance | Look to the right. | What's on the river?
-+ A steamship's smoke in the distance. || Machines would replace them.
-- A whale. || It's a ship.
-- A bridge. || It's a ship.
-@ 0.5 0.5 1 | Full painting | Finally, who bought it? | A royal?
-+ Grand Duke Vladimir Alexandrovich, the tsar's son. || It hung in his palace.
-- Lenin. || It was a grand duke.
-- No one. || It sold.
+- A former soldier Repin met in St Petersburg. || He was a former priest.
+- A wrestler who posed in Repin's studio. || He was a former priest from the Volga.
+@ 0.8 0.4 2.5 | The distance | Look to the right. | What's on the river behind them?
++ A steamship, which would soon replace them. || Machines were taking over.
+- A royal yacht flying the tsar's flag. || It's a steamship.
+- A raft of logs floating downstream. || It's a steamship.
+@ 0.5 0.5 1 | Full painting | Finally, who bought it? | Who bought it?
++ Grand Duke Vladimir, the tsar's son. || It hung in his palace.
+- Tsar Alexander II himself. || It was his son.
+- Pavel Tretyakov, for his Moscow gallery. || He bought many Repins, but not this one.
 
 ## whistlers-mother | Arrangement in Grey and Black No. 1 | James McNeill Whistler | 1834–1903 | 1871 | Oil on canvas | Musée d'Orsay, Paris
 desc: An elderly woman in black sits in profile on a chair against a grey wall, a framed print and curtain beside her.
@@ -54,18 +54,18 @@ desc: An elderly woman in black sits in profile on a chair against a grey wall, 
 + Standing tired her, so Whistler changed the pose. || She was in her sixties.
 - She couldn't walk. || She tired of standing.
 - He wanted her to sleep. || She was tired.
-@ 0.4 0.14 3 | The picture on the wall | Look at the framed print. | What is it?
-+ One of Whistler's own etchings. || It shows the Thames.
-- A Rembrandt. || It's his own.
-- A mirror. || It's a print.
-@ 0.1 0.5 2.5 | The curtain | Look at the curtain. | What's on it?
-+ A pattern of flowers. || It adds texture.
-- A map. || It's a pattern.
-- Nothing. || It's patterned.
+@ 0.4 0.14 3 | The picture on the wall | Look at the framed print. | What's the framed picture on the wall?
++ One of Whistler's own etchings of the Thames. || He placed his own work in the scene.
+- A photograph of Whistler's father. || It's an etching.
+- A Japanese woodblock print. || Whistler loved them, but this is his own etching.
+@ 0.1 0.5 2.5 | The curtain | Look at the curtain. | Why the musical-sounding title?
++ He wanted it seen as an arrangement of tones. || The way music arranges sounds.
+- He painted it while listening to Chopin. || It's about tone, not a tune.
+- His mother was a concert pianist. || It's about tone.
 @ 0.5 0.5 1 | Full painting | Finally, its fame. | Who bought it?
-+ The French state, in 1891. || It was the first American painting in a French national collection.
-- A Texan oilman. || It's in Paris.
-- It was never sold. || France bought it.
++ The French state, in 1891. || The first American painting in a French national collection.
+- The Smithsonian, in 1891. || It's in Paris.
+- The French state, in 1931. || It was 1891.
 
 ## max-schmitt | Max Schmitt in a Single Scull | Thomas Eakins | 1844–1916 | 1871 | Oil on canvas | The Metropolitan Museum of Art, New York
 desc: A rower rests on his oars on a calm river, bridges in the distance and autumn trees along the bank.
@@ -77,18 +77,18 @@ desc: A rower rests on his oars on a calm river, bridges in the distance and aut
 + Max Schmitt, a champion rower and Eakins' friend. || He'd won a race.
 - Eakins. || That's elsewhere.
 - A fisherman. || He's a rower.
-@ 0.62 0.48 3 | Further back | Look further back. | Who's in the other boat?
-+ Eakins himself, rowing. || He signed his name on the boat.
-- Max's brother. || It's Eakins.
-- A ghost. || It's Eakins.
-@ 0.7 0.35 2.5 | The bridges | Look at the bridges. | What are they?
-+ Real Philadelphia bridges, including a railway bridge. || The scene is accurate.
-- Invented. || They're real.
-- The Golden Gate. || It's Philadelphia.
-@ 0.5 0.5 1 | Full painting | Finally, Eakins' method. | How careful was he?
-+ He worked out the boats' perspective with precise drawings. || He loved science.
-- He painted fast without planning. || He planned carefully.
-- He traced photos. || He drew perspective.
+@ 0.62 0.48 3 | Further back | Look further back. | Who's in the boat further back?
++ Eakins himself, with his name on the boat. || A signature inside the scene.
+- Max's brother, a rival rower. || It's Eakins.
+- A ferryman crossing the river. || It's Eakins.
+@ 0.7 0.35 2.5 | The bridges | Look at the bridges. | What are the bridges?
++ Real Philadelphia bridges, one for the railway. || The scene is accurate.
+- Real New York bridges, on the Harlem River. || It's Philadelphia.
+- Invented bridges, added for balance. || They're real.
+@ 0.5 0.5 1 | Full painting | Finally, Eakins' method. | How did Eakins plan it?
++ With precise perspective drawings of the boats. || He loved science.
+- With a camera obscura on the riverbank. || He drew perspective by hand.
+- He didn't; he painted it in one afternoon. || He planned carefully.
 
 ## gulf-stream | The Gulf Stream | Winslow Homer | 1836–1910 | 1899 | Oil on canvas | The Metropolitan Museum of Art, New York
 desc: A lone sailor lies on a dismasted boat in rough water, sharks circling and a waterspout on the horizon.
@@ -100,18 +100,18 @@ desc: A lone sailor lies on a dismasted boat in rough water, sharks circling and
 + Sharks, one with jaws open. || They're close.
 - Dolphins. || They're sharks.
 - Turtles. || They're sharks.
-@ 0.85 0.2 2.5 | The horizon | Look at the top right. | What's coming?
-+ A waterspout. || More danger.
-- A rainbow. || It's a waterspout.
-- An airplane. || It's 1899.
-@ 0.4 0.47 2.5 | The boat | Look at the boat. | What's spilling out?
-+ Stalks of sugar cane. || It suggests trade routes.
-- Gold. || It's sugar cane.
-- Fish. || It's sugar cane.
-@ 0.5 0.5 1 | Full painting | Finally, the ending. | What did Homer say?
-+ He joked the sailor would be rescued. || He was tired of questions.
-- He said the sailor died. || He joked he was rescued.
-- He never commented. || He did.
+@ 0.85 0.2 2.5 | The horizon | Look at the top right. | What's on the horizon?
++ A waterspout and a distant ship. || Danger and possible rescue.
+- A lighthouse and a distant ship. || It's a waterspout.
+- A waterspout and an island. || It's a ship.
+@ 0.4 0.47 2.5 | The boat | Look at the boat. | What's spilling from the boat?
++ Stalks of sugar cane. || A hint of Caribbean trade.
+- Bananas. || It's sugar cane.
+- Sacks of coffee. || It's sugar cane.
+@ 0.5 0.5 1 | Full painting | Finally, the ending. | What did Homer say about the ending?
++ He joked the sailor would be rescued. || He was tired of the question.
+- He said the sailor was based on himself. || He joked he'd be rescued.
+- He said the sharks would win. || He joked he'd be rescued.
 
 ## madame-x | Madame X | John Singer Sargent | 1856–1925 | 1883–84 | Oil on canvas | The Metropolitan Museum of Art, New York
 desc: A pale woman in a sleek black gown with jewelled straps stands in profile, one hand on a table.
@@ -124,17 +124,17 @@ desc: A pale woman in a sleek black gown with jewelled straps stands in profile,
 - Yes. || It was repainted.
 - It was a necklace. || It's a strap.
 @ 0.5 0.15 2.5 | Her head | Look at her head. | What's in her hair?
-+ A tiny crescent tiara, a sign of Diana. || The goddess of the hunt.
-- A feather. || It's a tiara.
-- A flower. || It's a tiara.
-@ 0.3 0.6 2.5 | The table | Look at the table. | What's it like?
-+ A small table, which she leans on. || It frames her.
-- A piano. || It's a table.
-- A horse. || It's a table.
-@ 0.5 0.5 1 | Full painting | Finally, its fate. | Who bought it?
-+ The Met, in 1916; Sargent called it his best work. || He kept it for decades.
-- The Louvre. || It's in New York.
-- It was destroyed. || It survives.
++ A small crescent tiara, the sign of Diana. || The goddess of the hunt.
+- A small star tiara, the sign of Venus. || It's a crescent, for Diana.
+- A sprig of orange blossom, a bridal sign. || It's a crescent tiara.
+@ 0.3 0.6 2.5 | The table | Look at the table. | What did Sargent do after the scandal?
++ He moved from Paris to London. || He built his career there.
+- He moved from Paris to New York. || He moved to London.
+- He moved from Paris to Rome. || He moved to London.
+@ 0.5 0.5 1 | Full painting | Finally, its fate. | When did the Met buy it?
++ 1916; Sargent called it his best work. || He'd kept it for over 30 years.
+- 1926, after Sargent's death. || He sold it to them himself, in 1916.
+- 1886, two years after the Salon. || It came in 1916.
 
 ## spoliarium | Spoliarium | Juan Luna | 1857–1899 | 1884 | Oil on canvas | National Museum of Fine Arts, Manila
 desc: In a dark Roman arena chamber, dead gladiators are dragged away as an old man searches and a woman weeps.
@@ -146,18 +146,18 @@ desc: In a dark Roman arena chamber, dead gladiators are dragged away as an old 
 + Dead gladiators are dragged away. || It's brutal.
 - A dance. || It's death.
 - A feast. || It's death.
-@ 0.85 0.55 2.5 | The right | Look at the right. | Who's there?
-+ A woman weeping. || Grief.
-- A jester. || She's weeping.
-- A dog. || A woman weeps.
-@ 0.5 0.5 1.5 | The scale | Look at the size. | How big?
-+ The largest painting in the Philippines, over 7 metres wide. || It dominates its museum.
-- Tiny. || It's huge.
-- A miniature. || It's huge.
-@ 0.5 0.5 1 | Full painting | Finally, its prize. | What did it win?
-+ A gold medal in Madrid in 1884. || A Filipino triumph.
-- An Oscar. || It's 1884.
-- Nothing. || It won gold.
+@ 0.85 0.55 2.5 | The right | Look at the right. | Where did Luna train?
++ Madrid and Rome. || He studied in Spain and Italy.
+- Paris and London. || Madrid and Rome.
+- Florence and Vienna. || Madrid and Rome.
+@ 0.5 0.5 1.5 | The scale | Look at the size. | How big is it?
++ About 4 by 7.7 metres. || The largest painting in the Philippines.
+- About 2 by 4 metres. || About 4 by 7.7.
+- About 8 by 15 metres. || About 4 by 7.7.
+@ 0.5 0.5 1 | Full painting | Finally, its prize. | What did it win in 1884?
++ A gold medal at the Madrid Exposition. || A Filipino triumph in Spain.
+- A gold medal at the Paris Salon. || It won in Madrid.
+- A silver medal at the Madrid Exposition. || It won gold.
 
 ## great-wave | Under the Wave off Kanagawa | Katsushika Hokusai | 1760–1849 | c. 1830–32 | Woodblock print | The Metropolitan Museum of Art, New York
 desc: A towering wave with claw-like foam curls over three boats of rowers, with tiny Mount Fuji in the distance.
@@ -169,18 +169,18 @@ desc: A towering wave with claw-like foam curls over three boats of rowers, with
 + Mount Fuji. || It looks tiny beside the wave.
 - A rock. || It's Fuji.
 - A wave. || It's Fuji.
-@ 0.4 0.75 2.5 | The boats | Look at the boats. | How many?
-+ Three boats of rowers. || They duck under the wave.
-- One. || Three.
-- None. || Three.
-@ 0.3 0.25 3 | The foam | Look at the foam. | What shape is it?
-+ Like claws or fingers. || Hokusai made the sea look alive.
-- Smooth. || It's claw-like.
-- Square. || It's claw-like.
-@ 0.5 0.5 1 | Full painting | Finally, the blue. | What's special?
-+ It uses Prussian blue, a new imported pigment. || It made the blue vivid.
-- It's lapis lazuli. || It's Prussian blue.
-- It's ink only. || It's Prussian blue.
+@ 0.4 0.75 2.5 | The boats | Look at the boats. | How many boats are there?
++ Three. || They duck under the wave.
+- Two. || Three.
+- Four. || Three.
+@ 0.3 0.25 3 | The foam | Look at the foam. | How old was Hokusai when he made it?
++ About 70. || He made his most famous work late in life.
+- About 40. || About 70.
+- About 90. || About 70; he died at 88.
+@ 0.5 0.5 1 | Full painting | Finally, the blue. | What's special about the blue?
++ Prussian blue, a new imported pigment. || It made the blue vivid and lasting.
+- Ultramarine, ground from lapis lazuli. || It's Prussian blue.
+- Cobalt blue, a new French pigment. || It's Prussian blue.
 
 ## sudden-shower | Sudden Shower over Shin-Ōhashi Bridge and Atake | Utagawa Hiroshige | 1797–1858 | 1857 | Woodblock print | The Metropolitan Museum of Art, New York
 desc: People hurry across a wooden bridge in a sudden downpour, shown as fine dark lines over the river.
@@ -192,18 +192,18 @@ desc: People hurry across a wooden bridge in a sudden downpour, shown as fine da
 + As fine lines at two angles. || It feels like real rain.
 - As dots. || It's lines.
 - It isn't shown. || It's lines.
-@ 0.45 0.7 2.5 | The bridge | Look at the people. | What are they doing?
-+ Hurrying with umbrellas and hats. || They're caught out.
-- Fishing. || They're hurrying.
-- Dancing. || They're hurrying.
-@ 0.5 0.5 1.5 | The river | Look at the river. | What river?
-+ The Sumida River. || It runs through Tokyo.
-- The Thames. || It's Tokyo.
-- The Yangtze. || It's Tokyo.
-@ 0.5 0.5 1 | Full painting | Finally, who copied it? | A European?
-+ Van Gogh, in oil paint. || He loved Japanese prints.
-- Leonardo. || He was long dead.
-- No one. || Van Gogh did.
+@ 0.45 0.7 2.5 | The bridge | Look at the people. | What are the people on the bridge doing?
++ Hurrying with umbrellas and straw hats. || They're caught out.
+- Fishing over the rail with long poles. || They're hurrying.
+- Watching a boat race on the river. || They're hurrying.
+@ 0.5 0.5 1.5 | The river | Look at the river. | Which river is it?
++ The Sumida. || It runs through Tokyo.
+- The Kamo. || That's in Kyoto; this is the Sumida.
+- The Tama. || It's the Sumida.
+@ 0.5 0.5 1 | Full painting | Finally, who copied it? | Who copied it in oil?
++ Van Gogh, in 1887. || He loved Japanese prints.
+- Monet, in 1887. || It was Van Gogh.
+- Van Gogh, in 1897. || He died in 1890; it was 1887.
 
 ## night-shining-white | Night-Shining White | Han Gan | active c. 742–756 | c. 750 | Handscroll, ink on paper | The Metropolitan Museum of Art, New York
 desc: A spirited white horse tethered to a post rears and strains, surrounded by red collectors' seals and inscriptions.
@@ -215,18 +215,18 @@ desc: A spirited white horse tethered to a post rears and strains, surrounded by
 + Restless and straining against its tether. || Full of energy.
 - Asleep. || It's straining.
 - Eating. || It's straining.
-@ 0.6 0.6 2.5 | The post | Look at the post. | What's it for?
-+ The horse is tied to it. || It holds the horse.
-- It's a tree. || It's a post.
-- A flagpole. || It's a hitching post.
-@ 0.2 0.5 2 | The seals | Look at the red seals. | What are they?
-+ Collectors' seals and comments added over centuries. || Each owner left a mark.
-- Blood. || They're seals.
-- Price stickers. || They're seals.
-@ 0.5 0.5 1 | Full painting | Finally, its age. | How old?
-+ About 1,270 years old. || It's from the Tang dynasty.
-- 50 years. || It's ancient.
-- 500 years. || It's older.
+@ 0.6 0.6 2.5 | The post | Look at the post. | What holds the horse?
++ A tether to a post. || It strains against it.
+- A rider holding the reins. || There's no rider.
+- A wooden fence. || It's a post.
+@ 0.2 0.5 2 | The seals | Look at the red seals. | What are the red marks?
++ Seals of collectors over the centuries. || Each owner left a mark.
+- Seals of the emperor alone. || Many collectors added seals.
+- Later repairs in red ink. || They're seals.
+@ 0.5 0.5 1 | Full painting | Finally, its age. | Which dynasty is it from?
++ The Tang dynasty. || About 1,270 years ago.
+- The Song dynasty. || It's Tang.
+- The Ming dynasty. || It's Tang.
 
 ## fayum-portrait | Portrait of a Young Woman in Red | Unknown artist, Roman Egypt | 1st–2nd century | 90–120 AD | Encaustic on wood | The Metropolitan Museum of Art, New York
 desc: A young woman with dark eyes and a gold wreath, painted on a narrow wooden panel.
@@ -238,18 +238,18 @@ desc: A young woman with dark eyes and a gold wreath, painted on a narrow wooden
 + A gold wreath, gilded. || It's real gold.
 - Flowers. || It's gold.
 - A crown. || It's a wreath.
-@ 0.5 0.38 3 | Her eyes | Look at her eyes. | How are they painted?
-+ Large and lifelike. || They seem to watch us.
-- Closed. || They're open.
-- Blank. || They're detailed.
-@ 0.5 0.75 2.5 | Her clothes | Look at her clothes. | What colour?
-+ Red, as in the title. || A rich colour.
-- Blue. || It's red.
-- White. || It's red.
-@ 0.5 0.5 1 | Full painting | Finally, the paint. | What's encaustic?
+@ 0.5 0.38 3 | Her eyes | Look at her eyes. | Where was it found?
++ In Egypt, with a mummy. || It covered the face.
+- In Pompeii, under volcanic ash. || It's from Egypt.
+- In Rome, in a family tomb. || It's from Egypt.
+@ 0.5 0.75 2.5 | Her clothes | Look at her clothes. | When was it made?
++ Around 90 to 120 AD. || When Egypt was ruled by Rome.
+- Around 900 to 1200 AD. || Around 90 to 120 AD.
+- Around 1300 BC. || Around 90 to 120 AD.
+@ 0.5 0.5 1 | Full painting | Finally, the paint. | What is encaustic?
 + Pigment mixed with hot wax. || It keeps colours bright for centuries.
-- Oil. || It's wax.
-- Watercolour. || It's wax.
+- Pigment mixed with egg yolk. || That's tempera.
+- Pigment mixed with linseed oil. || That's oil paint.
 
 ## impression-sunrise | Impression, Sunrise | Claude Monet | 1840–1926 | 1872 | Oil on canvas | Musée Marmottan Monet, Paris
 desc: An orange sun rises over a hazy blue harbour, with small dark boats in the foreground.
@@ -261,15 +261,15 @@ desc: An orange sun rises over a hazy blue harbour, with small dark boats in the
 + It's the same brightness as the sky; in black and white it vanishes. || Only its colour stands out.
 - It's painted in gold leaf. || It's paint.
 - It was added later. || It's original.
-@ 0.45 0.7 2.5 | The boat | Look at the boat. | How is it painted?
-+ With a few quick strokes. || Monet captured an impression.
-- In fine detail. || It's quick.
-- It's a photograph. || It's paint.
-@ 0.5 0.3 2 | The harbour | Look at the harbour. | Which port?
+@ 0.45 0.7 2.5 | The boat | Look at the boat. | How is the boat painted?
++ With a few quick dark strokes. || Monet captured an impression.
+- With fine detail and a small brush. || It's quick.
+- With thick paint laid on by knife. || It's quick brushwork.
+@ 0.5 0.3 2 | The harbour | Look at the harbour. | Which port is it?
 + Le Havre. || Monet grew up there.
-- Venice. || It's Le Havre.
-- New York. || It's Le Havre.
+- Honfleur. || That's across the estuary; this is Le Havre.
+- Marseille. || It's Le Havre.
 @ 0.5 0.5 1 | Full painting | Finally, its history. | What happened in 1985?
-+ It was stolen and recovered five years later. || It's back in Paris.
-- It was sold to Japan. || It was stolen.
-- It burned. || It survives.
++ It was stolen; it came back in 1990. || It's back in Paris.
+- It was stolen; it has never been found. || It was recovered.
+- It was sold to a Japanese bank. || It was stolen.

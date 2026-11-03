@@ -66,20 +66,20 @@
     },
     "where": "The sleeve",
     "prompt": "Look at the embroidered sleeve.",
-    "hint": "What's stitched there?",
+    "hint": "What's embroidered on his sleeve?",
     "statements": [
      {
-      "text": "Bees, arrows and flaming horns of plenty, emblems of love's pleasures and pains.",
-      "why": "The suit may have been chosen for a betrothal.",
+      "text": "Bees, arrows and flaming horns of plenty, emblems of love.",
+      "why": "The suit may have been chosen for a betrothal portrait.",
       "isTrue": true
      },
      {
-      "text": "The coat of arms of Haarlem.",
+      "text": "Lions, crowns and swords, emblems of the Dutch Republic.",
       "why": "They're love emblems."
      },
      {
-      "text": "Nothing; the sleeve is plain black.",
-      "why": "It's richly embroidered."
+      "text": "Tulips, ships and coins, emblems of Haarlem's trade.",
+      "why": "They're love emblems."
      }
     ]
    },
@@ -91,20 +91,20 @@
     },
     "where": "The collar",
     "prompt": "Look at the lace collar.",
-    "hint": "How is it painted?",
+    "hint": "How is the lace collar painted?",
     "statements": [
      {
-      "text": "With quick, loose strokes that read as lace from a distance.",
-      "why": "Hals was famous for his fast brushwork.",
+      "text": "With quick, loose strokes that read as lace from afar.",
+      "why": "Hals was famous for fast brushwork.",
       "isTrue": true
      },
      {
-      "text": "Real lace was stitched onto the canvas.",
-      "why": "It's paint."
+      "text": "With fine, careful strokes copied from a lace pattern book.",
+      "why": "The strokes are loose and quick."
      },
      {
-      "text": "Copied stitch by stitch with a ruler.",
-      "why": "The strokes are loose and quick."
+      "text": "With white paint pressed through real lace as a stencil.",
+      "why": "It's brushwork."
      }
     ]
    },
@@ -119,17 +119,17 @@
     "hint": "How did it reach London?",
     "statements": [
      {
-      "text": "Lord Hertford outbid the Rothschilds for it at a Paris auction in 1865.",
+      "text": "Lord Hertford outbid the Rothschilds at a Paris auction in 1865.",
       "why": "He paid several times the estimate.",
       "isTrue": true
      },
      {
-      "text": "Hals gave it to the Wallace Collection.",
-      "why": "The museum opened in 1900, centuries later."
+      "text": "Lord Hertford outbid the Louvre at a Paris auction in 1865.",
+      "why": "His rivals were the Rothschilds."
      },
      {
-      "text": "It hung in Haarlem town hall until 1945.",
-      "why": "It came to Britain in 1865."
+      "text": "Lord Hertford outbid the Rothschilds at a London auction in 1885.",
+      "why": "It was Paris, in 1865."
      }
     ]
    }
@@ -205,20 +205,20 @@
     },
     "where": "Her face",
     "prompt": "Look at her expression.",
-    "hint": "What is she doing?",
+    "hint": "What makes her pose unusual?",
     "statements": [
      {
-      "text": "Her mouth is open, as if she's turning to speak to us.",
+      "text": "She turns mid-movement with her mouth open, as if to speak.",
       "why": "Casual poses like this were new for self-portraits.",
       "isTrue": true
      },
      {
-      "text": "She's crying.",
-      "why": "She's smiling."
+      "text": "She shows herself from behind, glancing over her shoulder.",
+      "why": "She faces us, turning from the easel."
      },
      {
-      "text": "Her eyes are closed.",
-      "why": "She looks right at us."
+      "text": "She shows herself dozing at the easel, brush in hand.",
+      "why": "She's awake and turning to us."
      }
     ]
    },
@@ -234,16 +234,16 @@
     "statements": [
      {
       "text": "A palette and a bundle of brushes.",
-      "why": "She presents herself as a professional painter.",
+      "why": "She presents herself as a working painter.",
       "isTrue": true
      },
      {
-      "text": "A book of poems.",
-      "why": "She holds painting tools."
+      "text": "A palette knife and a sketchbook.",
+      "why": "A palette and brushes."
      },
      {
-      "text": "A fan.",
-      "why": "She holds a palette."
+      "text": "A violin bow, borrowed from the fiddler.",
+      "why": "A palette and brushes."
      }
     ]
    },
@@ -255,20 +255,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, her reputation.",
-    "hint": "How was she remembered?",
+    "hint": "Whose name went on her work?",
     "statements": [
      {
-      "text": "For about two centuries, her paintings were credited to Frans Hals.",
+      "text": "For two centuries her paintings were credited to Frans Hals.",
       "why": "Her monogram was rediscovered in the 1890s.",
       "isTrue": true
      },
      {
-      "text": "She was famous without a break from her lifetime to today.",
-      "why": "She was forgotten for a long time."
+      "text": "For two centuries her paintings were credited to Vermeer.",
+      "why": "They were credited to Hals."
      },
      {
-      "text": "This painting is by her husband.",
-      "why": "It's by Leyster."
+      "text": "For two centuries her paintings were credited to her husband.",
+      "why": "Her husband was a painter, but the mix-up was with Hals."
      }
     ]
    }
@@ -344,20 +344,20 @@
     },
     "where": "The bowl",
     "prompt": "Look at the blue-and-white bowl.",
-    "hint": "What is it?",
+    "hint": "Where is the blue-and-white bowl from?",
     "statements": [
      {
-      "text": "Chinese porcelain, an expensive import at the time.",
-      "why": "Dutch and Flemish traders brought it from Asia.",
+      "text": "China, an expensive import at the time.",
+      "why": "Traders brought it from Asia.",
       "isTrue": true
      },
      {
-      "text": "A paper plate.",
-      "why": "It's porcelain."
+      "text": "Delft, from the city's early potteries.",
+      "why": "It's Chinese porcelain."
      },
      {
-      "text": "A bowl she painted herself.",
-      "why": "It's an imported piece."
+      "text": "Italy, from the potteries of Faenza.",
+      "why": "It's Chinese porcelain."
      }
     ]
    },
@@ -369,20 +369,20 @@
     },
     "where": "The cheeses",
     "prompt": "Look at the stack of cheeses.",
-    "hint": "How do we see them?",
+    "hint": "Where are we looking from?",
     "statements": [
      {
-      "text": "From slightly above, so we look down onto the table.",
+      "text": "Slightly above, so we look down onto the table.",
       "why": "The high viewpoint lets her show everything.",
       "isTrue": true
      },
      {
-      "text": "From below.",
-      "why": "We see from above."
+      "text": "Straight across at table height, as if seated.",
+      "why": "We look down from above."
      },
      {
-      "text": "Painted from a photograph.",
-      "why": "There was no photography."
+      "text": "Slightly below, as if looking up at the table.",
+      "why": "We look down from above."
      }
     ]
    },
@@ -394,20 +394,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, the details.",
-    "hint": "Look at the light.",
+    "hint": "What do the shiny surfaces reflect?",
     "statements": [
      {
-      "text": "Highlights on the metal and glass show reflections of a window.",
+      "text": "Tiny reflections of a window.",
       "why": "Peeters loved reflective surfaces.",
       "isTrue": true
      },
      {
-      "text": "She painted it by candlelight only.",
-      "why": "The light is daylight."
+      "text": "Tiny reflections of a fire in a hearth.",
+      "why": "It's a window."
      },
      {
-      "text": "Everything is shown in shadow.",
-      "why": "It's well lit."
+      "text": "Tiny reflections of a candle flame.",
+      "why": "It's daylight from a window."
      }
     ]
    }
@@ -491,12 +491,12 @@
       "isTrue": true
      },
      {
-      "text": "Only a few years.",
-      "why": "She painted for decades."
+      "text": "Nearly 40 years.",
+      "why": "Nearly 70."
      },
      {
-      "text": "She stopped when she married.",
-      "why": "She kept painting."
+      "text": "Nearly 20 years.",
+      "why": "Nearly 70."
      }
     ]
    },
@@ -511,17 +511,17 @@
     "hint": "Who employed her?",
     "statements": [
      {
-      "text": "She was court painter to the Elector Palatine in Düsseldorf.",
+      "text": "The Elector Palatine, as court painter in Düsseldorf.",
       "why": "A rare honour.",
       "isTrue": true
      },
      {
-      "text": "The Pope.",
-      "why": "She worked for the Elector Palatine."
+      "text": "The King of Prussia, as court painter in Berlin.",
+      "why": "It was the Elector Palatine."
      },
      {
-      "text": "The King of England.",
-      "why": "She worked in Düsseldorf."
+      "text": "The Prince of Orange, as court painter in The Hague.",
+      "why": "It was the Elector Palatine."
      }
     ]
    },
@@ -533,20 +533,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, her prices.",
-    "hint": "How valued was she?",
+    "hint": "How did her prices compare?",
     "statements": [
      {
-      "text": "In her lifetime her paintings sold for more than Rembrandt's had.",
-      "why": "She was one of the best-paid painters of her day.",
+      "text": "Her paintings sold for more than Rembrandt's had.",
+      "why": "She was among the best-paid painters of her day.",
       "isTrue": true
      },
      {
-      "text": "She gave them away.",
-      "why": "She sold them at high prices."
+      "text": "Her paintings sold for about a tenth of Rembrandt's.",
+      "why": "They sold for more."
      },
      {
-      "text": "She never sold one.",
-      "why": "She sold many."
+      "text": "Her paintings were never sold; she gave them as gifts.",
+      "why": "She sold them at high prices."
      }
     ]
    }
@@ -622,20 +622,20 @@
     },
     "where": "The landscape",
     "prompt": "Look at the background.",
-    "hint": "Does it match?",
+    "hint": "Does the landscape line up?",
     "statements": [
      {
-      "text": "The horizon on the left is lower than on the right.",
-      "why": "The two halves don't line up.",
+      "text": "No, the horizon on the left is lower than on the right.",
+      "why": "The two halves don't match.",
       "isTrue": true
      },
      {
-      "text": "It's a view of Paris.",
-      "why": "It's an imagined landscape."
+      "text": "No, the horizon on the right is lower than on the left.",
+      "why": "It's the left that's lower."
      },
      {
-      "text": "It's an accurate map of Florence.",
-      "why": "It's imagined."
+      "text": "Yes, it runs straight behind her at one height.",
+      "why": "The two sides don't match."
      }
     ]
    },
@@ -647,7 +647,7 @@
     },
     "where": "The smile",
     "prompt": "Look at the corners of her mouth.",
-    "hint": "How are they painted?",
+    "hint": "How is the smile painted?",
     "statements": [
      {
       "text": "With soft, smoky blending called sfumato.",
@@ -655,12 +655,12 @@
       "isTrue": true
      },
      {
-      "text": "Drawn in charcoal over the paint.",
-      "why": "It's blended paint."
+      "text": "With soft, smoky blending called chiaroscuro.",
+      "why": "Chiaroscuro means strong light against dark; this is sfumato."
      },
      {
-      "text": "The smile was added by another artist.",
-      "why": "It's Leonardo's."
+      "text": "With fine cross-hatched lines called hatching.",
+      "why": "It's blended, not hatched."
      }
     ]
    },
@@ -675,17 +675,17 @@
     "hint": "What happened in 1911?",
     "statements": [
      {
-      "text": "A Louvre worker stole it and it was recovered in 1913.",
+      "text": "A Louvre worker stole it; it was found in 1913.",
       "why": "Vincenzo Peruggia hid it in Paris for two years.",
       "isTrue": true
      },
      {
-      "text": "It has never left the Louvre.",
-      "why": "It was stolen and has travelled abroad."
+      "text": "A Louvre worker stole it; it was found in 1919.",
+      "why": "It was found in 1913."
      },
      {
-      "text": "Napoleon sold it to a Russian tsar.",
-      "why": "Napoleon kept it in his bedroom."
+      "text": "A visitor stole it; it was found in 1913.",
+      "why": "The thief worked at the Louvre."
      }
     ]
    }
@@ -761,20 +761,20 @@
     },
     "where": "The colours",
     "prompt": "Look at his clothes.",
-    "hint": "What colours dominate?",
+    "hint": "Which colours dominate?",
     "statements": [
      {
-      "text": "Mostly greys, blacks and creams.",
+      "text": "Greys, blacks and creams.",
       "why": "A restrained palette.",
       "isTrue": true
      },
      {
-      "text": "Bright reds and greens.",
-      "why": "The colours are muted."
+      "text": "Reds, golds and creams.",
+      "why": "It's mostly greys and blacks."
      },
      {
-      "text": "Gold leaf.",
-      "why": "It's paint."
+      "text": "Blues, greens and creams.",
+      "why": "It's mostly greys and blacks."
      }
     ]
    },
@@ -789,17 +789,17 @@
     "hint": "What are his hands doing?",
     "statements": [
      {
-      "text": "They're clasped and cut off by the edge.",
+      "text": "Clasped, and cut off by the bottom edge.",
       "why": "It makes him feel close.",
       "isTrue": true
      },
      {
-      "text": "Holding a sword.",
-      "why": "His hands are clasped."
+      "text": "Holding a book, cut off by the bottom edge.",
+      "why": "They're clasped."
      },
      {
-      "text": "Holding a book.",
-      "why": "His hands are clasped."
+      "text": "Resting on a sword hilt, cut off by the edge.",
+      "why": "They're clasped."
      }
     ]
    },
@@ -811,20 +811,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, its later life.",
-    "hint": "Who sketched it?",
+    "hint": "Who sketched it at auction?",
     "statements": [
      {
-      "text": "Rembrandt sketched it when it was auctioned in Amsterdam in 1639.",
+      "text": "Rembrandt, in Amsterdam in 1639.",
       "why": "He used the pose for his own self-portraits.",
       "isTrue": true
      },
      {
-      "text": "It has never left Italy.",
-      "why": "It's in Paris."
+      "text": "Rubens, in Antwerp in 1639.",
+      "why": "Rubens copied it, but the 1639 sketch is Rembrandt's."
      },
      {
-      "text": "It was destroyed in a fire.",
-      "why": "It survives in the Louvre."
+      "text": "Rembrandt, in Amsterdam in 1669.",
+      "why": "It was 1639."
      }
     ]
    }
@@ -900,7 +900,7 @@
     },
     "where": "The chariot",
     "prompt": "Look at the animals pulling the chariot.",
-    "hint": "What are they?",
+    "hint": "What pulls the chariot?",
     "statements": [
      {
       "text": "Two cheetahs.",
@@ -908,12 +908,12 @@
       "isTrue": true
      },
      {
-      "text": "Lions.",
+      "text": "Two lions.",
       "why": "They're cheetahs."
      },
      {
-      "text": "Horses.",
-      "why": "They're big cats."
+      "text": "Two tigers.",
+      "why": "They're cheetahs."
      }
     ]
    },
@@ -925,20 +925,20 @@
     },
     "where": "The sky",
     "prompt": "Look at the stars above Ariadne.",
-    "hint": "What are they?",
+    "hint": "What are the stars above Ariadne?",
     "statements": [
      {
-      "text": "The crown Bacchus gave her, turned into a constellation.",
+      "text": "The crown Bacchus gave her, now a constellation.",
       "why": "The myth explains the stars of Corona Borealis.",
       "isTrue": true
      },
      {
-      "text": "A comet.",
-      "why": "It's a ring of stars."
+      "text": "The crown of Venus, now a constellation.",
+      "why": "It's Ariadne's crown, from Bacchus."
      },
      {
-      "text": "The planet Venus.",
-      "why": "It's a constellation."
+      "text": "The chariot of Bacchus, now a constellation.",
+      "why": "It's Ariadne's crown."
      }
     ]
    },
@@ -950,20 +950,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, the colour.",
-    "hint": "What makes the blue?",
+    "hint": "What makes the blue sky?",
     "statements": [
      {
-      "text": "Ultramarine, the most expensive blue.",
+      "text": "Ultramarine, the costliest blue.",
       "why": "Titian used it lavishly.",
       "isTrue": true
      },
      {
-      "text": "Indigo.",
-      "why": "It's ultramarine."
+      "text": "Azurite, a cheaper mineral blue.",
+      "why": "The sky is ultramarine."
      },
      {
-      "text": "The blue was added in the 1900s.",
-      "why": "It's original."
+      "text": "Indigo, a plant dye.",
+      "why": "It's ultramarine."
      }
     ]
    }
@@ -1039,7 +1039,7 @@
     },
     "where": "Left disciple",
     "prompt": "Look at the disciple on the left.",
-    "hint": "What's at his elbow?",
+    "hint": "What's at the left disciple's elbow?",
     "statements": [
      {
       "text": "A torn sleeve.",
@@ -1047,12 +1047,12 @@
       "isTrue": true
      },
      {
-      "text": "Armour.",
-      "why": "His sleeve is torn."
+      "text": "A pilgrim's scallop shell.",
+      "why": "The shell is on the other disciple."
      },
      {
-      "text": "He's a woman.",
-      "why": "He's a man."
+      "text": "A bandage.",
+      "why": "It's a torn sleeve."
      }
     ]
    },
@@ -1064,20 +1064,20 @@
     },
     "where": "Right disciple",
     "prompt": "Look at the disciple on the right.",
-    "hint": "What are his arms doing?",
+    "hint": "What are the right disciple's arms doing?",
     "statements": [
      {
-      "text": "They're flung wide, seeming to reach out toward us.",
-      "why": "It's a dramatic gesture.",
+      "text": "Flung wide, seeming to reach out toward us.",
+      "why": "A dramatic gesture.",
       "isTrue": true
      },
      {
-      "text": "Holding a sword.",
-      "why": "His arms are flung wide."
+      "text": "Flung wide, pointing at the innkeeper.",
+      "why": "They reach toward us."
      },
      {
-      "text": "Folded.",
-      "why": "They're spread wide."
+      "text": "Raised high, as if in surrender.",
+      "why": "They're flung wide."
      }
     ]
    },
@@ -1089,20 +1089,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, look at the fruit.",
-    "hint": "Is it perfect?",
+    "hint": "What's odd about the fruit?",
     "statements": [
      {
-      "text": "Some of the fruit is bruised and spoiling.",
-      "why": "Caravaggio painted real produce.",
+      "text": "It's autumn fruit, though the story is set at Easter.",
+      "why": "Caravaggio painted what he had to hand.",
       "isTrue": true
      },
      {
-      "text": "It's all wax fruit.",
-      "why": "It's painted real fruit."
+      "text": "It's spring fruit, matching the Easter story.",
+      "why": "It's autumn fruit."
      },
      {
-      "text": "It's all gold.",
-      "why": "It's fruit."
+      "text": "It's all imported citrus, a sign of wealth.",
+      "why": "It's grapes, apples and figs."
      }
     ]
    }
@@ -1178,20 +1178,20 @@
     },
     "where": "The palm",
     "prompt": "Look at the frond she holds.",
-    "hint": "What does it mean?",
+    "hint": "What does the palm frond stand for?",
     "statements": [
      {
-      "text": "A palm, a symbol of martyrdom.",
+      "text": "Martyrdom.",
       "why": "Martyrs are often shown with palms.",
       "isTrue": true
      },
      {
-      "text": "A quill for writing.",
-      "why": "It's a palm."
+      "text": "Royal birth.",
+      "why": "It's martyrdom; the crown shows royalty."
      },
      {
-      "text": "A sword.",
-      "why": "It's a palm frond."
+      "text": "Learning and wisdom.",
+      "why": "It's martyrdom."
      }
     ]
    },
@@ -1203,7 +1203,7 @@
     },
     "where": "Her head",
     "prompt": "Look at her crown.",
-    "hint": "What does it signal?",
+    "hint": "Why does she wear a crown?",
     "statements": [
      {
       "text": "Catherine was a princess.",
@@ -1211,12 +1211,12 @@
       "isTrue": true
      },
      {
-      "text": "A halo in gold leaf.",
-      "why": "It's a crown."
+      "text": "Catherine was a queen.",
+      "why": "She was a princess."
      },
      {
-      "text": "A laurel wreath for poets.",
-      "why": "It's a crown."
+      "text": "Catherine was crowned as a poet.",
+      "why": "She was a princess."
      }
     ]
    },
@@ -1228,20 +1228,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, her career.",
-    "hint": "What first did she achieve?",
+    "hint": "What first did Artemisia achieve?",
     "statements": [
      {
-      "text": "She was the first woman admitted to the Florentine Academy of Design.",
+      "text": "First woman in Florence's Academy of Design.",
       "why": "She joined in 1616.",
       "isTrue": true
      },
      {
-      "text": "She never left Rome.",
-      "why": "She worked in Florence, Venice, Naples and London."
+      "text": "First woman in Rome's Academy of Saint Luke.",
+      "why": "Another painter, Lavinia Fontana, had joined before her."
      },
      {
-      "text": "Her work was always credited to her.",
-      "why": "Much was given to men."
+      "text": "First woman to sign a painting in Italy.",
+      "why": "Women had signed paintings long before."
      }
     ]
    }
@@ -1317,20 +1317,20 @@
     },
     "where": "The youngest",
     "prompt": "Look at the little girl in the middle.",
-    "hint": "What's her expression?",
+    "hint": "What's the youngest sister doing?",
     "statements": [
      {
-      "text": "She's grinning at the game.",
+      "text": "Grinning at the game.",
       "why": "The scene feels relaxed and personal.",
       "isTrue": true
      },
      {
-      "text": "She's crying.",
-      "why": "She's smiling."
+      "text": "Moving a piece for her sister.",
+      "why": "She's watching and grinning."
      },
      {
-      "text": "She's asleep.",
-      "why": "She's watching."
+      "text": "Reading the rules from a book.",
+      "why": "She's watching and grinning."
      }
     ]
    },
@@ -1342,7 +1342,7 @@
     },
     "where": "The edge",
     "prompt": "Look at the right edge.",
-    "hint": "Who's watching?",
+    "hint": "Who's watching from the edge?",
     "statements": [
      {
       "text": "A servant.",
@@ -1350,12 +1350,12 @@
       "isTrue": true
      },
      {
-      "text": "A nun.",
-      "why": "She's a servant."
+      "text": "Their mother.",
+      "why": "It's a servant."
      },
      {
-      "text": "A painted statue.",
-      "why": "She's a person."
+      "text": "Their grandmother.",
+      "why": "It's a servant."
      }
     ]
    },
@@ -1367,20 +1367,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, her long life.",
-    "hint": "Who visited her?",
+    "hint": "Who visited her in old age?",
     "statements": [
      {
-      "text": "Van Dyck, when she was in her nineties; he sketched her.",
+      "text": "Van Dyck, who sketched her in her nineties.",
       "why": "She lived to about 93.",
       "isTrue": true
      },
      {
-      "text": "She died young, at 30.",
-      "why": "She lived into her nineties."
+      "text": "Rubens, who sketched her in her nineties.",
+      "why": "It was Van Dyck."
      },
      {
-      "text": "She stopped painting when she married.",
-      "why": "She kept painting."
+      "text": "Van Dyck, who sketched her in her seventies.",
+      "why": "She was in her nineties."
      }
     ]
    }
@@ -1456,20 +1456,20 @@
     },
     "where": "The ledge",
     "prompt": "Look at the ledge in front.",
-    "hint": "What is it?",
+    "hint": "What's the ledge across the front?",
     "statements": [
      {
-      "text": "A painted parapet, an early trick to make the figures feel near.",
+      "text": "A painted parapet, an early way to make the figures feel near.",
       "why": "It's one of the earliest examples.",
       "isTrue": true
      },
      {
-      "text": "A real wooden shelf.",
-      "why": "It's painted."
+      "text": "A painted altar, with Mary seated behind it.",
+      "why": "It's a parapet, not an altar."
      },
      {
-      "text": "A coffin.",
-      "why": "It's a ledge."
+      "text": "A painted window sill, with Mary outside.",
+      "why": "It's a parapet."
      }
     ]
    },
@@ -1481,20 +1481,20 @@
     },
     "where": "The Child",
     "prompt": "Look at the Child.",
-    "hint": "What's he doing?",
+    "hint": "What's the Child doing?",
     "statements": [
      {
-      "text": "Reaching up to pull at his mother's veil.",
-      "why": "It's a tender, human gesture.",
+      "text": "Pulling at his mother's veil.",
+      "why": "A tender, human gesture.",
       "isTrue": true
      },
      {
-      "text": "Holding an apple.",
-      "why": "He's reaching for her veil."
+      "text": "Raising his hand in blessing.",
+      "why": "A common pose, but here he reaches for the veil."
      },
      {
-      "text": "Sleeping.",
-      "why": "He's awake."
+      "text": "Holding a goldfinch.",
+      "why": "A common motif, but not here."
      }
     ]
    },
@@ -1506,7 +1506,7 @@
     },
     "where": "The background",
     "prompt": "Look at the gold.",
-    "hint": "What is it?",
+    "hint": "What is the background?",
     "statements": [
      {
       "text": "Real gold leaf.",
@@ -1514,12 +1514,12 @@
       "isTrue": true
      },
      {
-      "text": "Yellow paint.",
-      "why": "It's gold."
+      "text": "Gold paint, made from powdered brass.",
+      "why": "It's real gold leaf."
      },
      {
-      "text": "Brass sheet.",
-      "why": "It's gold leaf."
+      "text": "Silver leaf, glazed yellow to look like gold.",
+      "why": "It's real gold."
      }
     ]
    }
@@ -1595,7 +1595,7 @@
     },
     "where": "The bridge",
     "prompt": "Look at the bridge.",
-    "hint": "What is it?",
+    "hint": "Which bridge is it?",
     "statements": [
      {
       "text": "The Alcántara bridge, Roman in origin.",
@@ -1603,12 +1603,12 @@
       "isTrue": true
      },
      {
-      "text": "A modern iron bridge.",
-      "why": "It's ancient."
+      "text": "The San Martín bridge, medieval in origin.",
+      "why": "That's Toledo's other bridge; this is the Alcántara."
      },
      {
-      "text": "A drawbridge.",
-      "why": "It's a stone bridge."
+      "text": "The Alcántara bridge, built by El Greco's patron.",
+      "why": "It's Roman in origin."
      }
     ]
    },
@@ -1623,17 +1623,17 @@
     "hint": "Where was El Greco born?",
     "statements": [
      {
-      "text": "On the island of Crete.",
+      "text": "On Crete.",
       "why": "He trained as an icon painter.",
       "isTrue": true
      },
      {
-      "text": "In Toledo.",
-      "why": "He moved there."
+      "text": "On Cyprus.",
+      "why": "On Crete."
      },
      {
-      "text": "In Rome.",
-      "why": "He was born on Crete."
+      "text": "On Corfu.",
+      "why": "On Crete."
      }
     ]
    },
@@ -1653,12 +1653,12 @@
       "isTrue": true
      },
      {
-      "text": "In 2010.",
-      "why": "It came in 1929."
+      "text": "In 1929, from the Lehman collection.",
+      "why": "It was the Havemeyer collection."
      },
      {
-      "text": "It was found in a monastery in 1990.",
-      "why": "It came in 1929."
+      "text": "In 1949, from the Havemeyer collection.",
+      "why": "It was 1929."
      }
     ]
    }

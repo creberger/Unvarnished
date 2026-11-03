@@ -66,20 +66,20 @@
     },
     "where": "The mountains",
     "prompt": "Look at the distant peaks.",
-    "hint": "Are they one view?",
+    "hint": "Is it one real view?",
     "statements": [
      {
-      "text": "No, he combined sketches of different places into one scene.",
+      "text": "No, he combined sketches of several places.",
       "why": "The rocks come from the Elbe Sandstone Mountains.",
       "isTrue": true
      },
      {
-      "text": "It's an exact view of the Alps.",
+      "text": "Yes, the view from a peak in the Swiss Alps.",
       "why": "It's a composite."
      },
      {
-      "text": "They're invented with no reference.",
-      "why": "He used sketches."
+      "text": "Yes, the view from the Brocken in the Harz.",
+      "why": "It's a composite of several places."
      }
     ]
    },
@@ -91,20 +91,20 @@
     },
     "where": "The fog",
     "prompt": "Look at the fog.",
-    "hint": "How is it painted?",
+    "hint": "How is the fog painted?",
     "statements": [
      {
-      "text": "With thin, smooth layers that blur the rocks into mist.",
+      "text": "In thin, smooth layers that blur rock into mist.",
       "why": "The surface feels endless.",
       "isTrue": true
      },
      {
-      "text": "With real cotton glued on.",
-      "why": "It's paint."
+      "text": "In thick dabs of white laid on with a knife.",
+      "why": "It's thin and smooth."
      },
      {
-      "text": "With a spray gun.",
-      "why": "It's brushwork."
+      "text": "In white chalk over the dry oil paint.",
+      "why": "It's oil paint."
      }
     ]
    },
@@ -116,20 +116,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, where is it?",
-    "hint": "Which museum?",
+    "hint": "Where is it, and since when?",
     "statements": [
      {
-      "text": "The Hamburger Kunsthalle, which bought it in 1970.",
+      "text": "The Hamburger Kunsthalle, since 1970.",
       "why": "It's become an icon of Romanticism.",
       "isTrue": true
      },
      {
-      "text": "The Louvre.",
+      "text": "The Alte Nationalgalerie in Berlin, since 1970.",
       "why": "It's in Hamburg."
      },
      {
-      "text": "It was destroyed in the war.",
-      "why": "It survives."
+      "text": "The Hamburger Kunsthalle, since 1907.",
+      "why": "It arrived in 1970."
      }
     ]
    }
@@ -205,20 +205,20 @@
     },
     "where": "The cottage",
     "prompt": "Look at the cottage on the left.",
-    "hint": "Whose was it?",
+    "hint": "Who lived in the cottage?",
     "statements": [
      {
-      "text": "A farmer named Willy Lott, who lived there for decades.",
-      "why": "It still stands.",
+      "text": "Willy Lott, a farmer who lived there for decades.",
+      "why": "The cottage still stands.",
       "isTrue": true
      },
      {
-      "text": "Constable's.",
-      "why": "It was Willy Lott's."
+      "text": "Constable's father, who ran the nearby mill.",
+      "why": "His father ran Flatford Mill; the cottage was Willy Lott's."
      },
      {
-      "text": "The king's.",
-      "why": "It was a farmer's."
+      "text": "A gamekeeper named Tom Lott.",
+      "why": "It was Willy Lott, a farmer."
      }
     ]
    },
@@ -230,20 +230,20 @@
     },
     "where": "The sky",
     "prompt": "Look at the clouds.",
-    "hint": "How did Constable study them?",
+    "hint": "How did Constable study skies?",
     "statements": [
      {
-      "text": "He made many oil sketches of skies, noting the weather.",
+      "text": "Oil sketches outdoors, noting time and weather.",
       "why": "He called it \"skying.\"",
       "isTrue": true
      },
      {
-      "text": "He traced photographs.",
-      "why": "He painted outdoors."
+      "text": "Pencil sketches outdoors, with no colour notes.",
+      "why": "He worked in oil."
      },
      {
-      "text": "He copied old masters.",
-      "why": "He studied real skies."
+      "text": "Copying skies from Dutch paintings in his studio.",
+      "why": "He studied real skies outdoors."
      }
     ]
    },
@@ -255,7 +255,7 @@
     },
     "where": "Full painting",
     "prompt": "Finally, its fame.",
-    "hint": "Where did it win a medal?",
+    "hint": "Where did it win a gold medal?",
     "statements": [
      {
       "text": "At the Paris Salon of 1824.",
@@ -263,12 +263,12 @@
       "isTrue": true
      },
      {
-      "text": "At the Olympics.",
-      "why": "It was the Paris Salon."
+      "text": "At the Royal Academy in London in 1821.",
+      "why": "It won in Paris."
      },
      {
-      "text": "It never won anything.",
-      "why": "It won a gold medal."
+      "text": "At the Paris Salon of 1834.",
+      "why": "It was 1824."
      }
     ]
    }
@@ -344,19 +344,19 @@
     },
     "where": "The tug",
     "prompt": "Look at the small boat.",
-    "hint": "What powers it?",
+    "hint": "What drives the tug?",
     "statements": [
      {
-      "text": "Steam.",
-      "why": "The new age replaces the old.",
+      "text": "A steam engine turning paddle wheels.",
+      "why": "The new age tows away the old.",
       "isTrue": true
      },
      {
-      "text": "Sails.",
-      "why": "It's a steam tug."
+      "text": "A steam engine turning a screw propeller.",
+      "why": "It's a paddle steamer."
      },
      {
-      "text": "Oars.",
+      "text": "Sails, hidden behind its smoke.",
       "why": "It's steam-powered."
      }
     ]
@@ -369,20 +369,20 @@
     },
     "where": "The sun",
     "prompt": "Look at the sunset.",
-    "hint": "Is it accurate?",
+    "hint": "How many guns did the Temeraire carry?",
     "statements": [
      {
-      "text": "Turner took liberties; the real tow happened in different light.",
-      "why": "He wanted the drama.",
+      "text": "98.",
+      "why": "It was a large ship of the line.",
       "isTrue": true
      },
      {
-      "text": "It's an exact record.",
-      "why": "He changed things."
+      "text": "74.",
+      "why": "It carried 98."
      },
      {
-      "text": "It's a sunrise.",
-      "why": "It's a sunset."
+      "text": "120.",
+      "why": "It carried 98."
      }
     ]
    },
@@ -394,20 +394,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, its fame.",
-    "hint": "Where can you see it every day?",
+    "hint": "Which banknote shows it?",
     "statements": [
      {
-      "text": "On the Bank of England's £20 note.",
-      "why": "It appeared in 2020.",
+      "text": "The Bank of England £20 note.",
+      "why": "It appeared in 2020, with Turner.",
       "isTrue": true
      },
      {
-      "text": "On a stamp only.",
-      "why": "It's on the £20 note."
+      "text": "The Bank of England £50 note.",
+      "why": "The £50 shows Alan Turing."
      },
      {
-      "text": "Nowhere.",
-      "why": "It's on banknotes."
+      "text": "The Bank of England £10 note.",
+      "why": "The £10 shows Jane Austen."
      }
     ]
    }
@@ -483,20 +483,20 @@
     },
     "where": "The crowd",
     "prompt": "Look at the bank.",
-    "hint": "Who's there?",
+    "hint": "When was the fire?",
     "statements": [
      {
-      "text": "Crowds of onlookers.",
-      "why": "The fire drew thousands.",
+      "text": "16 October 1834.",
+      "why": "Turner watched it and made sketches.",
       "isTrue": true
      },
      {
-      "text": "Firefighters only.",
-      "why": "It's a crowd."
+      "text": "16 October 1844.",
+      "why": "It was 1834."
      },
      {
-      "text": "Nobody.",
-      "why": "There's a crowd."
+      "text": "5 November 1834.",
+      "why": "It was 16 October."
      }
     ]
    },
@@ -508,7 +508,7 @@
     },
     "where": "The bridge",
     "prompt": "Look at the bridge.",
-    "hint": "What's it lit by?",
+    "hint": "What lights the bridge?",
     "statements": [
      {
       "text": "The glow of the fire.",
@@ -516,11 +516,11 @@
       "isTrue": true
      },
      {
-      "text": "Electric lights.",
-      "why": "There was no electricity."
+      "text": "Moonlight breaking through the smoke.",
+      "why": "It's firelight."
      },
      {
-      "text": "The moon.",
+      "text": "Fireworks over the river.",
       "why": "It's firelight."
      }
     ]
@@ -536,17 +536,17 @@
     "hint": "What replaced the old building?",
     "statements": [
      {
-      "text": "The Palace of Westminster we know today, with Big Ben.",
-      "why": "It was rebuilt in Gothic style.",
+      "text": "Today's Palace of Westminster, with Big Ben.",
+      "why": "Designed by Charles Barry and Augustus Pugin.",
       "isTrue": true
      },
      {
-      "text": "Nothing.",
-      "why": "It was rebuilt."
+      "text": "Today's Palace of Westminster, designed by Christopher Wren.",
+      "why": "Wren died long before; it was Barry and Pugin."
      },
      {
-      "text": "A glass palace.",
-      "why": "It's Gothic stone."
+      "text": "Buckingham Palace, which took over as Parliament.",
+      "why": "The new Palace of Westminster was built."
      }
     ]
    }
@@ -625,17 +625,17 @@
     "hint": "How did Géricault prepare?",
     "statements": [
      {
-      "text": "He interviewed survivors, built a model raft and studied corpses.",
-      "why": "He was obsessive.",
+      "text": "He interviewed survivors and studied corpses.",
+      "why": "He also built a model raft.",
       "isTrue": true
      },
      {
-      "text": "He used dolls.",
-      "why": "He studied real bodies."
+      "text": "He sailed to the wreck site to sketch it.",
+      "why": "He worked in Paris."
      },
      {
-      "text": "He painted from memory.",
-      "why": "He did research."
+      "text": "He worked only from newspaper drawings.",
+      "why": "He did his own research."
      }
     ]
    },
@@ -647,20 +647,20 @@
     },
     "where": "The colours",
     "prompt": "Look at the dark shadows.",
-    "hint": "Why so dark?",
+    "hint": "Why are the shadows so dark?",
     "statements": [
      {
-      "text": "He used bitumen, which has darkened over time.",
+      "text": "Bitumen in the paint has darkened over time.",
       "why": "It can't be reversed.",
       "isTrue": true
      },
      {
-      "text": "It was painted at night.",
-      "why": "It's bitumen."
+      "text": "Soot from a fire at the Louvre in 1871.",
+      "why": "It's the bitumen."
      },
      {
-      "text": "Soot from a fire.",
-      "why": "It's the paint."
+      "text": "Varnish added in 1900 has turned brown.",
+      "why": "It's the bitumen."
      }
     ]
    },
@@ -680,12 +680,12 @@
       "isTrue": true
      },
      {
-      "text": "About A4 size.",
-      "why": "It's huge."
+      "text": "About 3 by 4 metres.",
+      "why": "About 5 by 7."
      },
      {
-      "text": "About a metre wide.",
-      "why": "It's huge."
+      "text": "About 8 by 12 metres.",
+      "why": "About 5 by 7."
      }
     ]
    }
@@ -761,19 +761,19 @@
     },
     "where": "The man in the top hat",
     "prompt": "Look at the man with a rifle.",
-    "hint": "Who is he?",
+    "hint": "Who's the man in the top hat?",
     "statements": [
      {
-      "text": "Nobody knows for sure; some thought it was Delacroix himself.",
+      "text": "Unknown; some thought it was Delacroix.",
       "why": "It's debated.",
       "isTrue": true
      },
      {
-      "text": "Napoleon.",
-      "why": "It's not Napoleon."
+      "text": "The painter Théodore Géricault.",
+      "why": "Géricault died in 1824."
      },
      {
-      "text": "The king.",
+      "text": "King Louis-Philippe in disguise.",
       "why": "He's a citizen."
      }
     ]
@@ -786,20 +786,20 @@
     },
     "where": "The boy",
     "prompt": "Look at the boy with pistols.",
-    "hint": "What did he inspire?",
+    "hint": "Who did the boy with pistols inspire?",
     "statements": [
      {
-      "text": "He's often said to have inspired Gavroche in Les Misérables.",
-      "why": "Hugo's novel came later.",
+      "text": "Gavroche, in Hugo's Les Misérables.",
+      "why": "Hugo's novel came 30 years later.",
       "isTrue": true
      },
      {
-      "text": "A statue.",
-      "why": "He's linked to Gavroche."
+      "text": "Gavroche, in Dumas's The Three Musketeers.",
+      "why": "Gavroche is in Les Misérables."
      },
      {
-      "text": "Nothing.",
-      "why": "He's linked to Gavroche."
+      "text": "The hero of Hugo's The Hunchback of Notre-Dame.",
+      "why": "That's Quasimodo; the boy is linked to Gavroche."
      }
     ]
    },
@@ -811,7 +811,7 @@
     },
     "where": "The background",
     "prompt": "Look at the towers.",
-    "hint": "What are they?",
+    "hint": "Which towers are in the background?",
     "statements": [
      {
       "text": "The towers of Notre-Dame.",
@@ -819,12 +819,12 @@
       "isTrue": true
      },
      {
-      "text": "The Eiffel Tower.",
-      "why": "It didn't exist yet."
+      "text": "The towers of Saint-Sulpice.",
+      "why": "They're Notre-Dame's."
      },
      {
-      "text": "Big Ben.",
-      "why": "It's Paris."
+      "text": "The towers of the Bastille.",
+      "why": "The Bastille was torn down in 1789."
      }
     ]
    }
@@ -900,20 +900,20 @@
     },
     "where": "The chair",
     "prompt": "Look at the chair.",
-    "hint": "What's it covered in?",
+    "hint": "What's the chair covered in?",
     "statements": [
      {
       "text": "Gold damask.",
-      "why": "It complements the blue.",
+      "why": "It sets off the blue.",
       "isTrue": true
      },
      {
-      "text": "Leather.",
-      "why": "It's gold fabric."
+      "text": "Red leather.",
+      "why": "It's gold damask."
      },
      {
-      "text": "Fur.",
-      "why": "It's damask."
+      "text": "Green velvet.",
+      "why": "It's gold damask."
      }
     ]
    },
@@ -925,20 +925,20 @@
     },
     "where": "Her face",
     "prompt": "Look at her face.",
-    "hint": "What happened to her?",
+    "hint": "How old was she when she died?",
     "statements": [
      {
-      "text": "She died young, aged 35.",
+      "text": "35.",
       "why": "Her husband kept the portrait.",
       "isTrue": true
      },
      {
-      "text": "She became empress.",
-      "why": "She died young."
+      "text": "53.",
+      "why": "She was 35."
      },
      {
-      "text": "She lived to 100.",
-      "why": "She died young."
+      "text": "25.",
+      "why": "She was 35."
      }
     ]
    },
@@ -950,20 +950,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, how it reached the Met.",
-    "hint": "Which collection?",
+    "hint": "How did it reach the Met?",
     "statements": [
      {
-      "text": "The Robert Lehman Collection, given in 1975.",
-      "why": "Lehman was a banker.",
+      "text": "The Robert Lehman Collection, in 1975.",
+      "why": "Lehman was a banker and collector.",
       "isTrue": true
      },
      {
-      "text": "The Rockefellers.",
-      "why": "It was Lehman."
+      "text": "The Havemeyer Collection, in 1929.",
+      "why": "It was the Lehman Collection."
      },
      {
-      "text": "It was found in a barn.",
-      "why": "It came with the Lehman gift."
+      "text": "The Robert Lehman Collection, in 1955.",
+      "why": "It came in 1975."
      }
     ]
    }
@@ -1039,20 +1039,20 @@
     },
     "where": "The far hill",
     "prompt": "Look at the distant hillside.",
-    "hint": "What's hidden there?",
+    "hint": "What's hidden on the far hill?",
     "statements": [
      {
-      "text": "Cleared trees that spell Hebrew letters.",
+      "text": "Cleared trees forming Hebrew letters.",
       "why": "They can be read as \"Noah.\"",
       "isTrue": true
      },
      {
-      "text": "A giant face.",
-      "why": "It's letters."
+      "text": "Cleared trees forming Cole's initials.",
+      "why": "They form Hebrew letters."
      },
      {
-      "text": "Nothing.",
-      "why": "There are letters."
+      "text": "Cleared trees forming a cross.",
+      "why": "They form Hebrew letters."
      }
     ]
    },
@@ -1064,7 +1064,7 @@
     },
     "where": "The storm",
     "prompt": "Look at the storm.",
-    "hint": "Which way is it moving?",
+    "hint": "Which way is the storm moving?",
     "statements": [
      {
       "text": "Away, as the sky clears.",
@@ -1072,11 +1072,11 @@
       "isTrue": true
      },
      {
-      "text": "Toward the farms.",
-      "why": "It's passing."
+      "text": "Toward the farmland.",
+      "why": "It's passing away."
      },
      {
-      "text": "Nowhere.",
+      "text": "It's standing still over the river.",
       "why": "It's moving away."
      }
     ]
@@ -1089,20 +1089,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, Cole's legacy.",
-    "hint": "What movement did he found?",
+    "hint": "Which movement did Cole found?",
     "statements": [
      {
-      "text": "The Hudson River School of landscape painters.",
-      "why": "He's seen as its founder.",
+      "text": "The Hudson River School.",
+      "why": "A group of American landscape painters.",
       "isTrue": true
      },
      {
-      "text": "Impressionism.",
-      "why": "That came later, in France."
+      "text": "The Rocky Mountain School.",
+      "why": "It was the Hudson River School."
      },
      {
-      "text": "Cubism.",
-      "why": "That was much later."
+      "text": "The Ashcan School.",
+      "why": "That came much later, in New York."
      }
     ]
    }
@@ -1178,20 +1178,20 @@
     },
     "where": "The waterfall",
     "prompt": "Look at the waterfall.",
-    "hint": "Is it all real?",
+    "hint": "Is it a real view?",
     "statements": [
      {
-      "text": "It's a composite of sketches from his travels.",
+      "text": "It's a composite of his sketches.",
       "why": "He combined many places.",
       "isTrue": true
      },
      {
-      "text": "It's a single exact view.",
+      "text": "It's one exact view in Ecuador.",
       "why": "It's a composite."
      },
      {
-      "text": "It's invented with no travel.",
-      "why": "He traveled."
+      "text": "It's invented; he never went.",
+      "why": "He traveled there twice."
      }
     ]
    },
@@ -1203,7 +1203,7 @@
     },
     "where": "The tree",
     "prompt": "Look at the lower left tree.",
-    "hint": "What's carved there?",
+    "hint": "What's carved into the tree?",
     "statements": [
      {
       "text": "Church's signature and the date.",
@@ -1211,12 +1211,12 @@
       "isTrue": true
      },
      {
-      "text": "A heart.",
-      "why": "It's a signature."
+      "text": "His wife's initials.",
+      "why": "It's his signature."
      },
      {
-      "text": "A map.",
-      "why": "It's a signature."
+      "text": "The name of the mountain.",
+      "why": "It's his signature."
      }
     ]
    },
@@ -1231,17 +1231,17 @@
     "hint": "What did it sell for?",
     "statements": [
      {
-      "text": "$10,000, a record for a living American artist.",
+      "text": "$10,000, a record for a living American.",
       "why": "It made him famous.",
       "isTrue": true
      },
      {
-      "text": "$10.",
-      "why": "It was a record."
+      "text": "$1,000, a record for a living American.",
+      "why": "It was $10,000."
      },
      {
-      "text": "It was never sold.",
-      "why": "It sold."
+      "text": "$100,000, a record for a living American.",
+      "why": "It was $10,000."
      }
     ]
    }
@@ -1317,20 +1317,20 @@
     },
     "where": "The sun",
     "prompt": "Look at the sun.",
-    "hint": "What does it suggest?",
+    "hint": "Where was Aivazovsky from?",
     "statements": [
      {
-      "text": "Hope.",
-      "why": "Light breaks through.",
+      "text": "Feodosia, in Crimea.",
+      "why": "He painted the Black Sea all his life.",
       "isTrue": true
      },
      {
-      "text": "Night.",
-      "why": "It's the sun."
+      "text": "Odessa, on the Black Sea.",
+      "why": "He was from Feodosia."
      },
      {
-      "text": "Fire.",
-      "why": "It's the sun."
+      "text": "St Petersburg.",
+      "why": "He was from Feodosia."
      }
     ]
    },
@@ -1342,7 +1342,7 @@
     },
     "where": "The waves",
     "prompt": "Look at the waves.",
-    "hint": "How did he paint them?",
+    "hint": "How did he paint the waves?",
     "statements": [
      {
       "text": "From memory, in the studio.",
@@ -1350,11 +1350,11 @@
       "isTrue": true
      },
      {
-      "text": "Outdoors in a storm.",
+      "text": "Outdoors, from a boat.",
       "why": "He painted from memory."
      },
      {
-      "text": "From photographs.",
+      "text": "From sketches made during a shipwreck.",
       "why": "He painted from memory."
      }
     ]
@@ -1367,20 +1367,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, how prolific?",
-    "hint": "How many works?",
+    "hint": "How many works did he make?",
     "statements": [
      {
-      "text": "About 6,000 in his lifetime.",
+      "text": "About 6,000.",
       "why": "He was incredibly fast.",
       "isTrue": true
      },
      {
-      "text": "Five.",
-      "why": "He made thousands."
+      "text": "About 600.",
+      "why": "About 6,000."
      },
      {
-      "text": "Fifty.",
-      "why": "He made thousands."
+      "text": "About 60,000.",
+      "why": "About 6,000."
      }
     ]
    }
@@ -1456,20 +1456,20 @@
     },
     "where": "The women",
     "prompt": "Look at the women.",
-    "hint": "How are they shown?",
+    "hint": "How are the women shown?",
     "statements": [
      {
-      "text": "Bent double, faces hidden.",
+      "text": "Bent double, faces in shadow.",
       "why": "They're anonymous.",
       "isTrue": true
      },
      {
-      "text": "Smiling at us.",
-      "why": "They're bent over."
+      "text": "Bent double, smiling at each other.",
+      "why": "Their faces are hidden."
      },
      {
-      "text": "Dancing.",
-      "why": "They're working."
+      "text": "Kneeling, faces turned to us.",
+      "why": "They're bent over, faces hidden."
      }
     ]
    },
@@ -1481,7 +1481,7 @@
     },
     "where": "The third woman",
     "prompt": "Look at the standing woman.",
-    "hint": "What's she doing?",
+    "hint": "What's the third woman doing?",
     "statements": [
      {
       "text": "Straightening up, about to bend again.",
@@ -1489,12 +1489,12 @@
       "isTrue": true
      },
      {
-      "text": "Leaving.",
-      "why": "She's working."
+      "text": "Tying her bundle to carry home.",
+      "why": "She's about to bend again."
      },
      {
-      "text": "Sleeping.",
-      "why": "She's working."
+      "text": "Calling to the overseer.",
+      "why": "She's about to bend again."
      }
     ]
    },
@@ -1506,20 +1506,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, the reaction.",
-    "hint": "How did critics react?",
+    "hint": "How did some critics react?",
     "statements": [
      {
-      "text": "Some called it dangerous, a call for revolution.",
+      "text": "They called it a dangerous call for revolution.",
       "why": "The poor were rarely shown so heroically.",
       "isTrue": true
      },
      {
-      "text": "They loved it unanimously.",
-      "why": "It was controversial."
+      "text": "They called it too sweet and sentimental.",
+      "why": "They found it threatening."
      },
      {
-      "text": "No one noticed it.",
-      "why": "It was debated."
+      "text": "They called it a copy of a Dutch painting.",
+      "why": "They found it threatening."
      }
     ]
    }
@@ -1595,19 +1595,19 @@
     },
     "where": "The rider",
     "prompt": "Look at the rider in the centre.",
-    "hint": "Who might it be?",
+    "hint": "Who might the central rider be?",
     "statements": [
      {
-      "text": "Bonheur is thought to have included herself among the riders.",
-      "why": "It's a sly self-portrait.",
+      "text": "Bonheur herself, in men's clothes.",
+      "why": "A sly self-portrait.",
       "isTrue": true
      },
      {
-      "text": "Napoleon.",
+      "text": "Napoleon III, who admired it.",
       "why": "It's thought to be her."
      },
      {
-      "text": "Her brother.",
+      "text": "Her brother, also a painter.",
       "why": "It's thought to be her."
      }
     ]
@@ -1628,12 +1628,12 @@
       "isTrue": true
      },
      {
-      "text": "About A4 size.",
-      "why": "It's huge."
+      "text": "About 1.2 by 2.5 metres.",
+      "why": "It's twice that."
      },
      {
-      "text": "About 50 cm.",
-      "why": "It's huge."
+      "text": "About 4 by 8 metres.",
+      "why": "About 2.4 by 5."
      }
     ]
    },
@@ -1645,20 +1645,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, how it reached the Met.",
-    "hint": "Who gave it?",
+    "hint": "Who gave it to the Met?",
     "statements": [
      {
-      "text": "Cornelius Vanderbilt gave it in 1887.",
+      "text": "Cornelius Vanderbilt, in 1887.",
       "why": "It's one of the Met's most popular works.",
       "isTrue": true
      },
      {
-      "text": "Rosa Bonheur herself.",
+      "text": "J. P. Morgan, in 1887.",
       "why": "It was Vanderbilt."
      },
      {
-      "text": "It was found in a stable.",
-      "why": "It was a gift."
+      "text": "Cornelius Vanderbilt, in 1907.",
+      "why": "It was 1887."
      }
     ]
    }

@@ -8,18 +8,18 @@ desc: A swaggering man with an upturned moustache, a wide black hat and a lace c
 + That he was 26 years old in 1624. || It's in Latin: AETA SVAE 26 A° 1624.
 - His name and address. || Only his age and the year.
 - The price of the painting. || It gives his age and the date.
-@ 0.66 0.62 2.5 | The sleeve | Look at the embroidered sleeve. | What's stitched there?
-+ Bees, arrows and flaming horns of plenty, emblems of love's pleasures and pains. || The suit may have been chosen for a betrothal.
-- The coat of arms of Haarlem. || They're love emblems.
-- Nothing; the sleeve is plain black. || It's richly embroidered.
-@ 0.42 0.4 2.5 | The collar | Look at the lace collar. | How is it painted?
-+ With quick, loose strokes that read as lace from a distance. || Hals was famous for his fast brushwork.
-- Real lace was stitched onto the canvas. || It's paint.
-- Copied stitch by stitch with a ruler. || The strokes are loose and quick.
+@ 0.66 0.62 2.5 | The sleeve | Look at the embroidered sleeve. | What's embroidered on his sleeve?
++ Bees, arrows and flaming horns of plenty, emblems of love. || The suit may have been chosen for a betrothal portrait.
+- Lions, crowns and swords, emblems of the Dutch Republic. || They're love emblems.
+- Tulips, ships and coins, emblems of Haarlem's trade. || They're love emblems.
+@ 0.42 0.4 2.5 | The collar | Look at the lace collar. | How is the lace collar painted?
++ With quick, loose strokes that read as lace from afar. || Hals was famous for fast brushwork.
+- With fine, careful strokes copied from a lace pattern book. || The strokes are loose and quick.
+- With white paint pressed through real lace as a stencil. || It's brushwork.
 @ 0.5 0.5 1 | Full painting | Finally, the painting's own story. | How did it reach London?
-+ Lord Hertford outbid the Rothschilds for it at a Paris auction in 1865. || He paid several times the estimate.
-- Hals gave it to the Wallace Collection. || The museum opened in 1900, centuries later.
-- It hung in Haarlem town hall until 1945. || It came to Britain in 1865.
++ Lord Hertford outbid the Rothschilds at a Paris auction in 1865. || He paid several times the estimate.
+- Lord Hertford outbid the Louvre at a Paris auction in 1865. || His rivals were the Rothschilds.
+- Lord Hertford outbid the Rothschilds at a London auction in 1885. || It was Paris, in 1865.
 
 ## leyster-self-portrait | Self-Portrait | Judith Leyster | 1609–1660 | c. 1630 | Oil on canvas | National Gallery of Art, Washington
 desc: A smiling woman in a lace collar turns from her easel, brush in hand, with a painting of a laughing fiddler behind her.
@@ -31,18 +31,18 @@ desc: A smiling woman in a lace collar turns from her easel, brush in hand, with
 + A laughing fiddler, the kind of lively scene she was known for. || Merry musicians were popular in Haarlem.
 - A view of the sea. || It's a fiddler.
 - Her own portrait. || It's a fiddler.
-@ 0.4 0.22 2.5 | Her face | Look at her expression. | What is she doing?
-+ Her mouth is open, as if she's turning to speak to us. || Casual poses like this were new for self-portraits.
-- She's crying. || She's smiling.
-- Her eyes are closed. || She looks right at us.
+@ 0.4 0.22 2.5 | Her face | Look at her expression. | What makes her pose unusual?
++ She turns mid-movement with her mouth open, as if to speak. || Casual poses like this were new for self-portraits.
+- She shows herself from behind, glancing over her shoulder. || She faces us, turning from the easel.
+- She shows herself dozing at the easel, brush in hand. || She's awake and turning to us.
 @ 0.7 0.86 2.5 | Her tools | Look at the bottom right. | What does she hold?
-+ A palette and a bundle of brushes. || She presents herself as a professional painter.
-- A book of poems. || She holds painting tools.
-- A fan. || She holds a palette.
-@ 0.5 0.5 1 | Full painting | Finally, her reputation. | How was she remembered?
-+ For about two centuries, her paintings were credited to Frans Hals. || Her monogram was rediscovered in the 1890s.
-- She was famous without a break from her lifetime to today. || She was forgotten for a long time.
-- This painting is by her husband. || It's by Leyster.
++ A palette and a bundle of brushes. || She presents herself as a working painter.
+- A palette knife and a sketchbook. || A palette and brushes.
+- A violin bow, borrowed from the fiddler. || A palette and brushes.
+@ 0.5 0.5 1 | Full painting | Finally, her reputation. | Whose name went on her work?
++ For two centuries her paintings were credited to Frans Hals. || Her monogram was rediscovered in the 1890s.
+- For two centuries her paintings were credited to Vermeer. || They were credited to Hals.
+- For two centuries her paintings were credited to her husband. || Her husband was a painter, but the mix-up was with Hals.
 
 ## peeters-cheeses | Still Life with Cheeses, Almonds and Pretzels | Clara Peeters | active 1607–1621 | c. 1615 | Oil on panel | Mauritshuis, The Hague
 desc: A table laid with stacked cheeses, a jug, a glass goblet, pretzels and a blue-and-white bowl of almonds and raisins.
@@ -54,18 +54,18 @@ desc: A table laid with stacked cheeses, a jug, a glass goblet, pretzels and a b
 + Her name, worked into the silver handle. || It's a sly signature.
 - The date. || It's her name.
 - A price. || It's her name.
-@ 0.77 0.82 2.5 | The bowl | Look at the blue-and-white bowl. | What is it?
-+ Chinese porcelain, an expensive import at the time. || Dutch and Flemish traders brought it from Asia.
-- A paper plate. || It's porcelain.
-- A bowl she painted herself. || It's an imported piece.
-@ 0.3 0.4 2 | The cheeses | Look at the stack of cheeses. | How do we see them?
-+ From slightly above, so we look down onto the table. || The high viewpoint lets her show everything.
-- From below. || We see from above.
-- Painted from a photograph. || There was no photography.
-@ 0.5 0.5 1 | Full painting | Finally, the details. | Look at the light.
-+ Highlights on the metal and glass show reflections of a window. || Peeters loved reflective surfaces.
-- She painted it by candlelight only. || The light is daylight.
-- Everything is shown in shadow. || It's well lit.
+@ 0.77 0.82 2.5 | The bowl | Look at the blue-and-white bowl. | Where is the blue-and-white bowl from?
++ China, an expensive import at the time. || Traders brought it from Asia.
+- Delft, from the city's early potteries. || It's Chinese porcelain.
+- Italy, from the potteries of Faenza. || It's Chinese porcelain.
+@ 0.3 0.4 2 | The cheeses | Look at the stack of cheeses. | Where are we looking from?
++ Slightly above, so we look down onto the table. || The high viewpoint lets her show everything.
+- Straight across at table height, as if seated. || We look down from above.
+- Slightly below, as if looking up at the table. || We look down from above.
+@ 0.5 0.5 1 | Full painting | Finally, the details. | What do the shiny surfaces reflect?
++ Tiny reflections of a window. || Peeters loved reflective surfaces.
+- Tiny reflections of a fire in a hearth. || It's a window.
+- Tiny reflections of a candle flame. || It's daylight from a window.
 
 ## ruysch-flowers | Vase of Flowers | Rachel Ruysch | 1664–1750 | c. 1700 | Oil on canvas | Mauritshuis, The Hague
 desc: A tumbling bouquet of roses, tulips and other flowers in a vase against a dark background.
@@ -79,16 +79,16 @@ desc: A tumbling bouquet of roses, tulips and other flowers in a vase against a 
 - A painter of ships. || He was an anatomist.
 @ 0.5 0.55 2.2 | The white flowers | Look at the white blooms. | How long did she paint?
 + Nearly 70 years. || She painted into her eighties.
-- Only a few years. || She painted for decades.
-- She stopped when she married. || She kept painting.
+- Nearly 40 years. || Nearly 70.
+- Nearly 20 years. || Nearly 70.
 @ 0.5 0.75 2.2 | The roses | Look at the roses lower down. | Who employed her?
-+ She was court painter to the Elector Palatine in Düsseldorf. || A rare honour.
-- The Pope. || She worked for the Elector Palatine.
-- The King of England. || She worked in Düsseldorf.
-@ 0.5 0.5 1 | Full painting | Finally, her prices. | How valued was she?
-+ In her lifetime her paintings sold for more than Rembrandt's had. || She was one of the best-paid painters of her day.
-- She gave them away. || She sold them at high prices.
-- She never sold one. || She sold many.
++ The Elector Palatine, as court painter in Düsseldorf. || A rare honour.
+- The King of Prussia, as court painter in Berlin. || It was the Elector Palatine.
+- The Prince of Orange, as court painter in The Hague. || It was the Elector Palatine.
+@ 0.5 0.5 1 | Full painting | Finally, her prices. | How did her prices compare?
++ Her paintings sold for more than Rembrandt's had. || She was among the best-paid painters of her day.
+- Her paintings sold for about a tenth of Rembrandt's. || They sold for more.
+- Her paintings were never sold; she gave them as gifts. || She sold them at high prices.
 
 ## mona-lisa | Mona Lisa | Leonardo da Vinci | 1452–1519 | c. 1503–19 | Oil on poplar | Musée du Louvre, Paris
 desc: A woman with folded hands and a faint smile sits before a hazy, winding landscape.
@@ -100,18 +100,18 @@ desc: A woman with folded hands and a faint smile sits before a hazy, winding la
 + She has no visible eyebrows or eyelashes. || They may have faded or been cleaned away.
 - Her eyebrows are painted gold. || There are none visible.
 - A restorer plucked them out in 1950. || That didn't happen.
-@ 0.85 0.3 2.5 | The landscape | Look at the background. | Does it match?
-+ The horizon on the left is lower than on the right. || The two halves don't line up.
-- It's a view of Paris. || It's an imagined landscape.
-- It's an accurate map of Florence. || It's imagined.
-@ 0.48 0.35 3 | The smile | Look at the corners of her mouth. | How are they painted?
+@ 0.85 0.3 2.5 | The landscape | Look at the background. | Does the landscape line up?
++ No, the horizon on the left is lower than on the right. || The two halves don't match.
+- No, the horizon on the right is lower than on the left. || It's the left that's lower.
+- Yes, it runs straight behind her at one height. || The two sides don't match.
+@ 0.48 0.35 3 | The smile | Look at the corners of her mouth. | How is the smile painted?
 + With soft, smoky blending called sfumato. || There are no hard edges.
-- Drawn in charcoal over the paint. || It's blended paint.
-- The smile was added by another artist. || It's Leonardo's.
+- With soft, smoky blending called chiaroscuro. || Chiaroscuro means strong light against dark; this is sfumato.
+- With fine cross-hatched lines called hatching. || It's blended, not hatched.
 @ 0.5 0.5 1 | Full painting | Finally, the painting's own story. | What happened in 1911?
-+ A Louvre worker stole it and it was recovered in 1913. || Vincenzo Peruggia hid it in Paris for two years.
-- It has never left the Louvre. || It was stolen and has travelled abroad.
-- Napoleon sold it to a Russian tsar. || Napoleon kept it in his bedroom.
++ A Louvre worker stole it; it was found in 1913. || Vincenzo Peruggia hid it in Paris for two years.
+- A Louvre worker stole it; it was found in 1919. || It was found in 1913.
+- A visitor stole it; it was found in 1913. || The thief worked at the Louvre.
 
 ## castiglione | Portrait of Baldassare Castiglione | Raphael | 1483–1520 | c. 1514–15 | Oil on canvas | Musée du Louvre, Paris
 desc: A bearded man in a dark beret and grey fur sleeves looks calmly at us, his hands folded.
@@ -123,18 +123,18 @@ desc: A bearded man in a dark beret and grey fur sleeves looks calmly at us, his
 + They were close friends. || Raphael painted a friend.
 - They were rivals. || They were friends.
 - They never met. || They knew each other well.
-@ 0.6 0.6 2 | The colours | Look at his clothes. | What colours dominate?
-+ Mostly greys, blacks and creams. || A restrained palette.
-- Bright reds and greens. || The colours are muted.
-- Gold leaf. || It's paint.
+@ 0.6 0.6 2 | The colours | Look at his clothes. | Which colours dominate?
++ Greys, blacks and creams. || A restrained palette.
+- Reds, golds and creams. || It's mostly greys and blacks.
+- Blues, greens and creams. || It's mostly greys and blacks.
 @ 0.5 0.92 2.5 | The hands | Look at the bottom edge. | What are his hands doing?
-+ They're clasped and cut off by the edge. || It makes him feel close.
-- Holding a sword. || His hands are clasped.
-- Holding a book. || His hands are clasped.
-@ 0.5 0.5 1 | Full painting | Finally, its later life. | Who sketched it?
-+ Rembrandt sketched it when it was auctioned in Amsterdam in 1639. || He used the pose for his own self-portraits.
-- It has never left Italy. || It's in Paris.
-- It was destroyed in a fire. || It survives in the Louvre.
++ Clasped, and cut off by the bottom edge. || It makes him feel close.
+- Holding a book, cut off by the bottom edge. || They're clasped.
+- Resting on a sword hilt, cut off by the edge. || They're clasped.
+@ 0.5 0.5 1 | Full painting | Finally, its later life. | Who sketched it at auction?
++ Rembrandt, in Amsterdam in 1639. || He used the pose for his own self-portraits.
+- Rubens, in Antwerp in 1639. || Rubens copied it, but the 1639 sketch is Rembrandt's.
+- Rembrandt, in Amsterdam in 1669. || It was 1639.
 
 ## bacchus-and-ariadne | Bacchus and Ariadne | Titian | c. 1488–1576 | 1520–23 | Oil on canvas | National Gallery, London
 desc: Bacchus leaps from a chariot pulled by two big cats toward Ariadne on a shore under a deep blue sky with a ring of stars.
@@ -146,18 +146,18 @@ desc: Bacchus leaps from a chariot pulled by two big cats toward Ariadne on a sh
 + Leaping from his chariot at first sight of Ariadne. || It's love at first sight.
 - Falling off his chariot. || He's leaping.
 - He's Mars, the god of war. || He's Bacchus, god of wine.
-@ 0.25 0.68 2.5 | The chariot | Look at the animals pulling the chariot. | What are they?
+@ 0.25 0.68 2.5 | The chariot | Look at the animals pulling the chariot. | What pulls the chariot?
 + Two cheetahs. || Titian may have seen one in a menagerie.
-- Lions. || They're cheetahs.
-- Horses. || They're big cats.
-@ 0.12 0.15 3 | The sky | Look at the stars above Ariadne. | What are they?
-+ The crown Bacchus gave her, turned into a constellation. || The myth explains the stars of Corona Borealis.
-- A comet. || It's a ring of stars.
-- The planet Venus. || It's a constellation.
-@ 0.5 0.5 1 | Full painting | Finally, the colour. | What makes the blue?
-+ Ultramarine, the most expensive blue. || Titian used it lavishly.
-- Indigo. || It's ultramarine.
-- The blue was added in the 1900s. || It's original.
+- Two lions. || They're cheetahs.
+- Two tigers. || They're cheetahs.
+@ 0.12 0.15 3 | The sky | Look at the stars above Ariadne. | What are the stars above Ariadne?
++ The crown Bacchus gave her, now a constellation. || The myth explains the stars of Corona Borealis.
+- The crown of Venus, now a constellation. || It's Ariadne's crown, from Bacchus.
+- The chariot of Bacchus, now a constellation. || It's Ariadne's crown.
+@ 0.5 0.5 1 | Full painting | Finally, the colour. | What makes the blue sky?
++ Ultramarine, the costliest blue. || Titian used it lavishly.
+- Azurite, a cheaper mineral blue. || The sky is ultramarine.
+- Indigo, a plant dye. || It's ultramarine.
 
 ## supper-at-emmaus | The Supper at Emmaus | Caravaggio | 1571–1610 | 1601 | Oil and tempera on canvas | National Gallery, London
 desc: Christ blesses bread at a table as two disciples recognise him in astonishment, one flinging his arms wide.
@@ -169,18 +169,18 @@ desc: Christ blesses bread at a table as two disciples recognise him in astonish
 + Hanging over the edge of the table, about to fall. || It seems to tip into our space.
 - Full of bread. || It's fruit.
 - Nailed to the table. || It's balanced on the edge.
-@ 0.15 0.5 2.5 | Left disciple | Look at the disciple on the left. | What's at his elbow?
+@ 0.15 0.5 2.5 | Left disciple | Look at the disciple on the left. | What's at the left disciple's elbow?
 + A torn sleeve. || He's a poor man.
-- Armour. || His sleeve is torn.
-- He's a woman. || He's a man.
-@ 0.88 0.5 2.2 | Right disciple | Look at the disciple on the right. | What are his arms doing?
-+ They're flung wide, seeming to reach out toward us. || It's a dramatic gesture.
-- Holding a sword. || His arms are flung wide.
-- Folded. || They're spread wide.
-@ 0.5 0.5 1 | Full painting | Finally, look at the fruit. | Is it perfect?
-+ Some of the fruit is bruised and spoiling. || Caravaggio painted real produce.
-- It's all wax fruit. || It's painted real fruit.
-- It's all gold. || It's fruit.
+- A pilgrim's scallop shell. || The shell is on the other disciple.
+- A bandage. || It's a torn sleeve.
+@ 0.88 0.5 2.2 | Right disciple | Look at the disciple on the right. | What are the right disciple's arms doing?
++ Flung wide, seeming to reach out toward us. || A dramatic gesture.
+- Flung wide, pointing at the innkeeper. || They reach toward us.
+- Raised high, as if in surrender. || They're flung wide.
+@ 0.5 0.5 1 | Full painting | Finally, look at the fruit. | What's odd about the fruit?
++ It's autumn fruit, though the story is set at Easter. || Caravaggio painted what he had to hand.
+- It's spring fruit, matching the Easter story. || It's autumn fruit.
+- It's all imported citrus, a sign of wealth. || It's grapes, apples and figs.
 
 ## artemisia-catherine | Self-Portrait as Saint Catherine of Alexandria | Artemisia Gentileschi | 1593–c. 1656 | c. 1615–17 | Oil on canvas | National Gallery, London
 desc: A woman in a red dress and crown, holding a palm frond, leans on a broken spiked wheel and looks over her shoulder.
@@ -192,18 +192,18 @@ desc: A woman in a red dress and crown, holding a palm frond, leans on a broken 
 + A broken spiked wheel, the instrument of Saint Catherine's martyrdom. || The wheel broke when she touched it.
 - A ship's wheel. || It's a spiked wheel.
 - A spinning wheel. || It's a torture wheel.
-@ 0.32 0.35 2.2 | The palm | Look at the frond she holds. | What does it mean?
-+ A palm, a symbol of martyrdom. || Martyrs are often shown with palms.
-- A quill for writing. || It's a palm.
-- A sword. || It's a palm frond.
-@ 0.62 0.1 3 | Her head | Look at her crown. | What does it signal?
+@ 0.32 0.35 2.2 | The palm | Look at the frond she holds. | What does the palm frond stand for?
++ Martyrdom. || Martyrs are often shown with palms.
+- Royal birth. || It's martyrdom; the crown shows royalty.
+- Learning and wisdom. || It's martyrdom.
+@ 0.62 0.1 3 | Her head | Look at her crown. | Why does she wear a crown?
 + Catherine was a princess. || She's shown crowned.
-- A halo in gold leaf. || It's a crown.
-- A laurel wreath for poets. || It's a crown.
-@ 0.5 0.5 1 | Full painting | Finally, her career. | What first did she achieve?
-+ She was the first woman admitted to the Florentine Academy of Design. || She joined in 1616.
-- She never left Rome. || She worked in Florence, Venice, Naples and London.
-- Her work was always credited to her. || Much was given to men.
+- Catherine was a queen. || She was a princess.
+- Catherine was crowned as a poet. || She was a princess.
+@ 0.5 0.5 1 | Full painting | Finally, her career. | What first did Artemisia achieve?
++ First woman in Florence's Academy of Design. || She joined in 1616.
+- First woman in Rome's Academy of Saint Luke. || Another painter, Lavinia Fontana, had joined before her.
+- First woman to sign a painting in Italy. || Women had signed paintings long before.
 
 ## anguissola-chess | The Chess Game | Sofonisba Anguissola | c. 1532–1625 | 1555 | Oil on canvas | National Museum, Poznań
 desc: Three young sisters play chess at a table outdoors while an older servant watches from the edge.
@@ -215,18 +215,18 @@ desc: Three young sisters play chess at a table outdoors while an older servant 
 + Her signature, in Latin. || She signed proudly.
 - The rules of chess. || It's a signature.
 - The winner's name. || It's her signature.
-@ 0.42 0.38 2.5 | The youngest | Look at the little girl in the middle. | What's her expression?
-+ She's grinning at the game. || The scene feels relaxed and personal.
-- She's crying. || She's smiling.
-- She's asleep. || She's watching.
-@ 0.92 0.25 2.5 | The edge | Look at the right edge. | Who's watching?
+@ 0.42 0.38 2.5 | The youngest | Look at the little girl in the middle. | What's the youngest sister doing?
++ Grinning at the game. || The scene feels relaxed and personal.
+- Moving a piece for her sister. || She's watching and grinning.
+- Reading the rules from a book. || She's watching and grinning.
+@ 0.92 0.25 2.5 | The edge | Look at the right edge. | Who's watching from the edge?
 + A servant. || She watches the girls.
-- A nun. || She's a servant.
-- A painted statue. || She's a person.
-@ 0.5 0.5 1 | Full painting | Finally, her long life. | Who visited her?
-+ Van Dyck, when she was in her nineties; he sketched her. || She lived to about 93.
-- She died young, at 30. || She lived into her nineties.
-- She stopped painting when she married. || She kept painting.
+- Their mother. || It's a servant.
+- Their grandmother. || It's a servant.
+@ 0.5 0.5 1 | Full painting | Finally, her long life. | Who visited her in old age?
++ Van Dyck, who sketched her in her nineties. || She lived to about 93.
+- Rubens, who sketched her in her nineties. || It was Van Dyck.
+- Van Dyck, who sketched her in her seventies. || She was in her nineties.
 
 ## duccio-madonna | Madonna and Child | Duccio di Buoninsegna | c. 1255–1319 | c. 1290–1300 | Tempera and gold on wood | The Metropolitan Museum of Art, New York
 desc: Mary holds the infant Christ, who reaches for her veil, behind a painted ledge in a small gold panel with a scorched frame.
@@ -238,18 +238,18 @@ desc: Mary holds the infant Christ, who reaches for her veil, behind a painted l
 + It's scorched by candles once lit in front of it. || It was used for private prayer.
 - It was burned on purpose to look old. || The burns are from use.
 - The frame is modern. || It's the original.
-@ 0.5 0.82 2 | The ledge | Look at the ledge in front. | What is it?
-+ A painted parapet, an early trick to make the figures feel near. || It's one of the earliest examples.
-- A real wooden shelf. || It's painted.
-- A coffin. || It's a ledge.
-@ 0.62 0.48 2.5 | The Child | Look at the Child. | What's he doing?
-+ Reaching up to pull at his mother's veil. || It's a tender, human gesture.
-- Holding an apple. || He's reaching for her veil.
-- Sleeping. || He's awake.
-@ 0.5 0.15 2 | The background | Look at the gold. | What is it?
+@ 0.5 0.82 2 | The ledge | Look at the ledge in front. | What's the ledge across the front?
++ A painted parapet, an early way to make the figures feel near. || It's one of the earliest examples.
+- A painted altar, with Mary seated behind it. || It's a parapet, not an altar.
+- A painted window sill, with Mary outside. || It's a parapet.
+@ 0.62 0.48 2.5 | The Child | Look at the Child. | What's the Child doing?
++ Pulling at his mother's veil. || A tender, human gesture.
+- Raising his hand in blessing. || A common pose, but here he reaches for the veil.
+- Holding a goldfinch. || A common motif, but not here.
+@ 0.5 0.15 2 | The background | Look at the gold. | What is the background?
 + Real gold leaf. || It shines in candlelight.
-- Yellow paint. || It's gold.
-- Brass sheet. || It's gold leaf.
+- Gold paint, made from powdered brass. || It's real gold leaf.
+- Silver leaf, glazed yellow to look like gold. || It's real gold.
 
 ## view-of-toledo | View of Toledo | El Greco | 1541–1614 | c. 1599–1600 | Oil on canvas | The Metropolitan Museum of Art, New York
 desc: The city of Toledo on a green hill under a stormy, dark sky.
@@ -261,15 +261,15 @@ desc: The city of Toledo on a green hill under a stormy, dark sky.
 + He moved the cathedral to stand beside the Alcázar. || He rearranged the city for effect.
 - It's an exact survey. || He changed it.
 - It's Rome. || It's Toledo.
-@ 0.65 0.5 2.5 | The bridge | Look at the bridge. | What is it?
+@ 0.65 0.5 2.5 | The bridge | Look at the bridge. | Which bridge is it?
 + The Alcántara bridge, Roman in origin. || It crosses the Tagus.
-- A modern iron bridge. || It's ancient.
-- A drawbridge. || It's a stone bridge.
+- The San Martín bridge, medieval in origin. || That's Toledo's other bridge; this is the Alcántara.
+- The Alcántara bridge, built by El Greco's patron. || It's Roman in origin.
 @ 0.4 0.15 1.8 | The sky | Look at the sky. | Where was El Greco born?
-+ On the island of Crete. || He trained as an icon painter.
-- In Toledo. || He moved there.
-- In Rome. || He was born on Crete.
++ On Crete. || He trained as an icon painter.
+- On Cyprus. || On Crete.
+- On Corfu. || On Crete.
 @ 0.5 0.5 1 | Full painting | Finally, its later life. | When did the Met get it?
 + In 1929, from the Havemeyer collection. || The collection was a famous bequest.
-- In 2010. || It came in 1929.
-- It was found in a monastery in 1990. || It came in 1929.
+- In 1929, from the Lehman collection. || It was the Havemeyer collection.
+- In 1949, from the Havemeyer collection. || It was 1929.

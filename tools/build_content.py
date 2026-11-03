@@ -67,6 +67,11 @@ def check(p):
     for i, r in enumerate(p["rounds"], 1):
         assert len(r["statements"]) == 3, f"{w}: {p['id']} round {i} needs 3 statements"
         assert sum(s.get("isTrue", False) for s in r["statements"]) == 1, f"{w}: {p['id']} round {i} needs one true"
+        # Rounds get harder as they go: from round 3 on, the true statement mustn't stand out by length.
+        if i >= 3:
+            truth = next(s["text"] for s in r["statements"] if s.get("isTrue"))
+            longest_lie = max(len(s["text"]) for s in r["statements"] if not s.get("isTrue"))
+            assert len(truth) <= 1.6 * longest_lie + 3, f"{w}: {p['id']} round {i}: the true statement is much longer than the false ones"
 
 
 def main():

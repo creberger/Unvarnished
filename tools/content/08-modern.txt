@@ -8,18 +8,18 @@ desc: Schiele, with wild hair and a tilted head, looks sideways out of the pictu
 + Physalis, or Chinese lantern, with its red husks. || A sign of autumn.
 - Roses. || It's physalis.
 - Chillies. || It's physalis.
-@ 0.6 0.3 2.5 | His face | Look at his face. | How does it look?
-+ Twisted and intense, painted with sharp lines. || Schiele exaggerated.
-- Smooth and calm. || It's intense.
-- Smiling broadly. || It's intense.
-@ 0.9 0.88 3 | Bottom right | Look at the bottom right. | What's there?
-+ His signature and the date, in a box. || A graphic touch.
-- A stamp. || It's his signature.
-- A spider. || It's his signature.
-@ 0.5 0.5 1 | Full painting | Finally, his life. | How did it end?
-+ He died of flu in 1918, aged 28. || Three days after his wife.
-- He lived to 90. || He died at 28.
-- He was murdered. || He died of flu.
+@ 0.6 0.3 2.5 | His face | Look at his face. | How is his face drawn?
++ With sharp, angular lines and odd colours. || Schiele exaggerated to show feeling.
+- With soft, blurred edges. || The lines are sharp.
+- With tiny dots of colour. || It's drawn in sharp lines.
+@ 0.9 0.88 3 | Bottom right | Look at the bottom right. | What's in the box at bottom right?
++ His signature and the date. || A graphic touch.
+- His initials and his address. || His signature and the date.
+- The title and the price. || His signature and the date.
+@ 0.5 0.5 1 | Full painting | Finally, his life. | How did Schiele die?
++ Of flu in 1918, aged 28. || Three days after his wife.
+- Of flu in 1918, aged 38. || He was 28.
+- In battle in 1918, aged 28. || He died of flu.
 
 ## af-klint-adulthood | The Ten Largest, No. 7, Adulthood | Hilma af Klint | 1862–1944 | 1907 | Tempera on paper mounted on canvas | Hilma af Klint Foundation, Stockholm
 desc: Large yellow and orange petal shapes, spirals, circles and letters float on a lilac ground.
@@ -31,18 +31,18 @@ desc: Large yellow and orange petal shapes, spirals, circles and letters float o
 + In 1907, before most famous abstract painting. || She was a pioneer.
 - In 1970. || In 1907.
 - In 1800. || In 1907.
-@ 0.85 0.5 2.5 | The letters | Look at the letters and spirals. | What guided her?
-+ She believed spirit guides directed her work. || She held séances.
-- A computer. || It's 1907.
-- A textbook. || She believed in spirits.
-@ 0.2 0.3 2.5 | The left | Look at the circles. | What's the series about?
+@ 0.85 0.5 2.5 | The letters | Look at the letters and spirals. | What did she believe guided her?
++ Spirit guides she contacted in séances. || She called them the High Masters.
+- Dreams she wrote down each morning. || She believed in spirit guides.
+- Botany books from her studies. || She believed in spirit guides.
+@ 0.2 0.3 2.5 | The left | Look at the circles. | What does the series show?
 + The stages of human life. || No. 7 is Adulthood.
-- The planets. || Life stages.
-- Flowers. || Life stages.
-@ 0.5 0.5 1 | Full painting | Finally, her wish. | How long should they stay hidden?
+- The planets of the solar system. || The stages of life.
+- The Ten Commandments. || The stages of life.
+@ 0.5 0.5 1 | Full painting | Finally, her wish. | When did she want them shown?
 + At least 20 years after her death. || The world wasn't ready.
-- Forever. || 20 years.
-- None. || 20 years.
+- At least 50 years after her death. || At least 20.
+- Only after a war had ended. || At least 20 years after her death.
 
 ## woman-with-a-hat | Woman with a Hat | Henri Matisse | 1869–1954 | 1905 | Oil on canvas | San Francisco Museum of Modern Art
 desc: A woman in a huge, wildly coloured hat, her face painted in streaks of green, blue and orange.
@@ -54,18 +54,18 @@ desc: A woman in a huge, wildly coloured hat, her face painted in streaks of gre
 + Green, blue and orange. || Colour freed from reality.
 - Only pink. || It's wild colours.
 - Grey. || It's colourful.
-@ 0.5 0.15 2.5 | The hat | Look at the hat. | What's on it?
-+ Bold, loose patches of colour. || It's almost abstract.
-- A bird. || It's colour.
-- A clock. || It's colour.
+@ 0.5 0.15 2.5 | The hat | Look at the hat. | What did a critic call these painters?
++ Les Fauves, the wild beasts. || The name stuck.
+- Les Nabis, the prophets. || That's a different group.
+- Les Barbares, the barbarians. || It was Les Fauves.
 @ 0.5 0.75 2.5 | Her dress | Look at her dress. | Who is she?
 + Matisse's wife, Amélie. || She posed often.
-- A stranger. || It's his wife.
-- A queen. || It's his wife.
-@ 0.5 0.5 1 | Full painting | Finally, who bought it? | First owners?
-+ Gertrude and Leo Stein. || They were famous collectors.
-- The Louvre. || The Steins.
-- No one. || The Steins.
+- Matisse's daughter, Marguerite. || It's his wife.
+- Gertrude Stein. || It's his wife.
+@ 0.5 0.5 1 | Full painting | Finally, who bought it? | Who bought it first?
++ Gertrude and Leo Stein. || Famous collectors in Paris.
+- Sergei Shchukin. || He bought later Matisses; this went to the Steins.
+- The French state. || The Steins.
 
 ## harmony-in-red | The Dessert: Harmony in Red | Henri Matisse | 1869–1954 | 1908 | Oil on canvas | Hermitage Museum, St Petersburg
 desc: A woman arranges fruit on a table in a room where the red tablecloth and red wall share the same blue pattern; a window shows a garden.
@@ -77,18 +77,18 @@ desc: A woman arranges fruit on a table in a room where the red tablecloth and r
 + The same pattern runs across both, flattening the room. || Wall and table merge.
 - They're different. || They're the same.
 - There's no pattern. || There is.
-@ 0.15 0.25 2.5 | The window | Look at the window. | What's there?
+@ 0.15 0.25 2.5 | The window | Look at the window. | What's through the window?
 + A garden with trees in blossom. || A green contrast.
-- A city. || It's a garden.
-- The sea. || It's a garden.
-@ 0.85 0.4 2.5 | The woman | Look at the woman. | What's she doing?
-+ Arranging fruit. || It's a domestic scene.
-- Reading. || She's arranging fruit.
-- Sleeping. || She's arranging.
-@ 0.5 0.5 1 | Full painting | Finally, who commissioned it? | A Russian?
+- The Seine with a bridge. || It's a garden.
+- A snowy street. || It's a garden.
+@ 0.85 0.4 2.5 | The woman | Look at the woman. | What's the woman doing?
++ Arranging fruit on the table. || A domestic scene.
+- Pouring wine into a glass. || Arranging fruit.
+- Sewing at the table. || Arranging fruit.
+@ 0.5 0.5 1 | Full painting | Finally, who commissioned it? | Who commissioned it?
 + Sergei Shchukin, a Moscow collector. || He bought many Matisses.
-- The tsar. || It was Shchukin.
-- Lenin. || It was Shchukin.
+- Ivan Morozov, a Moscow collector. || Another great collector, but this was Shchukin.
+- Gertrude Stein, in Paris. || It was Shchukin.
 
 ## street-dresden | Street, Dresden | Ernst Ludwig Kirchner | 1880–1938 | 1908 | Oil on canvas | Museum of Modern Art, New York
 desc: Crowds with masklike faces push along a pink street, a woman in a huge hat in front and a tram behind.
@@ -100,18 +100,18 @@ desc: Crowds with masklike faces push along a pink street, a woman in a huge hat
 + Pink. || Colour shows feeling.
 - Grey. || It's pink.
 - Black. || It's pink.
-@ 0.3 0.3 2.5 | The faces | Look at the faces. | How do they look?
+@ 0.3 0.3 2.5 | The faces | Look at the faces. | How do the faces look?
 + Masklike and anxious. || City life alienates.
-- Happy. || They're anxious.
-- Asleep. || They're awake.
-@ 0.8 0.15 2.5 | The background | Look at the top. | What's there?
+- Rosy and cheerful. || They're anxious.
+- Blank, with no features. || They're masklike.
+@ 0.8 0.15 2.5 | The background | Look at the top. | What's behind the crowd?
 + A tram. || A busy city.
-- A horse. || It's a tram.
-- A ship. || It's a tram.
-@ 0.5 0.5 1 | Full painting | Finally, the Nazis. | How did they treat his work?
-+ They called it "degenerate" and removed it from museums. || Kirchner was devastated.
-- They loved it. || They banned it.
-- They didn't notice. || They banned it.
+- A horse-drawn cab. || A tram.
+- A motor car. || A tram.
+@ 0.5 0.5 1 | Full painting | Finally, the Nazis. | What did the Nazis call his work?
++ Degenerate. || They removed it from museums.
+- Foreign. || Degenerate.
+- Bourgeois. || Degenerate.
 
 ## blue-horses | The Large Blue Horses | Franz Marc | 1880–1916 | 1911 | Oil on canvas | Walker Art Center, Minneapolis
 desc: Three blue horses with curving bodies stand together before red and yellow hills.
@@ -123,18 +123,18 @@ desc: Three blue horses with curving bodies stand together before red and yellow
 + Three. || They overlap.
 - One. || Three.
 - Ten. || Three.
-@ 0.6 0.15 2.5 | The hills | Look at the hills. | What colours?
-+ Red and yellow. || Bold contrasts.
-- Green. || Red and yellow.
-- White. || Red and yellow.
-@ 0.5 0.5 1.5 | The curves | Look at their bodies. | How are they shaped?
-+ In sweeping curves that echo the hills. || Animal and nature merge.
-- Square. || They're curved.
-- Spiky. || They're curved.
-@ 0.5 0.5 1 | Full painting | Finally, Marc's fate. | What happened?
-+ He was killed at Verdun in 1916. || He was 36.
-- He retired. || He was killed.
-- He moved to America. || He was killed.
+@ 0.6 0.15 2.5 | The hills | Look at the hills. | Which group did Marc co-found?
++ Der Blaue Reiter, with Kandinsky. || The Blue Rider.
+- Die Brücke, with Kirchner. || That's a different group.
+- Der Blaue Reiter, with Klee. || Klee joined later; Kandinsky co-founded it.
+@ 0.5 0.5 1.5 | The curves | Look at their bodies. | Where is it?
++ Walker Art Center, Minneapolis. || It's one of their best-loved works.
+- Lenbachhaus, Munich. || It holds many Blue Rider works, but not this one.
+- MoMA, New York. || It's in Minneapolis.
+@ 0.5 0.5 1 | Full painting | Finally, Marc's fate. | How did Marc die?
++ Killed at Verdun in 1916. || He was 36.
+- Killed at the Somme in 1916. || At Verdun.
+- Killed at Verdun in 1918. || In 1916.
 
 ## city-rises | The City Rises | Umberto Boccioni | 1882–1916 | 1910 | Oil on canvas | Museum of Modern Art, New York
 desc: A giant red horse and straining workers blur together in a whirl of energy at a city building site.
@@ -146,18 +146,18 @@ desc: A giant red horse and straining workers blur together in a whirl of energy
 + Raw energy and labour. || It's huge and blurred.
 - A race. || It's labour.
 - A parade. || It's labour.
-@ 0.2 0.6 2.5 | The workers | Look at the workers. | What are they doing?
+@ 0.2 0.6 2.5 | The workers | Look at the workers. | What are the workers doing?
 + Straining to control the horse. || The struggle of building.
-- Dancing. || They're straining.
-- Resting. || They're straining.
-@ 0.6 0.1 2.5 | The background | Look at the top. | What's being built?
-+ A new power station and buildings. || The modern city.
-- A cathedral. || It's modern.
-- A castle. || It's modern.
-@ 0.5 0.5 1 | Full painting | Finally, Boccioni's fate. | How did he die?
-+ He fell from a horse during army training in 1916. || He was 33.
-- In old age. || He was young.
-- In a car race. || A horse.
+- Fleeing from the horse. || They're straining to hold it.
+- Laying railway track. || They're controlling the horse.
+@ 0.6 0.1 2.5 | The background | Look at the top. | Which city is it?
++ Milan. || Futurism's home.
+- Turin. || Milan.
+- Rome. || Milan.
+@ 0.5 0.5 1 | Full painting | Finally, Boccioni's fate. | How did Boccioni die?
++ He fell from a horse during army training. || In 1916, aged 33.
+- He was shot at the front. || He fell from a horse.
+- He fell from a horse during a race. || It was army training.
 
 ## gris-picasso | Portrait of Pablo Picasso | Juan Gris | 1887–1927 | 1912 | Oil on canvas | Art Institute of Chicago
 desc: Picasso's head and body broken into faceted blue, grey and brown planes, holding a palette.
@@ -169,18 +169,18 @@ desc: Picasso's head and body broken into faceted blue, grey and brown planes, h
 + A palette. || He's a painter.
 - A guitar. || It's a palette.
 - A book. || It's a palette.
-@ 0.85 0.9 3 | Bottom right | Look at the bottom right. | What's written there?
-+ A dedication: "Homage to Pablo Picasso." || It's a tribute.
-- A price. || It's a dedication.
-- A date only. || It's a dedication.
-@ 0.5 0.3 2.5 | The face | Look at the face. | What style?
+@ 0.85 0.9 3 | Bottom right | Look at the bottom right. | What's written at bottom right?
++ "Homage to Pablo Picasso." || It's a tribute.
+- "Portrait of my friend Pablo." || It says "Homage to Pablo Picasso."
+- "To Picasso, from Braque." || It's by Gris.
+@ 0.5 0.3 2.5 | The face | Look at the face. | Which style is it?
 + Cubism, breaking forms into planes. || Picasso co-invented it.
-- Realism. || It's Cubism.
-- Pointillism. || It's Cubism.
-@ 0.5 0.5 1 | Full painting | Finally, Gris's nationality. | Where was he from?
-+ Spain, like Picasso. || Both from Spain.
-- Italy. || Spain.
-- France. || Spain.
+- Fauvism, using wild colour. || It's Cubism.
+- Futurism, showing movement. || It's Cubism.
+@ 0.5 0.5 1 | Full painting | Finally, Gris's nationality. | Where were Gris and Picasso from?
++ Both from Spain. || They met in Paris.
+- Gris from Portugal, Picasso from Spain. || Both from Spain.
+- Gris from Argentina, Picasso from Spain. || Both from Spain.
 
 ## composition-vii | Composition VII | Wassily Kandinsky | 1866–1944 | 1913 | Oil on canvas | Tretyakov Gallery, Moscow
 desc: An explosion of colours, lines and shapes swirls across a large canvas with no recognisable objects.
@@ -192,18 +192,18 @@ desc: An explosion of colours, lines and shapes swirls across a large canvas wit
 + With more than 30 studies. || Then painted in a few days.
 - Without planning. || He planned.
 - From a photo. || He planned with studies.
-@ 0.2 0.3 2.5 | The left | Look at the left. | What themes?
-+ Themes like the Flood and the Last Judgement, turned abstract. || The subjects dissolve.
-- A football match. || Biblical themes.
-- A wedding. || Biblical themes.
-@ 0.8 0.7 2.5 | The right | Look at the colours. | What did Kandinsky say about colour?
-+ He compared colours to musical notes. || He may have had synaesthesia.
-- They meant nothing. || They were like music.
-- Only red mattered. || All colour mattered.
-@ 0.5 0.5 1 | Full painting | Finally, its title. | Why Composition?
-+ He used musical terms for his most important works. || There are ten Compositions.
-- It's a chemistry term. || It's musical.
-- No reason. || It's musical.
+@ 0.2 0.3 2.5 | The left | Look at the left. | Which themes lie behind it?
++ The Flood and the Last Judgement. || Turned abstract.
+- The Russian Revolution and civil war. || Those came after 1913.
+- The sinking of the Titanic. || The themes are biblical.
+@ 0.8 0.7 2.5 | The right | Look at the colours. | What did he compare colours to?
++ Musical notes. || He may have had synaesthesia.
+- Planets. || Musical notes.
+- Letters of the alphabet. || Musical notes.
+@ 0.5 0.5 1 | Full painting | Finally, its title. | How many Compositions did he paint?
++ Ten. || His most important works.
+- Seven. || This is No. 7 of ten.
+- Twenty. || Ten.
 
 ## several-circles | Several Circles | Wassily Kandinsky | 1866–1944 | 1926 | Oil on canvas | Solomon R. Guggenheim Museum, New York
 desc: Overlapping coloured circles of many sizes float on a dark background, the largest black with a blue halo.
@@ -215,18 +215,18 @@ desc: Overlapping coloured circles of many sizes float on a dark background, the
 + A blue glowing halo. || It's cosmic.
 - A square. || It's a halo.
 - A face. || It's a halo.
-@ 0.75 0.75 2.5 | The small circles | Look at the small circles. | What do they do?
-+ Overlap, mixing colours like transparent films. || They seem to float.
-- Stay apart. || They overlap.
-- Fall. || They float.
-@ 0.5 0.5 1.5 | The background | Look at the background. | What colour?
-+ Dark, like space. || Circles like planets.
-- White. || It's dark.
-- Yellow. || It's dark.
-@ 0.5 0.5 1 | Full painting | Finally, why circles? | What did he say?
-+ He called the circle the most modest yet assertive form. || He loved its tension.
-- He hated circles. || He loved them.
-- He couldn't draw squares. || He loved circles.
+@ 0.75 0.75 2.5 | The small circles | Look at the small circles. | What do the small circles do?
++ Overlap like transparent coloured films. || They seem to float.
+- Line up in a straight row. || They overlap.
+- Orbit the big circle in a ring. || They overlap.
+@ 0.5 0.5 1.5 | The background | Look at the background. | Which museum has it?
++ The Guggenheim, New York. || Solomon Guggenheim collected Kandinsky.
+- MoMA, New York. || The Guggenheim.
+- The Pompidou, Paris. || The Guggenheim.
+@ 0.5 0.5 1 | Full painting | Finally, why circles? | What did he call the circle?
++ The most modest yet assertive form. || He loved its tension.
+- The loneliest of all forms. || The most modest yet assertive.
+- The most aggressive form. || The most modest yet assertive.
 
 ## black-square | Black Square | Kazimir Malevich | 1879–1935 | 1915 | Oil on linen | Tretyakov Gallery, Moscow
 desc: A black square, its surface covered in fine cracks, on a white ground.
@@ -238,18 +238,18 @@ desc: A black square, its surface covered in fine cracks, on a white ground.
 + Researchers found an earlier painting underneath. || X-rays revealed it.
 - Nothing. || There's another painting.
 - A photo. || A painting.
-@ 0.1 0.1 2.5 | The white border | Look at the edge. | What movement did it launch?
+@ 0.1 0.1 2.5 | The white border | Look at the edge. | Which movement did it launch?
 + Suprematism. || Malevich's own movement.
-- Impressionism. || Suprematism.
-- Pop Art. || Suprematism.
-@ 0.5 0.5 1.5 | The square | Look at the square. | Is it perfect?
-+ Not quite; its sides aren't exactly straight. || It's hand painted.
-- It's perfect. || It's not.
-- It's a circle. || It's a square.
-@ 0.5 0.5 1 | Full painting | Finally, versions. | How many Black Squares?
-+ Four. || Painted over the years.
-- One. || Four.
-- 100. || Four.
+- Constructivism. || That came after.
+- Futurism. || Suprematism.
+@ 0.5 0.5 1.5 | The square | Look at the square. | Is the square perfect?
++ No; its sides aren't quite straight. || It's hand painted.
+- Yes; he used a ruler and set square. || It's not quite straight.
+- No; it's a rectangle twice as wide. || It's nearly square.
+@ 0.5 0.5 1 | Full painting | Finally, versions. | How many Black Squares did he paint?
++ Four. || Over the years.
+- Two. || Four.
+- Seven. || Four.
 
 ## gray-tree | Gray Tree | Piet Mondrian | 1872–1944 | 1911 | Oil on canvas | Kunstmuseum Den Haag, The Hague
 desc: The branches of a tree spread across the canvas in grey and black curves, almost dissolving into a pattern.
@@ -261,18 +261,18 @@ desc: The branches of a tree spread across the canvas in grey and black curves, 
 + As rhythmic curves. || Like a pattern.
 - Straight lines only. || They're curved.
 - Dots. || They're curves.
-@ 0.5 0.85 2 | The colours | Look at the colours. | What palette?
+@ 0.5 0.85 2 | The colours | Look at the colours. | What's the palette?
 + Greys and blacks. || Colour is stripped away.
-- Reds. || It's grey.
-- Rainbow. || It's grey.
-@ 0.2 0.5 2.5 | The left | Look at the left. | What series?
-+ A series of tree paintings. || Including the Red Tree.
-- A series of boats. || Trees.
-- A single work. || A series.
-@ 0.5 0.5 1 | Full painting | Finally, his name. | What changed?
-+ He dropped an "a" from Mondriaan when he moved to Paris. || He became Mondrian.
-- He changed it to Smith. || He dropped an "a."
-- Nothing. || He changed it.
+- Reds and blues. || It's grey.
+- Greens and browns. || It's grey.
+@ 0.2 0.5 2.5 | The left | Look at the left. | Where is it?
++ Kunstmuseum Den Haag. || It holds the largest Mondrian collection.
+- Rijksmuseum, Amsterdam. || It's in The Hague.
+- Stedelijk Museum, Amsterdam. || It's in The Hague.
+@ 0.5 0.5 1 | Full painting | Finally, his name. | How did his name change?
++ He dropped an "a" when he moved to Paris. || Mondriaan became Mondrian.
+- He dropped an "a" when he moved to New York. || It was Paris.
+- He added an "a" when he moved to Paris. || He dropped one.
 
 ## mondrian-red-blue-yellow | Composition II in Red, Blue and Yellow | Piet Mondrian | 1872–1944 | 1930 | Oil on canvas | Kunsthaus Zürich
 desc: A large red square dominates a white grid divided by thick black lines, with a blue block at bottom left and a small yellow one at bottom right.
@@ -284,18 +284,18 @@ desc: A large red square dominates a white grid divided by thick black lines, wi
 + It fills most of the canvas. || It dominates.
 - It's tiny. || It's huge.
 - It's a circle. || It's a square.
-@ 0.12 0.88 2.5 | The blue | Look at the blue block. | Where is it?
+@ 0.12 0.88 2.5 | The blue | Look at the blue block. | Where's the blue?
 + Bottom left. || Balancing the red.
-- Top right. || Bottom left.
-- Centre. || Bottom left.
-@ 0.95 0.92 3 | The yellow | Look at the yellow. | How big?
-+ A small block in the corner. || A tiny balance.
-- Huge. || It's small.
-- Missing. || It's there.
+- Top left. || Bottom left.
+- Bottom right. || Bottom left.
+@ 0.95 0.92 3 | The yellow | Look at the yellow. | When did Mondrian move to New York?
++ 1940. || He fled the war in Europe.
+- 1930. || 1940.
+- 1945. || He died in New York in 1944.
 @ 0.5 0.5 1 | Full painting | Finally, a rule. | What did he refuse to use?
 + Diagonal lines. || He split with a friend over them.
-- Black. || He used black.
-- Canvas. || He used canvas.
+- Black lines. || He used black.
+- White. || He used white.
 
 ## the-city-leger | The City | Fernand Léger | 1881–1955 | 1919 | Oil on canvas | Philadelphia Museum of Art
 desc: A crowded collage of flat, bright shapes, stencilled letters, scaffolding, a purple pole and robot-like figures on stairs.
@@ -307,18 +307,18 @@ desc: A crowded collage of flat, bright shapes, stencilled letters, scaffolding,
 + Robot-like. || Machine age people.
 - Lifelike. || They're robotic.
 - Animals. || They're people.
-@ 0.65 0.5 2.5 | The pole | Look at the purple pole. | What does it do?
-+ It cuts the scene vertically. || Like a column.
-- It's a tree. || It's a pole.
-- It's a snake. || It's a pole.
-@ 0.1 0.6 2.5 | The letters | Look at the letters. | Where are they from?
-+ Like stencils from posters and signs. || City advertising.
-- A book. || Posters.
-- Graffiti. || Stencils.
-@ 0.5 0.5 1 | Full painting | Finally, Léger's war. | What happened in World War I?
+@ 0.65 0.5 2.5 | The pole | Look at the purple pole. | What does the purple pole do?
++ Cuts the scene vertically. || Like a column.
+- Holds up the scaffolding. || It cuts the scene.
+- Marks the exact centre. || It's off-centre.
+@ 0.1 0.6 2.5 | The letters | Look at the letters. | Where do the letters come from?
++ Stencils, like posters and signs. || City advertising.
+- A Paris newspaper, glued on. || They're painted.
+- His own handwriting. || They're stencilled.
+@ 0.5 0.5 1 | Full painting | Finally, Léger's war. | What happened to Léger in the First World War?
 + He was gassed at Verdun. || Machines fascinated him.
-- He was a general. || He was a soldier.
-- He avoided it. || He fought.
+- He was wounded at the Somme. || He was gassed at Verdun.
+- He served only as a war artist. || He fought.
 
 ## twittering-machine | Twittering Machine | Paul Klee | 1879–1940 | 1922 | Watercolour and oil transfer on paper | Museum of Modern Art, New York
 desc: Thin black lines draw four strange birds perched on a wire attached to a hand crank, over a misty blue-pink background.
@@ -330,18 +330,18 @@ desc: Thin black lines draw four strange birds perched on a wire attached to a h
 + Four. || They're singing.
 - One. || Four.
 - Ten. || Four.
-@ 0.25 0.5 2.5 | The crank | Look at the left. | What's there?
-+ A hand crank. || It powers the birds.
-- A tree. || It's a crank.
-- A clock. || It's a crank.
-@ 0.5 0.75 2 | The background | Look at the background. | What colours?
+@ 0.25 0.5 2.5 | The crank | Look at the left. | What powers the birds?
++ A hand crank. || It's a machine.
+- A clockwork key. || A hand crank.
+- A foot pedal. || A hand crank.
+@ 0.5 0.75 2 | The background | Look at the background. | What colours is the background?
 + Blue fading to pink. || Misty.
-- Black. || Blue and pink.
-- Gold. || Blue and pink.
-@ 0.5 0.5 1 | Full painting | Finally, its fate. | What happened in 1937?
-+ The Nazis seized it as "degenerate," and MoMA later bought it. || It came to New York in 1939.
-- It was destroyed. || It survives.
-- It was hidden by Klee. || It was seized.
+- Pink fading to green. || Blue to pink.
+- Yellow fading to blue. || Blue to pink.
+@ 0.5 0.5 1 | Full painting | Finally, its fate. | When did MoMA get it?
++ 1939, after the Nazis seized it. || It was sold off from a German museum.
+- 1949, after the war. || 1939.
+- 1929, when MoMA opened. || 1939.
 
 ## jeanne-hebuterne | Jeanne Hébuterne | Amedeo Modigliani | 1884–1920 | 1919 | Oil on canvas | The Metropolitan Museum of Art, New York
 desc: A young woman with a long neck and an oval face rests her head on her hand, leaning on a chair.
@@ -353,15 +353,15 @@ desc: A young woman with a long neck and an oval face rests her head on her hand
 + A long oval face and almond eyes. || His signature style.
 - A round face. || It's oval.
 - No face. || There's a face.
-@ 0.35 0.4 2.5 | Her neck | Look at her neck. | How long?
-+ Elongated. || Inspired by African and Cycladic sculpture.
-- Short. || It's long.
-- Hidden. || It's visible.
-@ 0.7 0.6 2.5 | The chair | Look at the chair. | What colour?
+@ 0.35 0.4 2.5 | Her neck | Look at her neck. | Where did his long necks come from?
++ African and Cycladic sculpture. || He also carved stone heads.
+- Japanese woodblock prints. || Sculpture.
+- Egyptian tomb paintings. || Sculpture.
+@ 0.7 0.6 2.5 | The chair | Look at the chair. | What colour is the chair?
 + Golden brown. || It frames her.
-- Pink. || It's brown.
-- Blue. || It's brown.
-@ 0.5 0.5 1 | Full painting | Finally, their fate. | What happened?
-+ She died two days after Modigliani, in 1920. || She was 21.
-- She lived to 100. || She died young.
-- They moved to America. || She died in 1920.
+- Deep red. || Golden brown.
+- Dark green. || Golden brown.
+@ 0.5 0.5 1 | Full painting | Finally, their fate. | When did Jeanne die?
++ Two days after Modigliani, in 1920. || She was 21.
+- Two years after Modigliani, in 1922. || Two days after.
+- Two days before Modigliani, in 1920. || Two days after.

@@ -73,17 +73,17 @@
    "hint": "Why does the crust seem to sparkle?",
    "statements": [
     {
-     "text": "Vermeer dabbed on tiny dots of light paint, a technique often called pointillé.",
-     "isTrue": true,
-     "why": "Up close the highlights break into separate dots. From a step back they read as light catching a crust."
+     "text": "Vermeer dabbed tiny dots of pale paint on the crust to catch the light.",
+     "why": "Up close the highlights break into separate dots, often called pointillé.",
+     "isTrue": true
     },
     {
-     "text": "He pressed real breadcrumbs into the wet paint to give it texture.",
-     "why": "The texture is all paint."
+     "text": "Vermeer mixed ground glass into the paint so the crust would glitter.",
+     "why": "There's no glass. The sparkle is dots of pale paint."
     },
     {
-     "text": "The bread was added a century later by another artist to fill an empty table.",
-     "why": "The still life is Vermeer's, and part of the original design."
+     "text": "Vermeer scraped back the top layer so the pale ground shows through.",
+     "why": "He added pale dots on top rather than scratching down."
     }
    ]
   },
@@ -95,20 +95,20 @@
    },
    "where": "The floor",
    "prompt": "Down at the floor, by the wall.",
-   "hint": "What was here before the little box?",
+   "hint": "What was here before the foot warmer?",
    "statements": [
     {
-     "text": "Scans show Vermeer first painted a large wicker basket here, then replaced it with this foot warmer.",
-     "isTrue": true,
-     "why": "The box held a pot of hot coals to warm someone's feet. The tiles along the wall include a Cupid, which some read as a hint about love."
+     "text": "Scans show he first painted a wicker laundry basket in that spot.",
+     "why": "He replaced it with the foot warmer, a box that held hot coals.",
+     "isTrue": true
     },
     {
-     "text": "The box is a mousetrap, a joke about how poor the household was.",
-     "why": "It's a foot warmer, a common item in Dutch homes."
+     "text": "Scans show he first painted a sleeping dog in that spot.",
+     "why": "It was a laundry basket."
     },
     {
-     "text": "The box lid hides Vermeer's initials, a secret signature.",
-     "why": "There's no signature on the foot warmer."
+     "text": "Scans show he first painted a second jug of milk in that spot.",
+     "why": "It was a laundry basket."
     }
    ]
   },
@@ -120,20 +120,20 @@
    },
    "where": "Full painting",
    "prompt": "Finally, the painting's own story.",
-   "hint": "Where has it been since Vermeer?",
+   "hint": "When did the Rijksmuseum buy it?",
    "statements": [
     {
-     "text": "The Rijksmuseum bought it in 1908, and it has belonged to the museum in Amsterdam ever since.",
-     "isTrue": true,
-     "why": "It has travelled only for a few rare loans abroad."
+     "text": "The Rijksmuseum bought it in 1908.",
+     "why": "It came from the Six family collection, with help from the Dutch state.",
+     "isTrue": true
     },
     {
-     "text": "It was stolen in 1971 and found two weeks later in a Brussels garage.",
-     "why": "You may be thinking of another Vermeer, The Love Letter, stolen while on loan in Brussels in 1971."
+     "text": "The Rijksmuseum bought it in 1885, the year its building opened.",
+     "why": "The building opened in 1885, but the painting came in 1908."
     },
     {
-     "text": "Napoleon's troops took it to the Louvre, and it only came home in 1945.",
-     "why": "It stayed in Dutch private collections until 1908."
+     "text": "The Rijksmuseum bought it in 1938, just before the war.",
+     "why": "It came in 1908."
     }
    ]
   }

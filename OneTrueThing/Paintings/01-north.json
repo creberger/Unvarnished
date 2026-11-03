@@ -66,20 +66,20 @@
     },
     "where": "Above the mirror",
     "prompt": "Now the writing above the mirror.",
-    "hint": "What does it say?",
+    "hint": "What does the Latin above the mirror say?",
     "statements": [
      {
-      "text": "It says, in Latin, \"Jan van Eyck was here 1434.\"",
-      "why": "He wrote it like a witness signing a document. It's one reason some think the painting records a betrothal.",
+      "text": "\"Jan van Eyck was here, 1434.\"",
+      "why": "It's written like a witness's signature on a document.",
       "isTrue": true
      },
      {
-      "text": "It's a Bible verse about marriage.",
-      "why": "It's a signature and a date."
+      "text": "\"As I can, Jan van Eyck, 1434.\"",
+      "why": "That motto appears on some of his other frames, not here."
      },
      {
-      "text": "It's the price the couple paid for the painting.",
-      "why": "It records that the painter was present, not a price."
+      "text": "\"Giovanni Arnolfini and his wife, 1434.\"",
+      "why": "The couple aren't named anywhere on the painting."
      }
     ]
    },
@@ -91,20 +91,20 @@
     },
     "where": "The chandelier",
     "prompt": "Up at the brass chandelier.",
-    "hint": "Look at the candles.",
+    "hint": "How many candles are lit?",
     "statements": [
      {
-      "text": "Only one candle is lit, even though it's broad daylight.",
-      "why": "The single flame is often read as a symbol, perhaps of God's presence or of a marriage vow.",
+      "text": "Just one candle burns, in broad daylight.",
+      "why": "It's often read as a symbol, perhaps of a vow or of God's presence.",
       "isTrue": true
      },
      {
-      "text": "Every candle in the chandelier is burning.",
-      "why": "Just one is lit."
+      "text": "Two candles burn, one above each of the couple.",
+      "why": "Only one is lit."
      },
      {
-      "text": "The chandelier is Venetian glass.",
-      "why": "It's brass, painted so finely you can see its reflections."
+      "text": "Every candle burns, for a celebration.",
+      "why": "Only one is lit."
      }
     ]
    },
@@ -116,20 +116,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, the painting's own story.",
-    "hint": "Where did it end up?",
+    "hint": "When did the National Gallery buy it?",
     "statements": [
      {
-      "text": "The National Gallery in London bought it in 1842.",
-      "why": "It had passed through Habsburg and Spanish royal collections before reaching Britain.",
+      "text": "The National Gallery bought it in 1842.",
+      "why": "It had passed through Habsburg and Spanish royal collections first.",
       "isTrue": true
      },
      {
-      "text": "It was found rolled up in a Bruges attic in 1900.",
-      "why": "It's on a rigid panel and has a well-documented history."
+      "text": "The National Gallery bought it in 1824, the year it opened.",
+      "why": "The gallery opened in 1824; this came in 1842."
      },
      {
-      "text": "Historians agree the woman is pregnant.",
-      "why": "Most think she's gathering up the full skirt of a fashionable dress."
+      "text": "The National Gallery bought it in 1894.",
+      "why": "It came in 1842."
      }
     ]
    }
@@ -205,20 +205,20 @@
     },
     "where": "Mary",
     "prompt": "Look at Mary in her blue robe.",
-    "hint": "How does her body fall?",
+    "hint": "How does Mary's body fall?",
     "statements": [
      {
       "text": "Her fainting body echoes the curve of Christ's body above her.",
-      "why": "The repeated pose links her suffering to his.",
+      "why": "The repeated pose ties her suffering to his.",
       "isTrue": true
      },
      {
-      "text": "Her robe was repainted green in the 1700s.",
-      "why": "The blue is original, and very costly."
+      "text": "Her fainting body forms a cross, echoing the cross behind her.",
+      "why": "It echoes Christ's curving body, not the cross."
      },
      {
-      "text": "Rogier left Mary to a student and painted only Christ himself.",
-      "why": "The whole work is accepted as by Rogier."
+      "text": "She kneels upright, praying with her eyes open.",
+      "why": "She's fainting, with her eyes closed."
      }
     ]
    },
@@ -230,20 +230,20 @@
     },
     "where": "The faces",
     "prompt": "Look closely at the mourners' faces.",
-    "hint": "What catches the light?",
+    "hint": "What shows the mourners' grief?",
     "statements": [
      {
-      "text": "Clear tears run down several faces, painted as tiny drops with highlights.",
-      "why": "Rogier was famous for showing grief this directly.",
+      "text": "Clear tears run down several faces, each with its own highlight.",
+      "why": "Rogier painted grief unusually directly.",
       "isTrue": true
      },
      {
-      "text": "The faces were copied from Roman statues.",
-      "why": "They're individual, emotional faces, not classical copies."
+      "text": "Several mourners have torn their clothes, an old sign of grief.",
+      "why": "Their clothes are whole; the grief shows in tears."
      },
      {
-      "text": "The tears were added by a restorer in 1939.",
-      "why": "They're part of Rogier's original paint."
+      "text": "Ashes are smeared across several mourners' foreheads.",
+      "why": "There's no ash; it's tears."
      }
     ]
    },
@@ -255,20 +255,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, the painting's own story.",
-    "hint": "Who owned it?",
+    "hint": "Which king owned it?",
     "statements": [
      {
-      "text": "Philip II of Spain acquired it, and it now hangs in the Prado in Madrid.",
-      "why": "Spanish rulers prized it so much that they commissioned copies.",
+      "text": "Philip II of Spain owned it; it's now in the Prado.",
+      "why": "Spanish rulers prized it and had copies made.",
       "isTrue": true
      },
      {
-      "text": "It was cut into three pieces to sell and later reassembled.",
-      "why": "It's a single panel."
+      "text": "Francis I of France owned it; it's now in the Prado.",
+      "why": "It belonged to Philip II."
      },
      {
-      "text": "An American collector owned it until 1980.",
-      "why": "It has been in Spain since the 1500s."
+      "text": "Henry VIII of England owned it; it's now in the Prado.",
+      "why": "It belonged to Philip II."
      }
     ]
    }
@@ -344,20 +344,20 @@
     },
     "where": "Centre panel",
     "prompt": "Now the crowded centre.",
-    "hint": "What's out of scale?",
+    "hint": "What's out of scale in the centre?",
     "statements": [
      {
-      "text": "Giant strawberries, cherries and birds tower over the tiny figures.",
-      "why": "The fruit is often read as a symbol of brief, sweet pleasures.",
+      "text": "Giant strawberries, cherries and birds tower over the people.",
+      "why": "The fruit may stand for brief, sweet pleasures.",
       "isTrue": true
      },
      {
-      "text": "It shows a real festival in Bosch's home town.",
-      "why": "It's an imagined paradise, not a real place."
+      "text": "Giant clocks and hourglasses tower over the people.",
+      "why": "There are no clocks; it's fruit and birds."
      },
      {
-      "text": "Every figure in the centre panel is clothed.",
-      "why": "Almost all are naked."
+      "text": "Giant musical instruments tower over the people.",
+      "why": "The instruments are in the hell panel."
      }
     ]
    },
@@ -369,20 +369,20 @@
     },
     "where": "Right panel",
     "prompt": "Down in the hell panel.",
-    "hint": "Look at the man lying under the lute.",
+    "hint": "What's painted on the man under the lute?",
     "statements": [
      {
-      "text": "A line of music is painted on a man's backside.",
+      "text": "A line of music, on his backside.",
       "why": "In 2014 a student transcribed it and it was played as a short tune.",
       "isTrue": true
      },
      {
-      "text": "The hell panel is completely empty and dark.",
-      "why": "It's crowded with tortures, instruments and monsters."
+      "text": "A line of music, on a scroll in his hand.",
+      "why": "It's on his backside."
      },
      {
-      "text": "The music is a hymn Bosch copied from his church.",
-      "why": "Nobody knows of any source. It may be a joke."
+      "text": "A line of Latin, on his backside.",
+      "why": "It's musical notes."
      }
     ]
    },
@@ -394,20 +394,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, the painting's own story.",
-    "hint": "How did it reach Madrid?",
+    "hint": "Who brought it to Madrid?",
     "statements": [
      {
-      "text": "Philip II of Spain acquired it, and it now hangs in the Prado.",
-      "why": "Philip collected Bosch avidly.",
+      "text": "Philip II of Spain acquired it; it's now in the Prado.",
+      "why": "He collected Bosch avidly.",
       "isTrue": true
      },
      {
-      "text": "Bosch signed and dated it across the bottom.",
-      "why": "It isn't dated, which is why the date is given as a range."
+      "text": "Emperor Charles V acquired it; it's now in the Prado.",
+      "why": "It was his son, Philip II."
      },
      {
-      "text": "It was painted for the Pope.",
-      "why": "Its first owners were the Nassau family in Brussels."
+      "text": "Joseph Bonaparte acquired it; it's now in the Prado.",
+      "why": "It was Philip II, centuries earlier."
      }
     ]
    }
@@ -483,20 +483,20 @@
     },
     "where": "The eye",
     "prompt": "Look into the hare's eye.",
-    "hint": "What's reflected?",
+    "hint": "What's reflected in its eye?",
     "statements": [
      {
-      "text": "It reflects a window, a sign Dürer studied the animal indoors.",
-      "why": "The tiny window frame shows how closely he observed.",
+      "text": "A window, suggesting Dürer studied it indoors.",
+      "why": "The tiny window bars show how closely he looked.",
       "isTrue": true
      },
      {
-      "text": "The eye is a drop of real glass glued on.",
-      "why": "It's paint."
+      "text": "A candle flame, suggesting he worked at night.",
+      "why": "It's a window."
      },
      {
-      "text": "The eye was cut out and replaced.",
-      "why": "The paper is intact."
+      "text": "Dürer's own face, a hidden self-portrait.",
+      "why": "It's a window."
      }
     ]
    },
@@ -508,20 +508,20 @@
     },
     "where": "The fur",
     "prompt": "Look at the fur.",
-    "hint": "How was it made?",
+    "hint": "How was the fur painted?",
     "statements": [
      {
-      "text": "Each hair is its own fine brushstroke, laid over broader washes.",
-      "why": "The direction of the strokes follows the fur.",
+      "text": "Fine single strokes over broader watercolour washes.",
+      "why": "The strokes follow the direction of the fur.",
       "isTrue": true
      },
      {
-      "text": "He pressed real hare fur into the paint.",
-      "why": "It's all brushwork."
+      "text": "Fine single strokes over a pencil drawing, with no washes.",
+      "why": "He laid broad washes first."
      },
      {
-      "text": "The fur was printed from a woodblock.",
-      "why": "It's painted by hand."
+      "text": "Fine lines printed from an engraved plate, then coloured.",
+      "why": "It's painted by hand, not printed."
      }
     ]
    },
@@ -533,20 +533,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, the painting's own story.",
-    "hint": "Where can you see it?",
+    "hint": "Where is it usually kept?",
     "statements": [
      {
-      "text": "It's so sensitive to light that the Albertina rarely shows the original.",
+      "text": "In storage at the Albertina; light would fade it.",
       "why": "A facsimile is usually on view instead.",
       "isTrue": true
      },
      {
-      "text": "It hangs permanently in a sunlit room.",
-      "why": "Light would fade it, so it's kept dark."
+      "text": "On permanent view at the Albertina, behind special glass.",
+      "why": "It's rarely shown."
      },
      {
-      "text": "It was lost in the Second World War and is known only from copies.",
-      "why": "The original survives in Vienna."
+      "text": "On permanent view in Nuremberg, Dürer's home town.",
+      "why": "It's in Vienna, and rarely shown."
      }
     ]
    }
@@ -622,20 +622,20 @@
     },
     "where": "The lute",
     "prompt": "Look at the lute on the lower shelf.",
-    "hint": "Check its strings.",
+    "hint": "Check the lute's strings.",
     "statements": [
      {
-      "text": "One of its strings is broken, often read as a sign of discord.",
+      "text": "One string is broken, perhaps a sign of discord.",
       "why": "In 1533 Europe was split by religious conflict.",
       "isTrue": true
      },
      {
-      "text": "It's a real lute glued to the panel.",
-      "why": "It's painted."
+      "text": "One string is missing, removed by a later restorer.",
+      "why": "It's painted broken."
      },
      {
-      "text": "The lute has no strings at all.",
-      "why": "It has strings; one is snapped."
+      "text": "Its neck is cracked, perhaps a sign of discord.",
+      "why": "It's a broken string."
      }
     ]
    },
@@ -647,19 +647,19 @@
     },
     "where": "Top corner",
     "prompt": "Up in the top left corner.",
-    "hint": "What's half hidden?",
+    "hint": "What's half hidden in the top corner?",
     "statements": [
      {
-      "text": "A small crucifix peeks out from behind the green curtain.",
+      "text": "A small crucifix, behind the green curtain.",
       "why": "It's easy to miss, perhaps on purpose.",
       "isTrue": true
      },
      {
-      "text": "A window with a view of London.",
+      "text": "A small hourglass, behind the green curtain.",
       "why": "It's a crucifix."
      },
      {
-      "text": "The painter's self-portrait.",
+      "text": "A small portrait of Henry VIII, behind the curtain.",
       "why": "It's a crucifix."
      }
     ]
@@ -672,20 +672,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, who are they?",
-    "hint": "Think about the title.",
+    "hint": "Who are the two men?",
     "statements": [
      {
-      "text": "They're Frenchmen: Jean de Dinteville, an ambassador, and Georges de Selve, a bishop.",
-      "why": "Dinteville was France's ambassador to Henry VIII's court.",
+      "text": "Jean de Dinteville, French ambassador, and Georges de Selve, a bishop.",
+      "why": "Dinteville was posted to Henry VIII's court.",
       "isTrue": true
      },
      {
-      "text": "They're two of Henry VIII's English advisers.",
-      "why": "They're French."
+      "text": "Jean de Dinteville, French ambassador, and Thomas More, a statesman.",
+      "why": "The second man is Georges de Selve."
      },
      {
-      "text": "They're Holbein and his brother.",
-      "why": "They're the diplomat and his friend."
+      "text": "Jean de Dinteville, Spanish ambassador, and Georges de Selve, a bishop.",
+      "why": "Dinteville was French."
      }
     ]
    }
@@ -761,20 +761,20 @@
     },
     "where": "The inn",
     "prompt": "Look at the inn on the left.",
-    "hint": "What's happening by the fire?",
+    "hint": "What's happening by the inn's fire?",
     "statements": [
      {
-      "text": "People are singeing the bristles off a pig over a fire.",
+      "text": "People are singeing the bristles off a pig.",
       "why": "The inn's sign hangs loose from one hook.",
       "isTrue": true
      },
      {
-      "text": "The inn is burning down.",
-      "why": "It's a cooking fire."
+      "text": "People are roasting a deer the hunters caught.",
+      "why": "The hunters caught only a fox."
      },
      {
-      "text": "Soldiers are warming their hands.",
-      "why": "They're villagers preparing a pig."
+      "text": "People are melting snow for drinking water.",
+      "why": "They're singeing a pig."
      }
     ]
    },
@@ -786,20 +786,20 @@
     },
     "where": "The ponds",
     "prompt": "Down on the frozen ponds.",
-    "hint": "What are people doing?",
+    "hint": "What's happening on the ice?",
     "statements": [
      {
-      "text": "Skating and playing games on the ice.",
+      "text": "Skaters, and players of a curling-like game.",
       "why": "Bruegel fills the valley with tiny figures.",
       "isTrue": true
      },
      {
-      "text": "Fishing from boats on open water.",
-      "why": "The water is frozen."
+      "text": "Skaters, and people fishing through holes in the ice.",
+      "why": "Nobody is fishing."
      },
      {
-      "text": "The ponds are drained and dry.",
-      "why": "They're frozen over."
+      "text": "Skaters, and soldiers marching across the ice.",
+      "why": "There are no soldiers."
      }
     ]
    },
@@ -814,17 +814,17 @@
     "hint": "Is it a real view?",
     "statements": [
      {
-      "text": "The jagged mountains are imagined; Flanders is flat.",
+      "text": "No: the jagged peaks are imagined; Flanders is flat.",
       "why": "Bruegel had crossed the Alps and drew mountains from memory.",
       "isTrue": true
      },
      {
-      "text": "It's an exact view of Antwerp.",
-      "why": "The landscape is invented."
+      "text": "Yes: it's the view from a hill outside Antwerp.",
+      "why": "The mountains are invented."
      },
      {
-      "text": "He painted it outdoors in the snow.",
-      "why": "It was painted in the studio."
+      "text": "Yes: it's an Alpine valley he sketched on his travels.",
+      "why": "It mixes a Flemish village with imagined peaks."
      }
     ]
    }
@@ -900,20 +900,20 @@
     },
     "where": "The sleeper",
     "prompt": "Look at the man lying under the tree.",
-    "hint": "What's he doing?",
+    "hint": "What's the man under the tree doing?",
     "statements": [
      {
-      "text": "He's fast asleep, sprawled out with his legs apart.",
-      "why": "He's worn out by the work.",
+      "text": "He's asleep, sprawled out after the meal.",
+      "why": "The heat and the work have worn him out.",
       "isTrue": true
      },
      {
-      "text": "He's injured.",
-      "why": "He's sleeping."
+      "text": "He's injured, and a woman is tending him.",
+      "why": "He's simply asleep."
      },
      {
-      "text": "He's dead.",
-      "why": "He's asleep."
+      "text": "He's praying, lying face down.",
+      "why": "He's asleep on his back."
      }
     ]
    },
@@ -925,7 +925,7 @@
     },
     "where": "The distance",
     "prompt": "Look far away, to the right.",
-    "hint": "What's out there?",
+    "hint": "What's in the far distance?",
     "statements": [
      {
       "text": "A bay with ships, beyond the fields.",
@@ -933,11 +933,11 @@
       "isTrue": true
      },
      {
-      "text": "A volcano erupting.",
-      "why": "It's calm water with ships."
+      "text": "A walled city on fire, beyond the fields.",
+      "why": "It's a calm bay."
      },
      {
-      "text": "A battle.",
+      "text": "Two armies in battle, beyond the fields.",
       "why": "It's peaceful."
      }
     ]
@@ -958,12 +958,12 @@
       "isTrue": true
      },
      {
-      "text": "It hung in Vienna until 1980.",
-      "why": "It came to New York in 1919."
+      "text": "The Met bought it in 1929, with the Havemeyer gift.",
+      "why": "The Havemeyer gift brought El Greco's View of Toledo; this came in 1919."
      },
      {
-      "text": "It was found under a church floor.",
-      "why": "Its history is documented."
+      "text": "The Met bought it in 1909.",
+      "why": "It came in 1919."
      }
     ]
    }
@@ -1042,17 +1042,17 @@
     "hint": "Where does the blue come from?",
     "statements": [
      {
-      "text": "It's ultramarine, made from lapis lazuli.",
-      "why": "A costly pigment Vermeer used generously.",
+      "text": "Ultramarine, ground from lapis lazuli.",
+      "why": "A costly pigment Vermeer used freely.",
       "isTrue": true
      },
      {
-      "text": "Indigo dye.",
+      "text": "Azurite, a cheaper copper-based blue.",
       "why": "It's ultramarine."
      },
      {
-      "text": "It was repainted in the 1900s.",
-      "why": "It's original."
+      "text": "Smalt, a blue made from ground glass.",
+      "why": "It's ultramarine."
      }
     ]
    },
@@ -1067,17 +1067,17 @@
     "hint": "What did a 2018 study find?",
     "statements": [
      {
-      "text": "She once had eyelashes, now too faint to see.",
-      "why": "Researchers found tiny traces with microscopes.",
+      "text": "Tiny eyelashes, now too faint to see.",
+      "why": "Researchers found traces with microscopes.",
       "isTrue": true
      },
      {
-      "text": "A second face hidden underneath.",
-      "why": "No hidden face was found."
+      "text": "A pearl necklace, later painted over.",
+      "why": "It found eyelashes, not a necklace."
      },
      {
-      "text": "Her lips were repainted by a restorer.",
-      "why": "The highlights on her lips are Vermeer's."
+      "text": "A second earring, later painted over.",
+      "why": "It found eyelashes."
      }
     ]
    },
@@ -1089,20 +1089,20 @@
     },
     "where": "The background",
     "prompt": "Look at the dark background.",
-    "hint": "Was it always black?",
+    "hint": "What was the background?",
     "statements": [
      {
-      "text": "It was once a green curtain; the glaze has faded to near black.",
-      "why": "The 2018 research found folds of green fabric.",
+      "text": "A green curtain, now faded to near black.",
+      "why": "The study found folds of green fabric.",
       "isTrue": true
      },
      {
-      "text": "It was always pure black.",
-      "why": "It was a green curtain."
+      "text": "A daylit window, later painted over.",
+      "why": "It was a curtain."
      },
      {
-      "text": "A window was painted over.",
-      "why": "It was a curtain."
+      "text": "A map on the wall, now faded.",
+      "why": "Maps appear in other Vermeers, but this was a curtain."
      }
     ]
    }
@@ -1178,20 +1178,20 @@
     },
     "where": "The sky",
     "prompt": "Look at the sky.",
-    "hint": "How much of the canvas is it?",
+    "hint": "How much of the canvas is sky?",
     "statements": [
      {
-      "text": "More than half the painting is sky.",
+      "text": "More than half of it.",
       "why": "Vermeer gives the clouds as much attention as the city.",
       "isTrue": true
      },
      {
-      "text": "The sky was added by another painter.",
-      "why": "It's Vermeer's."
+      "text": "About a third of it.",
+      "why": "It's more than half."
      },
      {
-      "text": "It's a night sky.",
-      "why": "It's daylight."
+      "text": "About a quarter of it.",
+      "why": "It's more than half."
      }
     ]
    },
@@ -1203,20 +1203,20 @@
     },
     "where": "The water",
     "prompt": "Look at the reflections.",
-    "hint": "Are they realistic?",
+    "hint": "Are the reflections true to life?",
     "statements": [
      {
-      "text": "Vermeer stretched the reflections and adjusted buildings to improve the view.",
-      "why": "He wasn't making a literal record.",
+      "text": "No, Vermeer stretched them longer than they'd be.",
+      "why": "He changed the view to make it more harmonious.",
       "isTrue": true
      },
      {
-      "text": "The water is a real mirror glued on.",
-      "why": "It's paint."
+      "text": "No, Vermeer left them out on the right side.",
+      "why": "The reflections run right across."
      },
      {
-      "text": "The river is frozen.",
-      "why": "It's open water."
+      "text": "Yes, he traced them with a camera obscura.",
+      "why": "Some think he used one, but the reflections are altered."
      }
     ]
    },
@@ -1228,7 +1228,7 @@
     },
     "where": "Full painting",
     "prompt": "Finally, the painting's own story.",
-    "hint": "How did the Mauritshuis get it?",
+    "hint": "When did the Mauritshuis get it?",
     "statements": [
      {
       "text": "It was bought at auction for the museum in 1822.",
@@ -1236,12 +1236,12 @@
       "isTrue": true
      },
      {
-      "text": "Vermeer sold it to the King of France.",
-      "why": "It stayed in the Netherlands."
+      "text": "It was bought at auction for the museum in 1882.",
+      "why": "It came in 1822."
      },
      {
-      "text": "It was stolen and never recovered.",
-      "why": "It hangs in The Hague."
+      "text": "It was bought at auction for the museum in 1922.",
+      "why": "It came in 1822."
      }
     ]
    }
@@ -1317,20 +1317,20 @@
     },
     "where": "The captain",
     "prompt": "Look at the captain's hand.",
-    "hint": "What does it do?",
+    "hint": "What does the captain's hand do?",
     "statements": [
      {
       "text": "It casts a shadow on his lieutenant's yellow coat.",
-      "why": "The detail shows how Rembrandt handled light.",
+      "why": "The detail shows Rembrandt's control of light.",
       "isTrue": true
      },
      {
-      "text": "He points at an enemy.",
-      "why": "He's giving an order to march."
+      "text": "It points toward the girl in gold.",
+      "why": "It casts a shadow on the lieutenant."
      },
      {
-      "text": "The captain is Rembrandt himself.",
-      "why": "He's Frans Banninck Cocq."
+      "text": "It holds a rolled map of Amsterdam.",
+      "why": "It's raised in an open gesture."
      }
     ]
    },
@@ -1342,20 +1342,20 @@
     },
     "where": "The shield",
     "prompt": "Look at the shield on the arch.",
-    "hint": "What's on it?",
+    "hint": "What's on the shield?",
     "statements": [
      {
-      "text": "The names of the militiamen, added after Rembrandt finished.",
-      "why": "The names were painted on years later, so people could tell who was who.",
+      "text": "The militiamen's names, added years later.",
+      "why": "So people could tell who was who.",
       "isTrue": true
      },
      {
-      "text": "Rembrandt's prices.",
-      "why": "It lists names."
+      "text": "The militiamen's names, painted by Rembrandt himself.",
+      "why": "They were added later by someone else."
      },
      {
-      "text": "A city map.",
-      "why": "It's a list of names."
+      "text": "The company's founding date and motto.",
+      "why": "It lists names."
      }
     ]
    },
@@ -1367,20 +1367,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, the painting's own story.",
-    "hint": "What's happened to it?",
+    "hint": "What happened in 1975?",
     "statements": [
      {
-      "text": "It has been attacked three times, including with a knife in 1975.",
-      "why": "Each time it was repaired.",
+      "text": "A man slashed it with a knife; it was repaired.",
+      "why": "It has been attacked three times in all.",
       "isTrue": true
      },
      {
-      "text": "It was stolen in 1911.",
-      "why": "It has never been stolen."
+      "text": "A man sprayed it with acid; it was repaired.",
+      "why": "That happened in 1990."
      },
      {
-      "text": "It was cut into pieces to sell.",
-      "why": "It was trimmed but stays whole."
+      "text": "A man cut out a piece; it was recovered.",
+      "why": "He slashed it; nothing was taken."
      }
     ]
    }
@@ -1456,20 +1456,20 @@
     },
     "where": "The hands",
     "prompt": "Look at his hands.",
-    "hint": "Were they always clasped?",
+    "hint": "What did X-rays reveal?",
     "statements": [
      {
-      "text": "X-rays show he first held brushes; then he painted his hands clasped.",
-      "why": "He changed his mind.",
+      "text": "He first held brushes, then painted his hands clasped.",
+      "why": "He changed his mind as he worked.",
       "isTrue": true
      },
      {
-      "text": "He holds a skull.",
-      "why": "His hands are clasped."
+      "text": "He first held a skull, then painted his hands clasped.",
+      "why": "It was brushes."
      },
      {
-      "text": "He holds a letter.",
-      "why": "His hands are clasped."
+      "text": "He first held a letter, then painted his hands clasped.",
+      "why": "It was brushes."
      }
     ]
    },
@@ -1481,7 +1481,7 @@
     },
     "where": "The beret",
     "prompt": "Look at his hat.",
-    "hint": "What is it?",
+    "hint": "What's on his head?",
     "statements": [
      {
       "text": "A beret, as in many of his late self-portraits.",
@@ -1489,12 +1489,12 @@
       "isTrue": true
      },
      {
-      "text": "A crown.",
+      "text": "A turban, as in many of his late self-portraits.",
       "why": "It's a beret."
      },
      {
-      "text": "A turban with jewels.",
-      "why": "It's a plain beret."
+      "text": "A painter's cap, required by his guild.",
+      "why": "It's a beret, and no rule required it."
      }
     ]
    },
@@ -1506,20 +1506,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, the bigger picture.",
-    "hint": "How often did he paint himself?",
+    "hint": "How many self-portraits did he make?",
     "statements": [
      {
-      "text": "He made around 80 self-portraits in paint, drawing and etching.",
+      "text": "About 80, in paint, drawing and etching.",
       "why": "They track his whole life.",
       "isTrue": true
      },
      {
-      "text": "Only three.",
-      "why": "He made many."
+      "text": "About 20, all in oil paint.",
+      "why": "He made about 80."
      },
      {
-      "text": "The King of England commissioned this one.",
-      "why": "It wasn't commissioned."
+      "text": "About 200, mostly quick drawings.",
+      "why": "He made about 80."
      }
     ]
    }

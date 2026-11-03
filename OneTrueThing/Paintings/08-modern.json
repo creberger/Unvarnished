@@ -66,20 +66,20 @@
     },
     "where": "His face",
     "prompt": "Look at his face.",
-    "hint": "How does it look?",
+    "hint": "How is his face drawn?",
     "statements": [
      {
-      "text": "Twisted and intense, painted with sharp lines.",
-      "why": "Schiele exaggerated.",
+      "text": "With sharp, angular lines and odd colours.",
+      "why": "Schiele exaggerated to show feeling.",
       "isTrue": true
      },
      {
-      "text": "Smooth and calm.",
-      "why": "It's intense."
+      "text": "With soft, blurred edges.",
+      "why": "The lines are sharp."
      },
      {
-      "text": "Smiling broadly.",
-      "why": "It's intense."
+      "text": "With tiny dots of colour.",
+      "why": "It's drawn in sharp lines."
      }
     ]
    },
@@ -91,20 +91,20 @@
     },
     "where": "Bottom right",
     "prompt": "Look at the bottom right.",
-    "hint": "What's there?",
+    "hint": "What's in the box at bottom right?",
     "statements": [
      {
-      "text": "His signature and the date, in a box.",
+      "text": "His signature and the date.",
       "why": "A graphic touch.",
       "isTrue": true
      },
      {
-      "text": "A stamp.",
-      "why": "It's his signature."
+      "text": "His initials and his address.",
+      "why": "His signature and the date."
      },
      {
-      "text": "A spider.",
-      "why": "It's his signature."
+      "text": "The title and the price.",
+      "why": "His signature and the date."
      }
     ]
    },
@@ -116,19 +116,19 @@
     },
     "where": "Full painting",
     "prompt": "Finally, his life.",
-    "hint": "How did it end?",
+    "hint": "How did Schiele die?",
     "statements": [
      {
-      "text": "He died of flu in 1918, aged 28.",
+      "text": "Of flu in 1918, aged 28.",
       "why": "Three days after his wife.",
       "isTrue": true
      },
      {
-      "text": "He lived to 90.",
-      "why": "He died at 28."
+      "text": "Of flu in 1918, aged 38.",
+      "why": "He was 28."
      },
      {
-      "text": "He was murdered.",
+      "text": "In battle in 1918, aged 28.",
       "why": "He died of flu."
      }
     ]
@@ -205,20 +205,20 @@
     },
     "where": "The letters",
     "prompt": "Look at the letters and spirals.",
-    "hint": "What guided her?",
+    "hint": "What did she believe guided her?",
     "statements": [
      {
-      "text": "She believed spirit guides directed her work.",
-      "why": "She held séances.",
+      "text": "Spirit guides she contacted in séances.",
+      "why": "She called them the High Masters.",
       "isTrue": true
      },
      {
-      "text": "A computer.",
-      "why": "It's 1907."
+      "text": "Dreams she wrote down each morning.",
+      "why": "She believed in spirit guides."
      },
      {
-      "text": "A textbook.",
-      "why": "She believed in spirits."
+      "text": "Botany books from her studies.",
+      "why": "She believed in spirit guides."
      }
     ]
    },
@@ -230,7 +230,7 @@
     },
     "where": "The left",
     "prompt": "Look at the circles.",
-    "hint": "What's the series about?",
+    "hint": "What does the series show?",
     "statements": [
      {
       "text": "The stages of human life.",
@@ -238,12 +238,12 @@
       "isTrue": true
      },
      {
-      "text": "The planets.",
-      "why": "Life stages."
+      "text": "The planets of the solar system.",
+      "why": "The stages of life."
      },
      {
-      "text": "Flowers.",
-      "why": "Life stages."
+      "text": "The Ten Commandments.",
+      "why": "The stages of life."
      }
     ]
    },
@@ -255,7 +255,7 @@
     },
     "where": "Full painting",
     "prompt": "Finally, her wish.",
-    "hint": "How long should they stay hidden?",
+    "hint": "When did she want them shown?",
     "statements": [
      {
       "text": "At least 20 years after her death.",
@@ -263,12 +263,12 @@
       "isTrue": true
      },
      {
-      "text": "Forever.",
-      "why": "20 years."
+      "text": "At least 50 years after her death.",
+      "why": "At least 20."
      },
      {
-      "text": "None.",
-      "why": "20 years."
+      "text": "Only after a war had ended.",
+      "why": "At least 20 years after her death."
      }
     ]
    }
@@ -344,20 +344,20 @@
     },
     "where": "The hat",
     "prompt": "Look at the hat.",
-    "hint": "What's on it?",
+    "hint": "What did a critic call these painters?",
     "statements": [
      {
-      "text": "Bold, loose patches of colour.",
-      "why": "It's almost abstract.",
+      "text": "Les Fauves, the wild beasts.",
+      "why": "The name stuck.",
       "isTrue": true
      },
      {
-      "text": "A bird.",
-      "why": "It's colour."
+      "text": "Les Nabis, the prophets.",
+      "why": "That's a different group."
      },
      {
-      "text": "A clock.",
-      "why": "It's colour."
+      "text": "Les Barbares, the barbarians.",
+      "why": "It was Les Fauves."
      }
     ]
    },
@@ -377,11 +377,11 @@
       "isTrue": true
      },
      {
-      "text": "A stranger.",
+      "text": "Matisse's daughter, Marguerite.",
       "why": "It's his wife."
      },
      {
-      "text": "A queen.",
+      "text": "Gertrude Stein.",
       "why": "It's his wife."
      }
     ]
@@ -394,19 +394,19 @@
     },
     "where": "Full painting",
     "prompt": "Finally, who bought it?",
-    "hint": "First owners?",
+    "hint": "Who bought it first?",
     "statements": [
      {
       "text": "Gertrude and Leo Stein.",
-      "why": "They were famous collectors.",
+      "why": "Famous collectors in Paris.",
       "isTrue": true
      },
      {
-      "text": "The Louvre.",
-      "why": "The Steins."
+      "text": "Sergei Shchukin.",
+      "why": "He bought later Matisses; this went to the Steins."
      },
      {
-      "text": "No one.",
+      "text": "The French state.",
       "why": "The Steins."
      }
     ]
@@ -483,7 +483,7 @@
     },
     "where": "The window",
     "prompt": "Look at the window.",
-    "hint": "What's there?",
+    "hint": "What's through the window?",
     "statements": [
      {
       "text": "A garden with trees in blossom.",
@@ -491,11 +491,11 @@
       "isTrue": true
      },
      {
-      "text": "A city.",
+      "text": "The Seine with a bridge.",
       "why": "It's a garden."
      },
      {
-      "text": "The sea.",
+      "text": "A snowy street.",
       "why": "It's a garden."
      }
     ]
@@ -508,20 +508,20 @@
     },
     "where": "The woman",
     "prompt": "Look at the woman.",
-    "hint": "What's she doing?",
+    "hint": "What's the woman doing?",
     "statements": [
      {
-      "text": "Arranging fruit.",
-      "why": "It's a domestic scene.",
+      "text": "Arranging fruit on the table.",
+      "why": "A domestic scene.",
       "isTrue": true
      },
      {
-      "text": "Reading.",
-      "why": "She's arranging fruit."
+      "text": "Pouring wine into a glass.",
+      "why": "Arranging fruit."
      },
      {
-      "text": "Sleeping.",
-      "why": "She's arranging."
+      "text": "Sewing at the table.",
+      "why": "Arranging fruit."
      }
     ]
    },
@@ -533,7 +533,7 @@
     },
     "where": "Full painting",
     "prompt": "Finally, who commissioned it?",
-    "hint": "A Russian?",
+    "hint": "Who commissioned it?",
     "statements": [
      {
       "text": "Sergei Shchukin, a Moscow collector.",
@@ -541,11 +541,11 @@
       "isTrue": true
      },
      {
-      "text": "The tsar.",
-      "why": "It was Shchukin."
+      "text": "Ivan Morozov, a Moscow collector.",
+      "why": "Another great collector, but this was Shchukin."
      },
      {
-      "text": "Lenin.",
+      "text": "Gertrude Stein, in Paris.",
       "why": "It was Shchukin."
      }
     ]
@@ -622,7 +622,7 @@
     },
     "where": "The faces",
     "prompt": "Look at the faces.",
-    "hint": "How do they look?",
+    "hint": "How do the faces look?",
     "statements": [
      {
       "text": "Masklike and anxious.",
@@ -630,12 +630,12 @@
       "isTrue": true
      },
      {
-      "text": "Happy.",
+      "text": "Rosy and cheerful.",
       "why": "They're anxious."
      },
      {
-      "text": "Asleep.",
-      "why": "They're awake."
+      "text": "Blank, with no features.",
+      "why": "They're masklike."
      }
     ]
    },
@@ -647,7 +647,7 @@
     },
     "where": "The background",
     "prompt": "Look at the top.",
-    "hint": "What's there?",
+    "hint": "What's behind the crowd?",
     "statements": [
      {
       "text": "A tram.",
@@ -655,12 +655,12 @@
       "isTrue": true
      },
      {
-      "text": "A horse.",
-      "why": "It's a tram."
+      "text": "A horse-drawn cab.",
+      "why": "A tram."
      },
      {
-      "text": "A ship.",
-      "why": "It's a tram."
+      "text": "A motor car.",
+      "why": "A tram."
      }
     ]
    },
@@ -672,20 +672,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, the Nazis.",
-    "hint": "How did they treat his work?",
+    "hint": "What did the Nazis call his work?",
     "statements": [
      {
-      "text": "They called it \"degenerate\" and removed it from museums.",
-      "why": "Kirchner was devastated.",
+      "text": "Degenerate.",
+      "why": "They removed it from museums.",
       "isTrue": true
      },
      {
-      "text": "They loved it.",
-      "why": "They banned it."
+      "text": "Foreign.",
+      "why": "Degenerate."
      },
      {
-      "text": "They didn't notice.",
-      "why": "They banned it."
+      "text": "Bourgeois.",
+      "why": "Degenerate."
      }
     ]
    }
@@ -761,20 +761,20 @@
     },
     "where": "The hills",
     "prompt": "Look at the hills.",
-    "hint": "What colours?",
+    "hint": "Which group did Marc co-found?",
     "statements": [
      {
-      "text": "Red and yellow.",
-      "why": "Bold contrasts.",
+      "text": "Der Blaue Reiter, with Kandinsky.",
+      "why": "The Blue Rider.",
       "isTrue": true
      },
      {
-      "text": "Green.",
-      "why": "Red and yellow."
+      "text": "Die Brücke, with Kirchner.",
+      "why": "That's a different group."
      },
      {
-      "text": "White.",
-      "why": "Red and yellow."
+      "text": "Der Blaue Reiter, with Klee.",
+      "why": "Klee joined later; Kandinsky co-founded it."
      }
     ]
    },
@@ -786,20 +786,20 @@
     },
     "where": "The curves",
     "prompt": "Look at their bodies.",
-    "hint": "How are they shaped?",
+    "hint": "Where is it?",
     "statements": [
      {
-      "text": "In sweeping curves that echo the hills.",
-      "why": "Animal and nature merge.",
+      "text": "Walker Art Center, Minneapolis.",
+      "why": "It's one of their best-loved works.",
       "isTrue": true
      },
      {
-      "text": "Square.",
-      "why": "They're curved."
+      "text": "Lenbachhaus, Munich.",
+      "why": "It holds many Blue Rider works, but not this one."
      },
      {
-      "text": "Spiky.",
-      "why": "They're curved."
+      "text": "MoMA, New York.",
+      "why": "It's in Minneapolis."
      }
     ]
    },
@@ -811,20 +811,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, Marc's fate.",
-    "hint": "What happened?",
+    "hint": "How did Marc die?",
     "statements": [
      {
-      "text": "He was killed at Verdun in 1916.",
+      "text": "Killed at Verdun in 1916.",
       "why": "He was 36.",
       "isTrue": true
      },
      {
-      "text": "He retired.",
-      "why": "He was killed."
+      "text": "Killed at the Somme in 1916.",
+      "why": "At Verdun."
      },
      {
-      "text": "He moved to America.",
-      "why": "He was killed."
+      "text": "Killed at Verdun in 1918.",
+      "why": "In 1916."
      }
     ]
    }
@@ -900,7 +900,7 @@
     },
     "where": "The workers",
     "prompt": "Look at the workers.",
-    "hint": "What are they doing?",
+    "hint": "What are the workers doing?",
     "statements": [
      {
       "text": "Straining to control the horse.",
@@ -908,12 +908,12 @@
       "isTrue": true
      },
      {
-      "text": "Dancing.",
-      "why": "They're straining."
+      "text": "Fleeing from the horse.",
+      "why": "They're straining to hold it."
      },
      {
-      "text": "Resting.",
-      "why": "They're straining."
+      "text": "Laying railway track.",
+      "why": "They're controlling the horse."
      }
     ]
    },
@@ -925,20 +925,20 @@
     },
     "where": "The background",
     "prompt": "Look at the top.",
-    "hint": "What's being built?",
+    "hint": "Which city is it?",
     "statements": [
      {
-      "text": "A new power station and buildings.",
-      "why": "The modern city.",
+      "text": "Milan.",
+      "why": "Futurism's home.",
       "isTrue": true
      },
      {
-      "text": "A cathedral.",
-      "why": "It's modern."
+      "text": "Turin.",
+      "why": "Milan."
      },
      {
-      "text": "A castle.",
-      "why": "It's modern."
+      "text": "Rome.",
+      "why": "Milan."
      }
     ]
    },
@@ -950,20 +950,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, Boccioni's fate.",
-    "hint": "How did he die?",
+    "hint": "How did Boccioni die?",
     "statements": [
      {
-      "text": "He fell from a horse during army training in 1916.",
-      "why": "He was 33.",
+      "text": "He fell from a horse during army training.",
+      "why": "In 1916, aged 33.",
       "isTrue": true
      },
      {
-      "text": "In old age.",
-      "why": "He was young."
+      "text": "He was shot at the front.",
+      "why": "He fell from a horse."
      },
      {
-      "text": "In a car race.",
-      "why": "A horse."
+      "text": "He fell from a horse during a race.",
+      "why": "It was army training."
      }
     ]
    }
@@ -1039,20 +1039,20 @@
     },
     "where": "Bottom right",
     "prompt": "Look at the bottom right.",
-    "hint": "What's written there?",
+    "hint": "What's written at bottom right?",
     "statements": [
      {
-      "text": "A dedication: \"Homage to Pablo Picasso.\"",
+      "text": "\"Homage to Pablo Picasso.\"",
       "why": "It's a tribute.",
       "isTrue": true
      },
      {
-      "text": "A price.",
-      "why": "It's a dedication."
+      "text": "\"Portrait of my friend Pablo.\"",
+      "why": "It says \"Homage to Pablo Picasso.\""
      },
      {
-      "text": "A date only.",
-      "why": "It's a dedication."
+      "text": "\"To Picasso, from Braque.\"",
+      "why": "It's by Gris."
      }
     ]
    },
@@ -1064,7 +1064,7 @@
     },
     "where": "The face",
     "prompt": "Look at the face.",
-    "hint": "What style?",
+    "hint": "Which style is it?",
     "statements": [
      {
       "text": "Cubism, breaking forms into planes.",
@@ -1072,11 +1072,11 @@
       "isTrue": true
      },
      {
-      "text": "Realism.",
+      "text": "Fauvism, using wild colour.",
       "why": "It's Cubism."
      },
      {
-      "text": "Pointillism.",
+      "text": "Futurism, showing movement.",
       "why": "It's Cubism."
      }
     ]
@@ -1089,20 +1089,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, Gris's nationality.",
-    "hint": "Where was he from?",
+    "hint": "Where were Gris and Picasso from?",
     "statements": [
      {
-      "text": "Spain, like Picasso.",
-      "why": "Both from Spain.",
+      "text": "Both from Spain.",
+      "why": "They met in Paris.",
       "isTrue": true
      },
      {
-      "text": "Italy.",
-      "why": "Spain."
+      "text": "Gris from Portugal, Picasso from Spain.",
+      "why": "Both from Spain."
      },
      {
-      "text": "France.",
-      "why": "Spain."
+      "text": "Gris from Argentina, Picasso from Spain.",
+      "why": "Both from Spain."
      }
     ]
    }
@@ -1178,20 +1178,20 @@
     },
     "where": "The left",
     "prompt": "Look at the left.",
-    "hint": "What themes?",
+    "hint": "Which themes lie behind it?",
     "statements": [
      {
-      "text": "Themes like the Flood and the Last Judgement, turned abstract.",
-      "why": "The subjects dissolve.",
+      "text": "The Flood and the Last Judgement.",
+      "why": "Turned abstract.",
       "isTrue": true
      },
      {
-      "text": "A football match.",
-      "why": "Biblical themes."
+      "text": "The Russian Revolution and civil war.",
+      "why": "Those came after 1913."
      },
      {
-      "text": "A wedding.",
-      "why": "Biblical themes."
+      "text": "The sinking of the Titanic.",
+      "why": "The themes are biblical."
      }
     ]
    },
@@ -1203,20 +1203,20 @@
     },
     "where": "The right",
     "prompt": "Look at the colours.",
-    "hint": "What did Kandinsky say about colour?",
+    "hint": "What did he compare colours to?",
     "statements": [
      {
-      "text": "He compared colours to musical notes.",
+      "text": "Musical notes.",
       "why": "He may have had synaesthesia.",
       "isTrue": true
      },
      {
-      "text": "They meant nothing.",
-      "why": "They were like music."
+      "text": "Planets.",
+      "why": "Musical notes."
      },
      {
-      "text": "Only red mattered.",
-      "why": "All colour mattered."
+      "text": "Letters of the alphabet.",
+      "why": "Musical notes."
      }
     ]
    },
@@ -1228,20 +1228,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, its title.",
-    "hint": "Why Composition?",
+    "hint": "How many Compositions did he paint?",
     "statements": [
      {
-      "text": "He used musical terms for his most important works.",
-      "why": "There are ten Compositions.",
+      "text": "Ten.",
+      "why": "His most important works.",
       "isTrue": true
      },
      {
-      "text": "It's a chemistry term.",
-      "why": "It's musical."
+      "text": "Seven.",
+      "why": "This is No. 7 of ten."
      },
      {
-      "text": "No reason.",
-      "why": "It's musical."
+      "text": "Twenty.",
+      "why": "Ten."
      }
     ]
    }
@@ -1317,20 +1317,20 @@
     },
     "where": "The small circles",
     "prompt": "Look at the small circles.",
-    "hint": "What do they do?",
+    "hint": "What do the small circles do?",
     "statements": [
      {
-      "text": "Overlap, mixing colours like transparent films.",
+      "text": "Overlap like transparent coloured films.",
       "why": "They seem to float.",
       "isTrue": true
      },
      {
-      "text": "Stay apart.",
+      "text": "Line up in a straight row.",
       "why": "They overlap."
      },
      {
-      "text": "Fall.",
-      "why": "They float."
+      "text": "Orbit the big circle in a ring.",
+      "why": "They overlap."
      }
     ]
    },
@@ -1342,20 +1342,20 @@
     },
     "where": "The background",
     "prompt": "Look at the background.",
-    "hint": "What colour?",
+    "hint": "Which museum has it?",
     "statements": [
      {
-      "text": "Dark, like space.",
-      "why": "Circles like planets.",
+      "text": "The Guggenheim, New York.",
+      "why": "Solomon Guggenheim collected Kandinsky.",
       "isTrue": true
      },
      {
-      "text": "White.",
-      "why": "It's dark."
+      "text": "MoMA, New York.",
+      "why": "The Guggenheim."
      },
      {
-      "text": "Yellow.",
-      "why": "It's dark."
+      "text": "The Pompidou, Paris.",
+      "why": "The Guggenheim."
      }
     ]
    },
@@ -1367,20 +1367,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, why circles?",
-    "hint": "What did he say?",
+    "hint": "What did he call the circle?",
     "statements": [
      {
-      "text": "He called the circle the most modest yet assertive form.",
+      "text": "The most modest yet assertive form.",
       "why": "He loved its tension.",
       "isTrue": true
      },
      {
-      "text": "He hated circles.",
-      "why": "He loved them."
+      "text": "The loneliest of all forms.",
+      "why": "The most modest yet assertive."
      },
      {
-      "text": "He couldn't draw squares.",
-      "why": "He loved circles."
+      "text": "The most aggressive form.",
+      "why": "The most modest yet assertive."
      }
     ]
    }
@@ -1456,7 +1456,7 @@
     },
     "where": "The white border",
     "prompt": "Look at the edge.",
-    "hint": "What movement did it launch?",
+    "hint": "Which movement did it launch?",
     "statements": [
      {
       "text": "Suprematism.",
@@ -1464,11 +1464,11 @@
       "isTrue": true
      },
      {
-      "text": "Impressionism.",
-      "why": "Suprematism."
+      "text": "Constructivism.",
+      "why": "That came after."
      },
      {
-      "text": "Pop Art.",
+      "text": "Futurism.",
       "why": "Suprematism."
      }
     ]
@@ -1481,20 +1481,20 @@
     },
     "where": "The square",
     "prompt": "Look at the square.",
-    "hint": "Is it perfect?",
+    "hint": "Is the square perfect?",
     "statements": [
      {
-      "text": "Not quite; its sides aren't exactly straight.",
+      "text": "No; its sides aren't quite straight.",
       "why": "It's hand painted.",
       "isTrue": true
      },
      {
-      "text": "It's perfect.",
-      "why": "It's not."
+      "text": "Yes; he used a ruler and set square.",
+      "why": "It's not quite straight."
      },
      {
-      "text": "It's a circle.",
-      "why": "It's a square."
+      "text": "No; it's a rectangle twice as wide.",
+      "why": "It's nearly square."
      }
     ]
    },
@@ -1506,19 +1506,19 @@
     },
     "where": "Full painting",
     "prompt": "Finally, versions.",
-    "hint": "How many Black Squares?",
+    "hint": "How many Black Squares did he paint?",
     "statements": [
      {
       "text": "Four.",
-      "why": "Painted over the years.",
+      "why": "Over the years.",
       "isTrue": true
      },
      {
-      "text": "One.",
+      "text": "Two.",
       "why": "Four."
      },
      {
-      "text": "100.",
+      "text": "Seven.",
       "why": "Four."
      }
     ]
@@ -1595,7 +1595,7 @@
     },
     "where": "The colours",
     "prompt": "Look at the colours.",
-    "hint": "What palette?",
+    "hint": "What's the palette?",
     "statements": [
      {
       "text": "Greys and blacks.",
@@ -1603,11 +1603,11 @@
       "isTrue": true
      },
      {
-      "text": "Reds.",
+      "text": "Reds and blues.",
       "why": "It's grey."
      },
      {
-      "text": "Rainbow.",
+      "text": "Greens and browns.",
       "why": "It's grey."
      }
     ]
@@ -1620,20 +1620,20 @@
     },
     "where": "The left",
     "prompt": "Look at the left.",
-    "hint": "What series?",
+    "hint": "Where is it?",
     "statements": [
      {
-      "text": "A series of tree paintings.",
-      "why": "Including the Red Tree.",
+      "text": "Kunstmuseum Den Haag.",
+      "why": "It holds the largest Mondrian collection.",
       "isTrue": true
      },
      {
-      "text": "A series of boats.",
-      "why": "Trees."
+      "text": "Rijksmuseum, Amsterdam.",
+      "why": "It's in The Hague."
      },
      {
-      "text": "A single work.",
-      "why": "A series."
+      "text": "Stedelijk Museum, Amsterdam.",
+      "why": "It's in The Hague."
      }
     ]
    },
@@ -1645,20 +1645,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, his name.",
-    "hint": "What changed?",
+    "hint": "How did his name change?",
     "statements": [
      {
-      "text": "He dropped an \"a\" from Mondriaan when he moved to Paris.",
-      "why": "He became Mondrian.",
+      "text": "He dropped an \"a\" when he moved to Paris.",
+      "why": "Mondriaan became Mondrian.",
       "isTrue": true
      },
      {
-      "text": "He changed it to Smith.",
-      "why": "He dropped an \"a.\""
+      "text": "He dropped an \"a\" when he moved to New York.",
+      "why": "It was Paris."
      },
      {
-      "text": "Nothing.",
-      "why": "He changed it."
+      "text": "He added an \"a\" when he moved to Paris.",
+      "why": "He dropped one."
      }
     ]
    }
@@ -1734,7 +1734,7 @@
     },
     "where": "The blue",
     "prompt": "Look at the blue block.",
-    "hint": "Where is it?",
+    "hint": "Where's the blue?",
     "statements": [
      {
       "text": "Bottom left.",
@@ -1742,11 +1742,11 @@
       "isTrue": true
      },
      {
-      "text": "Top right.",
+      "text": "Top left.",
       "why": "Bottom left."
      },
      {
-      "text": "Centre.",
+      "text": "Bottom right.",
       "why": "Bottom left."
      }
     ]
@@ -1759,20 +1759,20 @@
     },
     "where": "The yellow",
     "prompt": "Look at the yellow.",
-    "hint": "How big?",
+    "hint": "When did Mondrian move to New York?",
     "statements": [
      {
-      "text": "A small block in the corner.",
-      "why": "A tiny balance.",
+      "text": "1940.",
+      "why": "He fled the war in Europe.",
       "isTrue": true
      },
      {
-      "text": "Huge.",
-      "why": "It's small."
+      "text": "1930.",
+      "why": "1940."
      },
      {
-      "text": "Missing.",
-      "why": "It's there."
+      "text": "1945.",
+      "why": "He died in New York in 1944."
      }
     ]
    },
@@ -1792,12 +1792,12 @@
       "isTrue": true
      },
      {
-      "text": "Black.",
+      "text": "Black lines.",
       "why": "He used black."
      },
      {
-      "text": "Canvas.",
-      "why": "He used canvas."
+      "text": "White.",
+      "why": "He used white."
      }
     ]
    }
@@ -1873,20 +1873,20 @@
     },
     "where": "The pole",
     "prompt": "Look at the purple pole.",
-    "hint": "What does it do?",
+    "hint": "What does the purple pole do?",
     "statements": [
      {
-      "text": "It cuts the scene vertically.",
+      "text": "Cuts the scene vertically.",
       "why": "Like a column.",
       "isTrue": true
      },
      {
-      "text": "It's a tree.",
-      "why": "It's a pole."
+      "text": "Holds up the scaffolding.",
+      "why": "It cuts the scene."
      },
      {
-      "text": "It's a snake.",
-      "why": "It's a pole."
+      "text": "Marks the exact centre.",
+      "why": "It's off-centre."
      }
     ]
    },
@@ -1898,20 +1898,20 @@
     },
     "where": "The letters",
     "prompt": "Look at the letters.",
-    "hint": "Where are they from?",
+    "hint": "Where do the letters come from?",
     "statements": [
      {
-      "text": "Like stencils from posters and signs.",
+      "text": "Stencils, like posters and signs.",
       "why": "City advertising.",
       "isTrue": true
      },
      {
-      "text": "A book.",
-      "why": "Posters."
+      "text": "A Paris newspaper, glued on.",
+      "why": "They're painted."
      },
      {
-      "text": "Graffiti.",
-      "why": "Stencils."
+      "text": "His own handwriting.",
+      "why": "They're stencilled."
      }
     ]
    },
@@ -1923,7 +1923,7 @@
     },
     "where": "Full painting",
     "prompt": "Finally, Léger's war.",
-    "hint": "What happened in World War I?",
+    "hint": "What happened to Léger in the First World War?",
     "statements": [
      {
       "text": "He was gassed at Verdun.",
@@ -1931,11 +1931,11 @@
       "isTrue": true
      },
      {
-      "text": "He was a general.",
-      "why": "He was a soldier."
+      "text": "He was wounded at the Somme.",
+      "why": "He was gassed at Verdun."
      },
      {
-      "text": "He avoided it.",
+      "text": "He served only as a war artist.",
       "why": "He fought."
      }
     ]
@@ -2012,20 +2012,20 @@
     },
     "where": "The crank",
     "prompt": "Look at the left.",
-    "hint": "What's there?",
+    "hint": "What powers the birds?",
     "statements": [
      {
       "text": "A hand crank.",
-      "why": "It powers the birds.",
+      "why": "It's a machine.",
       "isTrue": true
      },
      {
-      "text": "A tree.",
-      "why": "It's a crank."
+      "text": "A clockwork key.",
+      "why": "A hand crank."
      },
      {
-      "text": "A clock.",
-      "why": "It's a crank."
+      "text": "A foot pedal.",
+      "why": "A hand crank."
      }
     ]
    },
@@ -2037,7 +2037,7 @@
     },
     "where": "The background",
     "prompt": "Look at the background.",
-    "hint": "What colours?",
+    "hint": "What colours is the background?",
     "statements": [
      {
       "text": "Blue fading to pink.",
@@ -2045,12 +2045,12 @@
       "isTrue": true
      },
      {
-      "text": "Black.",
-      "why": "Blue and pink."
+      "text": "Pink fading to green.",
+      "why": "Blue to pink."
      },
      {
-      "text": "Gold.",
-      "why": "Blue and pink."
+      "text": "Yellow fading to blue.",
+      "why": "Blue to pink."
      }
     ]
    },
@@ -2062,20 +2062,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, its fate.",
-    "hint": "What happened in 1937?",
+    "hint": "When did MoMA get it?",
     "statements": [
      {
-      "text": "The Nazis seized it as \"degenerate,\" and MoMA later bought it.",
-      "why": "It came to New York in 1939.",
+      "text": "1939, after the Nazis seized it.",
+      "why": "It was sold off from a German museum.",
       "isTrue": true
      },
      {
-      "text": "It was destroyed.",
-      "why": "It survives."
+      "text": "1949, after the war.",
+      "why": "1939."
      },
      {
-      "text": "It was hidden by Klee.",
-      "why": "It was seized."
+      "text": "1929, when MoMA opened.",
+      "why": "1939."
      }
     ]
    }
@@ -2151,20 +2151,20 @@
     },
     "where": "Her neck",
     "prompt": "Look at her neck.",
-    "hint": "How long?",
+    "hint": "Where did his long necks come from?",
     "statements": [
      {
-      "text": "Elongated.",
-      "why": "Inspired by African and Cycladic sculpture.",
+      "text": "African and Cycladic sculpture.",
+      "why": "He also carved stone heads.",
       "isTrue": true
      },
      {
-      "text": "Short.",
-      "why": "It's long."
+      "text": "Japanese woodblock prints.",
+      "why": "Sculpture."
      },
      {
-      "text": "Hidden.",
-      "why": "It's visible."
+      "text": "Egyptian tomb paintings.",
+      "why": "Sculpture."
      }
     ]
    },
@@ -2176,7 +2176,7 @@
     },
     "where": "The chair",
     "prompt": "Look at the chair.",
-    "hint": "What colour?",
+    "hint": "What colour is the chair?",
     "statements": [
      {
       "text": "Golden brown.",
@@ -2184,12 +2184,12 @@
       "isTrue": true
      },
      {
-      "text": "Pink.",
-      "why": "It's brown."
+      "text": "Deep red.",
+      "why": "Golden brown."
      },
      {
-      "text": "Blue.",
-      "why": "It's brown."
+      "text": "Dark green.",
+      "why": "Golden brown."
      }
     ]
    },
@@ -2201,20 +2201,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, their fate.",
-    "hint": "What happened?",
+    "hint": "When did Jeanne die?",
     "statements": [
      {
-      "text": "She died two days after Modigliani, in 1920.",
+      "text": "Two days after Modigliani, in 1920.",
       "why": "She was 21.",
       "isTrue": true
      },
      {
-      "text": "She lived to 100.",
-      "why": "She died young."
+      "text": "Two years after Modigliani, in 1922.",
+      "why": "Two days after."
      },
      {
-      "text": "They moved to America.",
-      "why": "She died in 1920."
+      "text": "Two days before Modigliani, in 1920.",
+      "why": "Two days after."
      }
     ]
    }

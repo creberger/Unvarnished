@@ -49,6 +49,10 @@ To add a painting:
    python tools/build_content.py <image_dir>
    ```
 
-The Xcode project and source folder still use the working name, OneTrueThing. `OneTrueThing/Paintings/milkmaid.json` was written by hand before the content files existed, and is edited directly.
+The Xcode project and source folder still use the working name, OneTrueThing. Rounds get harder as they go. Rounds 1 and 2 are warm-ups with clearly false answers. From round 3 the false statements are believable facts with one thing wrong, and by round 5 all three are the same kind of claim, differing only in a key name, date or number. The build also checks that, from round 3 on, the true statement isn't noticeably longer than the false ones.
+
+To rewrite many rounds at once, `tools/apply_rewrites.py` swaps new statements into the content files (see the format at the top of the script).
+
+`OneTrueThing/Paintings/milkmaid.json` was written by hand before the content files existed, and is edited directly.
 
 Check every true statement against the museum's own catalogue before shipping.

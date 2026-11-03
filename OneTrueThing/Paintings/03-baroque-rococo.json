@@ -66,7 +66,7 @@
     },
     "where": "The apostles",
     "prompt": "Look at the apostles below.",
-    "hint": "What's at their centre?",
+    "hint": "What do the apostles gather around?",
     "statements": [
      {
       "text": "Mary's empty tomb.",
@@ -74,12 +74,12 @@
       "isTrue": true
      },
      {
-      "text": "A table set for a meal.",
-      "why": "It's an empty tomb."
+      "text": "Mary's deathbed.",
+      "why": "That's a different scene; here the tomb is empty."
      },
      {
-      "text": "A burning bush.",
-      "why": "It's a tomb."
+      "text": "A stone altar, set for Mass.",
+      "why": "It's her tomb."
      }
     ]
    },
@@ -91,7 +91,7 @@
     },
     "where": "The bottom",
     "prompt": "Look at the bottom edge.",
-    "hint": "How did he sign?",
+    "hint": "How did El Greco sign it?",
     "statements": [
      {
       "text": "In Greek letters, on a slip of paper.",
@@ -99,12 +99,12 @@
       "isTrue": true
      },
      {
-      "text": "In Spanish.",
+      "text": "In Latin letters, on a slip of paper.",
       "why": "He signed in Greek."
      },
      {
-      "text": "He didn't sign it.",
-      "why": "It's signed."
+      "text": "In Spanish, on a slip of paper.",
+      "why": "He signed in Greek."
      }
     ]
    },
@@ -116,20 +116,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, its significance.",
-    "hint": "What was it for El Greco?",
+    "hint": "What was it in El Greco's career?",
     "statements": [
      {
-      "text": "His first major commission after he arrived in Spain.",
+      "text": "His first major commission in Spain.",
       "why": "It made his name in Toledo.",
       "isTrue": true
      },
      {
-      "text": "His last painting.",
-      "why": "It's early in his Spanish career."
+      "text": "His last major commission in Spain.",
+      "why": "It was his first."
      },
      {
-      "text": "A painting he made for the Pope.",
-      "why": "It was for a Toledo convent."
+      "text": "His first major commission in Rome.",
+      "why": "He worked in Rome earlier, but this was his first big Spanish job."
      }
     ]
    }
@@ -205,19 +205,19 @@
     },
     "where": "The painter's chest",
     "prompt": "Look at the red cross on his chest.",
-    "hint": "When was it added?",
+    "hint": "When was the red cross on his chest added?",
     "statements": [
      {
-      "text": "After he was knighted in 1659, three years after the painting.",
-      "why": "Someone added it later.",
+      "text": "After he was knighted in 1659, three years later.",
+      "why": "Someone added it after the painting was finished.",
       "isTrue": true
      },
      {
-      "text": "He had it from birth.",
-      "why": "He earned it later."
+      "text": "When he was knighted in 1649, before he painted it.",
+      "why": "He was knighted in 1659."
      },
      {
-      "text": "It's a bloodstain.",
+      "text": "Never; it's a bloodstain from an accident.",
       "why": "It's the cross of the Order of Santiago."
      }
     ]
@@ -230,7 +230,7 @@
     },
     "where": "The dog",
     "prompt": "Look at the dog at the front.",
-    "hint": "What's happening?",
+    "hint": "What's happening with the dog?",
     "statements": [
      {
       "text": "A boy rests his foot on the sleepy dog.",
@@ -238,12 +238,12 @@
       "isTrue": true
      },
      {
-      "text": "The dog is barking at the king.",
-      "why": "It's dozing."
+      "text": "A girl feeds the dog a biscuit.",
+      "why": "A boy rests his foot on it."
      },
      {
-      "text": "It's a stuffed dog.",
-      "why": "It's alive."
+      "text": "A boy pulls the dog's ear to wake it.",
+      "why": "He just rests his foot on it."
      }
     ]
    },
@@ -255,20 +255,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, its influence.",
-    "hint": "Who reworked it?",
+    "hint": "Who reworked it in 1957?",
     "statements": [
      {
-      "text": "Picasso, who painted 58 variations in 1957.",
+      "text": "Picasso, in 58 variations.",
       "why": "They're in the Museu Picasso in Barcelona.",
       "isTrue": true
      },
      {
-      "text": "No one has dared copy it.",
-      "why": "Many have."
+      "text": "Dalí, in 58 variations.",
+      "why": "It was Picasso."
      },
      {
-      "text": "Napoleon had it cut in half.",
-      "why": "It's intact."
+      "text": "Picasso, in 8 variations.",
+      "why": "He made 58."
      }
     ]
    }
@@ -344,7 +344,7 @@
     },
     "where": "The collar",
     "prompt": "Look at his collar.",
-    "hint": "How is it painted?",
+    "hint": "How is the collar painted?",
     "statements": [
      {
       "text": "With loose, quick strokes.",
@@ -352,12 +352,12 @@
       "isTrue": true
      },
      {
-      "text": "With a fine pen.",
-      "why": "It's brushwork."
+      "text": "With fine, careful strokes.",
+      "why": "They're loose and quick."
      },
      {
-      "text": "With gold leaf.",
-      "why": "It's paint."
+      "text": "With thick paint laid on by knife.",
+      "why": "It's brushwork."
      }
     ]
    },
@@ -369,20 +369,20 @@
     },
     "where": "The coat",
     "prompt": "Look at his coat.",
-    "hint": "What colours?",
+    "hint": "What did Pareja become?",
     "statements": [
      {
-      "text": "Mostly greys and greens.",
-      "why": "A restrained palette.",
+      "text": "A painter, with works now in the Prado.",
+      "why": "Velázquez freed him and he worked on his own.",
       "isTrue": true
      },
      {
-      "text": "Bright red.",
-      "why": "It's muted."
+      "text": "A sculptor, with works in Seville Cathedral.",
+      "why": "He became a painter."
      },
      {
-      "text": "Pure white.",
-      "why": "It's grey-green."
+      "text": "Velázquez's heir, inheriting his studio.",
+      "why": "He became a painter in his own right."
      }
     ]
    },
@@ -397,17 +397,17 @@
     "hint": "What happened in 1970?",
     "statements": [
      {
-      "text": "The Met bought it at auction for a then-record price.",
-      "why": "It cost $5.5 million.",
+      "text": "The Met bought it at auction for $5.5 million.",
+      "why": "A record price at the time.",
       "isTrue": true
      },
      {
-      "text": "It was stolen.",
-      "why": "It was sold."
+      "text": "The Met bought it at auction for $55 million.",
+      "why": "It was $5.5 million."
      },
      {
-      "text": "It burned.",
-      "why": "It survives."
+      "text": "The Prado bought it at auction for $5.5 million.",
+      "why": "The Met bought it."
      }
     ]
    }
@@ -483,20 +483,20 @@
     },
     "where": "Across the canal",
     "prompt": "Look at the church across the canal.",
-    "hint": "What is it?",
+    "hint": "Which church is across the canal?",
     "statements": [
      {
-      "text": "The church of Santa Maria della Carità.",
-      "why": "It's now part of the Accademia gallery.",
+      "text": "Santa Maria della Carità, now part of the Accademia.",
+      "why": "The view is from a stonemason's yard on the other bank.",
       "isTrue": true
      },
      {
-      "text": "Saint Mark's Basilica.",
-      "why": "It's the Carità."
+      "text": "Santa Maria della Salute, at the mouth of the Grand Canal.",
+      "why": "That's a different church; this is the Carità."
      },
      {
-      "text": "A lighthouse.",
-      "why": "It's a church."
+      "text": "San Giorgio Maggiore, on its own island.",
+      "why": "This is the Carità."
      }
     ]
    },
@@ -508,20 +508,20 @@
     },
     "where": "The windows",
     "prompt": "Look at the windows on the right.",
-    "hint": "What's hanging there?",
+    "hint": "What's at the windows on the right?",
     "statements": [
      {
-      "text": "Washing and a woman tending flowers.",
+      "text": "Washing, and a woman tending flowers.",
       "why": "Daily life fills the scene.",
       "isTrue": true
      },
      {
-      "text": "Flags.",
-      "why": "It's washing."
+      "text": "Flags, and a woman waving a scarf.",
+      "why": "It's washing and flowers."
      },
      {
-      "text": "Nothing.",
-      "why": "There's washing."
+      "text": "Birdcages, and a man smoking a pipe.",
+      "why": "It's washing and flowers."
      }
     ]
    },
@@ -536,17 +536,17 @@
     "hint": "Who gave it to the nation?",
     "statements": [
      {
-      "text": "Sir George Beaumont, a collector who helped found the National Gallery.",
-      "why": "He loved this painting.",
+      "text": "Sir George Beaumont, who helped found the National Gallery.",
+      "why": "He gave his collection in the 1820s.",
       "isTrue": true
      },
      {
-      "text": "Canaletto himself.",
-      "why": "It was a collector's gift."
+      "text": "John Julius Angerstein, whose collection started the gallery.",
+      "why": "Angerstein's pictures came first, but this was Beaumont's."
      },
      {
-      "text": "The Queen of Venice.",
-      "why": "Venice had doges, not queens."
+      "text": "Joseph Smith, the British consul who sold Canalettos.",
+      "why": "Smith was Canaletto's agent; this was Beaumont's gift."
      }
     ]
    }
@@ -622,19 +622,19 @@
     },
     "where": "The statue",
     "prompt": "Look at the statue on the left.",
-    "hint": "What is he doing?",
+    "hint": "What's the statue doing?",
     "statements": [
      {
       "text": "Cupid puts a finger to his lips, as if to say \"shh.\"",
-      "why": "The scene is secret.",
+      "why": "The scene is a secret.",
       "isTrue": true
      },
      {
-      "text": "He's playing a flute.",
+      "text": "Cupid draws his bow, aiming at the lover.",
       "why": "He's hushing."
      },
      {
-      "text": "He's asleep.",
+      "text": "Cupid covers his eyes, as if not to look.",
       "why": "He's hushing."
      }
     ]
@@ -647,20 +647,20 @@
     },
     "where": "Pushing the swing",
     "prompt": "Look at the man in the shadows.",
-    "hint": "Who is he?",
+    "hint": "Who's pushing the swing?",
     "statements": [
      {
-      "text": "An older man pushing the swing, unaware of the lover.",
+      "text": "An older man, unaware of the young lover.",
       "why": "He's in shadow on the right.",
       "isTrue": true
      },
      {
-      "text": "Her father, dancing.",
-      "why": "He's pushing the swing."
+      "text": "A servant, paid to keep the secret.",
+      "why": "It's an older man who doesn't know."
      },
      {
-      "text": "A gardener with a rake.",
-      "why": "He holds the swing's ropes."
+      "text": "The lover's friend, in on the joke.",
+      "why": "It's an older man who doesn't know."
      }
     ]
    },
@@ -672,20 +672,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, its condition.",
-    "hint": "What happened in 2021?",
+    "hint": "What did the 2021 cleaning reveal?",
     "statements": [
      {
-      "text": "A cleaning removed yellowed varnish and revealed brighter colours.",
-      "why": "Details like a lost path reappeared.",
+      "text": "Brighter colours, under yellowed varnish.",
+      "why": "Lost details reappeared too.",
       "isTrue": true
      },
      {
-      "text": "It was cut in half.",
-      "why": "It was cleaned."
+      "text": "A second lover, hidden in the bushes.",
+      "why": "It revealed brighter colours."
      },
      {
-      "text": "It was sold to a private buyer.",
-      "why": "It's still in the Wallace Collection."
+      "text": "A date, painted over by a later owner.",
+      "why": "It revealed brighter colours."
      }
     ]
    }
@@ -761,19 +761,19 @@
     },
     "where": "The child",
     "prompt": "Look at the right.",
-    "hint": "Who's peeking?",
+    "hint": "Who's peeking over the ledge?",
     "statements": [
      {
-      "text": "A small child peers over the ledge.",
+      "text": "A small child.",
       "why": "Only the head shows.",
       "isTrue": true
      },
      {
-      "text": "A cat.",
+      "text": "A small dog.",
       "why": "It's a child."
      },
      {
-      "text": "A dog.",
+      "text": "A cat.",
       "why": "It's a child."
      }
     ]
@@ -786,20 +786,20 @@
     },
     "where": "His face",
     "prompt": "Look at his face.",
-    "hint": "What's he doing?",
+    "hint": "How many versions survive?",
     "statements": [
      {
-      "text": "Concentrating hard on the bubble.",
-      "why": "The moment is quiet and focused.",
+      "text": "Three, in New York, Washington and Los Angeles.",
+      "why": "Chardin often repeated his subjects.",
       "isTrue": true
      },
      {
-      "text": "Laughing loudly.",
-      "why": "He's concentrating."
+      "text": "Three, in New York, Paris and London.",
+      "why": "They're all in the US."
      },
      {
-      "text": "Sleeping.",
-      "why": "He's blowing a bubble."
+      "text": "One; the others are copies by students.",
+      "why": "Three are by Chardin."
      }
     ]
    },
@@ -811,20 +811,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, Chardin's subjects.",
-    "hint": "What else did he paint?",
+    "hint": "What did Chardin mostly paint?",
     "statements": [
      {
-      "text": "Still lifes and quiet scenes of everyday life.",
+      "text": "Still lifes and quiet everyday scenes.",
       "why": "He was a master of humble subjects.",
       "isTrue": true
      },
      {
-      "text": "Battle scenes.",
+      "text": "Grand history scenes for the court.",
       "why": "He painted quiet scenes."
      },
      {
-      "text": "Only kings.",
-      "why": "He painted ordinary people."
+      "text": "Portraits of the French royal family.",
+      "why": "He painted quiet scenes."
      }
     ]
    }
@@ -900,7 +900,7 @@
     },
     "where": "Her hand",
     "prompt": "Look at what she holds.",
-    "hint": "What is it?",
+    "hint": "What's in her hand?",
     "statements": [
      {
       "text": "A palette and brushes.",
@@ -908,12 +908,12 @@
       "isTrue": true
      },
      {
-      "text": "A fan.",
-      "why": "It's a palette."
+      "text": "A fan and a letter.",
+      "why": "A palette and brushes."
      },
      {
-      "text": "A book.",
-      "why": "It's a palette."
+      "text": "A sketchbook and chalk.",
+      "why": "A palette and brushes."
      }
     ]
    },
@@ -925,20 +925,20 @@
     },
     "where": "Her face",
     "prompt": "Look at her face.",
-    "hint": "Who did she paint most?",
+    "hint": "Whose portraitist was she?",
     "statements": [
      {
-      "text": "Marie Antoinette, for whom she was court portraitist.",
+      "text": "Marie Antoinette's.",
       "why": "She painted the queen many times.",
       "isTrue": true
      },
      {
-      "text": "Napoleon.",
-      "why": "She painted Marie Antoinette."
+      "text": "Madame de Pompadour's.",
+      "why": "Pompadour died when she was a child."
      },
      {
-      "text": "Only herself.",
-      "why": "She painted many people."
+      "text": "Empress Josephine's.",
+      "why": "She painted Marie Antoinette."
      }
     ]
    },
@@ -950,20 +950,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, her later life.",
-    "hint": "What happened in 1789?",
+    "hint": "What happened to her in 1789?",
     "statements": [
      {
-      "text": "She fled France at the start of the Revolution.",
+      "text": "She fled France as the Revolution began.",
       "why": "She worked across Europe for years.",
       "isTrue": true
      },
      {
-      "text": "She became queen.",
+      "text": "She was jailed during the Revolution.",
       "why": "She fled."
      },
      {
-      "text": "She stopped painting.",
-      "why": "She kept painting."
+      "text": "She stayed in Paris and painted Robespierre.",
+      "why": "She fled."
      }
     ]
    }
@@ -1039,7 +1039,7 @@
     },
     "where": "The fields",
     "prompt": "Look at the fields.",
-    "hint": "Whose are they?",
+    "hint": "Whose land is it?",
     "statements": [
      {
       "text": "The couple's own estate in Suffolk.",
@@ -1047,12 +1047,12 @@
       "isTrue": true
      },
      {
-      "text": "A royal park.",
-      "why": "It's their estate."
+      "text": "Gainsborough's family farm in Suffolk.",
+      "why": "It's the couple's estate."
      },
      {
-      "text": "An imagined landscape.",
-      "why": "It's real."
+      "text": "A royal hunting park in Essex.",
+      "why": "It's their estate in Suffolk."
      }
     ]
    },
@@ -1064,19 +1064,19 @@
     },
     "where": "Mr Andrews",
     "prompt": "Look at Mr Andrews.",
-    "hint": "What does he carry?",
+    "hint": "What does Mr Andrews carry?",
     "statements": [
      {
-      "text": "A gun, with a hunting dog at his feet.",
+      "text": "A gun, with a dog at his feet.",
       "why": "He's a country gentleman.",
       "isTrue": true
      },
      {
-      "text": "A fishing rod.",
-      "why": "It's a gun."
+      "text": "A riding crop, with a horse nearby.",
+      "why": "A gun and a dog."
      },
      {
-      "text": "A book.",
+      "text": "A walking stick, with a dog at his feet.",
       "why": "It's a gun."
      }
     ]
@@ -1089,20 +1089,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, its history.",
-    "hint": "When did the gallery get it?",
+    "hint": "When did the National Gallery get it?",
     "statements": [
      {
       "text": "In 1960.",
-      "why": "It had stayed with the family for two centuries.",
+      "why": "It stayed with the family for two centuries.",
       "isTrue": true
      },
      {
-      "text": "In 1800.",
-      "why": "It came in 1960."
+      "text": "In 1860.",
+      "why": "In 1960."
      },
      {
-      "text": "It was stolen in 1900.",
-      "why": "It wasn't."
+      "text": "In 1910.",
+      "why": "In 1960."
      }
     ]
    }
@@ -1178,20 +1178,20 @@
     },
     "where": "The bed's end",
     "prompt": "Look at the old man at the foot of the bed.",
-    "hint": "Who is he?",
+    "hint": "Who sits at the foot of the bed?",
     "statements": [
      {
-      "text": "Plato, shown old, though he was young at the time.",
+      "text": "Plato, shown old, though he was young then.",
       "why": "David took liberties.",
       "isTrue": true
      },
      {
-      "text": "Socrates' father.",
+      "text": "Aristotle, though he wasn't born yet.",
       "why": "It's Plato."
      },
      {
-      "text": "A jailer.",
-      "why": "The jailer hands the cup."
+      "text": "Plato, shown young, as he really was.",
+      "why": "He's shown as an old man."
      }
     ]
    },
@@ -1203,20 +1203,20 @@
     },
     "where": "The cupbearer",
     "prompt": "Look at the man handing the cup.",
-    "hint": "What's he doing?",
+    "hint": "What's the man handing the cup doing?",
     "statements": [
      {
-      "text": "Turning his face away, covering his eyes.",
+      "text": "Turning away and covering his eyes.",
       "why": "He can't bear it.",
       "isTrue": true
      },
      {
-      "text": "Smiling.",
-      "why": "He's grieving."
+      "text": "Kneeling and begging Socrates not to drink.",
+      "why": "He's turning away."
      },
      {
-      "text": "Drinking from it.",
-      "why": "He hands it over."
+      "text": "Reading out the death sentence.",
+      "why": "He's turning away."
      }
     ]
    },
@@ -1228,20 +1228,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, its reception.",
-    "hint": "How was it received?",
+    "hint": "Which American praised it in Paris?",
     "statements": [
      {
-      "text": "Thomas Jefferson saw it in Paris and praised it.",
-      "why": "It was a sensation.",
+      "text": "Thomas Jefferson.",
+      "why": "He saw it at the Salon of 1787.",
       "isTrue": true
      },
      {
-      "text": "It was hidden away.",
-      "why": "It was exhibited."
+      "text": "Benjamin Franklin.",
+      "why": "Franklin had left Paris by 1787."
      },
      {
-      "text": "It was rejected by the Salon.",
-      "why": "It was a triumph."
+      "text": "George Washington.",
+      "why": "Washington never went to Paris."
      }
     ]
    }
@@ -1317,19 +1317,19 @@
     },
     "where": "The box",
     "prompt": "Look at the wooden box.",
-    "hint": "What's written there?",
+    "hint": "What's written on the box?",
     "statements": [
      {
       "text": "\"To Marat, David.\"",
-      "why": "The dedication is like an epitaph.",
+      "why": "Like an epitaph.",
       "isTrue": true
      },
      {
-      "text": "A price.",
-      "why": "It's a dedication."
+      "text": "\"Marat, friend of the people.\"",
+      "why": "That echoes his newspaper's name, but the box says \"To Marat, David.\""
      },
      {
-      "text": "A Bible verse.",
+      "text": "\"Liberty, Equality, Fraternity.\"",
       "why": "It's a dedication."
      }
     ]
@@ -1342,20 +1342,20 @@
     },
     "where": "The bath",
     "prompt": "Look at the bath.",
-    "hint": "Why was he in it?",
+    "hint": "Why was he in the bath?",
     "statements": [
      {
-      "text": "He bathed for hours to ease a painful skin disease.",
+      "text": "To ease a painful skin disease.",
       "why": "He worked from the tub.",
       "isTrue": true
      },
      {
-      "text": "He was hiding.",
-      "why": "He had a skin disease."
+      "text": "To recover from an earlier wound.",
+      "why": "It was a skin disease."
      },
      {
-      "text": "It was his birthday.",
-      "why": "He had a skin condition."
+      "text": "To hide from the police.",
+      "why": "It was a skin disease."
      }
     ]
    },
@@ -1370,17 +1370,17 @@
     "hint": "Did David know him?",
     "statements": [
      {
-      "text": "Yes, they were political allies; David saw him the day before.",
-      "why": "David was a revolutionary.",
+      "text": "Yes, David visited him the day before he died.",
+      "why": "They were political allies.",
       "isTrue": true
      },
      {
-      "text": "They never met.",
-      "why": "They knew each other."
+      "text": "No, David worked from a death mask only.",
+      "why": "He had seen him the day before."
      },
      {
-      "text": "David was his enemy.",
-      "why": "They were allies."
+      "text": "Yes, David was with him when he died.",
+      "why": "He'd visited the day before."
      }
     ]
    }
@@ -1456,7 +1456,7 @@
     },
     "where": "The cats",
     "prompt": "Look at the cats.",
-    "hint": "What are they doing?",
+    "hint": "What are the cats doing?",
     "statements": [
      {
       "text": "Staring hungrily at the bird.",
@@ -1464,12 +1464,12 @@
       "isTrue": true
      },
      {
-      "text": "Sleeping.",
-      "why": "They're watching."
+      "text": "Playing with a ball of yarn.",
+      "why": "They're watching the bird."
      },
      {
-      "text": "Playing with yarn.",
-      "why": "They're watching the bird."
+      "text": "Asleep beside the cage.",
+      "why": "They're watching."
      }
     ]
    },
@@ -1481,7 +1481,7 @@
     },
     "where": "The cage",
     "prompt": "Look at the right.",
-    "hint": "What's in it?",
+    "hint": "What's in the cage?",
     "statements": [
      {
       "text": "Finches.",
@@ -1489,12 +1489,12 @@
       "isTrue": true
      },
      {
-      "text": "A rabbit.",
-      "why": "It's finches."
+      "text": "A parrot.",
+      "why": "Finches."
      },
      {
-      "text": "Nothing.",
-      "why": "There are birds."
+      "text": "A mouse.",
+      "why": "Finches."
      }
     ]
    },
@@ -1506,20 +1506,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, its meaning.",
-    "hint": "What might it suggest?",
+    "hint": "What became of the boy?",
     "statements": [
      {
-      "text": "How fragile childhood is.",
-      "why": "The boy died young.",
+      "text": "He died at eight, a few years later.",
+      "why": "The painting can feel like a warning about fragile childhood.",
       "isTrue": true
      },
      {
-      "text": "A wedding.",
-      "why": "It's about innocence."
+      "text": "He became a general, dying at eighty.",
+      "why": "He died at eight."
      },
      {
-      "text": "A war.",
-      "why": "It's about childhood."
+      "text": "He died at eighteen, in a war.",
+      "why": "He died at eight."
      }
     ]
    }
@@ -1595,20 +1595,20 @@
     },
     "where": "The soldiers",
     "prompt": "Look at the soldiers.",
-    "hint": "What can't you see?",
+    "hint": "Whose faces can't you see?",
     "statements": [
      {
-      "text": "Their faces.",
-      "why": "They're anonymous.",
+      "text": "The soldiers'.",
+      "why": "They're faceless, like a machine.",
       "isTrue": true
      },
      {
-      "text": "Their rifles.",
-      "why": "The rifles are clear."
+      "text": "The victims'.",
+      "why": "The victims' faces are clear."
      },
      {
-      "text": "Their feet.",
-      "why": "Their faces are hidden."
+      "text": "The officers'.",
+      "why": "There are no officers shown."
      }
     ]
    },
@@ -1620,20 +1620,20 @@
     },
     "where": "The lantern",
     "prompt": "Look at the lantern.",
-    "hint": "What does it do?",
+    "hint": "What does the lantern do?",
     "statements": [
      {
-      "text": "It lights the victims and leaves the soldiers in shadow.",
-      "why": "The light is dramatic.",
+      "text": "Lights the victims and leaves the soldiers dark.",
+      "why": "The light makes them the focus.",
       "isTrue": true
      },
      {
-      "text": "It's on fire.",
-      "why": "It's a light."
+      "text": "Lights the soldiers and leaves the victims dark.",
+      "why": "It's the other way round."
      },
      {
-      "text": "It's a moon.",
-      "why": "It's a lantern."
+      "text": "Lights the city, burning in the distance.",
+      "why": "It lights the victims."
      }
     ]
    },
@@ -1645,20 +1645,20 @@
     },
     "where": "Full painting",
     "prompt": "Finally, its influence.",
-    "hint": "Who echoed it?",
+    "hint": "Who echoed it later?",
     "statements": [
      {
       "text": "Manet, in The Execution of Maximilian.",
-      "why": "And Picasso later.",
+      "why": "And Picasso, later still.",
       "isTrue": true
      },
      {
-      "text": "No one.",
-      "why": "Many have."
+      "text": "Delacroix, in Liberty Leading the People.",
+      "why": "It was Manet."
      },
      {
-      "text": "It was hidden for 200 years.",
-      "why": "It's been on view."
+      "text": "Manet, in A Bar at the Folies-Bergère.",
+      "why": "It was his Execution of Maximilian."
      }
     ]
    }

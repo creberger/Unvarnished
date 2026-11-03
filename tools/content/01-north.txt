@@ -8,18 +8,18 @@ desc: A man in a dark fur-trimmed robe and a woman in a green dress stand hand i
 + It reflects two more figures standing in the doorway, facing the couple. || One of them may be van Eyck himself. The mirror's frame holds ten tiny scenes of Christ's Passion.
 - It shows the painter's face in clear, sharp detail. || The figures in the mirror are tiny and can't be identified for sure.
 - The mirror was added by a restorer in the 1800s. || It's original. Technical studies show it was part of the painting from the start.
-@ 0.5 0.36 3 | Above the mirror | Now the writing above the mirror. | What does it say?
-+ It says, in Latin, "Jan van Eyck was here 1434." || He wrote it like a witness signing a document. It's one reason some think the painting records a betrothal.
-- It's a Bible verse about marriage. || It's a signature and a date.
-- It's the price the couple paid for the painting. || It records that the painter was present, not a price.
-@ 0.47 0.17 3 | The chandelier | Up at the brass chandelier. | Look at the candles.
-+ Only one candle is lit, even though it's broad daylight. || The single flame is often read as a symbol, perhaps of God's presence or of a marriage vow.
-- Every candle in the chandelier is burning. || Just one is lit.
-- The chandelier is Venetian glass. || It's brass, painted so finely you can see its reflections.
-@ 0.5 0.5 1 | Full painting | Finally, the painting's own story. | Where did it end up?
-+ The National Gallery in London bought it in 1842. || It had passed through Habsburg and Spanish royal collections before reaching Britain.
-- It was found rolled up in a Bruges attic in 1900. || It's on a rigid panel and has a well-documented history.
-- Historians agree the woman is pregnant. || Most think she's gathering up the full skirt of a fashionable dress.
+@ 0.5 0.36 3 | Above the mirror | Now the writing above the mirror. | What does the Latin above the mirror say?
++ "Jan van Eyck was here, 1434." || It's written like a witness's signature on a document.
+- "As I can, Jan van Eyck, 1434." || That motto appears on some of his other frames, not here.
+- "Giovanni Arnolfini and his wife, 1434." || The couple aren't named anywhere on the painting.
+@ 0.47 0.17 3 | The chandelier | Up at the brass chandelier. | How many candles are lit?
++ Just one candle burns, in broad daylight. || It's often read as a symbol, perhaps of a vow or of God's presence.
+- Two candles burn, one above each of the couple. || Only one is lit.
+- Every candle burns, for a celebration. || Only one is lit.
+@ 0.5 0.5 1 | Full painting | Finally, the painting's own story. | When did the National Gallery buy it?
++ The National Gallery bought it in 1842. || It had passed through Habsburg and Spanish royal collections first.
+- The National Gallery bought it in 1824, the year it opened. || The gallery opened in 1824; this came in 1842.
+- The National Gallery bought it in 1894. || It came in 1842.
 
 ## descent-from-the-cross | The Descent from the Cross | Rogier van der Weyden | c. 1399–1464 | c. 1435 | Oil on oak | Museo del Prado, Madrid
 desc: Ten life-size figures crowd a shallow gold space as Christ's body is lowered from the cross and Mary faints in the foreground.
@@ -31,18 +31,18 @@ desc: Ten life-size figures crowd a shallow gold space as Christ's body is lower
 + Tiny crossbows hide in the painted tracery, the emblem of the archers' guild that ordered it. || The guild of crossbowmen in Leuven commissioned the altarpiece for their chapel.
 - The painter's coat of arms. || The corners show crossbows, the guild's emblem.
 - Two crossed keys, the sign of Saint Peter. || They're crossbows.
-@ 0.38 0.65 2.2 | Mary | Look at Mary in her blue robe. | How does her body fall?
-+ Her fainting body echoes the curve of Christ's body above her. || The repeated pose links her suffering to his.
-- Her robe was repainted green in the 1700s. || The blue is original, and very costly.
-- Rogier left Mary to a student and painted only Christ himself. || The whole work is accepted as by Rogier.
-@ 0.85 0.45 2.5 | The faces | Look closely at the mourners' faces. | What catches the light?
-+ Clear tears run down several faces, painted as tiny drops with highlights. || Rogier was famous for showing grief this directly.
-- The faces were copied from Roman statues. || They're individual, emotional faces, not classical copies.
-- The tears were added by a restorer in 1939. || They're part of Rogier's original paint.
-@ 0.5 0.5 1 | Full painting | Finally, the painting's own story. | Who owned it?
-+ Philip II of Spain acquired it, and it now hangs in the Prado in Madrid. || Spanish rulers prized it so much that they commissioned copies.
-- It was cut into three pieces to sell and later reassembled. || It's a single panel.
-- An American collector owned it until 1980. || It has been in Spain since the 1500s.
+@ 0.38 0.65 2.2 | Mary | Look at Mary in her blue robe. | How does Mary's body fall?
++ Her fainting body echoes the curve of Christ's body above her. || The repeated pose ties her suffering to his.
+- Her fainting body forms a cross, echoing the cross behind her. || It echoes Christ's curving body, not the cross.
+- She kneels upright, praying with her eyes open. || She's fainting, with her eyes closed.
+@ 0.85 0.45 2.5 | The faces | Look closely at the mourners' faces. | What shows the mourners' grief?
++ Clear tears run down several faces, each with its own highlight. || Rogier painted grief unusually directly.
+- Several mourners have torn their clothes, an old sign of grief. || Their clothes are whole; the grief shows in tears.
+- Ashes are smeared across several mourners' foreheads. || There's no ash; it's tears.
+@ 0.5 0.5 1 | Full painting | Finally, the painting's own story. | Which king owned it?
++ Philip II of Spain owned it; it's now in the Prado. || Spanish rulers prized it and had copies made.
+- Francis I of France owned it; it's now in the Prado. || It belonged to Philip II.
+- Henry VIII of England owned it; it's now in the Prado. || It belonged to Philip II.
 
 ## garden-of-earthly-delights | The Garden of Earthly Delights | Hieronymus Bosch | c. 1450–1516 | c. 1490–1510 | Oil on oak panels | Museo del Prado, Madrid
 desc: A triptych: Eden on the left, a crowded paradise of naked figures and giant fruit in the centre, and a dark hell on the right.
@@ -54,18 +54,18 @@ desc: A triptych: Eden on the left, a crowded paradise of naked figures and gian
 + God presents Eve to Adam in the Garden of Eden. || The garden is full of strange animals, including a giraffe and an elephant.
 - Noah loads animals into the ark. || It's Eden, with Adam and Eve.
 - The Last Judgement. || That's not shown; the left panel is the creation of Eve.
-@ 0.5 0.45 2 | Centre panel | Now the crowded centre. | What's out of scale?
-+ Giant strawberries, cherries and birds tower over the tiny figures. || The fruit is often read as a symbol of brief, sweet pleasures.
-- It shows a real festival in Bosch's home town. || It's an imagined paradise, not a real place.
-- Every figure in the centre panel is clothed. || Almost all are naked.
-@ 0.8 0.82 3 | Right panel | Down in the hell panel. | Look at the man lying under the lute.
-+ A line of music is painted on a man's backside. || In 2014 a student transcribed it and it was played as a short tune.
-- The hell panel is completely empty and dark. || It's crowded with tortures, instruments and monsters.
-- The music is a hymn Bosch copied from his church. || Nobody knows of any source. It may be a joke.
-@ 0.5 0.5 1 | Full painting | Finally, the painting's own story. | How did it reach Madrid?
-+ Philip II of Spain acquired it, and it now hangs in the Prado. || Philip collected Bosch avidly.
-- Bosch signed and dated it across the bottom. || It isn't dated, which is why the date is given as a range.
-- It was painted for the Pope. || Its first owners were the Nassau family in Brussels.
+@ 0.5 0.45 2 | Centre panel | Now the crowded centre. | What's out of scale in the centre?
++ Giant strawberries, cherries and birds tower over the people. || The fruit may stand for brief, sweet pleasures.
+- Giant clocks and hourglasses tower over the people. || There are no clocks; it's fruit and birds.
+- Giant musical instruments tower over the people. || The instruments are in the hell panel.
+@ 0.8 0.82 3 | Right panel | Down in the hell panel. | What's painted on the man under the lute?
++ A line of music, on his backside. || In 2014 a student transcribed it and it was played as a short tune.
+- A line of music, on a scroll in his hand. || It's on his backside.
+- A line of Latin, on his backside. || It's musical notes.
+@ 0.5 0.5 1 | Full painting | Finally, the painting's own story. | Who brought it to Madrid?
++ Philip II of Spain acquired it; it's now in the Prado. || He collected Bosch avidly.
+- Emperor Charles V acquired it; it's now in the Prado. || It was his son, Philip II.
+- Joseph Bonaparte acquired it; it's now in the Prado. || It was Philip II, centuries earlier.
 
 ## young-hare | Young Hare | Albrecht Dürer | 1471–1528 | 1502 | Watercolour and gouache on paper | Albertina, Vienna
 desc: A brown hare crouches on a plain background, its fur painted hair by hair.
@@ -77,18 +77,18 @@ desc: A brown hare crouches on a plain background, its fur painted hair by hair.
 + Dürer's AD monogram and the date 1502. || He signed many works with this famous monogram.
 - The hare's name. || It's the artist's monogram.
 - A later owner's initials. || The monogram is Dürer's own.
-@ 0.6 0.37 3 | The eye | Look into the hare's eye. | What's reflected?
-+ It reflects a window, a sign Dürer studied the animal indoors. || The tiny window frame shows how closely he observed.
-- The eye is a drop of real glass glued on. || It's paint.
-- The eye was cut out and replaced. || The paper is intact.
-@ 0.4 0.55 2.5 | The fur | Look at the fur. | How was it made?
-+ Each hair is its own fine brushstroke, laid over broader washes. || The direction of the strokes follows the fur.
-- He pressed real hare fur into the paint. || It's all brushwork.
-- The fur was printed from a woodblock. || It's painted by hand.
-@ 0.5 0.5 1 | Full painting | Finally, the painting's own story. | Where can you see it?
-+ It's so sensitive to light that the Albertina rarely shows the original. || A facsimile is usually on view instead.
-- It hangs permanently in a sunlit room. || Light would fade it, so it's kept dark.
-- It was lost in the Second World War and is known only from copies. || The original survives in Vienna.
+@ 0.6 0.37 3 | The eye | Look into the hare's eye. | What's reflected in its eye?
++ A window, suggesting Dürer studied it indoors. || The tiny window bars show how closely he looked.
+- A candle flame, suggesting he worked at night. || It's a window.
+- Dürer's own face, a hidden self-portrait. || It's a window.
+@ 0.4 0.55 2.5 | The fur | Look at the fur. | How was the fur painted?
++ Fine single strokes over broader watercolour washes. || The strokes follow the direction of the fur.
+- Fine single strokes over a pencil drawing, with no washes. || He laid broad washes first.
+- Fine lines printed from an engraved plate, then coloured. || It's painted by hand, not printed.
+@ 0.5 0.5 1 | Full painting | Finally, the painting's own story. | Where is it usually kept?
++ In storage at the Albertina; light would fade it. || A facsimile is usually on view instead.
+- On permanent view at the Albertina, behind special glass. || It's rarely shown.
+- On permanent view in Nuremberg, Dürer's home town. || It's in Vienna, and rarely shown.
 
 ## ambassadors | The Ambassadors | Hans Holbein the Younger | c. 1497–1543 | 1533 | Oil on oak | National Gallery, London
 desc: Two richly dressed men stand either side of a shelf crowded with globes and instruments; a strange slanted shape crosses the floor.
@@ -100,18 +100,18 @@ desc: Two richly dressed men stand either side of a shelf crowded with globes an
 + It's a skull, stretched so it only looks right when seen from the side. || This trick is called anamorphosis. The skull is a reminder of death.
 - It's fire damage. || It's deliberate, carefully painted.
 - It's a fish. || It's a skull.
-@ 0.6 0.63 3 | The lute | Look at the lute on the lower shelf. | Check its strings.
-+ One of its strings is broken, often read as a sign of discord. || In 1533 Europe was split by religious conflict.
-- It's a real lute glued to the panel. || It's painted.
-- The lute has no strings at all. || It has strings; one is snapped.
-@ 0.04 0.05 3 | Top corner | Up in the top left corner. | What's half hidden?
-+ A small crucifix peeks out from behind the green curtain. || It's easy to miss, perhaps on purpose.
-- A window with a view of London. || It's a crucifix.
-- The painter's self-portrait. || It's a crucifix.
-@ 0.5 0.5 1 | Full painting | Finally, who are they? | Think about the title.
-+ They're Frenchmen: Jean de Dinteville, an ambassador, and Georges de Selve, a bishop. || Dinteville was France's ambassador to Henry VIII's court.
-- They're two of Henry VIII's English advisers. || They're French.
-- They're Holbein and his brother. || They're the diplomat and his friend.
+@ 0.6 0.63 3 | The lute | Look at the lute on the lower shelf. | Check the lute's strings.
++ One string is broken, perhaps a sign of discord. || In 1533 Europe was split by religious conflict.
+- One string is missing, removed by a later restorer. || It's painted broken.
+- Its neck is cracked, perhaps a sign of discord. || It's a broken string.
+@ 0.04 0.05 3 | Top corner | Up in the top left corner. | What's half hidden in the top corner?
++ A small crucifix, behind the green curtain. || It's easy to miss, perhaps on purpose.
+- A small hourglass, behind the green curtain. || It's a crucifix.
+- A small portrait of Henry VIII, behind the curtain. || It's a crucifix.
+@ 0.5 0.5 1 | Full painting | Finally, who are they? | Who are the two men?
++ Jean de Dinteville, French ambassador, and Georges de Selve, a bishop. || Dinteville was posted to Henry VIII's court.
+- Jean de Dinteville, French ambassador, and Thomas More, a statesman. || The second man is Georges de Selve.
+- Jean de Dinteville, Spanish ambassador, and Georges de Selve, a bishop. || Dinteville was French.
 
 ## hunters-in-the-snow | The Hunters in the Snow | Pieter Bruegel the Elder | c. 1525–1569 | 1565 | Oil on oak | Kunsthistorisches Museum, Vienna
 desc: Hunters and their dogs trudge through snow above a valley of frozen ponds full of skaters.
@@ -123,18 +123,18 @@ desc: Hunters and their dogs trudge through snow above a valley of frozen ponds 
 + Just one fox, slung over a hunter's back. A poor day. || The tired dogs and bowed heads tell the same story.
 - A deer. || They carry only a fox.
 - A wolf. || It's a fox.
-@ 0.14 0.52 2.5 | The inn | Look at the inn on the left. | What's happening by the fire?
-+ People are singeing the bristles off a pig over a fire. || The inn's sign hangs loose from one hook.
-- The inn is burning down. || It's a cooking fire.
-- Soldiers are warming their hands. || They're villagers preparing a pig.
-@ 0.65 0.72 2.2 | The ponds | Down on the frozen ponds. | What are people doing?
-+ Skating and playing games on the ice. || Bruegel fills the valley with tiny figures.
-- Fishing from boats on open water. || The water is frozen.
-- The ponds are drained and dry. || They're frozen over.
+@ 0.14 0.52 2.5 | The inn | Look at the inn on the left. | What's happening by the inn's fire?
++ People are singeing the bristles off a pig. || The inn's sign hangs loose from one hook.
+- People are roasting a deer the hunters caught. || The hunters caught only a fox.
+- People are melting snow for drinking water. || They're singeing a pig.
+@ 0.65 0.72 2.2 | The ponds | Down on the frozen ponds. | What's happening on the ice?
++ Skaters, and players of a curling-like game. || Bruegel fills the valley with tiny figures.
+- Skaters, and people fishing through holes in the ice. || Nobody is fishing.
+- Skaters, and soldiers marching across the ice. || There are no soldiers.
 @ 0.5 0.5 1 | Full painting | Finally, the place. | Is it a real view?
-+ The jagged mountains are imagined; Flanders is flat. || Bruegel had crossed the Alps and drew mountains from memory.
-- It's an exact view of Antwerp. || The landscape is invented.
-- He painted it outdoors in the snow. || It was painted in the studio.
++ No: the jagged peaks are imagined; Flanders is flat. || Bruegel had crossed the Alps and drew mountains from memory.
+- Yes: it's the view from a hill outside Antwerp. || The mountains are invented.
+- Yes: it's an Alpine valley he sketched on his travels. || It mixes a Flemish village with imagined peaks.
 
 ## harvesters | The Harvesters | Pieter Bruegel the Elder | c. 1525–1569 | 1565 | Oil on wood | The Metropolitan Museum of Art, New York
 desc: Peasants cut and stack golden wheat, and a group eats lunch under a pear tree.
@@ -146,18 +146,18 @@ desc: Peasants cut and stack golden wheat, and a group eats lunch under a pear t
 + Bread, cheese, porridge and pears. || The meal is simple and seasonal.
 - Roast swan. || It's a peasant's lunch.
 - Nothing; they're praying. || They're eating.
-@ 0.62 0.72 3 | The sleeper | Look at the man lying under the tree. | What's he doing?
-+ He's fast asleep, sprawled out with his legs apart. || He's worn out by the work.
-- He's injured. || He's sleeping.
-- He's dead. || He's asleep.
-@ 0.85 0.45 2.5 | The distance | Look far away, to the right. | What's out there?
+@ 0.62 0.72 3 | The sleeper | Look at the man lying under the tree. | What's the man under the tree doing?
++ He's asleep, sprawled out after the meal. || The heat and the work have worn him out.
+- He's injured, and a woman is tending him. || He's simply asleep.
+- He's praying, lying face down. || He's asleep on his back.
+@ 0.85 0.45 2.5 | The distance | Look far away, to the right. | What's in the far distance?
 + A bay with ships, beyond the fields. || Bruegel's landscapes stretch to the horizon.
-- A volcano erupting. || It's calm water with ships.
-- A battle. || It's peaceful.
+- A walled city on fire, beyond the fields. || It's a calm bay.
+- Two armies in battle, beyond the fields. || It's peaceful.
 @ 0.5 0.5 1 | Full painting | Finally, the painting's own story. | When did the Met get it?
 + The Met bought it in 1919. || It's one of the museum's best-loved works.
-- It hung in Vienna until 1980. || It came to New York in 1919.
-- It was found under a church floor. || Its history is documented.
+- The Met bought it in 1929, with the Havemeyer gift. || The Havemeyer gift brought El Greco's View of Toledo; this came in 1919.
+- The Met bought it in 1909. || It came in 1919.
 
 ## girl-with-a-pearl-earring | Girl with a Pearl Earring | Johannes Vermeer | 1632–1675 | c. 1665 | Oil on canvas | Mauritshuis, The Hague
 desc: A girl in a blue and yellow turban looks over her shoulder, lips parted, a large pearl at her ear, against a dark background.
@@ -170,17 +170,17 @@ desc: A girl in a blue and yellow turban looks over her shoulder, lips parted, a
 - It's real pearl dust mixed into paint. || It's ordinary paint.
 - It's gold leaf. || It's paint.
 @ 0.52 0.22 2.2 | The turban | Look at the blue of the turban. | Where does the blue come from?
-+ It's ultramarine, made from lapis lazuli. || A costly pigment Vermeer used generously.
-- Indigo dye. || It's ultramarine.
-- It was repainted in the 1900s. || It's original.
++ Ultramarine, ground from lapis lazuli. || A costly pigment Vermeer used freely.
+- Azurite, a cheaper copper-based blue. || It's ultramarine.
+- Smalt, a blue made from ground glass. || It's ultramarine.
 @ 0.36 0.42 2.5 | Her face | Look at her eyes. | What did a 2018 study find?
-+ She once had eyelashes, now too faint to see. || Researchers found tiny traces with microscopes.
-- A second face hidden underneath. || No hidden face was found.
-- Her lips were repainted by a restorer. || The highlights on her lips are Vermeer's.
-@ 0.15 0.15 2 | The background | Look at the dark background. | Was it always black?
-+ It was once a green curtain; the glaze has faded to near black. || The 2018 research found folds of green fabric.
-- It was always pure black. || It was a green curtain.
-- A window was painted over. || It was a curtain.
++ Tiny eyelashes, now too faint to see. || Researchers found traces with microscopes.
+- A pearl necklace, later painted over. || It found eyelashes, not a necklace.
+- A second earring, later painted over. || It found eyelashes.
+@ 0.15 0.15 2 | The background | Look at the dark background. | What was the background?
++ A green curtain, now faded to near black. || The study found folds of green fabric.
+- A daylit window, later painted over. || It was a curtain.
+- A map on the wall, now faded. || Maps appear in other Vermeers, but this was a curtain.
 
 ## view-of-delft | View of Delft | Johannes Vermeer | 1632–1675 | c. 1660–61 | Oil on canvas | Mauritshuis, The Hague
 desc: The city of Delft seen across a river under a great clouded sky, with sunlit roofs and boats moored along the bank.
@@ -192,18 +192,18 @@ desc: The city of Delft seen across a river under a great clouded sky, with sunl
 + The Nieuwe Kerk, where William of Orange is buried. || Sunlight picks it out in the middle of the city.
 - A lighthouse. || It's a church tower.
 - A Delftware factory chimney. || It's the Nieuwe Kerk.
-@ 0.5 0.3 1.5 | The sky | Look at the sky. | How much of the canvas is it?
-+ More than half the painting is sky. || Vermeer gives the clouds as much attention as the city.
-- The sky was added by another painter. || It's Vermeer's.
-- It's a night sky. || It's daylight.
-@ 0.5 0.76 2 | The water | Look at the reflections. | Are they realistic?
-+ Vermeer stretched the reflections and adjusted buildings to improve the view. || He wasn't making a literal record.
-- The water is a real mirror glued on. || It's paint.
-- The river is frozen. || It's open water.
-@ 0.5 0.5 1 | Full painting | Finally, the painting's own story. | How did the Mauritshuis get it?
+@ 0.5 0.3 1.5 | The sky | Look at the sky. | How much of the canvas is sky?
++ More than half of it. || Vermeer gives the clouds as much attention as the city.
+- About a third of it. || It's more than half.
+- About a quarter of it. || It's more than half.
+@ 0.5 0.76 2 | The water | Look at the reflections. | Are the reflections true to life?
++ No, Vermeer stretched them longer than they'd be. || He changed the view to make it more harmonious.
+- No, Vermeer left them out on the right side. || The reflections run right across.
+- Yes, he traced them with a camera obscura. || Some think he used one, but the reflections are altered.
+@ 0.5 0.5 1 | Full painting | Finally, the painting's own story. | When did the Mauritshuis get it?
 + It was bought at auction for the museum in 1822. || It became one of the Netherlands' treasures.
-- Vermeer sold it to the King of France. || It stayed in the Netherlands.
-- It was stolen and never recovered. || It hangs in The Hague.
+- It was bought at auction for the museum in 1882. || It came in 1822.
+- It was bought at auction for the museum in 1922. || It came in 1822.
 
 ## night-watch | The Night Watch | Rembrandt van Rijn | 1606–1669 | 1642 | Oil on canvas | Rijksmuseum, Amsterdam
 desc: A crowded company of Amsterdam militiamen bursts forward, led by a captain in black and a lieutenant in yellow, with a glowing girl among them.
@@ -215,18 +215,18 @@ desc: A crowded company of Amsterdam militiamen bursts forward, led by a captain
 + A dead chicken, a nod to the militia's emblem of claws. || The company were the Kloveniers, whose emblem was a bird's claw.
 - A cat. || It's a chicken.
 - She's an angel with wings. || She's a girl, with a chicken.
-@ 0.5 0.62 2 | The captain | Look at the captain's hand. | What does it do?
-+ It casts a shadow on his lieutenant's yellow coat. || The detail shows how Rembrandt handled light.
-- He points at an enemy. || He's giving an order to march.
-- The captain is Rembrandt himself. || He's Frans Banninck Cocq.
-@ 0.66 0.27 3 | The shield | Look at the shield on the arch. | What's on it?
-+ The names of the militiamen, added after Rembrandt finished. || The names were painted on years later, so people could tell who was who.
-- Rembrandt's prices. || It lists names.
-- A city map. || It's a list of names.
-@ 0.5 0.5 1 | Full painting | Finally, the painting's own story. | What's happened to it?
-+ It has been attacked three times, including with a knife in 1975. || Each time it was repaired.
-- It was stolen in 1911. || It has never been stolen.
-- It was cut into pieces to sell. || It was trimmed but stays whole.
+@ 0.5 0.62 2 | The captain | Look at the captain's hand. | What does the captain's hand do?
++ It casts a shadow on his lieutenant's yellow coat. || The detail shows Rembrandt's control of light.
+- It points toward the girl in gold. || It casts a shadow on the lieutenant.
+- It holds a rolled map of Amsterdam. || It's raised in an open gesture.
+@ 0.66 0.27 3 | The shield | Look at the shield on the arch. | What's on the shield?
++ The militiamen's names, added years later. || So people could tell who was who.
+- The militiamen's names, painted by Rembrandt himself. || They were added later by someone else.
+- The company's founding date and motto. || It lists names.
+@ 0.5 0.5 1 | Full painting | Finally, the painting's own story. | What happened in 1975?
++ A man slashed it with a knife; it was repaired. || It has been attacked three times in all.
+- A man sprayed it with acid; it was repaired. || That happened in 1990.
+- A man cut out a piece; it was recovered. || He slashed it; nothing was taken.
 
 ## rembrandt-at-63 | Self Portrait at the Age of 63 | Rembrandt van Rijn | 1606–1669 | 1669 | Oil on canvas | National Gallery, London
 desc: An elderly Rembrandt in a beret looks out with tired eyes, his hands clasped in front of him.
@@ -238,15 +238,15 @@ desc: An elderly Rembrandt in a beret looks out with tired eyes, his hands clasp
 + Thick paint builds up the wrinkles and bags under his eyes. || He didn't flatter himself.
 - It's smooth like porcelain. || It's thickly painted.
 - He made himself look younger. || He looks his age.
-@ 0.45 0.83 2.5 | The hands | Look at his hands. | Were they always clasped?
-+ X-rays show he first held brushes; then he painted his hands clasped. || He changed his mind.
-- He holds a skull. || His hands are clasped.
-- He holds a letter. || His hands are clasped.
-@ 0.48 0.15 2.5 | The beret | Look at his hat. | What is it?
+@ 0.45 0.83 2.5 | The hands | Look at his hands. | What did X-rays reveal?
++ He first held brushes, then painted his hands clasped. || He changed his mind as he worked.
+- He first held a skull, then painted his hands clasped. || It was brushes.
+- He first held a letter, then painted his hands clasped. || It was brushes.
+@ 0.48 0.15 2.5 | The beret | Look at his hat. | What's on his head?
 + A beret, as in many of his late self-portraits. || It became his trademark.
-- A crown. || It's a beret.
-- A turban with jewels. || It's a plain beret.
-@ 0.5 0.5 1 | Full painting | Finally, the bigger picture. | How often did he paint himself?
-+ He made around 80 self-portraits in paint, drawing and etching. || They track his whole life.
-- Only three. || He made many.
-- The King of England commissioned this one. || It wasn't commissioned.
+- A turban, as in many of his late self-portraits. || It's a beret.
+- A painter's cap, required by his guild. || It's a beret, and no rule required it.
+@ 0.5 0.5 1 | Full painting | Finally, the bigger picture. | How many self-portraits did he make?
++ About 80, in paint, drawing and etching. || They track his whole life.
+- About 20, all in oil paint. || He made about 80.
+- About 200, mostly quick drawings. || He made about 80.

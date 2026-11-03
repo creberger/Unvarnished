@@ -8,18 +8,18 @@ desc: A pale green arched footbridge crosses a pond covered in water lilies, fra
 + Monet diverted a stream to create it. || He needed permission from the town.
 - It's a natural lake. || He made it.
 - It's a swimming pool. || It's a lily pond.
-@ 0.5 0.3 2.5 | The bridge | Look at the bridge. | What style?
-+ Japanese-style. || Monet collected Japanese prints.
-- Roman. || It's Japanese style.
-- Iron industrial. || It's a wooden footbridge.
-@ 0.5 0.85 2.5 | The lilies | Look at the lilies. | How many paintings of them?
+@ 0.5 0.3 2.5 | The bridge | Look at the bridge. | What style is the bridge?
++ Japanese, inspired by prints Monet collected. || He owned hundreds of Japanese prints.
+- Chinese, copied from a willow-pattern plate. || It's Japanese-inspired.
+- Venetian, inspired by a trip to Venice. || He went to Venice later; the bridge is Japanese-style.
+@ 0.5 0.85 2.5 | The lilies | Look at the lilies. | How many water lily paintings did he make?
 + About 250. || He painted them for decades.
-- Five. || He painted hundreds.
-- One. || He painted many.
-@ 0.5 0.5 1 | Full painting | Finally, Monet's eyes. | What troubled him later?
-+ Cataracts, which changed how he saw colour. || His later works are redder.
-- Blindness from birth. || He had cataracts later.
-- Nothing. || He had cataracts.
+- About 25. || About 250.
+- About 2,500. || About 250.
+@ 0.5 0.5 1 | Full painting | Finally, Monet's eyes. | What changed his colours late in life?
++ Cataracts, which tinted what he saw. || His later works turn redder.
+- Lead poisoning from his paints. || It was cataracts.
+- Colour blindness from birth. || It was cataracts, late in life.
 
 ## stacks-of-wheat | Stacks of Wheat (End of Summer) | Claude Monet | 1840–1926 | 1890–91 | Oil on canvas | Art Institute of Chicago
 desc: Two large stacks of wheat sit in a field under a soft late-summer light, with hills and trees behind.
@@ -31,18 +31,18 @@ desc: Two large stacks of wheat sit in a field under a soft late-summer light, w
 + Soft summer light, with coloured shadows. || The shadows aren't grey.
 - It's night. || It's day.
 - It's raining. || It's sunny.
-@ 0.7 0.55 2.5 | The right stack | Look at the right stack. | Where are they?
-+ Near Monet's house at Giverny. || He painted them in a nearby field.
-- In Holland. || It's France.
-- In America. || It's France.
-@ 0.5 0.25 2 | The hills | Look at the background. | What's there?
-+ Trees, hills and houses. || It's the countryside.
-- The sea. || It's land.
-- A city. || It's countryside.
-@ 0.5 0.5 1 | Full painting | Finally, the series' success. | How did it sell?
-+ The 1891 exhibition sold out within days. || It made Monet rich.
-- Nobody bought them. || They sold quickly.
-- They were burned. || They sold.
+@ 0.7 0.55 2.5 | The right stack | Look at the right stack. | Where are the stacks?
++ In a field near Monet's house at Giverny. || He could paint them close to home.
+- In a field near his childhood home at Le Havre. || They're at Giverny.
+- In a field at Argenteuil, outside Paris. || He lived there earlier; these are at Giverny.
+@ 0.5 0.25 2 | The hills | Look at the background. | How many of the stacks does the Art Institute own?
++ Six. || Chicago collectors bought them early.
+- One. || It owns six.
+- Twenty. || It owns six.
+@ 0.5 0.5 1 | Full painting | Finally, the series' success. | How did the 1891 show go?
++ It sold out within days. || It made Monet rich.
+- Not one painting sold. || It sold out.
+- Critics forced it to close early. || It was a hit.
 
 ## boating-party | Luncheon of the Boating Party | Pierre-Auguste Renoir | 1841–1919 | 1880–81 | Oil on canvas | The Phillips Collection, Washington
 desc: Friends relax after lunch on a riverside restaurant balcony under a striped awning, drinking, chatting and flirting.
@@ -54,18 +54,18 @@ desc: Friends relax after lunch on a riverside restaurant balcony under a stripe
 + Aline Charigot, who later married Renoir. || She was a seamstress.
 - Renoir's mother. || She married Renoir.
 - A queen. || She married Renoir.
-@ 0.8 0.75 2.5 | Bottom right | Look at the man in a straw hat at bottom right. | Who is he?
-+ The painter Gustave Caillebotte. || He was a friend.
-- Monet. || It's Caillebotte.
-- A waiter. || It's Caillebotte.
-@ 0.45 0.75 2 | The table | Look at the table. | What's left?
-+ Bottles, glasses and fruit after the meal. || A still life within a scene.
-- Books. || It's lunch.
-- Nothing. || It's a meal.
-@ 0.5 0.5 1 | Full painting | Finally, who bought it? | When?
-+ Duncan Phillips, in 1923. || It's his museum's star.
-- The Louvre. || It's in Washington.
-- It was never sold. || It was bought.
+@ 0.8 0.75 2.5 | Bottom right | Look at the man in a straw hat at bottom right. | Who's the man in the straw hat, bottom right?
++ The painter Gustave Caillebotte. || A friend and patron.
+- The painter Claude Monet. || It's Caillebotte.
+- The restaurant owner's son. || He's leaning on the railing at the left.
+@ 0.45 0.75 2 | The table | Look at the table. | How many people are in it?
++ Fourteen. || All friends of Renoir's.
+- Nine. || Fourteen.
+- Twenty. || Fourteen.
+@ 0.5 0.5 1 | Full painting | Finally, who bought it? | What did Duncan Phillips pay in 1923?
++ $125,000. || It's his museum's star.
+- $12,500. || It was $125,000.
+- $1.25 million. || It was $125,000.
 
 ## dance-class | The Dance Class | Edgar Degas | 1834–1917 | 1874 | Oil on canvas | The Metropolitan Museum of Art, New York
 desc: Young ballerinas in white tutus wait, stretch and chat in a studio as an old ballet master leans on his stick.
@@ -77,18 +77,18 @@ desc: Young ballerinas in white tutus wait, stretch and chat in a studio as an o
 + A real ballet master, Jules Perrot. || He was a famous dancer.
 - Degas. || It's Perrot.
 - A janitor. || He's a ballet master.
-@ 0.15 0.4 2.5 | The left | Look at the dancer on the left. | What's she doing?
+@ 0.15 0.4 2.5 | The left | Look at the dancer on the left. | What's the dancer on the left doing?
 + Scratching her back. || Degas loved unguarded moments.
-- Dancing. || She's scratching.
-- Sleeping. || She's scratching.
-@ 0.5 0.85 2 | The floor | Look at the floor. | What does it suggest?
-+ A deep, slanted perspective. || It pulls us into the room.
-- A carpet. || It's wood.
-- Water. || It's floorboards.
-@ 0.5 0.5 1 | Full painting | Finally, Degas' subjects. | How many dancers did he paint?
-+ Ballet dancers fill more than half his work. || He was obsessed with them.
-- Only one. || He painted many.
-- None. || Many.
+- Reading a letter. || She's scratching her back.
+- Eating an orange. || She's scratching her back.
+@ 0.5 0.85 2 | The floor | Look at the floor. | What is the ballet master leaning on?
++ A tall stick, used to beat time. || He keeps the rhythm with it.
+- A violin, played for the class. || It's a stick.
+- A chair, because of an injury. || It's a stick.
+@ 0.5 0.5 1 | Full painting | Finally, Degas' subjects. | How much of Degas's work shows dancers?
++ More than half. || He was devoted to them.
+- About a tenth. || More than half.
+- Almost none until old age. || He painted them for decades.
 
 ## paris-street-rainy-day | Paris Street; Rainy Day | Gustave Caillebotte | 1848–1894 | 1877 | Oil on canvas | Art Institute of Chicago
 desc: Well-dressed Parisians with umbrellas walk across a wet cobbled intersection of new boulevards, split by a tall lamppost.
@@ -100,18 +100,18 @@ desc: Well-dressed Parisians with umbrellas walk across a wet cobbled intersecti
 + Splits the painting in two. || It organises the scene.
 - It's on fire. || It splits the scene.
 - It's a tree. || It's a lamppost.
-@ 0.65 0.6 2.5 | The couple | Look at the couple. | What's new?
-+ The boulevards were brand-new, built under Baron Haussmann. || Paris was being rebuilt.
-- They're tourists. || They're Parisians.
-- They're ghosts. || They're people.
-@ 0.3 0.85 2.5 | The cobbles | Look at the cobblestones. | How do they look?
-+ Wet and shiny. || It's raining.
-- Dry. || They're wet.
-- Snowy. || They're wet.
-@ 0.5 0.5 1 | Full painting | Finally, Caillebotte's role. | What did he do for Impressionism?
-+ He funded exhibitions and left his collection to France. || He was a patron.
-- He opposed it. || He supported it.
-- He invented it. || He supported it.
+@ 0.65 0.6 2.5 | The couple | Look at the couple. | What's new in the scene?
++ The boulevards, built under Baron Haussmann. || Paris was being rebuilt.
+- The gas lamps, the first in Paris. || Gas lighting came decades earlier.
+- The umbrellas, invented that decade. || Umbrellas were long established.
+@ 0.3 0.85 2.5 | The cobbles | Look at the cobblestones. | How big is the canvas?
++ About 2 by 3 metres. || The figures are almost life-size.
+- About 1 by 1.5 metres. || About 2 by 3.
+- About 4 by 6 metres. || About 2 by 3.
+@ 0.5 0.5 1 | Full painting | Finally, Caillebotte's role. | What did Caillebotte do for the Impressionists?
++ Funded shows and left his collection to France. || He was a patron.
+- Wrote reviews defending them in newspapers. || He funded them and bought their work.
+- Ran the gallery that sold their work. || That was Durand-Ruel.
 
 ## the-cradle | The Cradle | Berthe Morisot | 1841–1895 | 1872 | Oil on canvas | Musée d'Orsay, Paris
 desc: A young mother sits by a cradle draped in sheer white gauze, watching her sleeping baby.
@@ -123,18 +123,18 @@ desc: A young mother sits by a cradle draped in sheer white gauze, watching her 
 + Sleeping. || The mother watches.
 - Crying. || It's asleep.
 - Laughing. || It's asleep.
-@ 0.65 0.3 2.5 | The curtain | Look at the gauze. | How is it painted?
-+ Sheer and light, with quick strokes. || It veils the cradle.
-- Thick and dark. || It's sheer.
-- Opaque. || It's sheer.
-@ 0.3 0.5 2.5 | The mother | Look at the mother. | What's her pose?
-+ Her hand rests near her chin as she watches. || A tender pose.
-- Sleeping. || She's watching.
-- Singing. || She's watching.
-@ 0.5 0.5 1 | Full painting | Finally, its debut. | Where was it shown?
-+ At the first Impressionist exhibition, in 1874. || Morisot was the only woman.
-- At the Louvre in 1900. || It debuted in 1874.
-- Never. || It was shown.
+@ 0.65 0.3 2.5 | The curtain | Look at the gauze. | How is the gauze painted?
++ Sheer and light, in quick strokes. || It veils the cradle.
+- Dense and heavy, in thick paint. || It's sheer.
+- Traced from real lace. || It's brushwork.
+@ 0.3 0.5 2.5 | The mother | Look at the mother. | Whom did Morisot marry?
++ Eugène Manet, Édouard Manet's brother. || She knew the Manets well.
+- Édouard Manet himself. || She married his brother.
+- Edgar Degas's brother. || She married Eugène Manet.
+@ 0.5 0.5 1 | Full painting | Finally, its debut. | Where was it first shown?
++ The first Impressionist show, 1874. || Morisot was the only woman.
+- The Paris Salon, 1874. || It was the Impressionist show.
+- The last Impressionist show, 1886. || It was the first, in 1874.
 
 ## childs-bath | The Child's Bath | Mary Cassatt | 1844–1926 | 1893 | Oil on canvas | Art Institute of Chicago
 desc: A woman in a striped dress washes a small child's feet in a basin, seen from above.
@@ -146,18 +146,18 @@ desc: A woman in a striped dress washes a small child's feet in a basin, seen fr
 + The child's feet are being washed. || An ordinary moment.
 - A fish swims. || It's washing.
 - Nothing. || It's washing.
-@ 0.4 0.5 2.5 | The dress | Look at the dress. | What pattern?
-+ Stripes. || They add movement.
-- Polka dots. || It's stripes.
-- Plain. || It's stripes.
+@ 0.4 0.5 2.5 | The dress | Look at the dress. | Did Cassatt have children?
++ No, she never married or had children. || She painted mothers and children often.
+- Yes, this is her own daughter. || She had no children.
+- Yes, she married Degas. || She never married.
 @ 0.5 0.25 2.5 | The faces | Look at their faces. | Where do they look?
 + Down at the water. || They're absorbed.
-- At us. || They look down.
-- Away. || They look down.
-@ 0.5 0.5 1 | Full painting | Finally, Cassatt herself. | Who invited her to exhibit?
-+ Degas. || She showed with the Impressionists.
-- Picasso. || It was Degas.
-- No one. || Degas did.
+- At each other. || They look down.
+- Out at us. || They look down.
+@ 0.5 0.5 1 | Full painting | Finally, Cassatt herself. | Who invited her to show with the Impressionists?
++ Degas. || She showed with them from 1879.
+- Monet. || It was Degas.
+- Manet. || It was Degas.
 
 ## folies-bergere | A Bar at the Folies-Bergère | Édouard Manet | 1832–1883 | 1882 | Oil on canvas | The Courtauld, London
 desc: A barmaid stands behind a marble counter of bottles and oranges, a mirror behind her reflecting a busy music hall.
@@ -169,18 +169,18 @@ desc: A barmaid stands behind a marble counter of bottles and oranges, a mirror 
 + No, it's shifted to the side and shows a man not visible in front. || It's a puzzle.
 - Yes, perfectly. || It's off.
 - There's no mirror. || There is.
-@ 0.05 0.06 3 | Top left | Look at the top left corner. | What's there?
-+ A trapeze artist's green-booted legs. || A joke.
-- A bird. || It's legs.
-- A chandelier. || It's legs.
-@ 0.15 0.8 2.5 | The bottles | Look at the bottles. | What's the red triangle?
-+ The label of Bass beer, an English ale. || A real brand.
-- A warning sign. || It's a beer label.
-- A flag. || It's a label.
-@ 0.5 0.5 1 | Full painting | Finally, its place. | Where is it in Manet's career?
+@ 0.05 0.06 3 | Top left | Look at the top left corner. | What's in the top left corner?
++ A trapeze artist's green boots. || A joke.
+- A trapeze artist's red boots. || They're green.
+- A parrot in a cage. || It's legs.
+@ 0.15 0.8 2.5 | The bottles | Look at the bottles. | Whose label is the red triangle?
++ Bass, an English pale ale. || A real brand.
+- Guinness, an Irish stout. || It's Bass.
+- Heineken, a Dutch lager. || It's Bass.
+@ 0.5 0.5 1 | Full painting | Finally, its place. | Where does it come in Manet's career?
 + His last major painting. || He died the next year.
-- His first. || His last.
-- A student copy. || It's his.
+- His first Salon success. || It was his last.
+- His first painting of Paris nightlife. || He'd painted cafés before.
 
 ## grande-jatte | A Sunday on La Grande Jatte | Georges Seurat | 1859–1891 | 1884–86 | Oil on canvas | Art Institute of Chicago
 desc: Parisians relax in a sunny riverside park, built entirely from tiny dots of colour.
@@ -192,18 +192,18 @@ desc: Parisians relax in a sunny riverside park, built entirely from tiny dots o
 + A monkey on a leash. || A fashionable pet.
 - A cat. || It's a monkey.
 - A dog. || It's a monkey.
-@ 0.02 0.5 3 | The edge | Look at the edge. | What's there?
-+ A painted border of dots, added later. || It frames the painting.
-- A crack. || It's a border.
-- Nothing. || It's a border.
-@ 0.6 0.4 2 | The island | Look at the river. | Where is it?
-+ An island in the Seine near Paris. || A popular park.
-- Venice. || It's Paris.
-- London. || It's Paris.
-@ 0.5 0.5 1 | Full painting | Finally, its afterlife. | What did it inspire?
-+ The musical Sunday in the Park with George. || By Stephen Sondheim.
-- A film about pirates. || It's a musical.
-- Nothing. || It inspired a musical.
+@ 0.02 0.5 3 | The edge | Look at the edge. | What's around the edge?
++ A border of dots, added later by Seurat. || It frames the painting.
+- A border of dots, added by a restorer. || Seurat added it.
+- A gilded frame painted onto the canvas. || It's dots.
+@ 0.6 0.4 2 | The island | Look at the river. | How long did Seurat work on it?
++ About two years. || He made dozens of studies.
+- About two months. || About two years.
+- About ten years. || About two years.
+@ 0.5 0.5 1 | Full painting | Finally, its afterlife. | Which musical did it inspire?
++ Sunday in the Park with George. || By Stephen Sondheim.
+- An American in Paris. || It's Sondheim's Sunday in the Park.
+- Moulin Rouge! || It's Sunday in the Park.
 
 ## moulin-rouge | At the Moulin Rouge | Henri de Toulouse-Lautrec | 1864–1901 | 1892–95 | Oil on canvas | Art Institute of Chicago
 desc: Customers sit at a table in the nightclub, with a woman's ghostly green-lit face looming at the right edge.
@@ -215,18 +215,18 @@ desc: Customers sit at a table in the nightclub, with a woman's ghostly green-li
 + Toulouse-Lautrec himself, beside his tall cousin. || He was short.
 - A waiter. || It's Lautrec.
 - A child. || It's Lautrec.
-@ 0.92 0.4 2.5 | The right edge | Look at the green face. | Who is she?
-+ A dancer, lit by the club's gaslight. || The colour is eerie.
-- A ghost. || She's a dancer.
-- A statue. || She's a person.
-@ 0.65 0.2 2.5 | The redhead | Look at the woman fixing her hair. | Who is she?
-+ La Goulue, a famous cancan dancer. || She starred at the club.
-- A queen. || She's a dancer.
-- Lautrec's mother. || She's a dancer.
-@ 0.5 0.5 1 | Full painting | Finally, its history. | Was it always this shape?
+@ 0.92 0.4 2.5 | The right edge | Look at the green face. | Who's the green-faced woman?
++ A dancer, May Milton, lit by gaslight. || The colour is eerie.
+- A dancer, Jane Avril, lit by gaslight. || Avril appears elsewhere; this is May Milton.
+- A ghost from a stage show. || She's a dancer.
+@ 0.65 0.2 2.5 | The redhead | Look at the woman fixing her hair. | Who's the redhead fixing her hair?
++ La Goulue, the cancan star. || She starred at the club.
+- Yvette Guilbert, the singer. || It's La Goulue.
+- Lautrec's cousin's wife. || It's La Goulue.
+@ 0.5 0.5 1 | Full painting | Finally, its history. | What happened to the canvas?
 + A strip was cut off and later put back. || The green face was on it.
-- Yes. || It was cut.
-- It was round. || It's rectangular.
+- It was folded for shipping and cracked. || A strip was cut off.
+- It was painted over an older picture. || A strip was cut off.
 
 ## card-players | The Card Players | Paul Cézanne | 1839–1906 | 1890–92 | Oil on canvas | The Metropolitan Museum of Art, New York
 desc: Peasants in work clothes play cards around a table, one smoking a pipe, while another stands watching.
@@ -238,18 +238,18 @@ desc: Peasants in work clothes play cards around a table, one smoking a pipe, wh
 + Farm workers from Cézanne's family estate. || He used locals.
 - Actors. || They were farm workers.
 - Kings. || They were farm workers.
-@ 0.5 0.75 2.5 | The table | Look at the table. | What's missing?
+@ 0.5 0.75 2.5 | The table | Look at the table. | What's missing from the table?
 + Money; they don't seem to be gambling. || It's quiet.
-- Cards. || There are cards.
-- Legs. || It has legs.
-@ 0.5 0.2 2.5 | The standing man | Look at the standing man. | What's he doing?
-+ Watching the game. || He's an onlooker.
-- Dancing. || He's watching.
-- Sleeping. || He's watching.
-@ 0.5 0.5 1 | Full painting | Finally, the price. | What happened in 2011?
-+ Another version sold to Qatar for about $250 million. || A record at the time.
-- This one was stolen. || Another sold.
-- It burned. || It survives.
+- Cards; they've finished the game. || They're playing.
+- A candle; they play by window light. || There's no money; the game is quiet.
+@ 0.5 0.2 2.5 | The standing man | Look at the standing man. | Where did Cézanne live?
++ Aix-en-Provence, in the south of France. || The models worked on his family's estate.
+- Paris, in a studio near Montmartre. || He lived in Aix.
+- Arles, near Van Gogh's Yellow House. || He lived in Aix.
+@ 0.5 0.5 1 | Full painting | Finally, the price. | What sold in 2011?
++ Another version, to Qatar, for about $250 million. || A record at the time.
+- This version, to Qatar, for about $250 million. || It was another version.
+- Another version, to Qatar, for about $25 million. || About $250 million.
 
 ## starry-night | The Starry Night | Vincent van Gogh | 1853–1890 | 1889 | Oil on canvas | Museum of Modern Art, New York
 desc: A dark cypress flames up beside a sleeping village under a swirling night sky of glowing stars and a crescent moon.
@@ -261,15 +261,15 @@ desc: A dark cypress flames up beside a sleeping village under a swirling night 
 + A crescent with a glowing halo. || It's dramatic.
 - Full. || It's a crescent.
 - Square. || It's a crescent.
-@ 0.57 0.75 3 | The village | Look at the church. | Is it accurate?
-+ The steeple looks Dutch, perhaps a memory of home. || The village is partly invented.
-- It's an exact view. || It's invented.
-- It's a mosque. || It's a church.
-@ 0.2 0.55 2.5 | The cypress | Look at the dark tree. | What is it?
-+ A cypress, which seems to flicker like a flame. || Cypresses are linked to death and eternity.
-- A palm. || It's a cypress.
-- A tower. || It's a tree.
+@ 0.57 0.75 3 | The village | Look at the church. | What's odd about the church?
++ Its steeple looks Dutch, not French. || Perhaps a memory of home.
+- It has no steeple at all. || It has a tall steeple.
+- It's lit from inside like a lantern. || It's dark.
+@ 0.2 0.55 2.5 | The cypress | Look at the dark tree. | What might the brightest star near the cypress be?
++ Venus, the morning star. || He saw it from his window before dawn.
+- Mars, the red planet. || Probably Venus.
+- Jupiter, the largest planet. || Probably Venus.
 @ 0.5 0.5 1 | Full painting | Finally, its museum. | When did MoMA get it?
 + In 1941. || It's one of the world's most famous paintings.
-- In 1889. || In 1941.
-- It's in Paris. || It's in New York.
+- In 1929, when MoMA opened. || It came in 1941.
+- In 1961. || In 1941.
