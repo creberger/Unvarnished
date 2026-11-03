@@ -1,0 +1,1531 @@
+[
+ {
+  "id": "arnolfini",
+  "title": "The Arnolfini Portrait",
+  "artist": "Jan van Eyck",
+  "artistDates": "c. 1390–1441",
+  "date": "1434",
+  "medium": "Oil on oak",
+  "collection": "National Gallery, London",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "What is it made of?",
+    "statements": [
+     {
+      "text": "It's oil paint on an oak panel, and one of the earliest full-length double portraits in European art.",
+      "why": "Van Eyck was a master of oil paint, layering thin glazes for its glowing colour.",
+      "isTrue": true
+     },
+     {
+      "text": "It's painted on canvas, rolled up so it could be carried to Italy.",
+      "why": "It's on oak. Canvas only became common in northern Europe later."
+     },
+     {
+      "text": "It's a fresco, cut from the wall of a house in Bruges.",
+      "why": "It's a panel painting, made to be portable."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.43,
+     "zoom": 3.0
+    },
+    "where": "The mirror",
+    "prompt": "Look at the round mirror on the back wall.",
+    "hint": "What does it reflect?",
+    "statements": [
+     {
+      "text": "It reflects two more figures standing in the doorway, facing the couple.",
+      "why": "One of them may be van Eyck himself. The mirror's frame holds ten tiny scenes of Christ's Passion.",
+      "isTrue": true
+     },
+     {
+      "text": "It shows the painter's face in clear, sharp detail.",
+      "why": "The figures in the mirror are tiny and can't be identified for sure."
+     },
+     {
+      "text": "The mirror was added by a restorer in the 1800s.",
+      "why": "It's original. Technical studies show it was part of the painting from the start."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.36,
+     "zoom": 3.0
+    },
+    "where": "Above the mirror",
+    "prompt": "Now the writing above the mirror.",
+    "hint": "What does it say?",
+    "statements": [
+     {
+      "text": "It says, in Latin, \"Jan van Eyck was here 1434.\"",
+      "why": "He wrote it like a witness signing a document. It's one reason some think the painting records a betrothal.",
+      "isTrue": true
+     },
+     {
+      "text": "It's a Bible verse about marriage.",
+      "why": "It's a signature and a date."
+     },
+     {
+      "text": "It's the price the couple paid for the painting.",
+      "why": "It records that the painter was present, not a price."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.47,
+     "y": 0.17,
+     "zoom": 3.0
+    },
+    "where": "The chandelier",
+    "prompt": "Up at the brass chandelier.",
+    "hint": "Look at the candles.",
+    "statements": [
+     {
+      "text": "Only one candle is lit, even though it's broad daylight.",
+      "why": "The single flame is often read as a symbol, perhaps of God's presence or of a marriage vow.",
+      "isTrue": true
+     },
+     {
+      "text": "Every candle in the chandelier is burning.",
+      "why": "Just one is lit."
+     },
+     {
+      "text": "The chandelier is Venetian glass.",
+      "why": "It's brass, painted so finely you can see its reflections."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, the painting's own story.",
+    "hint": "Where did it end up?",
+    "statements": [
+     {
+      "text": "The National Gallery in London bought it in 1842.",
+      "why": "It had passed through Habsburg and Spanish royal collections before reaching Britain.",
+      "isTrue": true
+     },
+     {
+      "text": "It was found rolled up in a Bruges attic in 1900.",
+      "why": "It's on a rigid panel and has a well-documented history."
+     },
+     {
+      "text": "Historians agree the woman is pregnant.",
+      "why": "Most think she's gathering up the full skirt of a fashionable dress."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A man in a dark fur-trimmed robe and a woman in a green dress stand hand in hand in a bedroom with a round mirror on the back wall.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "renaissance"
+ },
+ {
+  "id": "descent-from-the-cross",
+  "title": "The Descent from the Cross",
+  "artist": "Rogier van der Weyden",
+  "artistDates": "c. 1399–1464",
+  "date": "c. 1435",
+  "medium": "Oil on oak",
+  "collection": "Museo del Prado, Madrid",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "How is the space built?",
+    "statements": [
+     {
+      "text": "The figures are packed into a shallow gold box, like painted sculpture in a carved altarpiece.",
+      "why": "Rogier imitated the look of wooden shrines that were common in Flemish churches.",
+      "isTrue": true
+     },
+     {
+      "text": "It's painted on canvas stretched across a church door.",
+      "why": "It's an oak panel, made as an altarpiece."
+     },
+     {
+      "text": "It was painted in Spain for a royal palace.",
+      "why": "It was made in the Low Countries for the crossbowmen's guild of Leuven."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.07,
+     "y": 0.31,
+     "zoom": 3.0
+    },
+    "where": "Top corner",
+    "prompt": "Look into the top corners.",
+    "hint": "What's hidden in the carving?",
+    "statements": [
+     {
+      "text": "Tiny crossbows hide in the painted tracery, the emblem of the archers' guild that ordered it.",
+      "why": "The guild of crossbowmen in Leuven commissioned the altarpiece for their chapel.",
+      "isTrue": true
+     },
+     {
+      "text": "The painter's coat of arms.",
+      "why": "The corners show crossbows, the guild's emblem."
+     },
+     {
+      "text": "Two crossed keys, the sign of Saint Peter.",
+      "why": "They're crossbows."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.38,
+     "y": 0.65,
+     "zoom": 2.2
+    },
+    "where": "Mary",
+    "prompt": "Look at Mary in her blue robe.",
+    "hint": "How does her body fall?",
+    "statements": [
+     {
+      "text": "Her fainting body echoes the curve of Christ's body above her.",
+      "why": "The repeated pose links her suffering to his.",
+      "isTrue": true
+     },
+     {
+      "text": "Her robe was repainted green in the 1700s.",
+      "why": "The blue is original, and very costly."
+     },
+     {
+      "text": "Rogier left Mary to a student and painted only Christ himself.",
+      "why": "The whole work is accepted as by Rogier."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.85,
+     "y": 0.45,
+     "zoom": 2.5
+    },
+    "where": "The faces",
+    "prompt": "Look closely at the mourners' faces.",
+    "hint": "What catches the light?",
+    "statements": [
+     {
+      "text": "Clear tears run down several faces, painted as tiny drops with highlights.",
+      "why": "Rogier was famous for showing grief this directly.",
+      "isTrue": true
+     },
+     {
+      "text": "The faces were copied from Roman statues.",
+      "why": "They're individual, emotional faces, not classical copies."
+     },
+     {
+      "text": "The tears were added by a restorer in 1939.",
+      "why": "They're part of Rogier's original paint."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, the painting's own story.",
+    "hint": "Who owned it?",
+    "statements": [
+     {
+      "text": "Philip II of Spain acquired it, and it now hangs in the Prado in Madrid.",
+      "why": "Spanish rulers prized it so much that they commissioned copies.",
+      "isTrue": true
+     },
+     {
+      "text": "It was cut into three pieces to sell and later reassembled.",
+      "why": "It's a single panel."
+     },
+     {
+      "text": "An American collector owned it until 1980.",
+      "why": "It has been in Spain since the 1500s."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "Ten life-size figures crowd a shallow gold space as Christ's body is lowered from the cross and Mary faints in the foreground.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "renaissance"
+ },
+ {
+  "id": "garden-of-earthly-delights",
+  "title": "The Garden of Earthly Delights",
+  "artist": "Hieronymus Bosch",
+  "artistDates": "c. 1450–1516",
+  "date": "c. 1490–1510",
+  "medium": "Oil on oak panels",
+  "collection": "Museo del Prado, Madrid",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "How is it built?",
+    "statements": [
+     {
+      "text": "It's a triptych: the side panels fold shut like shutters over the centre.",
+      "why": "Closed, the outer panels show the world as a grey globe during creation.",
+      "isTrue": true
+     },
+     {
+      "text": "It was painted as a ceiling for a Spanish chapel.",
+      "why": "It's a folding altarpiece-style triptych."
+     },
+     {
+      "text": "It's one canvas painted to look like three panels.",
+      "why": "It's three separate oak panels."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.15,
+     "y": 0.5,
+     "zoom": 2.4
+    },
+    "where": "Left panel",
+    "prompt": "Look at the left panel.",
+    "hint": "What scene is it?",
+    "statements": [
+     {
+      "text": "God presents Eve to Adam in the Garden of Eden.",
+      "why": "The garden is full of strange animals, including a giraffe and an elephant.",
+      "isTrue": true
+     },
+     {
+      "text": "Noah loads animals into the ark.",
+      "why": "It's Eden, with Adam and Eve."
+     },
+     {
+      "text": "The Last Judgement.",
+      "why": "That's not shown; the left panel is the creation of Eve."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.45,
+     "zoom": 2.0
+    },
+    "where": "Centre panel",
+    "prompt": "Now the crowded centre.",
+    "hint": "What's out of scale?",
+    "statements": [
+     {
+      "text": "Giant strawberries, cherries and birds tower over the tiny figures.",
+      "why": "The fruit is often read as a symbol of brief, sweet pleasures.",
+      "isTrue": true
+     },
+     {
+      "text": "It shows a real festival in Bosch's home town.",
+      "why": "It's an imagined paradise, not a real place."
+     },
+     {
+      "text": "Every figure in the centre panel is clothed.",
+      "why": "Almost all are naked."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.8,
+     "y": 0.82,
+     "zoom": 3.0
+    },
+    "where": "Right panel",
+    "prompt": "Down in the hell panel.",
+    "hint": "Look at the man lying under the lute.",
+    "statements": [
+     {
+      "text": "A line of music is painted on a man's backside.",
+      "why": "In 2014 a student transcribed it and it was played as a short tune.",
+      "isTrue": true
+     },
+     {
+      "text": "The hell panel is completely empty and dark.",
+      "why": "It's crowded with tortures, instruments and monsters."
+     },
+     {
+      "text": "The music is a hymn Bosch copied from his church.",
+      "why": "Nobody knows of any source. It may be a joke."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, the painting's own story.",
+    "hint": "How did it reach Madrid?",
+    "statements": [
+     {
+      "text": "Philip II of Spain acquired it, and it now hangs in the Prado.",
+      "why": "Philip collected Bosch avidly.",
+      "isTrue": true
+     },
+     {
+      "text": "Bosch signed and dated it across the bottom.",
+      "why": "It isn't dated, which is why the date is given as a range."
+     },
+     {
+      "text": "It was painted for the Pope.",
+      "why": "Its first owners were the Nassau family in Brussels."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A triptych: Eden on the left, a crowded paradise of naked figures and giant fruit in the centre, and a dark hell on the right.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "renaissance"
+ },
+ {
+  "id": "young-hare",
+  "title": "Young Hare",
+  "artist": "Albrecht Dürer",
+  "artistDates": "1471–1528",
+  "date": "1502",
+  "medium": "Watercolour and gouache on paper",
+  "collection": "Albertina, Vienna",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "What is it made with?",
+    "statements": [
+     {
+      "text": "It's watercolour and gouache on paper, not oil.",
+      "why": "Dürer built it up from broad washes to fine strokes of opaque white.",
+      "isTrue": true
+     },
+     {
+      "text": "It's an oil painting on oak.",
+      "why": "It's on paper, in water-based paint."
+     },
+     {
+      "text": "It's a hand-coloured print, one of hundreds.",
+      "why": "It's a unique painting. Dürer was a great printmaker, but this isn't a print."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.56,
+     "y": 0.88,
+     "zoom": 3.0
+    },
+    "where": "Below the hare",
+    "prompt": "Look under the hare.",
+    "hint": "What's written there?",
+    "statements": [
+     {
+      "text": "Dürer's AD monogram and the date 1502.",
+      "why": "He signed many works with this famous monogram.",
+      "isTrue": true
+     },
+     {
+      "text": "The hare's name.",
+      "why": "It's the artist's monogram."
+     },
+     {
+      "text": "A later owner's initials.",
+      "why": "The monogram is Dürer's own."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.6,
+     "y": 0.37,
+     "zoom": 3.0
+    },
+    "where": "The eye",
+    "prompt": "Look into the hare's eye.",
+    "hint": "What's reflected?",
+    "statements": [
+     {
+      "text": "It reflects a window, a sign Dürer studied the animal indoors.",
+      "why": "The tiny window frame shows how closely he observed.",
+      "isTrue": true
+     },
+     {
+      "text": "The eye is a drop of real glass glued on.",
+      "why": "It's paint."
+     },
+     {
+      "text": "The eye was cut out and replaced.",
+      "why": "The paper is intact."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.4,
+     "y": 0.55,
+     "zoom": 2.5
+    },
+    "where": "The fur",
+    "prompt": "Look at the fur.",
+    "hint": "How was it made?",
+    "statements": [
+     {
+      "text": "Each hair is its own fine brushstroke, laid over broader washes.",
+      "why": "The direction of the strokes follows the fur.",
+      "isTrue": true
+     },
+     {
+      "text": "He pressed real hare fur into the paint.",
+      "why": "It's all brushwork."
+     },
+     {
+      "text": "The fur was printed from a woodblock.",
+      "why": "It's painted by hand."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, the painting's own story.",
+    "hint": "Where can you see it?",
+    "statements": [
+     {
+      "text": "It's so sensitive to light that the Albertina rarely shows the original.",
+      "why": "A facsimile is usually on view instead.",
+      "isTrue": true
+     },
+     {
+      "text": "It hangs permanently in a sunlit room.",
+      "why": "Light would fade it, so it's kept dark."
+     },
+     {
+      "text": "It was lost in the Second World War and is known only from copies.",
+      "why": "The original survives in Vienna."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A brown hare crouches on a plain background, its fur painted hair by hair.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "renaissance"
+ },
+ {
+  "id": "ambassadors",
+  "title": "The Ambassadors",
+  "artist": "Hans Holbein the Younger",
+  "artistDates": "c. 1497–1543",
+  "date": "1533",
+  "medium": "Oil on oak",
+  "collection": "National Gallery, London",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "How big is it?",
+    "statements": [
+     {
+      "text": "The men are life-size: the panel is over two metres wide.",
+      "why": "It measures about 207 by 210 cm.",
+      "isTrue": true
+     },
+     {
+      "text": "It's a miniature, smaller than a book.",
+      "why": "It's huge."
+     },
+     {
+      "text": "It's painted on canvas.",
+      "why": "It's on oak panels."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.48,
+     "y": 0.84,
+     "zoom": 2.2
+    },
+    "where": "The floor",
+    "prompt": "Look at the strange shape on the floor.",
+    "hint": "What is it?",
+    "statements": [
+     {
+      "text": "It's a skull, stretched so it only looks right when seen from the side.",
+      "why": "This trick is called anamorphosis. The skull is a reminder of death.",
+      "isTrue": true
+     },
+     {
+      "text": "It's fire damage.",
+      "why": "It's deliberate, carefully painted."
+     },
+     {
+      "text": "It's a fish.",
+      "why": "It's a skull."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.6,
+     "y": 0.63,
+     "zoom": 3.0
+    },
+    "where": "The lute",
+    "prompt": "Look at the lute on the lower shelf.",
+    "hint": "Check its strings.",
+    "statements": [
+     {
+      "text": "One of its strings is broken, often read as a sign of discord.",
+      "why": "In 1533 Europe was split by religious conflict.",
+      "isTrue": true
+     },
+     {
+      "text": "It's a real lute glued to the panel.",
+      "why": "It's painted."
+     },
+     {
+      "text": "The lute has no strings at all.",
+      "why": "It has strings; one is snapped."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.04,
+     "y": 0.05,
+     "zoom": 3.0
+    },
+    "where": "Top corner",
+    "prompt": "Up in the top left corner.",
+    "hint": "What's half hidden?",
+    "statements": [
+     {
+      "text": "A small crucifix peeks out from behind the green curtain.",
+      "why": "It's easy to miss, perhaps on purpose.",
+      "isTrue": true
+     },
+     {
+      "text": "A window with a view of London.",
+      "why": "It's a crucifix."
+     },
+     {
+      "text": "The painter's self-portrait.",
+      "why": "It's a crucifix."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, who are they?",
+    "hint": "Think about the title.",
+    "statements": [
+     {
+      "text": "They're Frenchmen: Jean de Dinteville, an ambassador, and Georges de Selve, a bishop.",
+      "why": "Dinteville was France's ambassador to Henry VIII's court.",
+      "isTrue": true
+     },
+     {
+      "text": "They're two of Henry VIII's English advisers.",
+      "why": "They're French."
+     },
+     {
+      "text": "They're Holbein and his brother.",
+      "why": "They're the diplomat and his friend."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "Two richly dressed men stand either side of a shelf crowded with globes and instruments; a strange slanted shape crosses the floor.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "renaissance"
+ },
+ {
+  "id": "hunters-in-the-snow",
+  "title": "The Hunters in the Snow",
+  "artist": "Pieter Bruegel the Elder",
+  "artistDates": "c. 1525–1569",
+  "date": "1565",
+  "medium": "Oil on oak",
+  "collection": "Kunsthistorisches Museum, Vienna",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Is it part of a set?",
+    "statements": [
+     {
+      "text": "It's one of a series of paintings of the times of year; five survive.",
+      "why": "The set was made for a rich Antwerp merchant, Niclaes Jongelinck.",
+      "isTrue": true
+     },
+     {
+      "text": "All twelve, one for each month, survive together.",
+      "why": "Five survive, in three museums."
+     },
+     {
+      "text": "It's a one-off.",
+      "why": "It belongs to a series."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.3,
+     "y": 0.62,
+     "zoom": 2.2
+    },
+    "where": "The hunters",
+    "prompt": "Look at the hunters and their dogs.",
+    "hint": "What did they catch?",
+    "statements": [
+     {
+      "text": "Just one fox, slung over a hunter's back. A poor day.",
+      "why": "The tired dogs and bowed heads tell the same story.",
+      "isTrue": true
+     },
+     {
+      "text": "A deer.",
+      "why": "They carry only a fox."
+     },
+     {
+      "text": "A wolf.",
+      "why": "It's a fox."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.14,
+     "y": 0.52,
+     "zoom": 2.5
+    },
+    "where": "The inn",
+    "prompt": "Look at the inn on the left.",
+    "hint": "What's happening by the fire?",
+    "statements": [
+     {
+      "text": "People are singeing the bristles off a pig over a fire.",
+      "why": "The inn's sign hangs loose from one hook.",
+      "isTrue": true
+     },
+     {
+      "text": "The inn is burning down.",
+      "why": "It's a cooking fire."
+     },
+     {
+      "text": "Soldiers are warming their hands.",
+      "why": "They're villagers preparing a pig."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.65,
+     "y": 0.72,
+     "zoom": 2.2
+    },
+    "where": "The ponds",
+    "prompt": "Down on the frozen ponds.",
+    "hint": "What are people doing?",
+    "statements": [
+     {
+      "text": "Skating and playing games on the ice.",
+      "why": "Bruegel fills the valley with tiny figures.",
+      "isTrue": true
+     },
+     {
+      "text": "Fishing from boats on open water.",
+      "why": "The water is frozen."
+     },
+     {
+      "text": "The ponds are drained and dry.",
+      "why": "They're frozen over."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, the place.",
+    "hint": "Is it a real view?",
+    "statements": [
+     {
+      "text": "The jagged mountains are imagined; Flanders is flat.",
+      "why": "Bruegel had crossed the Alps and drew mountains from memory.",
+      "isTrue": true
+     },
+     {
+      "text": "It's an exact view of Antwerp.",
+      "why": "The landscape is invented."
+     },
+     {
+      "text": "He painted it outdoors in the snow.",
+      "why": "It was painted in the studio."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "Hunters and their dogs trudge through snow above a valley of frozen ponds full of skaters.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "renaissance"
+ },
+ {
+  "id": "harvesters",
+  "title": "The Harvesters",
+  "artist": "Pieter Bruegel the Elder",
+  "artistDates": "c. 1525–1569",
+  "date": "1565",
+  "medium": "Oil on wood",
+  "collection": "The Metropolitan Museum of Art, New York",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Where is it from?",
+    "statements": [
+     {
+      "text": "It's one of the same seasons series as The Hunters in the Snow.",
+      "why": "It's the only one of the series in the Americas.",
+      "isTrue": true
+     },
+     {
+      "text": "It shows a harvest in Italy.",
+      "why": "It's a Flemish landscape."
+     },
+     {
+      "text": "It's painted on canvas.",
+      "why": "It's on wood panel."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.65,
+     "y": 0.75,
+     "zoom": 2.2
+    },
+    "where": "The lunch",
+    "prompt": "Look at the group under the tree.",
+    "hint": "What are they eating?",
+    "statements": [
+     {
+      "text": "Bread, cheese, porridge and pears.",
+      "why": "The meal is simple and seasonal.",
+      "isTrue": true
+     },
+     {
+      "text": "Roast swan.",
+      "why": "It's a peasant's lunch."
+     },
+     {
+      "text": "Nothing; they're praying.",
+      "why": "They're eating."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.62,
+     "y": 0.72,
+     "zoom": 3.0
+    },
+    "where": "The sleeper",
+    "prompt": "Look at the man lying under the tree.",
+    "hint": "What's he doing?",
+    "statements": [
+     {
+      "text": "He's fast asleep, sprawled out with his legs apart.",
+      "why": "He's worn out by the work.",
+      "isTrue": true
+     },
+     {
+      "text": "He's injured.",
+      "why": "He's sleeping."
+     },
+     {
+      "text": "He's dead.",
+      "why": "He's asleep."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.85,
+     "y": 0.45,
+     "zoom": 2.5
+    },
+    "where": "The distance",
+    "prompt": "Look far away, to the right.",
+    "hint": "What's out there?",
+    "statements": [
+     {
+      "text": "A bay with ships, beyond the fields.",
+      "why": "Bruegel's landscapes stretch to the horizon.",
+      "isTrue": true
+     },
+     {
+      "text": "A volcano erupting.",
+      "why": "It's calm water with ships."
+     },
+     {
+      "text": "A battle.",
+      "why": "It's peaceful."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, the painting's own story.",
+    "hint": "When did the Met get it?",
+    "statements": [
+     {
+      "text": "The Met bought it in 1919.",
+      "why": "It's one of the museum's best-loved works.",
+      "isTrue": true
+     },
+     {
+      "text": "It hung in Vienna until 1980.",
+      "why": "It came to New York in 1919."
+     },
+     {
+      "text": "It was found under a church floor.",
+      "why": "Its history is documented."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "Peasants cut and stack golden wheat, and a group eats lunch under a pear tree.",
+  "credit": "Image: The Metropolitan Museum of Art, public domain (CC0)",
+  "category": "renaissance"
+ },
+ {
+  "id": "girl-with-a-pearl-earring",
+  "title": "Girl with a Pearl Earring",
+  "artist": "Johannes Vermeer",
+  "artistDates": "1632–1675",
+  "date": "c. 1665",
+  "medium": "Oil on canvas",
+  "collection": "Mauritshuis, The Hague",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Who is she?",
+    "statements": [
+     {
+      "text": "It's a tronie, a study of a face, not a portrait of a known person.",
+      "why": "Nobody knows who modelled for it.",
+      "isTrue": true
+     },
+     {
+      "text": "It's a portrait of Vermeer's wife, signed with her name.",
+      "why": "The sitter is unknown."
+     },
+     {
+      "text": "It was commissioned by a Turkish ambassador.",
+      "why": "There's no record of a commission."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.48,
+     "y": 0.56,
+     "zoom": 3.0
+    },
+    "where": "The pearl",
+    "prompt": "Look at the earring.",
+    "hint": "How is it painted?",
+    "statements": [
+     {
+      "text": "It's just a few strokes: a bright highlight and a soft reflection.",
+      "why": "There's no hook to hang it from.",
+      "isTrue": true
+     },
+     {
+      "text": "It's real pearl dust mixed into paint.",
+      "why": "It's ordinary paint."
+     },
+     {
+      "text": "It's gold leaf.",
+      "why": "It's paint."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.52,
+     "y": 0.22,
+     "zoom": 2.2
+    },
+    "where": "The turban",
+    "prompt": "Look at the blue of the turban.",
+    "hint": "Where does the blue come from?",
+    "statements": [
+     {
+      "text": "It's ultramarine, made from lapis lazuli.",
+      "why": "A costly pigment Vermeer used generously.",
+      "isTrue": true
+     },
+     {
+      "text": "Indigo dye.",
+      "why": "It's ultramarine."
+     },
+     {
+      "text": "It was repainted in the 1900s.",
+      "why": "It's original."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.36,
+     "y": 0.42,
+     "zoom": 2.5
+    },
+    "where": "Her face",
+    "prompt": "Look at her eyes.",
+    "hint": "What did a 2018 study find?",
+    "statements": [
+     {
+      "text": "She once had eyelashes, now too faint to see.",
+      "why": "Researchers found tiny traces with microscopes.",
+      "isTrue": true
+     },
+     {
+      "text": "A second face hidden underneath.",
+      "why": "No hidden face was found."
+     },
+     {
+      "text": "Her lips were repainted by a restorer.",
+      "why": "The highlights on her lips are Vermeer's."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.15,
+     "y": 0.15,
+     "zoom": 2.0
+    },
+    "where": "The background",
+    "prompt": "Look at the dark background.",
+    "hint": "Was it always black?",
+    "statements": [
+     {
+      "text": "It was once a green curtain; the glaze has faded to near black.",
+      "why": "The 2018 research found folds of green fabric.",
+      "isTrue": true
+     },
+     {
+      "text": "It was always pure black.",
+      "why": "It was a green curtain."
+     },
+     {
+      "text": "A window was painted over.",
+      "why": "It was a curtain."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A girl in a blue and yellow turban looks over her shoulder, lips parted, a large pearl at her ear, against a dark background.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "golden-age"
+ },
+ {
+  "id": "view-of-delft",
+  "title": "View of Delft",
+  "artist": "Johannes Vermeer",
+  "artistDates": "1632–1675",
+  "date": "c. 1660–61",
+  "medium": "Oil on canvas",
+  "collection": "Mauritshuis, The Hague",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Who loved it?",
+    "statements": [
+     {
+      "text": "The novelist Marcel Proust called it the most beautiful painting in the world.",
+      "why": "He wrote this in a letter.",
+      "isTrue": true
+     },
+     {
+      "text": "It's an imaginary city.",
+      "why": "It's Delft, Vermeer's home town."
+     },
+     {
+      "text": "Vermeer painted it from a boat in the middle of the river.",
+      "why": "It was probably painted from an upper floor across the water."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.6,
+     "y": 0.6,
+     "zoom": 3.0
+    },
+    "where": "The tower",
+    "prompt": "Look at the sunlit tower.",
+    "hint": "What building is it?",
+    "statements": [
+     {
+      "text": "The Nieuwe Kerk, where William of Orange is buried.",
+      "why": "Sunlight picks it out in the middle of the city.",
+      "isTrue": true
+     },
+     {
+      "text": "A lighthouse.",
+      "why": "It's a church tower."
+     },
+     {
+      "text": "A Delftware factory chimney.",
+      "why": "It's the Nieuwe Kerk."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.3,
+     "zoom": 1.5
+    },
+    "where": "The sky",
+    "prompt": "Look at the sky.",
+    "hint": "How much of the canvas is it?",
+    "statements": [
+     {
+      "text": "More than half the painting is sky.",
+      "why": "Vermeer gives the clouds as much attention as the city.",
+      "isTrue": true
+     },
+     {
+      "text": "The sky was added by another painter.",
+      "why": "It's Vermeer's."
+     },
+     {
+      "text": "It's a night sky.",
+      "why": "It's daylight."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.76,
+     "zoom": 2.0
+    },
+    "where": "The water",
+    "prompt": "Look at the reflections.",
+    "hint": "Are they realistic?",
+    "statements": [
+     {
+      "text": "Vermeer stretched the reflections and adjusted buildings to improve the view.",
+      "why": "He wasn't making a literal record.",
+      "isTrue": true
+     },
+     {
+      "text": "The water is a real mirror glued on.",
+      "why": "It's paint."
+     },
+     {
+      "text": "The river is frozen.",
+      "why": "It's open water."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, the painting's own story.",
+    "hint": "How did the Mauritshuis get it?",
+    "statements": [
+     {
+      "text": "It was bought at auction for the museum in 1822.",
+      "why": "It became one of the Netherlands' treasures.",
+      "isTrue": true
+     },
+     {
+      "text": "Vermeer sold it to the King of France.",
+      "why": "It stayed in the Netherlands."
+     },
+     {
+      "text": "It was stolen and never recovered.",
+      "why": "It hangs in The Hague."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "The city of Delft seen across a river under a great clouded sky, with sunlit roofs and boats moored along the bank.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "golden-age"
+ },
+ {
+  "id": "night-watch",
+  "title": "The Night Watch",
+  "artist": "Rembrandt van Rijn",
+  "artistDates": "1606–1669",
+  "date": "1642",
+  "medium": "Oil on canvas",
+  "collection": "Rijksmuseum, Amsterdam",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Is it all there?",
+    "statements": [
+     {
+      "text": "It was trimmed on all sides in 1715 to fit a wall in Amsterdam's town hall.",
+      "why": "The left side lost the most, including two figures.",
+      "isTrue": true
+     },
+     {
+      "text": "It has been enlarged with extra canvas.",
+      "why": "It was cut down, not enlarged."
+     },
+     {
+      "text": "It shows a night scene.",
+      "why": "It was daylight. Dark varnish led to the nickname."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.36,
+     "y": 0.56,
+     "zoom": 2.5
+    },
+    "where": "The girl",
+    "prompt": "Look at the girl in gold.",
+    "hint": "What hangs at her belt?",
+    "statements": [
+     {
+      "text": "A dead chicken, a nod to the militia's emblem of claws.",
+      "why": "The company were the Kloveniers, whose emblem was a bird's claw.",
+      "isTrue": true
+     },
+     {
+      "text": "A cat.",
+      "why": "It's a chicken."
+     },
+     {
+      "text": "She's an angel with wings.",
+      "why": "She's a girl, with a chicken."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.62,
+     "zoom": 2.0
+    },
+    "where": "The captain",
+    "prompt": "Look at the captain's hand.",
+    "hint": "What does it do?",
+    "statements": [
+     {
+      "text": "It casts a shadow on his lieutenant's yellow coat.",
+      "why": "The detail shows how Rembrandt handled light.",
+      "isTrue": true
+     },
+     {
+      "text": "He points at an enemy.",
+      "why": "He's giving an order to march."
+     },
+     {
+      "text": "The captain is Rembrandt himself.",
+      "why": "He's Frans Banninck Cocq."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.66,
+     "y": 0.27,
+     "zoom": 3.0
+    },
+    "where": "The shield",
+    "prompt": "Look at the shield on the arch.",
+    "hint": "What's on it?",
+    "statements": [
+     {
+      "text": "The names of the militiamen, added after Rembrandt finished.",
+      "why": "The names were painted on years later, so people could tell who was who.",
+      "isTrue": true
+     },
+     {
+      "text": "Rembrandt's prices.",
+      "why": "It lists names."
+     },
+     {
+      "text": "A city map.",
+      "why": "It's a list of names."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, the painting's own story.",
+    "hint": "What's happened to it?",
+    "statements": [
+     {
+      "text": "It has been attacked three times, including with a knife in 1975.",
+      "why": "Each time it was repaired.",
+      "isTrue": true
+     },
+     {
+      "text": "It was stolen in 1911.",
+      "why": "It has never been stolen."
+     },
+     {
+      "text": "It was cut into pieces to sell.",
+      "why": "It was trimmed but stays whole."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A crowded company of Amsterdam militiamen bursts forward, led by a captain in black and a lieutenant in yellow, with a glowing girl among them.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "golden-age"
+ },
+ {
+  "id": "rembrandt-at-63",
+  "title": "Self Portrait at the Age of 63",
+  "artist": "Rembrandt van Rijn",
+  "artistDates": "1606–1669",
+  "date": "1669",
+  "medium": "Oil on canvas",
+  "collection": "National Gallery, London",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "When did he paint it?",
+    "statements": [
+     {
+      "text": "In the last year of his life.",
+      "why": "He died later in 1669.",
+      "isTrue": true
+     },
+     {
+      "text": "It was his first self-portrait.",
+      "why": "He'd painted himself for 40 years."
+     },
+     {
+      "text": "A pupil painted it.",
+      "why": "It's by Rembrandt."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.48,
+     "y": 0.3,
+     "zoom": 2.5
+    },
+    "where": "The face",
+    "prompt": "Look at his face.",
+    "hint": "How is it painted?",
+    "statements": [
+     {
+      "text": "Thick paint builds up the wrinkles and bags under his eyes.",
+      "why": "He didn't flatter himself.",
+      "isTrue": true
+     },
+     {
+      "text": "It's smooth like porcelain.",
+      "why": "It's thickly painted."
+     },
+     {
+      "text": "He made himself look younger.",
+      "why": "He looks his age."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.45,
+     "y": 0.83,
+     "zoom": 2.5
+    },
+    "where": "The hands",
+    "prompt": "Look at his hands.",
+    "hint": "Were they always clasped?",
+    "statements": [
+     {
+      "text": "X-rays show he first held brushes; then he painted his hands clasped.",
+      "why": "He changed his mind.",
+      "isTrue": true
+     },
+     {
+      "text": "He holds a skull.",
+      "why": "His hands are clasped."
+     },
+     {
+      "text": "He holds a letter.",
+      "why": "His hands are clasped."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.48,
+     "y": 0.15,
+     "zoom": 2.5
+    },
+    "where": "The beret",
+    "prompt": "Look at his hat.",
+    "hint": "What is it?",
+    "statements": [
+     {
+      "text": "A beret, as in many of his late self-portraits.",
+      "why": "It became his trademark.",
+      "isTrue": true
+     },
+     {
+      "text": "A crown.",
+      "why": "It's a beret."
+     },
+     {
+      "text": "A turban with jewels.",
+      "why": "It's a plain beret."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, the bigger picture.",
+    "hint": "How often did he paint himself?",
+    "statements": [
+     {
+      "text": "He made around 80 self-portraits in paint, drawing and etching.",
+      "why": "They track his whole life.",
+      "isTrue": true
+     },
+     {
+      "text": "Only three.",
+      "why": "He made many."
+     },
+     {
+      "text": "The King of England commissioned this one.",
+      "why": "It wasn't commissioned."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "An elderly Rembrandt in a beret looks out with tired eyes, his hands clasped in front of him.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "golden-age"
+ }
+]

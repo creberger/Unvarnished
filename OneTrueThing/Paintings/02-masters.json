@@ -1,0 +1,1670 @@
+[
+ {
+  "id": "laughing-cavalier",
+  "title": "The Laughing Cavalier",
+  "artist": "Frans Hals",
+  "artistDates": "c. 1582–1666",
+  "date": "1624",
+  "medium": "Oil on canvas",
+  "collection": "Wallace Collection, London",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Is he laughing?",
+    "statements": [
+     {
+      "text": "He isn't really laughing, and the title was invented in the 1800s.",
+      "why": "It became popular after an exhibition in 1888.",
+      "isTrue": true
+     },
+     {
+      "text": "Hals gave it the title himself.",
+      "why": "The title is Victorian."
+     },
+     {
+      "text": "The sitter is a famous general named on the canvas.",
+      "why": "His identity is unknown."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.86,
+     "y": 0.07,
+     "zoom": 3.0
+    },
+    "where": "Top corner",
+    "prompt": "Look at the writing in the top corner.",
+    "hint": "What does it record?",
+    "statements": [
+     {
+      "text": "That he was 26 years old in 1624.",
+      "why": "It's in Latin: AETA SVAE 26 A° 1624.",
+      "isTrue": true
+     },
+     {
+      "text": "His name and address.",
+      "why": "Only his age and the year."
+     },
+     {
+      "text": "The price of the painting.",
+      "why": "It gives his age and the date."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.66,
+     "y": 0.62,
+     "zoom": 2.5
+    },
+    "where": "The sleeve",
+    "prompt": "Look at the embroidered sleeve.",
+    "hint": "What's stitched there?",
+    "statements": [
+     {
+      "text": "Bees, arrows and flaming horns of plenty, emblems of love's pleasures and pains.",
+      "why": "The suit may have been chosen for a betrothal.",
+      "isTrue": true
+     },
+     {
+      "text": "The coat of arms of Haarlem.",
+      "why": "They're love emblems."
+     },
+     {
+      "text": "Nothing; the sleeve is plain black.",
+      "why": "It's richly embroidered."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.42,
+     "y": 0.4,
+     "zoom": 2.5
+    },
+    "where": "The collar",
+    "prompt": "Look at the lace collar.",
+    "hint": "How is it painted?",
+    "statements": [
+     {
+      "text": "With quick, loose strokes that read as lace from a distance.",
+      "why": "Hals was famous for his fast brushwork.",
+      "isTrue": true
+     },
+     {
+      "text": "Real lace was stitched onto the canvas.",
+      "why": "It's paint."
+     },
+     {
+      "text": "Copied stitch by stitch with a ruler.",
+      "why": "The strokes are loose and quick."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, the painting's own story.",
+    "hint": "How did it reach London?",
+    "statements": [
+     {
+      "text": "Lord Hertford outbid the Rothschilds for it at a Paris auction in 1865.",
+      "why": "He paid several times the estimate.",
+      "isTrue": true
+     },
+     {
+      "text": "Hals gave it to the Wallace Collection.",
+      "why": "The museum opened in 1900, centuries later."
+     },
+     {
+      "text": "It hung in Haarlem town hall until 1945.",
+      "why": "It came to Britain in 1865."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A swaggering man with an upturned moustache, a wide black hat and a lace collar, his sleeve covered in embroidery.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "golden-age"
+ },
+ {
+  "id": "leyster-self-portrait",
+  "title": "Self-Portrait",
+  "artist": "Judith Leyster",
+  "artistDates": "1609–1660",
+  "date": "c. 1630",
+  "medium": "Oil on canvas",
+  "collection": "National Gallery of Art, Washington",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Who was Leyster?",
+    "statements": [
+     {
+      "text": "She was one of the first women admitted to Haarlem's painters' guild.",
+      "why": "She joined in 1633 and ran a workshop with students.",
+      "isTrue": true
+     },
+     {
+      "text": "She was Frans Hals's daughter.",
+      "why": "She wasn't related to Hals."
+     },
+     {
+      "text": "She never sold a painting.",
+      "why": "She was a working professional."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.78,
+     "y": 0.32,
+     "zoom": 2.5
+    },
+    "where": "The easel",
+    "prompt": "Look at the painting on her easel.",
+    "hint": "What's on it?",
+    "statements": [
+     {
+      "text": "A laughing fiddler, the kind of lively scene she was known for.",
+      "why": "Merry musicians were popular in Haarlem.",
+      "isTrue": true
+     },
+     {
+      "text": "A view of the sea.",
+      "why": "It's a fiddler."
+     },
+     {
+      "text": "Her own portrait.",
+      "why": "It's a fiddler."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.4,
+     "y": 0.22,
+     "zoom": 2.5
+    },
+    "where": "Her face",
+    "prompt": "Look at her expression.",
+    "hint": "What is she doing?",
+    "statements": [
+     {
+      "text": "Her mouth is open, as if she's turning to speak to us.",
+      "why": "Casual poses like this were new for self-portraits.",
+      "isTrue": true
+     },
+     {
+      "text": "She's crying.",
+      "why": "She's smiling."
+     },
+     {
+      "text": "Her eyes are closed.",
+      "why": "She looks right at us."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.7,
+     "y": 0.86,
+     "zoom": 2.5
+    },
+    "where": "Her tools",
+    "prompt": "Look at the bottom right.",
+    "hint": "What does she hold?",
+    "statements": [
+     {
+      "text": "A palette and a bundle of brushes.",
+      "why": "She presents herself as a professional painter.",
+      "isTrue": true
+     },
+     {
+      "text": "A book of poems.",
+      "why": "She holds painting tools."
+     },
+     {
+      "text": "A fan.",
+      "why": "She holds a palette."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, her reputation.",
+    "hint": "How was she remembered?",
+    "statements": [
+     {
+      "text": "For about two centuries, her paintings were credited to Frans Hals.",
+      "why": "Her monogram was rediscovered in the 1890s.",
+      "isTrue": true
+     },
+     {
+      "text": "She was famous without a break from her lifetime to today.",
+      "why": "She was forgotten for a long time."
+     },
+     {
+      "text": "This painting is by her husband.",
+      "why": "It's by Leyster."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A smiling woman in a lace collar turns from her easel, brush in hand, with a painting of a laughing fiddler behind her.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "golden-age"
+ },
+ {
+  "id": "peeters-cheeses",
+  "title": "Still Life with Cheeses, Almonds and Pretzels",
+  "artist": "Clara Peeters",
+  "artistDates": "active 1607–1621",
+  "date": "c. 1615",
+  "medium": "Oil on panel",
+  "collection": "Mauritshuis, The Hague",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Who was Peeters?",
+    "statements": [
+     {
+      "text": "She was among the first painters in the Low Countries to specialise in tables of food.",
+      "why": "She was working in Antwerp by about 1607.",
+      "isTrue": true
+     },
+     {
+      "text": "She was a man using a woman's name.",
+      "why": "She was a woman."
+     },
+     {
+      "text": "She only painted flowers.",
+      "why": "She painted food, fish, and objects too."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.48,
+     "y": 0.94,
+     "zoom": 3.0
+    },
+    "where": "The knife",
+    "prompt": "Look at the knife at the front.",
+    "hint": "What's on the handle?",
+    "statements": [
+     {
+      "text": "Her name, worked into the silver handle.",
+      "why": "It's a sly signature.",
+      "isTrue": true
+     },
+     {
+      "text": "The date.",
+      "why": "It's her name."
+     },
+     {
+      "text": "A price.",
+      "why": "It's her name."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.77,
+     "y": 0.82,
+     "zoom": 2.5
+    },
+    "where": "The bowl",
+    "prompt": "Look at the blue-and-white bowl.",
+    "hint": "What is it?",
+    "statements": [
+     {
+      "text": "Chinese porcelain, an expensive import at the time.",
+      "why": "Dutch and Flemish traders brought it from Asia.",
+      "isTrue": true
+     },
+     {
+      "text": "A paper plate.",
+      "why": "It's porcelain."
+     },
+     {
+      "text": "A bowl she painted herself.",
+      "why": "It's an imported piece."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.3,
+     "y": 0.4,
+     "zoom": 2.0
+    },
+    "where": "The cheeses",
+    "prompt": "Look at the stack of cheeses.",
+    "hint": "How do we see them?",
+    "statements": [
+     {
+      "text": "From slightly above, so we look down onto the table.",
+      "why": "The high viewpoint lets her show everything.",
+      "isTrue": true
+     },
+     {
+      "text": "From below.",
+      "why": "We see from above."
+     },
+     {
+      "text": "Painted from a photograph.",
+      "why": "There was no photography."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, the details.",
+    "hint": "Look at the light.",
+    "statements": [
+     {
+      "text": "Highlights on the metal and glass show reflections of a window.",
+      "why": "Peeters loved reflective surfaces.",
+      "isTrue": true
+     },
+     {
+      "text": "She painted it by candlelight only.",
+      "why": "The light is daylight."
+     },
+     {
+      "text": "Everything is shown in shadow.",
+      "why": "It's well lit."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A table laid with stacked cheeses, a jug, a glass goblet, pretzels and a blue-and-white bowl of almonds and raisins.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "golden-age"
+ },
+ {
+  "id": "ruysch-flowers",
+  "title": "Vase of Flowers",
+  "artist": "Rachel Ruysch",
+  "artistDates": "1664–1750",
+  "date": "c. 1700",
+  "medium": "Oil on canvas",
+  "collection": "Mauritshuis, The Hague",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Could this bouquet exist?",
+    "statements": [
+     {
+      "text": "No: the flowers bloom in different seasons.",
+      "why": "Flower painters combined studies made over many months.",
+      "isTrue": true
+     },
+     {
+      "text": "Yes, she painted one real bouquet in a day.",
+      "why": "The flowers wouldn't bloom together."
+     },
+     {
+      "text": "They're all dried flowers.",
+      "why": "They're painted as fresh."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.62,
+     "y": 0.12,
+     "zoom": 2.5
+    },
+    "where": "The top",
+    "prompt": "Look at the top of the bouquet.",
+    "hint": "Who was Ruysch's father?",
+    "statements": [
+     {
+      "text": "A famous anatomist, whose specimens she grew up among.",
+      "why": "Frederik Ruysch was a celebrated scientist.",
+      "isTrue": true
+     },
+     {
+      "text": "A royal gardener.",
+      "why": "He was an anatomist."
+     },
+     {
+      "text": "A painter of ships.",
+      "why": "He was an anatomist."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.55,
+     "zoom": 2.2
+    },
+    "where": "The white flowers",
+    "prompt": "Look at the white blooms.",
+    "hint": "How long did she paint?",
+    "statements": [
+     {
+      "text": "Nearly 70 years.",
+      "why": "She painted into her eighties.",
+      "isTrue": true
+     },
+     {
+      "text": "Only a few years.",
+      "why": "She painted for decades."
+     },
+     {
+      "text": "She stopped when she married.",
+      "why": "She kept painting."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.75,
+     "zoom": 2.2
+    },
+    "where": "The roses",
+    "prompt": "Look at the roses lower down.",
+    "hint": "Who employed her?",
+    "statements": [
+     {
+      "text": "She was court painter to the Elector Palatine in Düsseldorf.",
+      "why": "A rare honour.",
+      "isTrue": true
+     },
+     {
+      "text": "The Pope.",
+      "why": "She worked for the Elector Palatine."
+     },
+     {
+      "text": "The King of England.",
+      "why": "She worked in Düsseldorf."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, her prices.",
+    "hint": "How valued was she?",
+    "statements": [
+     {
+      "text": "In her lifetime her paintings sold for more than Rembrandt's had.",
+      "why": "She was one of the best-paid painters of her day.",
+      "isTrue": true
+     },
+     {
+      "text": "She gave them away.",
+      "why": "She sold them at high prices."
+     },
+     {
+      "text": "She never sold one.",
+      "why": "She sold many."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A tumbling bouquet of roses, tulips and other flowers in a vase against a dark background.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "golden-age"
+ },
+ {
+  "id": "mona-lisa",
+  "title": "Mona Lisa",
+  "artist": "Leonardo da Vinci",
+  "artistDates": "1452–1519",
+  "date": "c. 1503–19",
+  "medium": "Oil on poplar",
+  "collection": "Musée du Louvre, Paris",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "What is it painted on?",
+    "statements": [
+     {
+      "text": "A panel of poplar wood.",
+      "why": "Panel was standard in Italy then.",
+      "isTrue": true
+     },
+     {
+      "text": "Canvas.",
+      "why": "It's on poplar."
+     },
+     {
+      "text": "Oak.",
+      "why": "Italians used poplar."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.42,
+     "y": 0.2,
+     "zoom": 3.0
+    },
+    "where": "The brow",
+    "prompt": "Look above her eyes.",
+    "hint": "What's missing?",
+    "statements": [
+     {
+      "text": "She has no visible eyebrows or eyelashes.",
+      "why": "They may have faded or been cleaned away.",
+      "isTrue": true
+     },
+     {
+      "text": "Her eyebrows are painted gold.",
+      "why": "There are none visible."
+     },
+     {
+      "text": "A restorer plucked them out in 1950.",
+      "why": "That didn't happen."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.85,
+     "y": 0.3,
+     "zoom": 2.5
+    },
+    "where": "The landscape",
+    "prompt": "Look at the background.",
+    "hint": "Does it match?",
+    "statements": [
+     {
+      "text": "The horizon on the left is lower than on the right.",
+      "why": "The two halves don't line up.",
+      "isTrue": true
+     },
+     {
+      "text": "It's a view of Paris.",
+      "why": "It's an imagined landscape."
+     },
+     {
+      "text": "It's an accurate map of Florence.",
+      "why": "It's imagined."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.48,
+     "y": 0.35,
+     "zoom": 3.0
+    },
+    "where": "The smile",
+    "prompt": "Look at the corners of her mouth.",
+    "hint": "How are they painted?",
+    "statements": [
+     {
+      "text": "With soft, smoky blending called sfumato.",
+      "why": "There are no hard edges.",
+      "isTrue": true
+     },
+     {
+      "text": "Drawn in charcoal over the paint.",
+      "why": "It's blended paint."
+     },
+     {
+      "text": "The smile was added by another artist.",
+      "why": "It's Leonardo's."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, the painting's own story.",
+    "hint": "What happened in 1911?",
+    "statements": [
+     {
+      "text": "A Louvre worker stole it and it was recovered in 1913.",
+      "why": "Vincenzo Peruggia hid it in Paris for two years.",
+      "isTrue": true
+     },
+     {
+      "text": "It has never left the Louvre.",
+      "why": "It was stolen and has travelled abroad."
+     },
+     {
+      "text": "Napoleon sold it to a Russian tsar.",
+      "why": "Napoleon kept it in his bedroom."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A woman with folded hands and a faint smile sits before a hazy, winding landscape.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "renaissance"
+ },
+ {
+  "id": "castiglione",
+  "title": "Portrait of Baldassare Castiglione",
+  "artist": "Raphael",
+  "artistDates": "1483–1520",
+  "date": "c. 1514–15",
+  "medium": "Oil on canvas",
+  "collection": "Musée du Louvre, Paris",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Who is he?",
+    "statements": [
+     {
+      "text": "He wrote The Book of the Courtier, a famous guide to good behaviour.",
+      "why": "It was read across Europe.",
+      "isTrue": true
+     },
+     {
+      "text": "He's a pope.",
+      "why": "He's a writer and diplomat."
+     },
+     {
+      "text": "He's Raphael's father.",
+      "why": "He's a friend."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.52,
+     "y": 0.38,
+     "zoom": 3.0
+    },
+    "where": "His eyes",
+    "prompt": "Look at his eyes.",
+    "hint": "How did they know each other?",
+    "statements": [
+     {
+      "text": "They were close friends.",
+      "why": "Raphael painted a friend.",
+      "isTrue": true
+     },
+     {
+      "text": "They were rivals.",
+      "why": "They were friends."
+     },
+     {
+      "text": "They never met.",
+      "why": "They knew each other well."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.6,
+     "y": 0.6,
+     "zoom": 2.0
+    },
+    "where": "The colours",
+    "prompt": "Look at his clothes.",
+    "hint": "What colours dominate?",
+    "statements": [
+     {
+      "text": "Mostly greys, blacks and creams.",
+      "why": "A restrained palette.",
+      "isTrue": true
+     },
+     {
+      "text": "Bright reds and greens.",
+      "why": "The colours are muted."
+     },
+     {
+      "text": "Gold leaf.",
+      "why": "It's paint."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.92,
+     "zoom": 2.5
+    },
+    "where": "The hands",
+    "prompt": "Look at the bottom edge.",
+    "hint": "What are his hands doing?",
+    "statements": [
+     {
+      "text": "They're clasped and cut off by the edge.",
+      "why": "It makes him feel close.",
+      "isTrue": true
+     },
+     {
+      "text": "Holding a sword.",
+      "why": "His hands are clasped."
+     },
+     {
+      "text": "Holding a book.",
+      "why": "His hands are clasped."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, its later life.",
+    "hint": "Who sketched it?",
+    "statements": [
+     {
+      "text": "Rembrandt sketched it when it was auctioned in Amsterdam in 1639.",
+      "why": "He used the pose for his own self-portraits.",
+      "isTrue": true
+     },
+     {
+      "text": "It has never left Italy.",
+      "why": "It's in Paris."
+     },
+     {
+      "text": "It was destroyed in a fire.",
+      "why": "It survives in the Louvre."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A bearded man in a dark beret and grey fur sleeves looks calmly at us, his hands folded.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "renaissance"
+ },
+ {
+  "id": "bacchus-and-ariadne",
+  "title": "Bacchus and Ariadne",
+  "artist": "Titian",
+  "artistDates": "c. 1488–1576",
+  "date": "1520–23",
+  "medium": "Oil on canvas",
+  "collection": "National Gallery, London",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Who was it for?",
+    "statements": [
+     {
+      "text": "The Duke of Ferrara's private study, alongside other mythological paintings.",
+      "why": "Alfonso d'Este commissioned a set.",
+      "isTrue": true
+     },
+     {
+      "text": "A church altar.",
+      "why": "It's a mythological painting."
+     },
+     {
+      "text": "It's a fresco.",
+      "why": "It's on canvas."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.48,
+     "y": 0.3,
+     "zoom": 2.2
+    },
+    "where": "Bacchus",
+    "prompt": "Look at Bacchus.",
+    "hint": "What's he doing?",
+    "statements": [
+     {
+      "text": "Leaping from his chariot at first sight of Ariadne.",
+      "why": "It's love at first sight.",
+      "isTrue": true
+     },
+     {
+      "text": "Falling off his chariot.",
+      "why": "He's leaping."
+     },
+     {
+      "text": "He's Mars, the god of war.",
+      "why": "He's Bacchus, god of wine."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.25,
+     "y": 0.68,
+     "zoom": 2.5
+    },
+    "where": "The chariot",
+    "prompt": "Look at the animals pulling the chariot.",
+    "hint": "What are they?",
+    "statements": [
+     {
+      "text": "Two cheetahs.",
+      "why": "Titian may have seen one in a menagerie.",
+      "isTrue": true
+     },
+     {
+      "text": "Lions.",
+      "why": "They're cheetahs."
+     },
+     {
+      "text": "Horses.",
+      "why": "They're big cats."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.12,
+     "y": 0.15,
+     "zoom": 3.0
+    },
+    "where": "The sky",
+    "prompt": "Look at the stars above Ariadne.",
+    "hint": "What are they?",
+    "statements": [
+     {
+      "text": "The crown Bacchus gave her, turned into a constellation.",
+      "why": "The myth explains the stars of Corona Borealis.",
+      "isTrue": true
+     },
+     {
+      "text": "A comet.",
+      "why": "It's a ring of stars."
+     },
+     {
+      "text": "The planet Venus.",
+      "why": "It's a constellation."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, the colour.",
+    "hint": "What makes the blue?",
+    "statements": [
+     {
+      "text": "Ultramarine, the most expensive blue.",
+      "why": "Titian used it lavishly.",
+      "isTrue": true
+     },
+     {
+      "text": "Indigo.",
+      "why": "It's ultramarine."
+     },
+     {
+      "text": "The blue was added in the 1900s.",
+      "why": "It's original."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "Bacchus leaps from a chariot pulled by two big cats toward Ariadne on a shore under a deep blue sky with a ring of stars.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "renaissance"
+ },
+ {
+  "id": "supper-at-emmaus",
+  "title": "The Supper at Emmaus",
+  "artist": "Caravaggio",
+  "artistDates": "1571–1610",
+  "date": "1601",
+  "medium": "Oil and tempera on canvas",
+  "collection": "National Gallery, London",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "How is Christ shown?",
+    "statements": [
+     {
+      "text": "Without a beard, which was unusual at the time.",
+      "why": "Caravaggio broke with tradition.",
+      "isTrue": true
+     },
+     {
+      "text": "As an old man.",
+      "why": "He's young."
+     },
+     {
+      "text": "With a gold-leaf halo.",
+      "why": "There's no halo."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.38,
+     "y": 0.65,
+     "zoom": 2.5
+    },
+    "where": "The basket",
+    "prompt": "Look at the fruit basket.",
+    "hint": "Where is it?",
+    "statements": [
+     {
+      "text": "Hanging over the edge of the table, about to fall.",
+      "why": "It seems to tip into our space.",
+      "isTrue": true
+     },
+     {
+      "text": "Full of bread.",
+      "why": "It's fruit."
+     },
+     {
+      "text": "Nailed to the table.",
+      "why": "It's balanced on the edge."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.15,
+     "y": 0.5,
+     "zoom": 2.5
+    },
+    "where": "Left disciple",
+    "prompt": "Look at the disciple on the left.",
+    "hint": "What's at his elbow?",
+    "statements": [
+     {
+      "text": "A torn sleeve.",
+      "why": "He's a poor man.",
+      "isTrue": true
+     },
+     {
+      "text": "Armour.",
+      "why": "His sleeve is torn."
+     },
+     {
+      "text": "He's a woman.",
+      "why": "He's a man."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.88,
+     "y": 0.5,
+     "zoom": 2.2
+    },
+    "where": "Right disciple",
+    "prompt": "Look at the disciple on the right.",
+    "hint": "What are his arms doing?",
+    "statements": [
+     {
+      "text": "They're flung wide, seeming to reach out toward us.",
+      "why": "It's a dramatic gesture.",
+      "isTrue": true
+     },
+     {
+      "text": "Holding a sword.",
+      "why": "His arms are flung wide."
+     },
+     {
+      "text": "Folded.",
+      "why": "They're spread wide."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, look at the fruit.",
+    "hint": "Is it perfect?",
+    "statements": [
+     {
+      "text": "Some of the fruit is bruised and spoiling.",
+      "why": "Caravaggio painted real produce.",
+      "isTrue": true
+     },
+     {
+      "text": "It's all wax fruit.",
+      "why": "It's painted real fruit."
+     },
+     {
+      "text": "It's all gold.",
+      "why": "It's fruit."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "Christ blesses bread at a table as two disciples recognise him in astonishment, one flinging his arms wide.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "golden-age"
+ },
+ {
+  "id": "artemisia-catherine",
+  "title": "Self-Portrait as Saint Catherine of Alexandria",
+  "artist": "Artemisia Gentileschi",
+  "artistDates": "1593–c. 1656",
+  "date": "c. 1615–17",
+  "medium": "Oil on canvas",
+  "collection": "National Gallery, London",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "When did the gallery buy it?",
+    "statements": [
+     {
+      "text": "In 2018, its first painting by Artemisia.",
+      "why": "It was a landmark purchase.",
+      "isTrue": true
+     },
+     {
+      "text": "In 1824.",
+      "why": "It came in 2018."
+     },
+     {
+      "text": "It's by her father, Orazio.",
+      "why": "It's by Artemisia."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.12,
+     "y": 0.62,
+     "zoom": 2.5
+    },
+    "where": "The wheel",
+    "prompt": "Look at the wheel.",
+    "hint": "What is it?",
+    "statements": [
+     {
+      "text": "A broken spiked wheel, the instrument of Saint Catherine's martyrdom.",
+      "why": "The wheel broke when she touched it.",
+      "isTrue": true
+     },
+     {
+      "text": "A ship's wheel.",
+      "why": "It's a spiked wheel."
+     },
+     {
+      "text": "A spinning wheel.",
+      "why": "It's a torture wheel."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.32,
+     "y": 0.35,
+     "zoom": 2.2
+    },
+    "where": "The palm",
+    "prompt": "Look at the frond she holds.",
+    "hint": "What does it mean?",
+    "statements": [
+     {
+      "text": "A palm, a symbol of martyrdom.",
+      "why": "Martyrs are often shown with palms.",
+      "isTrue": true
+     },
+     {
+      "text": "A quill for writing.",
+      "why": "It's a palm."
+     },
+     {
+      "text": "A sword.",
+      "why": "It's a palm frond."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.62,
+     "y": 0.1,
+     "zoom": 3.0
+    },
+    "where": "Her head",
+    "prompt": "Look at her crown.",
+    "hint": "What does it signal?",
+    "statements": [
+     {
+      "text": "Catherine was a princess.",
+      "why": "She's shown crowned.",
+      "isTrue": true
+     },
+     {
+      "text": "A halo in gold leaf.",
+      "why": "It's a crown."
+     },
+     {
+      "text": "A laurel wreath for poets.",
+      "why": "It's a crown."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, her career.",
+    "hint": "What first did she achieve?",
+    "statements": [
+     {
+      "text": "She was the first woman admitted to the Florentine Academy of Design.",
+      "why": "She joined in 1616.",
+      "isTrue": true
+     },
+     {
+      "text": "She never left Rome.",
+      "why": "She worked in Florence, Venice, Naples and London."
+     },
+     {
+      "text": "Her work was always credited to her.",
+      "why": "Much was given to men."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A woman in a red dress and crown, holding a palm frond, leans on a broken spiked wheel and looks over her shoulder.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "golden-age"
+ },
+ {
+  "id": "anguissola-chess",
+  "title": "The Chess Game",
+  "artist": "Sofonisba Anguissola",
+  "artistDates": "c. 1532–1625",
+  "date": "1555",
+  "medium": "Oil on canvas",
+  "collection": "National Museum, Poznań",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Who are the players?",
+    "statements": [
+     {
+      "text": "The painter's own sisters.",
+      "why": "Lucia, Minerva and the youngest, Europa.",
+      "isTrue": true
+     },
+     {
+      "text": "Her brothers.",
+      "why": "They're sisters."
+     },
+     {
+      "text": "Spanish princesses.",
+      "why": "They're her sisters."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.4,
+     "y": 0.86,
+     "zoom": 3.0
+    },
+    "where": "The board",
+    "prompt": "Look at the chessboard's edge.",
+    "hint": "What's written there?",
+    "statements": [
+     {
+      "text": "Her signature, in Latin.",
+      "why": "She signed proudly.",
+      "isTrue": true
+     },
+     {
+      "text": "The rules of chess.",
+      "why": "It's a signature."
+     },
+     {
+      "text": "The winner's name.",
+      "why": "It's her signature."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.42,
+     "y": 0.38,
+     "zoom": 2.5
+    },
+    "where": "The youngest",
+    "prompt": "Look at the little girl in the middle.",
+    "hint": "What's her expression?",
+    "statements": [
+     {
+      "text": "She's grinning at the game.",
+      "why": "The scene feels relaxed and personal.",
+      "isTrue": true
+     },
+     {
+      "text": "She's crying.",
+      "why": "She's smiling."
+     },
+     {
+      "text": "She's asleep.",
+      "why": "She's watching."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.92,
+     "y": 0.25,
+     "zoom": 2.5
+    },
+    "where": "The edge",
+    "prompt": "Look at the right edge.",
+    "hint": "Who's watching?",
+    "statements": [
+     {
+      "text": "A servant.",
+      "why": "She watches the girls.",
+      "isTrue": true
+     },
+     {
+      "text": "A nun.",
+      "why": "She's a servant."
+     },
+     {
+      "text": "A painted statue.",
+      "why": "She's a person."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, her long life.",
+    "hint": "Who visited her?",
+    "statements": [
+     {
+      "text": "Van Dyck, when she was in her nineties; he sketched her.",
+      "why": "She lived to about 93.",
+      "isTrue": true
+     },
+     {
+      "text": "She died young, at 30.",
+      "why": "She lived into her nineties."
+     },
+     {
+      "text": "She stopped painting when she married.",
+      "why": "She kept painting."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "Three young sisters play chess at a table outdoors while an older servant watches from the edge.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "renaissance"
+ },
+ {
+  "id": "duccio-madonna",
+  "title": "Madonna and Child",
+  "artist": "Duccio di Buoninsegna",
+  "artistDates": "c. 1255–1319",
+  "date": "c. 1290–1300",
+  "medium": "Tempera and gold on wood",
+  "collection": "The Metropolitan Museum of Art, New York",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "What did it cost?",
+    "statements": [
+     {
+      "text": "The Met paid around $45 million for it in 2004.",
+      "why": "It was the museum's most expensive purchase at the time.",
+      "isTrue": true
+     },
+     {
+      "text": "It was found at a flea market.",
+      "why": "It came from a private collection."
+     },
+     {
+      "text": "The Met bought it in 1890.",
+      "why": "It came in 2004."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.92,
+     "zoom": 2.5
+    },
+    "where": "The frame",
+    "prompt": "Look at the bottom of the frame.",
+    "hint": "Why is it dark?",
+    "statements": [
+     {
+      "text": "It's scorched by candles once lit in front of it.",
+      "why": "It was used for private prayer.",
+      "isTrue": true
+     },
+     {
+      "text": "It was burned on purpose to look old.",
+      "why": "The burns are from use."
+     },
+     {
+      "text": "The frame is modern.",
+      "why": "It's the original."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.82,
+     "zoom": 2.0
+    },
+    "where": "The ledge",
+    "prompt": "Look at the ledge in front.",
+    "hint": "What is it?",
+    "statements": [
+     {
+      "text": "A painted parapet, an early trick to make the figures feel near.",
+      "why": "It's one of the earliest examples.",
+      "isTrue": true
+     },
+     {
+      "text": "A real wooden shelf.",
+      "why": "It's painted."
+     },
+     {
+      "text": "A coffin.",
+      "why": "It's a ledge."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.62,
+     "y": 0.48,
+     "zoom": 2.5
+    },
+    "where": "The Child",
+    "prompt": "Look at the Child.",
+    "hint": "What's he doing?",
+    "statements": [
+     {
+      "text": "Reaching up to pull at his mother's veil.",
+      "why": "It's a tender, human gesture.",
+      "isTrue": true
+     },
+     {
+      "text": "Holding an apple.",
+      "why": "He's reaching for her veil."
+     },
+     {
+      "text": "Sleeping.",
+      "why": "He's awake."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.15,
+     "zoom": 2.0
+    },
+    "where": "The background",
+    "prompt": "Look at the gold.",
+    "hint": "What is it?",
+    "statements": [
+     {
+      "text": "Real gold leaf.",
+      "why": "It shines in candlelight.",
+      "isTrue": true
+     },
+     {
+      "text": "Yellow paint.",
+      "why": "It's gold."
+     },
+     {
+      "text": "Brass sheet.",
+      "why": "It's gold leaf."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "Mary holds the infant Christ, who reaches for her veil, behind a painted ledge in a small gold panel with a scorched frame.",
+  "credit": "Image: The Metropolitan Museum of Art, public domain (CC0)",
+  "category": "renaissance"
+ },
+ {
+  "id": "view-of-toledo",
+  "title": "View of Toledo",
+  "artist": "El Greco",
+  "artistDates": "1541–1614",
+  "date": "c. 1599–1600",
+  "medium": "Oil on canvas",
+  "collection": "The Metropolitan Museum of Art, New York",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "How rare is it?",
+    "statements": [
+     {
+      "text": "It's one of only two landscapes El Greco is known to have painted.",
+      "why": "He mostly painted religious scenes and portraits.",
+      "isTrue": true
+     },
+     {
+      "text": "He painted dozens like it.",
+      "why": "Only two survive."
+     },
+     {
+      "text": "It's a night scene.",
+      "why": "It's a stormy day."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.82,
+     "y": 0.4,
+     "zoom": 3.0
+    },
+    "where": "The city",
+    "prompt": "Look at the buildings on the hill.",
+    "hint": "Are they accurate?",
+    "statements": [
+     {
+      "text": "He moved the cathedral to stand beside the Alcázar.",
+      "why": "He rearranged the city for effect.",
+      "isTrue": true
+     },
+     {
+      "text": "It's an exact survey.",
+      "why": "He changed it."
+     },
+     {
+      "text": "It's Rome.",
+      "why": "It's Toledo."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.65,
+     "y": 0.5,
+     "zoom": 2.5
+    },
+    "where": "The bridge",
+    "prompt": "Look at the bridge.",
+    "hint": "What is it?",
+    "statements": [
+     {
+      "text": "The Alcántara bridge, Roman in origin.",
+      "why": "It crosses the Tagus.",
+      "isTrue": true
+     },
+     {
+      "text": "A modern iron bridge.",
+      "why": "It's ancient."
+     },
+     {
+      "text": "A drawbridge.",
+      "why": "It's a stone bridge."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.4,
+     "y": 0.15,
+     "zoom": 1.8
+    },
+    "where": "The sky",
+    "prompt": "Look at the sky.",
+    "hint": "Where was El Greco born?",
+    "statements": [
+     {
+      "text": "On the island of Crete.",
+      "why": "He trained as an icon painter.",
+      "isTrue": true
+     },
+     {
+      "text": "In Toledo.",
+      "why": "He moved there."
+     },
+     {
+      "text": "In Rome.",
+      "why": "He was born on Crete."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, its later life.",
+    "hint": "When did the Met get it?",
+    "statements": [
+     {
+      "text": "In 1929, from the Havemeyer collection.",
+      "why": "The collection was a famous bequest.",
+      "isTrue": true
+     },
+     {
+      "text": "In 2010.",
+      "why": "It came in 1929."
+     },
+     {
+      "text": "It was found in a monastery in 1990.",
+      "why": "It came in 1929."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "The city of Toledo on a green hill under a stormy, dark sky.",
+  "credit": "Image: The Metropolitan Museum of Art, public domain (CC0)",
+  "category": "renaissance"
+ }
+]

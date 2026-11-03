@@ -1,0 +1,275 @@
+## el-greco-assumption | The Assumption of the Virgin | El Greco | 1541–1614 | 1577–79 | Oil on canvas | Art Institute of Chicago
+desc: A tall altarpiece: the apostles gather around an empty tomb below as Mary rises on a crescent moon among angels.
+@ 0.5 0.5 1 | Full painting | Start with the whole picture. | How big is it?
++ It's about four metres tall, made as the centre of a church altarpiece. || It was painted for Santo Domingo el Antiguo in Toledo.
+- It's the size of a postcard. || It's enormous.
+- It was painted on a ceiling. || It stood above an altar.
+@ 0.5 0.28 2.5 | Mary | Look at Mary's feet. | What does she stand on?
++ A crescent moon. || A traditional symbol for Mary.
+- A cloud shaped like a ship. || It's a crescent moon.
+- A golden throne. || It's a moon.
+@ 0.5 0.6 2 | The apostles | Look at the apostles below. | What's at their centre?
++ Mary's empty tomb. || They look up in wonder.
+- A table set for a meal. || It's an empty tomb.
+- A burning bush. || It's a tomb.
+@ 0.5 0.95 3 | The bottom | Look at the bottom edge. | How did he sign?
++ In Greek letters, on a slip of paper. || He was proud of his Cretan roots.
+- In Spanish. || He signed in Greek.
+- He didn't sign it. || It's signed.
+@ 0.5 0.5 1 | Full painting | Finally, its significance. | What was it for El Greco?
++ His first major commission after he arrived in Spain. || It made his name in Toledo.
+- His last painting. || It's early in his Spanish career.
+- A painting he made for the Pope. || It was for a Toledo convent.
+
+## las-meninas | Las Meninas | Diego Velázquez | 1599–1660 | 1656 | Oil on canvas | Museo del Prado, Madrid
+desc: The little Spanish princess in a wide white dress stands with her maids, a dog and dwarfs, while Velázquez paints at a huge canvas.
+@ 0.5 0.5 1 | Full painting | Start with the whole picture. | Who's at the easel?
++ Velázquez, who painted himself at work. || He looks out at us.
+- A student. || It's Velázquez.
+- The king. || The painter is Velázquez.
+@ 0.48 0.44 3 | The mirror | Look at the mirror on the back wall. | Who's reflected?
++ The king and queen of Spain. || They seem to stand where we are.
+- Velázquez's wife. || It's the king and queen.
+- An empty room. || It shows two figures.
+@ 0.36 0.6 3 | The painter's chest | Look at the red cross on his chest. | When was it added?
++ After he was knighted in 1659, three years after the painting. || Someone added it later.
+- He had it from birth. || He earned it later.
+- It's a bloodstain. || It's the cross of the Order of Santiago.
+@ 0.75 0.88 2.5 | The dog | Look at the dog at the front. | What's happening?
++ A boy rests his foot on the sleepy dog. || The dog ignores him.
+- The dog is barking at the king. || It's dozing.
+- It's a stuffed dog. || It's alive.
+@ 0.5 0.5 1 | Full painting | Finally, its influence. | Who reworked it?
++ Picasso, who painted 58 variations in 1957. || They're in the Museu Picasso in Barcelona.
+- No one has dared copy it. || Many have.
+- Napoleon had it cut in half. || It's intact.
+
+## juan-de-pareja | Juan de Pareja | Diego Velázquez | 1599–1660 | 1650 | Oil on canvas | The Metropolitan Museum of Art, New York
+desc: A man with dark curly hair and a lace collar turns his head toward us with a steady, confident gaze.
+@ 0.5 0.5 1 | Full painting | Start with the whole picture. | Who is he?
++ Velázquez's enslaved assistant, whom he freed and who became a painter himself. || Pareja's own paintings are in the Prado.
+- A Spanish prince. || He was Velázquez's assistant.
+- Velázquez's brother. || He was his assistant.
+@ 0.5 0.3 2.5 | The face | Look at his face. | Where was it first shown?
++ At the Pantheon in Rome in 1650, to great acclaim. || It made a sensation.
+- At the Louvre in 1900. || It was shown in Rome.
+- It was never shown. || It was exhibited in 1650.
+@ 0.5 0.5 2.2 | The collar | Look at his collar. | How is it painted?
++ With loose, quick strokes. || Velázquez's brushwork looks modern up close.
+- With a fine pen. || It's brushwork.
+- With gold leaf. || It's paint.
+@ 0.4 0.7 2 | The coat | Look at his coat. | What colours?
++ Mostly greys and greens. || A restrained palette.
+- Bright red. || It's muted.
+- Pure white. || It's grey-green.
+@ 0.5 0.5 1 | Full painting | Finally, the sale. | What happened in 1970?
++ The Met bought it at auction for a then-record price. || It cost $5.5 million.
+- It was stolen. || It was sold.
+- It burned. || It survives.
+
+## canaletto-stonemason | The Stonemason's Yard | Canaletto | 1697–1768 | c. 1725 | Oil on canvas | National Gallery, London
+desc: A dusty Venetian square full of marble blocks and workmen, with a church across the Grand Canal behind.
+@ 0.5 0.5 1 | Full painting | Start with the whole picture. | What's unusual about it?
++ It shows an everyday working corner of Venice, not a grand ceremony. || Most of his views are of famous sights.
+- It's an imaginary city. || It's real Venice.
+- It's painted on copper. || It's on canvas.
+@ 0.2 0.78 3 | Bottom left | Look at the bottom left corner. | What's happening?
++ A child has fallen over, and a woman rushes from a doorway. || Everyday drama in the corner.
+- A dog steals bread. || A child has fallen.
+- A man paints the scene. || It's a fallen child.
+@ 0.4 0.4 2.5 | Across the canal | Look at the church across the canal. | What is it?
++ The church of Santa Maria della Carità. || It's now part of the Accademia gallery.
+- Saint Mark's Basilica. || It's the Carità.
+- A lighthouse. || It's a church.
+@ 0.8 0.3 2.5 | The windows | Look at the windows on the right. | What's hanging there?
++ Washing and a woman tending flowers. || Daily life fills the scene.
+- Flags. || It's washing.
+- Nothing. || There's washing.
+@ 0.5 0.5 1 | Full painting | Finally, its owner. | Who gave it to the nation?
++ Sir George Beaumont, a collector who helped found the National Gallery. || He loved this painting.
+- Canaletto himself. || It was a collector's gift.
+- The Queen of Venice. || Venice had doges, not queens.
+
+## the-swing | The Swing | Jean-Honoré Fragonard | 1732–1806 | c. 1767 | Oil on canvas | Wallace Collection, London
+desc: A young woman in a pink dress swings high in a lush garden, kicking off a shoe toward a man hidden in the bushes.
+@ 0.5 0.5 1 | Full painting | Start with the whole picture. | Who ordered it?
++ A baron who wanted to be painted watching his mistress on a swing. || Another painter turned the job down.
+- The king of France. || It was a private commission.
+- A convent. || It's not a religious painting.
+@ 0.45 0.55 2.5 | The shoe | Look at the woman's foot. | What's happening?
++ Her shoe is flying off into the air. || It's a playful, flirtatious moment.
+- She's barefoot. || She's kicking off a shoe.
+- She's falling. || She's swinging.
+@ 0.07 0.45 3 | The statue | Look at the statue on the left. | What is he doing?
++ Cupid puts a finger to his lips, as if to say "shh." || The scene is secret.
+- He's playing a flute. || He's hushing.
+- He's asleep. || He's hushing.
+@ 0.75 0.65 2.5 | Pushing the swing | Look at the man in the shadows. | Who is he?
++ An older man pushing the swing, unaware of the lover. || He's in shadow on the right.
+- Her father, dancing. || He's pushing the swing.
+- A gardener with a rake. || He holds the swing's ropes.
+@ 0.5 0.5 1 | Full painting | Finally, its condition. | What happened in 2021?
++ A cleaning removed yellowed varnish and revealed brighter colours. || Details like a lost path reappeared.
+- It was cut in half. || It was cleaned.
+- It was sold to a private buyer. || It's still in the Wallace Collection.
+
+## soap-bubbles | Soap Bubbles | Jean Siméon Chardin | 1699–1779 | c. 1733–34 | Oil on canvas | The Metropolitan Museum of Art, New York
+desc: A young man leans out of a window blowing a large soap bubble through a straw while a small child peers over the ledge.
+@ 0.5 0.5 1 | Full painting | Start with the whole picture. | Is it unique?
++ Chardin painted several versions; three survive in US museums. || They're in New York, Washington and Los Angeles.
+- It's his only painting. || He painted many.
+- It's a print. || It's a painting.
+@ 0.57 0.65 2.5 | The bubble | Look at the bubble. | What does it mean?
++ A symbol of how short life is. || A bubble can burst at any moment.
+- A crystal ball. || It's a soap bubble.
+- A pearl. || It's a bubble.
+@ 0.8 0.65 2.5 | The child | Look at the right. | Who's peeking?
++ A small child peers over the ledge. || Only the head shows.
+- A cat. || It's a child.
+- A dog. || It's a child.
+@ 0.6 0.35 2.5 | His face | Look at his face. | What's he doing?
++ Concentrating hard on the bubble. || The moment is quiet and focused.
+- Laughing loudly. || He's concentrating.
+- Sleeping. || He's blowing a bubble.
+@ 0.5 0.5 1 | Full painting | Finally, Chardin's subjects. | What else did he paint?
++ Still lifes and quiet scenes of everyday life. || He was a master of humble subjects.
+- Battle scenes. || He painted quiet scenes.
+- Only kings. || He painted ordinary people.
+
+## vigee-le-brun-straw-hat | Self-Portrait in a Straw Hat | Élisabeth Louise Vigée Le Brun | 1755–1842 | after 1782 | Oil on canvas | National Gallery, London
+desc: A young woman in a straw hat with flowers and a feather holds a palette, set against a blue sky.
+@ 0.5 0.5 1 | Full painting | Start with the whole picture. | What inspired it?
++ Rubens's portrait The Straw Hat, which she saw in Flanders. || She copied its outdoor light.
+- A photograph. || There were no photographs.
+- A dream. || It was Rubens.
+@ 0.5 0.15 2.5 | The hat | Look at her hat. | What's on it?
++ Flowers and a feather. || She dressed for the portrait.
+- A bird's nest. || It's flowers and a feather.
+- A crown. || It's a straw hat.
+@ 0.7 0.66 2.5 | Her hand | Look at what she holds. | What is it?
++ A palette and brushes. || She shows her profession.
+- A fan. || It's a palette.
+- A book. || It's a palette.
+@ 0.5 0.5 1.5 | Her face | Look at her face. | Who did she paint most?
++ Marie Antoinette, for whom she was court portraitist. || She painted the queen many times.
+- Napoleon. || She painted Marie Antoinette.
+- Only herself. || She painted many people.
+@ 0.5 0.5 1 | Full painting | Finally, her later life. | What happened in 1789?
++ She fled France at the start of the Revolution. || She worked across Europe for years.
+- She became queen. || She fled.
+- She stopped painting. || She kept painting.
+
+## mr-and-mrs-andrews | Mr and Mrs Andrews | Thomas Gainsborough | 1727–1788 | c. 1750 | Oil on canvas | National Gallery, London
+desc: A young couple pose under an oak tree at the left, with their wide Suffolk fields stretching away to the right.
+@ 0.5 0.5 1 | Full painting | Start with the whole picture. | How old was Gainsborough?
++ About 22. || It's an early work.
+- About 70. || He was young.
+- About 12. || He was in his early twenties.
+@ 0.27 0.6 3 | Her lap | Look at Mrs Andrews' lap. | What's odd?
++ It's unfinished, a bare patch of canvas. || Perhaps a pheasant or a baby was planned.
+- She holds a cat. || It's unfinished.
+- She holds a baby. || It's blank.
+@ 0.65 0.55 2 | The fields | Look at the fields. | Whose are they?
++ The couple's own estate in Suffolk. || The land shows their wealth.
+- A royal park. || It's their estate.
+- An imagined landscape. || It's real.
+@ 0.18 0.5 2.5 | Mr Andrews | Look at Mr Andrews. | What does he carry?
++ A gun, with a hunting dog at his feet. || He's a country gentleman.
+- A fishing rod. || It's a gun.
+- A book. || It's a gun.
+@ 0.5 0.5 1 | Full painting | Finally, its history. | When did the gallery get it?
++ In 1960. || It had stayed with the family for two centuries.
+- In 1800. || It came in 1960.
+- It was stolen in 1900. || It wasn't.
+
+## death-of-socrates | The Death of Socrates | Jacques-Louis David | 1748–1825 | 1787 | Oil on canvas | The Metropolitan Museum of Art, New York
+desc: The philosopher Socrates, seated on a bed, reaches for a cup of poison while lecturing his grieving followers.
+@ 0.5 0.5 1 | Full painting | Start with the whole picture. | What's happening?
++ Socrates keeps teaching as he reaches for the poison hemlock. || He was sentenced to death in Athens.
+- He's toasting a wedding. || He's about to die.
+- He's refusing the cup. || He reaches calmly for it.
+@ 0.5 0.6 2.5 | The cup | Look at the cup. | What's in it?
++ Hemlock, a poison. || It was his death sentence.
+- Wine. || It's poison.
+- Water. || It's hemlock.
+@ 0.1 0.6 2.5 | The bed's end | Look at the old man at the foot of the bed. | Who is he?
++ Plato, shown old, though he was young at the time. || David took liberties.
+- Socrates' father. || It's Plato.
+- A jailer. || The jailer hands the cup.
+@ 0.45 0.55 2.5 | The cupbearer | Look at the man handing the cup. | What's he doing?
++ Turning his face away, covering his eyes. || He can't bear it.
+- Smiling. || He's grieving.
+- Drinking from it. || He hands it over.
+@ 0.5 0.5 1 | Full painting | Finally, its reception. | How was it received?
++ Thomas Jefferson saw it in Paris and praised it. || It was a sensation.
+- It was hidden away. || It was exhibited.
+- It was rejected by the Salon. || It was a triumph.
+
+## death-of-marat | The Death of Marat | Jacques-Louis David | 1748–1825 | 1793 | Oil on canvas | Royal Museums of Fine Arts of Belgium, Brussels
+desc: The revolutionary Marat lies dead in his bath, a letter in one hand and a pen in the other, against a bare wall.
+@ 0.5 0.5 1 | Full painting | Start with the whole picture. | Who killed him?
++ Charlotte Corday, who stabbed him in his bath. || She opposed his politics.
+- He died of illness. || He was murdered.
+- A soldier. || It was Charlotte Corday.
+@ 0.6 0.48 2.5 | The letter | Look at the letter. | Whose is it?
++ Corday's, which got her in to see him. || It's a request for help.
+- A love letter. || It's Corday's request.
+- His will. || It's Corday's letter.
+@ 0.65 0.85 2.5 | The box | Look at the wooden box. | What's written there?
++ "To Marat, David." || The dedication is like an epitaph.
+- A price. || It's a dedication.
+- A Bible verse. || It's a dedication.
+@ 0.3 0.6 2 | The bath | Look at the bath. | Why was he in it?
++ He bathed for hours to ease a painful skin disease. || He worked from the tub.
+- He was hiding. || He had a skin disease.
+- It was his birthday. || He had a skin condition.
+@ 0.5 0.5 1 | Full painting | Finally, David and Marat. | Did David know him?
++ Yes, they were political allies; David saw him the day before. || David was a revolutionary.
+- They never met. || They knew each other.
+- David was his enemy. || They were allies.
+
+## manuel-osorio | Manuel Osorio Manrique de Zuñiga | Francisco de Goya | 1746–1828 | 1787–88 | Oil on canvas | The Metropolitan Museum of Art, New York
+desc: A small boy in a red suit holds a magpie on a string, while three cats stare at it and a cage of finches sits nearby.
+@ 0.5 0.5 1 | Full painting | Start with the whole picture. | Who is he?
++ The young son of a Spanish count. || He died at age eight.
+- Goya's son. || He's a count's son.
+- A prince. || He's a count's son.
+@ 0.3 0.72 3 | The bird | Look at the magpie. | What's in its beak?
++ Goya's calling card. || It's a sly signature.
+- A worm. || It's a card.
+- A coin. || It's a card.
+@ 0.12 0.75 2.5 | The cats | Look at the cats. | What are they doing?
++ Staring hungrily at the bird. || A hint of danger.
+- Sleeping. || They're watching.
+- Playing with yarn. || They're watching the bird.
+@ 0.78 0.72 2.5 | The cage | Look at the right. | What's in it?
++ Finches. || More caged birds.
+- A rabbit. || It's finches.
+- Nothing. || There are birds.
+@ 0.5 0.5 1 | Full painting | Finally, its meaning. | What might it suggest?
++ How fragile childhood is. || The boy died young.
+- A wedding. || It's about innocence.
+- A war. || It's about childhood.
+
+## third-of-may | The Third of May 1808 | Francisco de Goya | 1746–1828 | 1814 | Oil on canvas | Museo del Prado, Madrid
+desc: At night, a line of French soldiers aims rifles at Spanish civilians, one in a white shirt flinging his arms wide.
+@ 0.5 0.5 1 | Full painting | Start with the whole picture. | What does it show?
++ French soldiers executing Spanish civilians after an uprising in Madrid. || It happened in 1808.
+- A celebration. || It's an execution.
+- A battle at sea. || It's on land.
+@ 0.45 0.45 2.5 | The man in white | Look at the man in white. | How does he stand?
++ Arms raised like a crucifixion. || He's a martyr.
+- Running away. || He faces the soldiers.
+- Kneeling to pray. || He stands with arms raised.
+@ 0.75 0.5 2 | The soldiers | Look at the soldiers. | What can't you see?
++ Their faces. || They're anonymous.
+- Their rifles. || The rifles are clear.
+- Their feet. || Their faces are hidden.
+@ 0.55 0.75 2.5 | The lantern | Look at the lantern. | What does it do?
++ It lights the victims and leaves the soldiers in shadow. || The light is dramatic.
+- It's on fire. || It's a light.
+- It's a moon. || It's a lantern.
+@ 0.5 0.5 1 | Full painting | Finally, its influence. | Who echoed it?
++ Manet, in The Execution of Maximilian. || And Picasso later.
+- No one. || Many have.
+- It was hidden for 200 years. || It's been on view.

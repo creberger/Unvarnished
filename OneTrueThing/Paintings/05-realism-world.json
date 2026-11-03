@@ -1,0 +1,1670 @@
+[
+ {
+  "id": "burial-at-ornans",
+  "title": "A Burial at Ornans",
+  "artist": "Gustave Courbet",
+  "artistDates": "1819–1877",
+  "date": "1849–50",
+  "medium": "Oil on canvas",
+  "collection": "Musée d'Orsay, Paris",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Why was it a scandal?",
+    "statements": [
+     {
+      "text": "It showed ordinary villagers at a huge scale normally kept for history and heroes.",
+      "why": "It's over six metres wide.",
+      "isTrue": true
+     },
+     {
+      "text": "It showed the king's funeral.",
+      "why": "It's a village burial."
+     },
+     {
+      "text": "It was too small.",
+      "why": "It's huge."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.25,
+     "y": 0.12,
+     "zoom": 3.0
+    },
+    "where": "The crucifix",
+    "prompt": "Look at the top left.",
+    "hint": "What's raised high?",
+    "statements": [
+     {
+      "text": "A crucifix.",
+      "why": "It rises against the sky.",
+      "isTrue": true
+     },
+     {
+      "text": "A flag.",
+      "why": "It's a crucifix."
+     },
+     {
+      "text": "A sword.",
+      "why": "It's a crucifix."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.45,
+     "y": 0.85,
+     "zoom": 2.5
+    },
+    "where": "The grave",
+    "prompt": "Look at the bottom centre.",
+    "hint": "What's there?",
+    "statements": [
+     {
+      "text": "The open grave.",
+      "why": "We stand at its edge.",
+      "isTrue": true
+     },
+     {
+      "text": "A well.",
+      "why": "It's a grave."
+     },
+     {
+      "text": "A fire.",
+      "why": "It's a grave."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.72,
+     "y": 0.82,
+     "zoom": 3.0
+    },
+    "where": "The dog",
+    "prompt": "Look at the dog.",
+    "hint": "Is it paying attention?",
+    "statements": [
+     {
+      "text": "It's looking away, ignoring the ceremony.",
+      "why": "A down-to-earth touch.",
+      "isTrue": true
+     },
+     {
+      "text": "It's howling.",
+      "why": "It's indifferent."
+     },
+     {
+      "text": "It's asleep.",
+      "why": "It's standing."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, where is Ornans?",
+    "hint": "Why this village?",
+    "statements": [
+     {
+      "text": "It was Courbet's hometown; the mourners were real locals.",
+      "why": "They posed for him.",
+      "isTrue": true
+     },
+     {
+      "text": "It's an invented place.",
+      "why": "It's real."
+     },
+     {
+      "text": "It's in Spain.",
+      "why": "It's in France."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A long frieze of villagers in black gathers around an open grave in a bleak landscape, with a crucifix raised above.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "romantic-realist"
+ },
+ {
+  "id": "barge-haulers",
+  "title": "Barge Haulers on the Volga",
+  "artist": "Ilya Repin",
+  "artistDates": "1844–1930",
+  "date": "1870–73",
+  "medium": "Oil on canvas",
+  "collection": "State Russian Museum, St Petersburg",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "How many men?",
+    "statements": [
+     {
+      "text": "Eleven.",
+      "why": "Each has his own character.",
+      "isTrue": true
+     },
+     {
+      "text": "Two.",
+      "why": "There are eleven."
+     },
+     {
+      "text": "Fifty.",
+      "why": "There are eleven."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.4,
+     "y": 0.5,
+     "zoom": 2.5
+    },
+    "where": "The young man",
+    "prompt": "Look at the young man in pink.",
+    "hint": "What's he doing?",
+    "statements": [
+     {
+      "text": "Straining against his strap, looking up.",
+      "why": "He hasn't given up.",
+      "isTrue": true
+     },
+     {
+      "text": "Sleeping.",
+      "why": "He's straining."
+     },
+     {
+      "text": "Laughing.",
+      "why": "He's straining."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.12,
+     "y": 0.5,
+     "zoom": 2.5
+    },
+    "where": "The leader",
+    "prompt": "Look at the front man.",
+    "hint": "Who was he?",
+    "statements": [
+     {
+      "text": "A former priest Repin met on the Volga.",
+      "why": "Repin sketched real haulers.",
+      "isTrue": true
+     },
+     {
+      "text": "A prince.",
+      "why": "He was a former priest."
+     },
+     {
+      "text": "Repin's father.",
+      "why": "He was a hauler."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.8,
+     "y": 0.4,
+     "zoom": 2.5
+    },
+    "where": "The distance",
+    "prompt": "Look to the right.",
+    "hint": "What's on the river?",
+    "statements": [
+     {
+      "text": "A steamship's smoke in the distance.",
+      "why": "Machines would replace them.",
+      "isTrue": true
+     },
+     {
+      "text": "A whale.",
+      "why": "It's a ship."
+     },
+     {
+      "text": "A bridge.",
+      "why": "It's a ship."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, who bought it?",
+    "hint": "A royal?",
+    "statements": [
+     {
+      "text": "Grand Duke Vladimir Alexandrovich, the tsar's son.",
+      "why": "It hung in his palace.",
+      "isTrue": true
+     },
+     {
+      "text": "Lenin.",
+      "why": "It was a grand duke."
+     },
+     {
+      "text": "No one.",
+      "why": "It sold."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "Eleven exhausted men in rags drag a barge along a sandy riverbank by harness straps, a young man straining upward among them.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "romantic-realist"
+ },
+ {
+  "id": "whistlers-mother",
+  "title": "Arrangement in Grey and Black No. 1",
+  "artist": "James McNeill Whistler",
+  "artistDates": "1834–1903",
+  "date": "1871",
+  "medium": "Oil on canvas",
+  "collection": "Musée d'Orsay, Paris",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "What's its real title?",
+    "statements": [
+     {
+      "text": "Arrangement in Grey and Black No. 1.",
+      "why": "Everyone calls it Whistler's Mother.",
+      "isTrue": true
+     },
+     {
+      "text": "Whistler's Mother.",
+      "why": "That's the nickname."
+     },
+     {
+      "text": "Portrait of a Queen.",
+      "why": "It's his mother."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.65,
+     "y": 0.4,
+     "zoom": 2.5
+    },
+    "where": "The sitter",
+    "prompt": "Look at her.",
+    "hint": "Why is she seated?",
+    "statements": [
+     {
+      "text": "Standing tired her, so Whistler changed the pose.",
+      "why": "She was in her sixties.",
+      "isTrue": true
+     },
+     {
+      "text": "She couldn't walk.",
+      "why": "She tired of standing."
+     },
+     {
+      "text": "He wanted her to sleep.",
+      "why": "She was tired."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.4,
+     "y": 0.14,
+     "zoom": 3.0
+    },
+    "where": "The picture on the wall",
+    "prompt": "Look at the framed print.",
+    "hint": "What is it?",
+    "statements": [
+     {
+      "text": "One of Whistler's own etchings.",
+      "why": "It shows the Thames.",
+      "isTrue": true
+     },
+     {
+      "text": "A Rembrandt.",
+      "why": "It's his own."
+     },
+     {
+      "text": "A mirror.",
+      "why": "It's a print."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.1,
+     "y": 0.5,
+     "zoom": 2.5
+    },
+    "where": "The curtain",
+    "prompt": "Look at the curtain.",
+    "hint": "What's on it?",
+    "statements": [
+     {
+      "text": "A pattern of flowers.",
+      "why": "It adds texture.",
+      "isTrue": true
+     },
+     {
+      "text": "A map.",
+      "why": "It's a pattern."
+     },
+     {
+      "text": "Nothing.",
+      "why": "It's patterned."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, its fame.",
+    "hint": "Who bought it?",
+    "statements": [
+     {
+      "text": "The French state, in 1891.",
+      "why": "It was the first American painting in a French national collection.",
+      "isTrue": true
+     },
+     {
+      "text": "A Texan oilman.",
+      "why": "It's in Paris."
+     },
+     {
+      "text": "It was never sold.",
+      "why": "France bought it."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "An elderly woman in black sits in profile on a chair against a grey wall, a framed print and curtain beside her.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "romantic-realist"
+ },
+ {
+  "id": "max-schmitt",
+  "title": "Max Schmitt in a Single Scull",
+  "artist": "Thomas Eakins",
+  "artistDates": "1844–1916",
+  "date": "1871",
+  "medium": "Oil on canvas",
+  "collection": "The Metropolitan Museum of Art, New York",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Where is it?",
+    "statements": [
+     {
+      "text": "The Schuylkill River in Philadelphia.",
+      "why": "Eakins' home city.",
+      "isTrue": true
+     },
+     {
+      "text": "The Thames.",
+      "why": "It's Philadelphia."
+     },
+     {
+      "text": "The Seine.",
+      "why": "It's Philadelphia."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.48,
+     "y": 0.7,
+     "zoom": 2.5
+    },
+    "where": "The rower",
+    "prompt": "Look at the rower.",
+    "hint": "Who is he?",
+    "statements": [
+     {
+      "text": "Max Schmitt, a champion rower and Eakins' friend.",
+      "why": "He'd won a race.",
+      "isTrue": true
+     },
+     {
+      "text": "Eakins.",
+      "why": "That's elsewhere."
+     },
+     {
+      "text": "A fisherman.",
+      "why": "He's a rower."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.62,
+     "y": 0.48,
+     "zoom": 3.0
+    },
+    "where": "Further back",
+    "prompt": "Look further back.",
+    "hint": "Who's in the other boat?",
+    "statements": [
+     {
+      "text": "Eakins himself, rowing.",
+      "why": "He signed his name on the boat.",
+      "isTrue": true
+     },
+     {
+      "text": "Max's brother.",
+      "why": "It's Eakins."
+     },
+     {
+      "text": "A ghost.",
+      "why": "It's Eakins."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.7,
+     "y": 0.35,
+     "zoom": 2.5
+    },
+    "where": "The bridges",
+    "prompt": "Look at the bridges.",
+    "hint": "What are they?",
+    "statements": [
+     {
+      "text": "Real Philadelphia bridges, including a railway bridge.",
+      "why": "The scene is accurate.",
+      "isTrue": true
+     },
+     {
+      "text": "Invented.",
+      "why": "They're real."
+     },
+     {
+      "text": "The Golden Gate.",
+      "why": "It's Philadelphia."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, Eakins' method.",
+    "hint": "How careful was he?",
+    "statements": [
+     {
+      "text": "He worked out the boats' perspective with precise drawings.",
+      "why": "He loved science.",
+      "isTrue": true
+     },
+     {
+      "text": "He painted fast without planning.",
+      "why": "He planned carefully."
+     },
+     {
+      "text": "He traced photos.",
+      "why": "He drew perspective."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A rower rests on his oars on a calm river, bridges in the distance and autumn trees along the bank.",
+  "credit": "Image: The Metropolitan Museum of Art, public domain (CC0)",
+  "category": "romantic-realist"
+ },
+ {
+  "id": "gulf-stream",
+  "title": "The Gulf Stream",
+  "artist": "Winslow Homer",
+  "artistDates": "1836–1910",
+  "date": "1899",
+  "medium": "Oil on canvas",
+  "collection": "The Metropolitan Museum of Art, New York",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "What's the danger?",
+    "statements": [
+     {
+      "text": "Sharks circle the broken boat.",
+      "why": "The sailor seems calm.",
+      "isTrue": true
+     },
+     {
+      "text": "A volcano.",
+      "why": "It's sharks."
+     },
+     {
+      "text": "Pirates.",
+      "why": "It's sharks."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.3,
+     "y": 0.75,
+     "zoom": 2.5
+    },
+    "where": "The water",
+    "prompt": "Look at the water.",
+    "hint": "What's there?",
+    "statements": [
+     {
+      "text": "Sharks, one with jaws open.",
+      "why": "They're close.",
+      "isTrue": true
+     },
+     {
+      "text": "Dolphins.",
+      "why": "They're sharks."
+     },
+     {
+      "text": "Turtles.",
+      "why": "They're sharks."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.85,
+     "y": 0.2,
+     "zoom": 2.5
+    },
+    "where": "The horizon",
+    "prompt": "Look at the top right.",
+    "hint": "What's coming?",
+    "statements": [
+     {
+      "text": "A waterspout.",
+      "why": "More danger.",
+      "isTrue": true
+     },
+     {
+      "text": "A rainbow.",
+      "why": "It's a waterspout."
+     },
+     {
+      "text": "An airplane.",
+      "why": "It's 1899."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.4,
+     "y": 0.47,
+     "zoom": 2.5
+    },
+    "where": "The boat",
+    "prompt": "Look at the boat.",
+    "hint": "What's spilling out?",
+    "statements": [
+     {
+      "text": "Stalks of sugar cane.",
+      "why": "It suggests trade routes.",
+      "isTrue": true
+     },
+     {
+      "text": "Gold.",
+      "why": "It's sugar cane."
+     },
+     {
+      "text": "Fish.",
+      "why": "It's sugar cane."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, the ending.",
+    "hint": "What did Homer say?",
+    "statements": [
+     {
+      "text": "He joked the sailor would be rescued.",
+      "why": "He was tired of questions.",
+      "isTrue": true
+     },
+     {
+      "text": "He said the sailor died.",
+      "why": "He joked he was rescued."
+     },
+     {
+      "text": "He never commented.",
+      "why": "He did."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A lone sailor lies on a dismasted boat in rough water, sharks circling and a waterspout on the horizon.",
+  "credit": "Image: The Metropolitan Museum of Art, public domain (CC0)",
+  "category": "post-impressionism"
+ },
+ {
+  "id": "madame-x",
+  "title": "Madame X",
+  "artist": "John Singer Sargent",
+  "artistDates": "1856–1925",
+  "date": "1883–84",
+  "medium": "Oil on canvas",
+  "collection": "The Metropolitan Museum of Art, New York",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Who is she?",
+    "statements": [
+     {
+      "text": "Virginie Gautreau, a famous Parisian socialite.",
+      "why": "She was known for her pale skin.",
+      "isTrue": true
+     },
+     {
+      "text": "A queen.",
+      "why": "She's a socialite."
+     },
+     {
+      "text": "Sargent's sister.",
+      "why": "She's a socialite."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.6,
+     "y": 0.3,
+     "zoom": 3.0
+    },
+    "where": "The shoulder",
+    "prompt": "Look at her right shoulder strap.",
+    "hint": "Was it always up?",
+    "statements": [
+     {
+      "text": "No, it first slipped off her shoulder; he repainted it after a scandal.",
+      "why": "The Salon was shocked.",
+      "isTrue": true
+     },
+     {
+      "text": "Yes.",
+      "why": "It was repainted."
+     },
+     {
+      "text": "It was a necklace.",
+      "why": "It's a strap."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.15,
+     "zoom": 2.5
+    },
+    "where": "Her head",
+    "prompt": "Look at her head.",
+    "hint": "What's in her hair?",
+    "statements": [
+     {
+      "text": "A tiny crescent tiara, a sign of Diana.",
+      "why": "The goddess of the hunt.",
+      "isTrue": true
+     },
+     {
+      "text": "A feather.",
+      "why": "It's a tiara."
+     },
+     {
+      "text": "A flower.",
+      "why": "It's a tiara."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.3,
+     "y": 0.6,
+     "zoom": 2.5
+    },
+    "where": "The table",
+    "prompt": "Look at the table.",
+    "hint": "What's it like?",
+    "statements": [
+     {
+      "text": "A small table, which she leans on.",
+      "why": "It frames her.",
+      "isTrue": true
+     },
+     {
+      "text": "A piano.",
+      "why": "It's a table."
+     },
+     {
+      "text": "A horse.",
+      "why": "It's a table."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, its fate.",
+    "hint": "Who bought it?",
+    "statements": [
+     {
+      "text": "The Met, in 1916; Sargent called it his best work.",
+      "why": "He kept it for decades.",
+      "isTrue": true
+     },
+     {
+      "text": "The Louvre.",
+      "why": "It's in New York."
+     },
+     {
+      "text": "It was destroyed.",
+      "why": "It survives."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A pale woman in a sleek black gown with jewelled straps stands in profile, one hand on a table.",
+  "credit": "Image: The Metropolitan Museum of Art, public domain (CC0)",
+  "category": "post-impressionism"
+ },
+ {
+  "id": "spoliarium",
+  "title": "Spoliarium",
+  "artist": "Juan Luna",
+  "artistDates": "1857–1899",
+  "date": "1884",
+  "medium": "Oil on canvas",
+  "collection": "National Museum of Fine Arts, Manila",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "What's a spoliarium?",
+    "statements": [
+     {
+      "text": "The room under a Roman arena where dead gladiators were stripped.",
+      "why": "Luna studied in Rome.",
+      "isTrue": true
+     },
+     {
+      "text": "A kitchen.",
+      "why": "It's a morgue."
+     },
+     {
+      "text": "A library.",
+      "why": "It's a morgue."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.45,
+     "y": 0.5,
+     "zoom": 2.5
+    },
+    "where": "The bodies",
+    "prompt": "Look at the centre.",
+    "hint": "What's happening?",
+    "statements": [
+     {
+      "text": "Dead gladiators are dragged away.",
+      "why": "It's brutal.",
+      "isTrue": true
+     },
+     {
+      "text": "A dance.",
+      "why": "It's death."
+     },
+     {
+      "text": "A feast.",
+      "why": "It's death."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.85,
+     "y": 0.55,
+     "zoom": 2.5
+    },
+    "where": "The right",
+    "prompt": "Look at the right.",
+    "hint": "Who's there?",
+    "statements": [
+     {
+      "text": "A woman weeping.",
+      "why": "Grief.",
+      "isTrue": true
+     },
+     {
+      "text": "A jester.",
+      "why": "She's weeping."
+     },
+     {
+      "text": "A dog.",
+      "why": "A woman weeps."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.5
+    },
+    "where": "The scale",
+    "prompt": "Look at the size.",
+    "hint": "How big?",
+    "statements": [
+     {
+      "text": "The largest painting in the Philippines, over 7 metres wide.",
+      "why": "It dominates its museum.",
+      "isTrue": true
+     },
+     {
+      "text": "Tiny.",
+      "why": "It's huge."
+     },
+     {
+      "text": "A miniature.",
+      "why": "It's huge."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, its prize.",
+    "hint": "What did it win?",
+    "statements": [
+     {
+      "text": "A gold medal in Madrid in 1884.",
+      "why": "A Filipino triumph.",
+      "isTrue": true
+     },
+     {
+      "text": "An Oscar.",
+      "why": "It's 1884."
+     },
+     {
+      "text": "Nothing.",
+      "why": "It won gold."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "In a dark Roman arena chamber, dead gladiators are dragged away as an old man searches and a woman weeps.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "post-impressionism"
+ },
+ {
+  "id": "great-wave",
+  "title": "Under the Wave off Kanagawa",
+  "artist": "Katsushika Hokusai",
+  "artistDates": "1760–1849",
+  "date": "c. 1830–32",
+  "medium": "Woodblock print",
+  "collection": "The Metropolitan Museum of Art, New York",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "What series?",
+    "statements": [
+     {
+      "text": "Thirty-six Views of Mount Fuji.",
+      "why": "Fuji appears in every print.",
+      "isTrue": true
+     },
+     {
+      "text": "One Hundred Views of Edo.",
+      "why": "That's Hiroshige."
+     },
+     {
+      "text": "It's a single print.",
+      "why": "It's from a series."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.7,
+     "y": 0.65,
+     "zoom": 3.0
+    },
+    "where": "The mountain",
+    "prompt": "Look at the small peak.",
+    "hint": "What is it?",
+    "statements": [
+     {
+      "text": "Mount Fuji.",
+      "why": "It looks tiny beside the wave.",
+      "isTrue": true
+     },
+     {
+      "text": "A rock.",
+      "why": "It's Fuji."
+     },
+     {
+      "text": "A wave.",
+      "why": "It's Fuji."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.4,
+     "y": 0.75,
+     "zoom": 2.5
+    },
+    "where": "The boats",
+    "prompt": "Look at the boats.",
+    "hint": "How many?",
+    "statements": [
+     {
+      "text": "Three boats of rowers.",
+      "why": "They duck under the wave.",
+      "isTrue": true
+     },
+     {
+      "text": "One.",
+      "why": "Three."
+     },
+     {
+      "text": "None.",
+      "why": "Three."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.3,
+     "y": 0.25,
+     "zoom": 3.0
+    },
+    "where": "The foam",
+    "prompt": "Look at the foam.",
+    "hint": "What shape is it?",
+    "statements": [
+     {
+      "text": "Like claws or fingers.",
+      "why": "Hokusai made the sea look alive.",
+      "isTrue": true
+     },
+     {
+      "text": "Smooth.",
+      "why": "It's claw-like."
+     },
+     {
+      "text": "Square.",
+      "why": "It's claw-like."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, the blue.",
+    "hint": "What's special?",
+    "statements": [
+     {
+      "text": "It uses Prussian blue, a new imported pigment.",
+      "why": "It made the blue vivid.",
+      "isTrue": true
+     },
+     {
+      "text": "It's lapis lazuli.",
+      "why": "It's Prussian blue."
+     },
+     {
+      "text": "It's ink only.",
+      "why": "It's Prussian blue."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A towering wave with claw-like foam curls over three boats of rowers, with tiny Mount Fuji in the distance.",
+  "credit": "Image: The Metropolitan Museum of Art, public domain (CC0)",
+  "category": "asia-antiquity"
+ },
+ {
+  "id": "sudden-shower",
+  "title": "Sudden Shower over Shin-Ōhashi Bridge and Atake",
+  "artist": "Utagawa Hiroshige",
+  "artistDates": "1797–1858",
+  "date": "1857",
+  "medium": "Woodblock print",
+  "collection": "The Metropolitan Museum of Art, New York",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "What series?",
+    "statements": [
+     {
+      "text": "One Hundred Famous Views of Edo.",
+      "why": "Edo is now Tokyo.",
+      "isTrue": true
+     },
+     {
+      "text": "Thirty-six Views of Mount Fuji.",
+      "why": "That's Hokusai."
+     },
+     {
+      "text": "It's a single print.",
+      "why": "It's from a series."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.3,
+     "zoom": 2.5
+    },
+    "where": "The rain",
+    "prompt": "Look at the rain.",
+    "hint": "How is it shown?",
+    "statements": [
+     {
+      "text": "As fine lines at two angles.",
+      "why": "It feels like real rain.",
+      "isTrue": true
+     },
+     {
+      "text": "As dots.",
+      "why": "It's lines."
+     },
+     {
+      "text": "It isn't shown.",
+      "why": "It's lines."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.45,
+     "y": 0.7,
+     "zoom": 2.5
+    },
+    "where": "The bridge",
+    "prompt": "Look at the people.",
+    "hint": "What are they doing?",
+    "statements": [
+     {
+      "text": "Hurrying with umbrellas and hats.",
+      "why": "They're caught out.",
+      "isTrue": true
+     },
+     {
+      "text": "Fishing.",
+      "why": "They're hurrying."
+     },
+     {
+      "text": "Dancing.",
+      "why": "They're hurrying."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.5
+    },
+    "where": "The river",
+    "prompt": "Look at the river.",
+    "hint": "What river?",
+    "statements": [
+     {
+      "text": "The Sumida River.",
+      "why": "It runs through Tokyo.",
+      "isTrue": true
+     },
+     {
+      "text": "The Thames.",
+      "why": "It's Tokyo."
+     },
+     {
+      "text": "The Yangtze.",
+      "why": "It's Tokyo."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, who copied it?",
+    "hint": "A European?",
+    "statements": [
+     {
+      "text": "Van Gogh, in oil paint.",
+      "why": "He loved Japanese prints.",
+      "isTrue": true
+     },
+     {
+      "text": "Leonardo.",
+      "why": "He was long dead."
+     },
+     {
+      "text": "No one.",
+      "why": "Van Gogh did."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "People hurry across a wooden bridge in a sudden downpour, shown as fine dark lines over the river.",
+  "credit": "Image: The Metropolitan Museum of Art, public domain (CC0)",
+  "category": "asia-antiquity"
+ },
+ {
+  "id": "night-shining-white",
+  "title": "Night-Shining White",
+  "artist": "Han Gan",
+  "artistDates": "active c. 742–756",
+  "date": "c. 750",
+  "medium": "Handscroll, ink on paper",
+  "collection": "The Metropolitan Museum of Art, New York",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Whose horse?",
+    "statements": [
+     {
+      "text": "The favourite horse of the Tang emperor Xuanzong.",
+      "why": "Its name means it shone at night.",
+      "isTrue": true
+     },
+     {
+      "text": "A farmer's horse.",
+      "why": "It was imperial."
+     },
+     {
+      "text": "Han Gan's own pony.",
+      "why": "It was the emperor's."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.62,
+     "y": 0.45,
+     "zoom": 2.5
+    },
+    "where": "The horse",
+    "prompt": "Look at the horse.",
+    "hint": "How does it look?",
+    "statements": [
+     {
+      "text": "Restless and straining against its tether.",
+      "why": "Full of energy.",
+      "isTrue": true
+     },
+     {
+      "text": "Asleep.",
+      "why": "It's straining."
+     },
+     {
+      "text": "Eating.",
+      "why": "It's straining."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.6,
+     "y": 0.6,
+     "zoom": 2.5
+    },
+    "where": "The post",
+    "prompt": "Look at the post.",
+    "hint": "What's it for?",
+    "statements": [
+     {
+      "text": "The horse is tied to it.",
+      "why": "It holds the horse.",
+      "isTrue": true
+     },
+     {
+      "text": "It's a tree.",
+      "why": "It's a post."
+     },
+     {
+      "text": "A flagpole.",
+      "why": "It's a hitching post."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.2,
+     "y": 0.5,
+     "zoom": 2.0
+    },
+    "where": "The seals",
+    "prompt": "Look at the red seals.",
+    "hint": "What are they?",
+    "statements": [
+     {
+      "text": "Collectors' seals and comments added over centuries.",
+      "why": "Each owner left a mark.",
+      "isTrue": true
+     },
+     {
+      "text": "Blood.",
+      "why": "They're seals."
+     },
+     {
+      "text": "Price stickers.",
+      "why": "They're seals."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, its age.",
+    "hint": "How old?",
+    "statements": [
+     {
+      "text": "About 1,270 years old.",
+      "why": "It's from the Tang dynasty.",
+      "isTrue": true
+     },
+     {
+      "text": "50 years.",
+      "why": "It's ancient."
+     },
+     {
+      "text": "500 years.",
+      "why": "It's older."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A spirited white horse tethered to a post rears and strains, surrounded by red collectors' seals and inscriptions.",
+  "credit": "Image: The Metropolitan Museum of Art, public domain (CC0)",
+  "category": "asia-antiquity"
+ },
+ {
+  "id": "fayum-portrait",
+  "title": "Portrait of a Young Woman in Red",
+  "artist": "Unknown artist, Roman Egypt",
+  "artistDates": "1st–2nd century",
+  "date": "90–120 AD",
+  "medium": "Encaustic on wood",
+  "collection": "The Metropolitan Museum of Art, New York",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "What was it for?",
+    "statements": [
+     {
+      "text": "It was placed over the face of a mummy.",
+      "why": "It's a Fayum portrait.",
+      "isTrue": true
+     },
+     {
+      "text": "A shop sign.",
+      "why": "It's funerary."
+     },
+     {
+      "text": "A book cover.",
+      "why": "It's funerary."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.12,
+     "zoom": 3.0
+    },
+    "where": "The wreath",
+    "prompt": "Look at her wreath.",
+    "hint": "What is it?",
+    "statements": [
+     {
+      "text": "A gold wreath, gilded.",
+      "why": "It's real gold.",
+      "isTrue": true
+     },
+     {
+      "text": "Flowers.",
+      "why": "It's gold."
+     },
+     {
+      "text": "A crown.",
+      "why": "It's a wreath."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.38,
+     "zoom": 3.0
+    },
+    "where": "Her eyes",
+    "prompt": "Look at her eyes.",
+    "hint": "How are they painted?",
+    "statements": [
+     {
+      "text": "Large and lifelike.",
+      "why": "They seem to watch us.",
+      "isTrue": true
+     },
+     {
+      "text": "Closed.",
+      "why": "They're open."
+     },
+     {
+      "text": "Blank.",
+      "why": "They're detailed."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.75,
+     "zoom": 2.5
+    },
+    "where": "Her clothes",
+    "prompt": "Look at her clothes.",
+    "hint": "What colour?",
+    "statements": [
+     {
+      "text": "Red, as in the title.",
+      "why": "A rich colour.",
+      "isTrue": true
+     },
+     {
+      "text": "Blue.",
+      "why": "It's red."
+     },
+     {
+      "text": "White.",
+      "why": "It's red."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, the paint.",
+    "hint": "What's encaustic?",
+    "statements": [
+     {
+      "text": "Pigment mixed with hot wax.",
+      "why": "It keeps colours bright for centuries.",
+      "isTrue": true
+     },
+     {
+      "text": "Oil.",
+      "why": "It's wax."
+     },
+     {
+      "text": "Watercolour.",
+      "why": "It's wax."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A young woman with dark eyes and a gold wreath, painted on a narrow wooden panel.",
+  "credit": "Image: The Metropolitan Museum of Art, public domain (CC0)",
+  "category": "asia-antiquity"
+ },
+ {
+  "id": "impression-sunrise",
+  "title": "Impression, Sunrise",
+  "artist": "Claude Monet",
+  "artistDates": "1840–1926",
+  "date": "1872",
+  "medium": "Oil on canvas",
+  "collection": "Musée Marmottan Monet, Paris",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "What did it name?",
+    "statements": [
+     {
+      "text": "Impressionism. A critic mocked the title.",
+      "why": "The name stuck.",
+      "isTrue": true
+     },
+     {
+      "text": "Cubism.",
+      "why": "It named Impressionism."
+     },
+     {
+      "text": "Surrealism.",
+      "why": "It named Impressionism."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.62,
+     "y": 0.35,
+     "zoom": 3.0
+    },
+    "where": "The sun",
+    "prompt": "Look at the sun.",
+    "hint": "What's odd about it?",
+    "statements": [
+     {
+      "text": "It's the same brightness as the sky; in black and white it vanishes.",
+      "why": "Only its colour stands out.",
+      "isTrue": true
+     },
+     {
+      "text": "It's painted in gold leaf.",
+      "why": "It's paint."
+     },
+     {
+      "text": "It was added later.",
+      "why": "It's original."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.45,
+     "y": 0.7,
+     "zoom": 2.5
+    },
+    "where": "The boat",
+    "prompt": "Look at the boat.",
+    "hint": "How is it painted?",
+    "statements": [
+     {
+      "text": "With a few quick strokes.",
+      "why": "Monet captured an impression.",
+      "isTrue": true
+     },
+     {
+      "text": "In fine detail.",
+      "why": "It's quick."
+     },
+     {
+      "text": "It's a photograph.",
+      "why": "It's paint."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.3,
+     "zoom": 2.0
+    },
+    "where": "The harbour",
+    "prompt": "Look at the harbour.",
+    "hint": "Which port?",
+    "statements": [
+     {
+      "text": "Le Havre.",
+      "why": "Monet grew up there.",
+      "isTrue": true
+     },
+     {
+      "text": "Venice.",
+      "why": "It's Le Havre."
+     },
+     {
+      "text": "New York.",
+      "why": "It's Le Havre."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, its history.",
+    "hint": "What happened in 1985?",
+    "statements": [
+     {
+      "text": "It was stolen and recovered five years later.",
+      "why": "It's back in Paris.",
+      "isTrue": true
+     },
+     {
+      "text": "It was sold to Japan.",
+      "why": "It was stolen."
+     },
+     {
+      "text": "It burned.",
+      "why": "It survives."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "An orange sun rises over a hazy blue harbour, with small dark boats in the foreground.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "impressionism"
+ }
+]

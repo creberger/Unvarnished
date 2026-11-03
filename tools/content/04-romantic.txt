@@ -1,0 +1,275 @@
+## wanderer | Wanderer above the Sea of Fog | Caspar David Friedrich | 1774–1840 | c. 1818 | Oil on canvas | Hamburger Kunsthalle, Hamburg
+desc: A man in a dark coat stands with his back to us on a rocky peak, looking out over a sea of fog and distant mountains.
+@ 0.5 0.5 1 | Full painting | Start with the whole picture. | Why can't we see his face?
++ He's a "Rückenfigur," a figure seen from behind, so we look through his eyes. || Friedrich used this device often.
+- He's hiding from the police. || It's an artistic device.
+- The face was cut out. || It's painted from behind.
+@ 0.5 0.4 2.5 | The man | Look at the man. | What does he hold?
++ A walking stick. || He's a hiker.
+- A sword. || It's a stick.
+- An umbrella. || It's a walking stick.
+@ 0.8 0.3 2.5 | The mountains | Look at the distant peaks. | Are they one view?
++ No, he combined sketches of different places into one scene. || The rocks come from the Elbe Sandstone Mountains.
+- It's an exact view of the Alps. || It's a composite.
+- They're invented with no reference. || He used sketches.
+@ 0.3 0.6 2.5 | The fog | Look at the fog. | How is it painted?
++ With thin, smooth layers that blur the rocks into mist. || The surface feels endless.
+- With real cotton glued on. || It's paint.
+- With a spray gun. || It's brushwork.
+@ 0.5 0.5 1 | Full painting | Finally, where is it? | Which museum?
++ The Hamburger Kunsthalle, which bought it in 1970. || It's become an icon of Romanticism.
+- The Louvre. || It's in Hamburg.
+- It was destroyed in the war. || It survives.
+
+## hay-wain | The Hay Wain | John Constable | 1776–1837 | 1821 | Oil on canvas | National Gallery, London
+desc: A horse-drawn hay cart stands in a shallow river beside a cottage, under a sky of summer clouds.
+@ 0.5 0.5 1 | Full painting | Start with the whole picture. | Where is it?
++ On the River Stour in Suffolk, near Flatford Mill. || Constable grew up there.
+- In the Lake District. || It's Suffolk.
+- In France. || It's England.
+@ 0.6 0.7 2.5 | The wagon | Look at the wagon. | Why is it in the river?
++ Driving through water was a way to soak and swell the wooden wheels. || It also let the horses drink.
+- It's stuck in a flood. || It's a normal crossing.
+- It's sinking. || It's crossing.
+@ 0.12 0.55 2.5 | The cottage | Look at the cottage on the left. | Whose was it?
++ A farmer named Willy Lott, who lived there for decades. || It still stands.
+- Constable's. || It was Willy Lott's.
+- The king's. || It was a farmer's.
+@ 0.6 0.3 2 | The sky | Look at the clouds. | How did Constable study them?
++ He made many oil sketches of skies, noting the weather. || He called it "skying."
+- He traced photographs. || He painted outdoors.
+- He copied old masters. || He studied real skies.
+@ 0.5 0.5 1 | Full painting | Finally, its fame. | Where did it win a medal?
++ At the Paris Salon of 1824. || French painters admired it.
+- At the Olympics. || It was the Paris Salon.
+- It never won anything. || It won a gold medal.
+
+## fighting-temeraire | The Fighting Temeraire | J. M. W. Turner | 1775–1851 | 1839 | Oil on canvas | National Gallery, London
+desc: A pale old warship is towed up the Thames by a small dark steam tug against a blazing sunset.
+@ 0.5 0.5 1 | Full painting | Start with the whole picture. | What's happening?
++ An old warship is towed away to be broken up. || The Temeraire had fought at Trafalgar.
+- A ship is being launched. || It's going to the breakers.
+- It's a naval battle. || It's a peaceful tow.
+@ 0.25 0.5 2.5 | The ship | Look at the ship. | What battle did it fight in?
++ Trafalgar, in 1805. || It helped Nelson's victory.
+- Waterloo. || That was on land.
+- The Armada. || That was 1588.
+@ 0.38 0.65 3 | The tug | Look at the small boat. | What powers it?
++ Steam. || The new age replaces the old.
+- Sails. || It's a steam tug.
+- Oars. || It's steam-powered.
+@ 0.8 0.5 2 | The sun | Look at the sunset. | Is it accurate?
++ Turner took liberties; the real tow happened in different light. || He wanted the drama.
+- It's an exact record. || He changed things.
+- It's a sunrise. || It's a sunset.
+@ 0.5 0.5 1 | Full painting | Finally, its fame. | Where can you see it every day?
++ On the Bank of England's £20 note. || It appeared in 2020.
+- On a stamp only. || It's on the £20 note.
+- Nowhere. || It's on banknotes.
+
+## burning-of-parliament | The Burning of the Houses of Lords and Commons | J. M. W. Turner | 1775–1851 | 1835 | Oil on canvas | Cleveland Museum of Art
+desc: Flames and smoke pour into the night sky over the Thames as crowds watch from the bank.
+@ 0.5 0.5 1 | Full painting | Start with the whole picture. | Was Turner there?
++ Yes, he watched the fire on 16 October 1834 and made sketches. || He painted two oils of it.
+- No, he read about it. || He saw it.
+- He was in Italy. || He was in London.
+@ 0.45 0.35 2 | The flames | Look at the flames. | How many versions did he paint?
++ Two oils; this one is in Cleveland, the other in Philadelphia. || Both are in the US.
+- Ten. || There are two oils.
+- One. || There are two.
+@ 0.3 0.8 2.5 | The crowd | Look at the bank. | Who's there?
++ Crowds of onlookers. || The fire drew thousands.
+- Firefighters only. || It's a crowd.
+- Nobody. || There's a crowd.
+@ 0.6 0.55 2.5 | The bridge | Look at the bridge. | What's it lit by?
++ The glow of the fire. || The reflections are vivid.
+- Electric lights. || There was no electricity.
+- The moon. || It's firelight.
+@ 0.5 0.5 1 | Full painting | Finally, the aftermath. | What replaced the old building?
++ The Palace of Westminster we know today, with Big Ben. || It was rebuilt in Gothic style.
+- Nothing. || It was rebuilt.
+- A glass palace. || It's Gothic stone.
+
+## raft-of-the-medusa | The Raft of the Medusa | Théodore Géricault | 1791–1824 | 1818–19 | Oil on canvas | Musée du Louvre, Paris
+desc: Desperate survivors on a makeshift raft wave toward a tiny ship on the horizon, the dead and dying around them.
+@ 0.5 0.5 1 | Full painting | Start with the whole picture. | What really happened?
++ In 1816 a French navy ship wrecked; of about 150 on the raft, 15 survived. || The scandal shook France.
+- It's an invented story. || It's a real disaster.
+- Everyone was rescued safely. || Most died.
+@ 0.85 0.4 2.5 | The horizon | Look at the top right. | What are they waving at?
++ A tiny ship on the horizon, the Argus. || It did eventually rescue them.
+- A whale. || It's a ship.
+- An island. || It's a ship.
+@ 0.3 0.75 2.5 | The bodies | Look at the figures at the front. | How did Géricault prepare?
++ He interviewed survivors, built a model raft and studied corpses. || He was obsessive.
+- He used dolls. || He studied real bodies.
+- He painted from memory. || He did research.
+@ 0.5 0.5 1.5 | The colours | Look at the dark shadows. | Why so dark?
++ He used bitumen, which has darkened over time. || It can't be reversed.
+- It was painted at night. || It's bitumen.
+- Soot from a fire. || It's the paint.
+@ 0.5 0.5 1 | Full painting | Finally, its size. | How big is it?
++ About 5 by 7 metres. || The figures are larger than life.
+- About A4 size. || It's huge.
+- About a metre wide. || It's huge.
+
+## liberty-leading-the-people | Liberty Leading the People | Eugène Delacroix | 1798–1863 | 1830 | Oil on canvas | Musée du Louvre, Paris
+desc: A bare-breasted woman in a red cap raises the French flag and a rifle, leading armed citizens over a barricade of bodies.
+@ 0.5 0.5 1 | Full painting | Start with the whole picture. | Which revolution?
++ The July Revolution of 1830. || Not the famous one of 1789.
+- The 1789 Revolution. || It's 1830.
+- The Russian Revolution. || It's French.
+@ 0.48 0.25 2.5 | Liberty | Look at her cap. | What is it?
++ A Phrygian cap, a symbol of freedom. || Freed slaves wore it in ancient Rome.
+- A crown. || It's a red cap.
+- A helmet. || It's a cap.
+@ 0.3 0.45 2.5 | The man in the top hat | Look at the man with a rifle. | Who is he?
++ Nobody knows for sure; some thought it was Delacroix himself. || It's debated.
+- Napoleon. || It's not Napoleon.
+- The king. || He's a citizen.
+@ 0.63 0.45 2.5 | The boy | Look at the boy with pistols. | What did he inspire?
++ He's often said to have inspired Gavroche in Les Misérables. || Hugo's novel came later.
+- A statue. || He's linked to Gavroche.
+- Nothing. || He's linked to Gavroche.
+@ 0.9 0.4 2.5 | The background | Look at the towers. | What are they?
++ The towers of Notre-Dame. || The scene is set in Paris.
+- The Eiffel Tower. || It didn't exist yet.
+- Big Ben. || It's Paris.
+
+## princesse-de-broglie | Princesse de Broglie | Jean-Auguste-Dominique Ingres | 1780–1867 | 1851–53 | Oil on canvas | The Metropolitan Museum of Art, New York
+desc: A young aristocrat in a shimmering blue satin dress leans on a gold upholstered chair, her hands crossed.
+@ 0.5 0.5 1 | Full painting | Start with the whole picture. | Who is she?
++ A French aristocrat, Pauline de Broglie. || Ingres painted the elite of Paris.
+- A queen. || She's a princess by marriage.
+- An actress. || She's an aristocrat.
+@ 0.35 0.65 2.2 | The dress | Look at the dress. | What's it made of?
++ Blue satin, painted so it seems to shimmer. || Ingres loved fabric.
+- Velvet. || It's satin.
+- Wool. || It's satin.
+@ 0.75 0.6 2.5 | The chair | Look at the chair. | What's it covered in?
++ Gold damask. || It complements the blue.
+- Leather. || It's gold fabric.
+- Fur. || It's damask.
+@ 0.5 0.3 2.5 | Her face | Look at her face. | What happened to her?
++ She died young, aged 35. || Her husband kept the portrait.
+- She became empress. || She died young.
+- She lived to 100. || She died young.
+@ 0.5 0.5 1 | Full painting | Finally, how it reached the Met. | Which collection?
++ The Robert Lehman Collection, given in 1975. || Lehman was a banker.
+- The Rockefellers. || It was Lehman.
+- It was found in a barn. || It came with the Lehman gift.
+
+## oxbow | The Oxbow | Thomas Cole | 1801–1848 | 1836 | Oil on canvas | The Metropolitan Museum of Art, New York
+desc: A storm clears over wild forest on the left while sunlit farmland curves around a looping river on the right.
+@ 0.5 0.5 1 | Full painting | Start with the whole picture. | What's the contrast?
++ Wild, stormy forest on the left, tamed farmland on the right. || It's about America's changing land.
+- Summer and winter. || It's wild and tame.
+- Day and night. || It's wild and cultivated.
+@ 0.53 0.84 3 | The bottom | Look near the bottom middle. | Who's there?
++ Cole painted himself at his easel. || He's tiny.
+- A bear. || It's the artist.
+- A hunter. || It's the artist.
+@ 0.65 0.35 2.5 | The far hill | Look at the distant hillside. | What's hidden there?
++ Cleared trees that spell Hebrew letters. || They can be read as "Noah."
+- A giant face. || It's letters.
+- Nothing. || There are letters.
+@ 0.25 0.45 2.5 | The storm | Look at the storm. | Which way is it moving?
++ Away, as the sky clears. || The weather is turning.
+- Toward the farms. || It's passing.
+- Nowhere. || It's moving away.
+@ 0.5 0.5 1 | Full painting | Finally, Cole's legacy. | What movement did he found?
++ The Hudson River School of landscape painters. || He's seen as its founder.
+- Impressionism. || That came later, in France.
+- Cubism. || That was much later.
+
+## heart-of-the-andes | Heart of the Andes | Frederic Edwin Church | 1826–1900 | 1859 | Oil on canvas | The Metropolitan Museum of Art, New York
+desc: A vast South American landscape: a waterfall and jungle in front, rolling hills behind, and a snowy peak far in the distance.
+@ 0.5 0.5 1 | Full painting | Start with the whole picture. | How was it first shown?
++ Alone in a darkened room, lit by gas, with visitors paying to see it. || Some used opera glasses.
+- In a train station. || It was a special show.
+- It was hidden. || It was a sensation.
+@ 0.12 0.15 2.5 | The snowy peak | Look at the snowy peak. | Which mountain?
++ Chimborazo, in Ecuador. || Church traveled there.
+- Everest. || It's in the Andes.
+- Kilimanjaro. || It's in South America.
+@ 0.6 0.85 2.5 | The waterfall | Look at the waterfall. | Is it all real?
++ It's a composite of sketches from his travels. || He combined many places.
+- It's a single exact view. || It's a composite.
+- It's invented with no travel. || He traveled.
+@ 0.1 0.85 3 | The tree | Look at the lower left tree. | What's carved there?
++ Church's signature and the date. || It's like a carving.
+- A heart. || It's a signature.
+- A map. || It's a signature.
+@ 0.5 0.5 1 | Full painting | Finally, its price. | What did it sell for?
++ $10,000, a record for a living American artist. || It made him famous.
+- $10. || It was a record.
+- It was never sold. || It sold.
+
+## ninth-wave | The Ninth Wave | Ivan Aivazovsky | 1817–1900 | 1850 | Oil on canvas | State Russian Museum, St Petersburg
+desc: Survivors cling to a broken mast on a stormy sea as the sun breaks through orange clouds.
+@ 0.5 0.5 1 | Full painting | Start with the whole picture. | What's the title about?
++ Sailors believed every ninth wave was the biggest. || It's the most dangerous.
+- It's the ninth painting he made. || It's a sailors' legend.
+- A ship named Nine. || It's a legend.
+@ 0.3 0.75 2.5 | The survivors | Look at the survivors. | What are they holding?
++ A broken mast. || They cling on.
+- A lifeboat. || It's a mast.
+- A whale. || It's a mast.
+@ 0.5 0.4 2 | The sun | Look at the sun. | What does it suggest?
++ Hope. || Light breaks through.
+- Night. || It's the sun.
+- Fire. || It's the sun.
+@ 0.7 0.7 2.5 | The waves | Look at the waves. | How did he paint them?
++ From memory, in the studio. || He studied the sea constantly.
+- Outdoors in a storm. || He painted from memory.
+- From photographs. || He painted from memory.
+@ 0.5 0.5 1 | Full painting | Finally, how prolific? | How many works?
++ About 6,000 in his lifetime. || He was incredibly fast.
+- Five. || He made thousands.
+- Fifty. || He made thousands.
+
+## gleaners | The Gleaners | Jean-François Millet | 1814–1875 | 1857 | Oil on canvas | Musée d'Orsay, Paris
+desc: Three peasant women stoop to pick up leftover grain in a stubble field, with a busy harvest behind them.
+@ 0.5 0.5 1 | Full painting | Start with the whole picture. | What is gleaning?
++ Picking up grain left after the harvest, allowed for the very poor. || It was back-breaking work.
+- Planting seeds. || It's collecting leftovers.
+- Watering crops. || It's collecting.
+@ 0.85 0.35 2.5 | The background | Look at the far right. | What's there?
++ A huge harvest and an overseer on horseback. || A contrast of wealth and poverty.
+- A church. || It's the harvest.
+- A city. || It's a farm.
+@ 0.45 0.6 2.5 | The women | Look at the women. | How are they shown?
++ Bent double, faces hidden. || They're anonymous.
+- Smiling at us. || They're bent over.
+- Dancing. || They're working.
+@ 0.7 0.6 2.5 | The third woman | Look at the standing woman. | What's she doing?
++ Straightening up, about to bend again. || The work never stops.
+- Leaving. || She's working.
+- Sleeping. || She's working.
+@ 0.5 0.5 1 | Full painting | Finally, the reaction. | How did critics react?
++ Some called it dangerous, a call for revolution. || The poor were rarely shown so heroically.
+- They loved it unanimously. || It was controversial.
+- No one noticed it. || It was debated.
+
+## horse-fair | The Horse Fair | Rosa Bonheur | 1822–1899 | 1852–55 | Oil on canvas | The Metropolitan Museum of Art, New York
+desc: A surging mass of horses and grooms at a Paris horse market, the white horses rearing in the centre.
+@ 0.5 0.5 1 | Full painting | Start with the whole picture. | How did she study the horses?
++ She dressed in men's clothes to sketch at the Paris horse market. || She had a police permit to wear trousers.
+- She used photographs. || She sketched in person.
+- She never saw a horse. || She studied them closely.
+@ 0.6 0.45 2.5 | The rearing horses | Look at the white horses. | What are they doing?
++ Rearing up. || The energy is wild.
+- Sleeping. || They're rearing.
+- Grazing. || They're rearing.
+@ 0.45 0.4 2.5 | The rider | Look at the rider in the centre. | Who might it be?
++ Bonheur is thought to have included herself among the riders. || It's a sly self-portrait.
+- Napoleon. || It's thought to be her.
+- Her brother. || It's thought to be her.
+@ 0.5 0.85 2 | The ground | Look at the dust. | How big is the canvas?
++ About 2.4 by 5 metres. || It's huge.
+- About A4 size. || It's huge.
+- About 50 cm. || It's huge.
+@ 0.5 0.5 1 | Full painting | Finally, how it reached the Met. | Who gave it?
++ Cornelius Vanderbilt gave it in 1887. || It's one of the Met's most popular works.
+- Rosa Bonheur herself. || It was Vanderbilt.
+- It was found in a stable. || It was a gift.

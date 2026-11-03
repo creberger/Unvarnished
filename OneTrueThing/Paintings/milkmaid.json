@@ -1,0 +1,142 @@
+{
+ "id": "milkmaid",
+ "title": "The Milkmaid",
+ "artist": "Johannes Vermeer",
+ "artistDates": "1632–1675",
+ "date": "c. 1658",
+ "medium": "Oil on canvas",
+ "collection": "Rijksmuseum, Amsterdam",
+ "objectNumber": "SK-A-2344",
+ "image": "milkmaid.jpg",
+ "imageAspect": 0.8919,
+ "imageDescription": "A kitchen maid in a yellow bodice and blue apron pours milk from a jug into a bowl on a table with bread, lit from a window on the left.",
+ "credit": "Image: Rijksmuseum, public domain (CC0)",
+ "rounds": [
+  {
+   "focus": {
+    "x": 0.5,
+    "y": 0.5,
+    "zoom": 1
+   },
+   "where": "Full painting",
+   "prompt": "Start with the whole picture.",
+   "hint": "Think about the object itself.",
+   "statements": [
+    {
+     "text": "It's small: 45.5 × 41 cm. Most visitors expect it to be far bigger.",
+     "isTrue": true,
+     "why": "Vermeer painted it around 1658, when he was in his mid-twenties. Almost all his paintings are this intimate."
+    },
+    {
+     "text": "It's nearly life-size. The woman is painted at her real height.",
+     "why": "The whole canvas is under half a metre tall."
+    },
+    {
+     "text": "Vermeer painted it straight onto a kitchen wall in Delft, and it was cut out later.",
+     "why": "It's oil on canvas, painted in his studio."
+    }
+   ]
+  },
+  {
+   "focus": {
+    "x": 0.63,
+    "y": 0.67,
+    "zoom": 2.4
+   },
+   "where": "The apron",
+   "prompt": "Look at the blue of her apron.",
+   "hint": "What made a blue like this in 1658?",
+   "statements": [
+    {
+     "text": "It's natural ultramarine, ground from lapis lazuli mined in Afghanistan. It was one of the most expensive pigments of its time.",
+     "isTrue": true,
+     "why": "Vermeer used it far more freely than most painters could afford to."
+    },
+    {
+     "text": "It's woad, a cheap plant dye grown in the fields around Delft.",
+     "why": "Woad was used to dye cloth. The paint here is ultramarine."
+    },
+    {
+     "text": "The apron was green until a restorer painted it blue in 1908.",
+     "why": "Scientific analysis shows the ultramarine is Vermeer's own paint."
+    }
+   ]
+  },
+  {
+   "focus": {
+    "x": 0.27,
+    "y": 0.68,
+    "zoom": 2.3
+   },
+   "where": "The bread",
+   "prompt": "Now the bread and basket on the table.",
+   "hint": "Why does the crust seem to sparkle?",
+   "statements": [
+    {
+     "text": "Vermeer dabbed on tiny dots of light paint, a technique often called pointillé.",
+     "isTrue": true,
+     "why": "Up close the highlights break into separate dots. From a step back they read as light catching a crust."
+    },
+    {
+     "text": "He pressed real breadcrumbs into the wet paint to give it texture.",
+     "why": "The texture is all paint."
+    },
+    {
+     "text": "The bread was added a century later by another artist to fill an empty table.",
+     "why": "The still life is Vermeer's, and part of the original design."
+    }
+   ]
+  },
+  {
+   "focus": {
+    "x": 0.84,
+    "y": 0.88,
+    "zoom": 3
+   },
+   "where": "The floor",
+   "prompt": "Down at the floor, by the wall.",
+   "hint": "What was here before the little box?",
+   "statements": [
+    {
+     "text": "Scans show Vermeer first painted a large wicker basket here, then replaced it with this foot warmer.",
+     "isTrue": true,
+     "why": "The box held a pot of hot coals to warm someone's feet. The tiles along the wall include a Cupid, which some read as a hint about love."
+    },
+    {
+     "text": "The box is a mousetrap, a joke about how poor the household was.",
+     "why": "It's a foot warmer, a common item in Dutch homes."
+    },
+    {
+     "text": "The box lid hides Vermeer's initials, a secret signature.",
+     "why": "There's no signature on the foot warmer."
+    }
+   ]
+  },
+  {
+   "focus": {
+    "x": 0.5,
+    "y": 0.5,
+    "zoom": 1
+   },
+   "where": "Full painting",
+   "prompt": "Finally, the painting's own story.",
+   "hint": "Where has it been since Vermeer?",
+   "statements": [
+    {
+     "text": "The Rijksmuseum bought it in 1908, and it has belonged to the museum in Amsterdam ever since.",
+     "isTrue": true,
+     "why": "It has travelled only for a few rare loans abroad."
+    },
+    {
+     "text": "It was stolen in 1971 and found two weeks later in a Brussels garage.",
+     "why": "You may be thinking of another Vermeer, The Love Letter, stolen while on loan in Brussels in 1971."
+    },
+    {
+     "text": "Napoleon's troops took it to the Louvre, and it only came home in 1945.",
+     "why": "It stayed in Dutch private collections until 1908."
+    }
+   ]
+  }
+ ],
+ "category": "golden-age"
+}

@@ -1,0 +1,2226 @@
+[
+ {
+  "id": "schiele-physalis",
+  "title": "Self-Portrait with Physalis",
+  "artist": "Egon Schiele",
+  "artistDates": "1890–1918",
+  "date": "1912",
+  "medium": "Oil and gouache on wood",
+  "collection": "Leopold Museum, Vienna",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Is it a pair?",
+    "statements": [
+     {
+      "text": "Yes, it's paired with his Portrait of Wally, his partner.",
+      "why": "They hang side by side.",
+      "isTrue": true
+     },
+     {
+      "text": "It's a lone work.",
+      "why": "It has a pair."
+     },
+     {
+      "text": "It's paired with a Klimt.",
+      "why": "It's paired with Wally."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.1,
+     "y": 0.55,
+     "zoom": 2.5
+    },
+    "where": "The plant",
+    "prompt": "Look at the plant.",
+    "hint": "What is it?",
+    "statements": [
+     {
+      "text": "Physalis, or Chinese lantern, with its red husks.",
+      "why": "A sign of autumn.",
+      "isTrue": true
+     },
+     {
+      "text": "Roses.",
+      "why": "It's physalis."
+     },
+     {
+      "text": "Chillies.",
+      "why": "It's physalis."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.6,
+     "y": 0.3,
+     "zoom": 2.5
+    },
+    "where": "His face",
+    "prompt": "Look at his face.",
+    "hint": "How does it look?",
+    "statements": [
+     {
+      "text": "Twisted and intense, painted with sharp lines.",
+      "why": "Schiele exaggerated.",
+      "isTrue": true
+     },
+     {
+      "text": "Smooth and calm.",
+      "why": "It's intense."
+     },
+     {
+      "text": "Smiling broadly.",
+      "why": "It's intense."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.9,
+     "y": 0.88,
+     "zoom": 3.0
+    },
+    "where": "Bottom right",
+    "prompt": "Look at the bottom right.",
+    "hint": "What's there?",
+    "statements": [
+     {
+      "text": "His signature and the date, in a box.",
+      "why": "A graphic touch.",
+      "isTrue": true
+     },
+     {
+      "text": "A stamp.",
+      "why": "It's his signature."
+     },
+     {
+      "text": "A spider.",
+      "why": "It's his signature."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, his life.",
+    "hint": "How did it end?",
+    "statements": [
+     {
+      "text": "He died of flu in 1918, aged 28.",
+      "why": "Three days after his wife.",
+      "isTrue": true
+     },
+     {
+      "text": "He lived to 90.",
+      "why": "He died at 28."
+     },
+     {
+      "text": "He was murdered.",
+      "why": "He died of flu."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "Schiele, with wild hair and a tilted head, looks sideways out of the picture beside a plant with red lantern-shaped fruit.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "modern"
+ },
+ {
+  "id": "af-klint-adulthood",
+  "title": "The Ten Largest, No. 7, Adulthood",
+  "artist": "Hilma af Klint",
+  "artistDates": "1862–1944",
+  "date": "1907",
+  "medium": "Tempera on paper mounted on canvas",
+  "collection": "Hilma af Klint Foundation, Stockholm",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "How big is it?",
+    "statements": [
+     {
+      "text": "Over three metres tall.",
+      "why": "The Ten Largest live up to the name.",
+      "isTrue": true
+     },
+     {
+      "text": "Postcard size.",
+      "why": "It's huge."
+     },
+     {
+      "text": "One metre.",
+      "why": "It's over three."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.3,
+     "zoom": 2.5
+    },
+    "where": "The shapes",
+    "prompt": "Look at the yellow shapes.",
+    "hint": "When was it painted?",
+    "statements": [
+     {
+      "text": "In 1907, before most famous abstract painting.",
+      "why": "She was a pioneer.",
+      "isTrue": true
+     },
+     {
+      "text": "In 1970.",
+      "why": "In 1907."
+     },
+     {
+      "text": "In 1800.",
+      "why": "In 1907."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.85,
+     "y": 0.5,
+     "zoom": 2.5
+    },
+    "where": "The letters",
+    "prompt": "Look at the letters and spirals.",
+    "hint": "What guided her?",
+    "statements": [
+     {
+      "text": "She believed spirit guides directed her work.",
+      "why": "She held séances.",
+      "isTrue": true
+     },
+     {
+      "text": "A computer.",
+      "why": "It's 1907."
+     },
+     {
+      "text": "A textbook.",
+      "why": "She believed in spirits."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.2,
+     "y": 0.3,
+     "zoom": 2.5
+    },
+    "where": "The left",
+    "prompt": "Look at the circles.",
+    "hint": "What's the series about?",
+    "statements": [
+     {
+      "text": "The stages of human life.",
+      "why": "No. 7 is Adulthood.",
+      "isTrue": true
+     },
+     {
+      "text": "The planets.",
+      "why": "Life stages."
+     },
+     {
+      "text": "Flowers.",
+      "why": "Life stages."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, her wish.",
+    "hint": "How long should they stay hidden?",
+    "statements": [
+     {
+      "text": "At least 20 years after her death.",
+      "why": "The world wasn't ready.",
+      "isTrue": true
+     },
+     {
+      "text": "Forever.",
+      "why": "20 years."
+     },
+     {
+      "text": "None.",
+      "why": "20 years."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "Large yellow and orange petal shapes, spirals, circles and letters float on a lilac ground.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "modern"
+ },
+ {
+  "id": "woman-with-a-hat",
+  "title": "Woman with a Hat",
+  "artist": "Henri Matisse",
+  "artistDates": "1869–1954",
+  "date": "1905",
+  "medium": "Oil on canvas",
+  "collection": "San Francisco Museum of Modern Art",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "What did it start?",
+    "statements": [
+     {
+      "text": "Fauvism, after a critic called the painters \"wild beasts.\"",
+      "why": "It was shown in 1905.",
+      "isTrue": true
+     },
+     {
+      "text": "Cubism.",
+      "why": "It's Fauvism."
+     },
+     {
+      "text": "Pop Art.",
+      "why": "It's Fauvism."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.55,
+     "y": 0.45,
+     "zoom": 2.5
+    },
+    "where": "Her face",
+    "prompt": "Look at her face.",
+    "hint": "What colours?",
+    "statements": [
+     {
+      "text": "Green, blue and orange.",
+      "why": "Colour freed from reality.",
+      "isTrue": true
+     },
+     {
+      "text": "Only pink.",
+      "why": "It's wild colours."
+     },
+     {
+      "text": "Grey.",
+      "why": "It's colourful."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.15,
+     "zoom": 2.5
+    },
+    "where": "The hat",
+    "prompt": "Look at the hat.",
+    "hint": "What's on it?",
+    "statements": [
+     {
+      "text": "Bold, loose patches of colour.",
+      "why": "It's almost abstract.",
+      "isTrue": true
+     },
+     {
+      "text": "A bird.",
+      "why": "It's colour."
+     },
+     {
+      "text": "A clock.",
+      "why": "It's colour."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.75,
+     "zoom": 2.5
+    },
+    "where": "Her dress",
+    "prompt": "Look at her dress.",
+    "hint": "Who is she?",
+    "statements": [
+     {
+      "text": "Matisse's wife, Amélie.",
+      "why": "She posed often.",
+      "isTrue": true
+     },
+     {
+      "text": "A stranger.",
+      "why": "It's his wife."
+     },
+     {
+      "text": "A queen.",
+      "why": "It's his wife."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, who bought it?",
+    "hint": "First owners?",
+    "statements": [
+     {
+      "text": "Gertrude and Leo Stein.",
+      "why": "They were famous collectors.",
+      "isTrue": true
+     },
+     {
+      "text": "The Louvre.",
+      "why": "The Steins."
+     },
+     {
+      "text": "No one.",
+      "why": "The Steins."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A woman in a huge, wildly coloured hat, her face painted in streaks of green, blue and orange.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "modern"
+ },
+ {
+  "id": "harmony-in-red",
+  "title": "The Dessert: Harmony in Red",
+  "artist": "Henri Matisse",
+  "artistDates": "1869–1954",
+  "date": "1908",
+  "medium": "Oil on canvas",
+  "collection": "Hermitage Museum, St Petersburg",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Was it always red?",
+    "statements": [
+     {
+      "text": "No, Matisse first painted it blue, then repainted it red.",
+      "why": "It was once Harmony in Blue.",
+      "isTrue": true
+     },
+     {
+      "text": "Yes.",
+      "why": "It was blue."
+     },
+     {
+      "text": "It was green.",
+      "why": "It was blue."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.3,
+     "zoom": 2.5
+    },
+    "where": "The pattern",
+    "prompt": "Look at the wall and cloth.",
+    "hint": "What's odd?",
+    "statements": [
+     {
+      "text": "The same pattern runs across both, flattening the room.",
+      "why": "Wall and table merge.",
+      "isTrue": true
+     },
+     {
+      "text": "They're different.",
+      "why": "They're the same."
+     },
+     {
+      "text": "There's no pattern.",
+      "why": "There is."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.15,
+     "y": 0.25,
+     "zoom": 2.5
+    },
+    "where": "The window",
+    "prompt": "Look at the window.",
+    "hint": "What's there?",
+    "statements": [
+     {
+      "text": "A garden with trees in blossom.",
+      "why": "A green contrast.",
+      "isTrue": true
+     },
+     {
+      "text": "A city.",
+      "why": "It's a garden."
+     },
+     {
+      "text": "The sea.",
+      "why": "It's a garden."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.85,
+     "y": 0.4,
+     "zoom": 2.5
+    },
+    "where": "The woman",
+    "prompt": "Look at the woman.",
+    "hint": "What's she doing?",
+    "statements": [
+     {
+      "text": "Arranging fruit.",
+      "why": "It's a domestic scene.",
+      "isTrue": true
+     },
+     {
+      "text": "Reading.",
+      "why": "She's arranging fruit."
+     },
+     {
+      "text": "Sleeping.",
+      "why": "She's arranging."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, who commissioned it?",
+    "hint": "A Russian?",
+    "statements": [
+     {
+      "text": "Sergei Shchukin, a Moscow collector.",
+      "why": "He bought many Matisses.",
+      "isTrue": true
+     },
+     {
+      "text": "The tsar.",
+      "why": "It was Shchukin."
+     },
+     {
+      "text": "Lenin.",
+      "why": "It was Shchukin."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A woman arranges fruit on a table in a room where the red tablecloth and red wall share the same blue pattern; a window shows a garden.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "modern"
+ },
+ {
+  "id": "street-dresden",
+  "title": "Street, Dresden",
+  "artist": "Ernst Ludwig Kirchner",
+  "artistDates": "1880–1938",
+  "date": "1908",
+  "medium": "Oil on canvas",
+  "collection": "Museum of Modern Art, New York",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "What group?",
+    "statements": [
+     {
+      "text": "Die Brücke (The Bridge), German Expressionists.",
+      "why": "Kirchner co-founded it.",
+      "isTrue": true
+     },
+     {
+      "text": "Impressionists.",
+      "why": "It's Die Brücke."
+     },
+     {
+      "text": "Cubists.",
+      "why": "It's Die Brücke."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.8,
+     "zoom": 2.0
+    },
+    "where": "The street",
+    "prompt": "Look at the street.",
+    "hint": "What colour?",
+    "statements": [
+     {
+      "text": "Pink.",
+      "why": "Colour shows feeling.",
+      "isTrue": true
+     },
+     {
+      "text": "Grey.",
+      "why": "It's pink."
+     },
+     {
+      "text": "Black.",
+      "why": "It's pink."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.3,
+     "y": 0.3,
+     "zoom": 2.5
+    },
+    "where": "The faces",
+    "prompt": "Look at the faces.",
+    "hint": "How do they look?",
+    "statements": [
+     {
+      "text": "Masklike and anxious.",
+      "why": "City life alienates.",
+      "isTrue": true
+     },
+     {
+      "text": "Happy.",
+      "why": "They're anxious."
+     },
+     {
+      "text": "Asleep.",
+      "why": "They're awake."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.8,
+     "y": 0.15,
+     "zoom": 2.5
+    },
+    "where": "The background",
+    "prompt": "Look at the top.",
+    "hint": "What's there?",
+    "statements": [
+     {
+      "text": "A tram.",
+      "why": "A busy city.",
+      "isTrue": true
+     },
+     {
+      "text": "A horse.",
+      "why": "It's a tram."
+     },
+     {
+      "text": "A ship.",
+      "why": "It's a tram."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, the Nazis.",
+    "hint": "How did they treat his work?",
+    "statements": [
+     {
+      "text": "They called it \"degenerate\" and removed it from museums.",
+      "why": "Kirchner was devastated.",
+      "isTrue": true
+     },
+     {
+      "text": "They loved it.",
+      "why": "They banned it."
+     },
+     {
+      "text": "They didn't notice.",
+      "why": "They banned it."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "Crowds with masklike faces push along a pink street, a woman in a huge hat in front and a tram behind.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "modern"
+ },
+ {
+  "id": "blue-horses",
+  "title": "The Large Blue Horses",
+  "artist": "Franz Marc",
+  "artistDates": "1880–1916",
+  "date": "1911",
+  "medium": "Oil on canvas",
+  "collection": "Walker Art Center, Minneapolis",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Why blue?",
+    "statements": [
+     {
+      "text": "Marc linked blue with spirituality.",
+      "why": "Colour had meaning for him.",
+      "isTrue": true
+     },
+     {
+      "text": "Blue paint was cheapest.",
+      "why": "It was symbolic."
+     },
+     {
+      "text": "The horses really were blue.",
+      "why": "It's symbolic."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.3,
+     "y": 0.5,
+     "zoom": 2.5
+    },
+    "where": "The horses",
+    "prompt": "Look at the horses.",
+    "hint": "How many?",
+    "statements": [
+     {
+      "text": "Three.",
+      "why": "They overlap.",
+      "isTrue": true
+     },
+     {
+      "text": "One.",
+      "why": "Three."
+     },
+     {
+      "text": "Ten.",
+      "why": "Three."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.6,
+     "y": 0.15,
+     "zoom": 2.5
+    },
+    "where": "The hills",
+    "prompt": "Look at the hills.",
+    "hint": "What colours?",
+    "statements": [
+     {
+      "text": "Red and yellow.",
+      "why": "Bold contrasts.",
+      "isTrue": true
+     },
+     {
+      "text": "Green.",
+      "why": "Red and yellow."
+     },
+     {
+      "text": "White.",
+      "why": "Red and yellow."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.5
+    },
+    "where": "The curves",
+    "prompt": "Look at their bodies.",
+    "hint": "How are they shaped?",
+    "statements": [
+     {
+      "text": "In sweeping curves that echo the hills.",
+      "why": "Animal and nature merge.",
+      "isTrue": true
+     },
+     {
+      "text": "Square.",
+      "why": "They're curved."
+     },
+     {
+      "text": "Spiky.",
+      "why": "They're curved."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, Marc's fate.",
+    "hint": "What happened?",
+    "statements": [
+     {
+      "text": "He was killed at Verdun in 1916.",
+      "why": "He was 36.",
+      "isTrue": true
+     },
+     {
+      "text": "He retired.",
+      "why": "He was killed."
+     },
+     {
+      "text": "He moved to America.",
+      "why": "He was killed."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "Three blue horses with curving bodies stand together before red and yellow hills.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "modern"
+ },
+ {
+  "id": "city-rises",
+  "title": "The City Rises",
+  "artist": "Umberto Boccioni",
+  "artistDates": "1882–1916",
+  "date": "1910",
+  "medium": "Oil on canvas",
+  "collection": "Museum of Modern Art, New York",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "What movement?",
+    "statements": [
+     {
+      "text": "Futurism, which celebrated speed and machines.",
+      "why": "It began in Italy.",
+      "isTrue": true
+     },
+     {
+      "text": "Impressionism.",
+      "why": "It's Futurism."
+     },
+     {
+      "text": "Surrealism.",
+      "why": "It's Futurism."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.4,
+     "zoom": 2.5
+    },
+    "where": "The horse",
+    "prompt": "Look at the red horse.",
+    "hint": "What does it show?",
+    "statements": [
+     {
+      "text": "Raw energy and labour.",
+      "why": "It's huge and blurred.",
+      "isTrue": true
+     },
+     {
+      "text": "A race.",
+      "why": "It's labour."
+     },
+     {
+      "text": "A parade.",
+      "why": "It's labour."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.2,
+     "y": 0.6,
+     "zoom": 2.5
+    },
+    "where": "The workers",
+    "prompt": "Look at the workers.",
+    "hint": "What are they doing?",
+    "statements": [
+     {
+      "text": "Straining to control the horse.",
+      "why": "The struggle of building.",
+      "isTrue": true
+     },
+     {
+      "text": "Dancing.",
+      "why": "They're straining."
+     },
+     {
+      "text": "Resting.",
+      "why": "They're straining."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.6,
+     "y": 0.1,
+     "zoom": 2.5
+    },
+    "where": "The background",
+    "prompt": "Look at the top.",
+    "hint": "What's being built?",
+    "statements": [
+     {
+      "text": "A new power station and buildings.",
+      "why": "The modern city.",
+      "isTrue": true
+     },
+     {
+      "text": "A cathedral.",
+      "why": "It's modern."
+     },
+     {
+      "text": "A castle.",
+      "why": "It's modern."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, Boccioni's fate.",
+    "hint": "How did he die?",
+    "statements": [
+     {
+      "text": "He fell from a horse during army training in 1916.",
+      "why": "He was 33.",
+      "isTrue": true
+     },
+     {
+      "text": "In old age.",
+      "why": "He was young."
+     },
+     {
+      "text": "In a car race.",
+      "why": "A horse."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A giant red horse and straining workers blur together in a whirl of energy at a city building site.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "modern"
+ },
+ {
+  "id": "gris-picasso",
+  "title": "Portrait of Pablo Picasso",
+  "artist": "Juan Gris",
+  "artistDates": "1887–1927",
+  "date": "1912",
+  "medium": "Oil on canvas",
+  "collection": "Art Institute of Chicago",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Who is it?",
+    "statements": [
+     {
+      "text": "Pablo Picasso, Gris's friend and neighbour.",
+      "why": "They lived in the same Paris building.",
+      "isTrue": true
+     },
+     {
+      "text": "Gris himself.",
+      "why": "It's Picasso."
+     },
+     {
+      "text": "Matisse.",
+      "why": "It's Picasso."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.75,
+     "zoom": 2.5
+    },
+    "where": "His hand",
+    "prompt": "Look at his hand.",
+    "hint": "What's he holding?",
+    "statements": [
+     {
+      "text": "A palette.",
+      "why": "He's a painter.",
+      "isTrue": true
+     },
+     {
+      "text": "A guitar.",
+      "why": "It's a palette."
+     },
+     {
+      "text": "A book.",
+      "why": "It's a palette."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.85,
+     "y": 0.9,
+     "zoom": 3.0
+    },
+    "where": "Bottom right",
+    "prompt": "Look at the bottom right.",
+    "hint": "What's written there?",
+    "statements": [
+     {
+      "text": "A dedication: \"Homage to Pablo Picasso.\"",
+      "why": "It's a tribute.",
+      "isTrue": true
+     },
+     {
+      "text": "A price.",
+      "why": "It's a dedication."
+     },
+     {
+      "text": "A date only.",
+      "why": "It's a dedication."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.3,
+     "zoom": 2.5
+    },
+    "where": "The face",
+    "prompt": "Look at the face.",
+    "hint": "What style?",
+    "statements": [
+     {
+      "text": "Cubism, breaking forms into planes.",
+      "why": "Picasso co-invented it.",
+      "isTrue": true
+     },
+     {
+      "text": "Realism.",
+      "why": "It's Cubism."
+     },
+     {
+      "text": "Pointillism.",
+      "why": "It's Cubism."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, Gris's nationality.",
+    "hint": "Where was he from?",
+    "statements": [
+     {
+      "text": "Spain, like Picasso.",
+      "why": "Both from Spain.",
+      "isTrue": true
+     },
+     {
+      "text": "Italy.",
+      "why": "Spain."
+     },
+     {
+      "text": "France.",
+      "why": "Spain."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "Picasso's head and body broken into faceted blue, grey and brown planes, holding a palette.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "modern"
+ },
+ {
+  "id": "composition-vii",
+  "title": "Composition VII",
+  "artist": "Wassily Kandinsky",
+  "artistDates": "1866–1944",
+  "date": "1913",
+  "medium": "Oil on canvas",
+  "collection": "Tretyakov Gallery, Moscow",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "How big is it?",
+    "statements": [
+     {
+      "text": "About two by three metres.",
+      "why": "Kandinsky's largest pre-war work.",
+      "isTrue": true
+     },
+     {
+      "text": "Small.",
+      "why": "It's big."
+     },
+     {
+      "text": "Tiny.",
+      "why": "It's big."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.45,
+     "y": 0.5,
+     "zoom": 2.5
+    },
+    "where": "The centre",
+    "prompt": "Look at the centre.",
+    "hint": "How was it prepared?",
+    "statements": [
+     {
+      "text": "With more than 30 studies.",
+      "why": "Then painted in a few days.",
+      "isTrue": true
+     },
+     {
+      "text": "Without planning.",
+      "why": "He planned."
+     },
+     {
+      "text": "From a photo.",
+      "why": "He planned with studies."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.2,
+     "y": 0.3,
+     "zoom": 2.5
+    },
+    "where": "The left",
+    "prompt": "Look at the left.",
+    "hint": "What themes?",
+    "statements": [
+     {
+      "text": "Themes like the Flood and the Last Judgement, turned abstract.",
+      "why": "The subjects dissolve.",
+      "isTrue": true
+     },
+     {
+      "text": "A football match.",
+      "why": "Biblical themes."
+     },
+     {
+      "text": "A wedding.",
+      "why": "Biblical themes."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.8,
+     "y": 0.7,
+     "zoom": 2.5
+    },
+    "where": "The right",
+    "prompt": "Look at the colours.",
+    "hint": "What did Kandinsky say about colour?",
+    "statements": [
+     {
+      "text": "He compared colours to musical notes.",
+      "why": "He may have had synaesthesia.",
+      "isTrue": true
+     },
+     {
+      "text": "They meant nothing.",
+      "why": "They were like music."
+     },
+     {
+      "text": "Only red mattered.",
+      "why": "All colour mattered."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, its title.",
+    "hint": "Why Composition?",
+    "statements": [
+     {
+      "text": "He used musical terms for his most important works.",
+      "why": "There are ten Compositions.",
+      "isTrue": true
+     },
+     {
+      "text": "It's a chemistry term.",
+      "why": "It's musical."
+     },
+     {
+      "text": "No reason.",
+      "why": "It's musical."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "An explosion of colours, lines and shapes swirls across a large canvas with no recognisable objects.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "modern"
+ },
+ {
+  "id": "several-circles",
+  "title": "Several Circles",
+  "artist": "Wassily Kandinsky",
+  "artistDates": "1866–1944",
+  "date": "1926",
+  "medium": "Oil on canvas",
+  "collection": "Solomon R. Guggenheim Museum, New York",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Where did he teach?",
+    "statements": [
+     {
+      "text": "At the Bauhaus school in Germany.",
+      "why": "He taught there in the 1920s.",
+      "isTrue": true
+     },
+     {
+      "text": "At Oxford.",
+      "why": "The Bauhaus."
+     },
+     {
+      "text": "In Rome.",
+      "why": "The Bauhaus."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.38,
+     "y": 0.3,
+     "zoom": 2.5
+    },
+    "where": "The big circle",
+    "prompt": "Look at the large black circle.",
+    "hint": "What's around it?",
+    "statements": [
+     {
+      "text": "A blue glowing halo.",
+      "why": "It's cosmic.",
+      "isTrue": true
+     },
+     {
+      "text": "A square.",
+      "why": "It's a halo."
+     },
+     {
+      "text": "A face.",
+      "why": "It's a halo."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.75,
+     "y": 0.75,
+     "zoom": 2.5
+    },
+    "where": "The small circles",
+    "prompt": "Look at the small circles.",
+    "hint": "What do they do?",
+    "statements": [
+     {
+      "text": "Overlap, mixing colours like transparent films.",
+      "why": "They seem to float.",
+      "isTrue": true
+     },
+     {
+      "text": "Stay apart.",
+      "why": "They overlap."
+     },
+     {
+      "text": "Fall.",
+      "why": "They float."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.5
+    },
+    "where": "The background",
+    "prompt": "Look at the background.",
+    "hint": "What colour?",
+    "statements": [
+     {
+      "text": "Dark, like space.",
+      "why": "Circles like planets.",
+      "isTrue": true
+     },
+     {
+      "text": "White.",
+      "why": "It's dark."
+     },
+     {
+      "text": "Yellow.",
+      "why": "It's dark."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, why circles?",
+    "hint": "What did he say?",
+    "statements": [
+     {
+      "text": "He called the circle the most modest yet assertive form.",
+      "why": "He loved its tension.",
+      "isTrue": true
+     },
+     {
+      "text": "He hated circles.",
+      "why": "He loved them."
+     },
+     {
+      "text": "He couldn't draw squares.",
+      "why": "He loved circles."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "Overlapping coloured circles of many sizes float on a dark background, the largest black with a blue halo.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "modern"
+ },
+ {
+  "id": "black-square",
+  "title": "Black Square",
+  "artist": "Kazimir Malevich",
+  "artistDates": "1879–1935",
+  "date": "1915",
+  "medium": "Oil on linen",
+  "collection": "Tretyakov Gallery, Moscow",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Where was it first hung?",
+    "statements": [
+     {
+      "text": "High in a corner, where Russian homes hung icons.",
+      "why": "It was a provocation.",
+      "isTrue": true
+     },
+     {
+      "text": "On the floor.",
+      "why": "In the corner."
+     },
+     {
+      "text": "In a window.",
+      "why": "In the corner."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 2.5
+    },
+    "where": "The cracks",
+    "prompt": "Look at the cracks.",
+    "hint": "What's beneath?",
+    "statements": [
+     {
+      "text": "Researchers found an earlier painting underneath.",
+      "why": "X-rays revealed it.",
+      "isTrue": true
+     },
+     {
+      "text": "Nothing.",
+      "why": "There's another painting."
+     },
+     {
+      "text": "A photo.",
+      "why": "A painting."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.1,
+     "y": 0.1,
+     "zoom": 2.5
+    },
+    "where": "The white border",
+    "prompt": "Look at the edge.",
+    "hint": "What movement did it launch?",
+    "statements": [
+     {
+      "text": "Suprematism.",
+      "why": "Malevich's own movement.",
+      "isTrue": true
+     },
+     {
+      "text": "Impressionism.",
+      "why": "Suprematism."
+     },
+     {
+      "text": "Pop Art.",
+      "why": "Suprematism."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.5
+    },
+    "where": "The square",
+    "prompt": "Look at the square.",
+    "hint": "Is it perfect?",
+    "statements": [
+     {
+      "text": "Not quite; its sides aren't exactly straight.",
+      "why": "It's hand painted.",
+      "isTrue": true
+     },
+     {
+      "text": "It's perfect.",
+      "why": "It's not."
+     },
+     {
+      "text": "It's a circle.",
+      "why": "It's a square."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, versions.",
+    "hint": "How many Black Squares?",
+    "statements": [
+     {
+      "text": "Four.",
+      "why": "Painted over the years.",
+      "isTrue": true
+     },
+     {
+      "text": "One.",
+      "why": "Four."
+     },
+     {
+      "text": "100.",
+      "why": "Four."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A black square, its surface covered in fine cracks, on a white ground.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "modern"
+ },
+ {
+  "id": "gray-tree",
+  "title": "Gray Tree",
+  "artist": "Piet Mondrian",
+  "artistDates": "1872–1944",
+  "date": "1911",
+  "medium": "Oil on canvas",
+  "collection": "Kunstmuseum Den Haag, The Hague",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Where is it heading?",
+    "statements": [
+     {
+      "text": "Toward abstraction.",
+      "why": "Mondrian simplified trees again and again.",
+      "isTrue": true
+     },
+     {
+      "text": "Toward photography.",
+      "why": "Toward abstraction."
+     },
+     {
+      "text": "Toward cartoons.",
+      "why": "Toward abstraction."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.4,
+     "zoom": 2.5
+    },
+    "where": "The branches",
+    "prompt": "Look at the branches.",
+    "hint": "How are they drawn?",
+    "statements": [
+     {
+      "text": "As rhythmic curves.",
+      "why": "Like a pattern.",
+      "isTrue": true
+     },
+     {
+      "text": "Straight lines only.",
+      "why": "They're curved."
+     },
+     {
+      "text": "Dots.",
+      "why": "They're curves."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.85,
+     "zoom": 2.0
+    },
+    "where": "The colours",
+    "prompt": "Look at the colours.",
+    "hint": "What palette?",
+    "statements": [
+     {
+      "text": "Greys and blacks.",
+      "why": "Colour is stripped away.",
+      "isTrue": true
+     },
+     {
+      "text": "Reds.",
+      "why": "It's grey."
+     },
+     {
+      "text": "Rainbow.",
+      "why": "It's grey."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.2,
+     "y": 0.5,
+     "zoom": 2.5
+    },
+    "where": "The left",
+    "prompt": "Look at the left.",
+    "hint": "What series?",
+    "statements": [
+     {
+      "text": "A series of tree paintings.",
+      "why": "Including the Red Tree.",
+      "isTrue": true
+     },
+     {
+      "text": "A series of boats.",
+      "why": "Trees."
+     },
+     {
+      "text": "A single work.",
+      "why": "A series."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, his name.",
+    "hint": "What changed?",
+    "statements": [
+     {
+      "text": "He dropped an \"a\" from Mondriaan when he moved to Paris.",
+      "why": "He became Mondrian.",
+      "isTrue": true
+     },
+     {
+      "text": "He changed it to Smith.",
+      "why": "He dropped an \"a.\""
+     },
+     {
+      "text": "Nothing.",
+      "why": "He changed it."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "The branches of a tree spread across the canvas in grey and black curves, almost dissolving into a pattern.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "modern"
+ },
+ {
+  "id": "mondrian-red-blue-yellow",
+  "title": "Composition II in Red, Blue and Yellow",
+  "artist": "Piet Mondrian",
+  "artistDates": "1872–1944",
+  "date": "1930",
+  "medium": "Oil on canvas",
+  "collection": "Kunsthaus Zürich",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "What colours does he allow?",
+    "statements": [
+     {
+      "text": "Only red, blue and yellow, with black, white and grey.",
+      "why": "The primaries.",
+      "isTrue": true
+     },
+     {
+      "text": "Any colour.",
+      "why": "Only primaries."
+     },
+     {
+      "text": "Only green.",
+      "why": "Only primaries."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.6,
+     "y": 0.4,
+     "zoom": 2.0
+    },
+    "where": "The red square",
+    "prompt": "Look at the red.",
+    "hint": "How big is it?",
+    "statements": [
+     {
+      "text": "It fills most of the canvas.",
+      "why": "It dominates.",
+      "isTrue": true
+     },
+     {
+      "text": "It's tiny.",
+      "why": "It's huge."
+     },
+     {
+      "text": "It's a circle.",
+      "why": "It's a square."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.12,
+     "y": 0.88,
+     "zoom": 2.5
+    },
+    "where": "The blue",
+    "prompt": "Look at the blue block.",
+    "hint": "Where is it?",
+    "statements": [
+     {
+      "text": "Bottom left.",
+      "why": "Balancing the red.",
+      "isTrue": true
+     },
+     {
+      "text": "Top right.",
+      "why": "Bottom left."
+     },
+     {
+      "text": "Centre.",
+      "why": "Bottom left."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.95,
+     "y": 0.92,
+     "zoom": 3.0
+    },
+    "where": "The yellow",
+    "prompt": "Look at the yellow.",
+    "hint": "How big?",
+    "statements": [
+     {
+      "text": "A small block in the corner.",
+      "why": "A tiny balance.",
+      "isTrue": true
+     },
+     {
+      "text": "Huge.",
+      "why": "It's small."
+     },
+     {
+      "text": "Missing.",
+      "why": "It's there."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, a rule.",
+    "hint": "What did he refuse to use?",
+    "statements": [
+     {
+      "text": "Diagonal lines.",
+      "why": "He split with a friend over them.",
+      "isTrue": true
+     },
+     {
+      "text": "Black.",
+      "why": "He used black."
+     },
+     {
+      "text": "Canvas.",
+      "why": "He used canvas."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A large red square dominates a white grid divided by thick black lines, with a blue block at bottom left and a small yellow one at bottom right.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "modern"
+ },
+ {
+  "id": "the-city-leger",
+  "title": "The City",
+  "artist": "Fernand Léger",
+  "artistDates": "1881–1955",
+  "date": "1919",
+  "medium": "Oil on canvas",
+  "collection": "Philadelphia Museum of Art",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "How big is it?",
+    "statements": [
+     {
+      "text": "About 2.3 by 3 metres.",
+      "why": "Like a billboard.",
+      "isTrue": true
+     },
+     {
+      "text": "Small.",
+      "why": "It's big."
+     },
+     {
+      "text": "Postcard.",
+      "why": "It's big."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.45,
+     "y": 0.65,
+     "zoom": 2.5
+    },
+    "where": "The figures",
+    "prompt": "Look at the figures on the stairs.",
+    "hint": "How do they look?",
+    "statements": [
+     {
+      "text": "Robot-like.",
+      "why": "Machine age people.",
+      "isTrue": true
+     },
+     {
+      "text": "Lifelike.",
+      "why": "They're robotic."
+     },
+     {
+      "text": "Animals.",
+      "why": "They're people."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.65,
+     "y": 0.5,
+     "zoom": 2.5
+    },
+    "where": "The pole",
+    "prompt": "Look at the purple pole.",
+    "hint": "What does it do?",
+    "statements": [
+     {
+      "text": "It cuts the scene vertically.",
+      "why": "Like a column.",
+      "isTrue": true
+     },
+     {
+      "text": "It's a tree.",
+      "why": "It's a pole."
+     },
+     {
+      "text": "It's a snake.",
+      "why": "It's a pole."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.1,
+     "y": 0.6,
+     "zoom": 2.5
+    },
+    "where": "The letters",
+    "prompt": "Look at the letters.",
+    "hint": "Where are they from?",
+    "statements": [
+     {
+      "text": "Like stencils from posters and signs.",
+      "why": "City advertising.",
+      "isTrue": true
+     },
+     {
+      "text": "A book.",
+      "why": "Posters."
+     },
+     {
+      "text": "Graffiti.",
+      "why": "Stencils."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, Léger's war.",
+    "hint": "What happened in World War I?",
+    "statements": [
+     {
+      "text": "He was gassed at Verdun.",
+      "why": "Machines fascinated him.",
+      "isTrue": true
+     },
+     {
+      "text": "He was a general.",
+      "why": "He was a soldier."
+     },
+     {
+      "text": "He avoided it.",
+      "why": "He fought."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A crowded collage of flat, bright shapes, stencilled letters, scaffolding, a purple pole and robot-like figures on stairs.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "modern"
+ },
+ {
+  "id": "twittering-machine",
+  "title": "Twittering Machine",
+  "artist": "Paul Klee",
+  "artistDates": "1879–1940",
+  "date": "1922",
+  "medium": "Watercolour and oil transfer on paper",
+  "collection": "Museum of Modern Art, New York",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "How is it made?",
+    "statements": [
+     {
+      "text": "With an oil-transfer drawing technique and watercolour.",
+      "why": "Like carbon paper.",
+      "isTrue": true
+     },
+     {
+      "text": "Oil paint only.",
+      "why": "It's transfer and watercolour."
+     },
+     {
+      "text": "Pencil only.",
+      "why": "It's transfer."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.45,
+     "zoom": 2.5
+    },
+    "where": "The birds",
+    "prompt": "Look at the birds.",
+    "hint": "How many?",
+    "statements": [
+     {
+      "text": "Four.",
+      "why": "They're singing.",
+      "isTrue": true
+     },
+     {
+      "text": "One.",
+      "why": "Four."
+     },
+     {
+      "text": "Ten.",
+      "why": "Four."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.25,
+     "y": 0.5,
+     "zoom": 2.5
+    },
+    "where": "The crank",
+    "prompt": "Look at the left.",
+    "hint": "What's there?",
+    "statements": [
+     {
+      "text": "A hand crank.",
+      "why": "It powers the birds.",
+      "isTrue": true
+     },
+     {
+      "text": "A tree.",
+      "why": "It's a crank."
+     },
+     {
+      "text": "A clock.",
+      "why": "It's a crank."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.75,
+     "zoom": 2.0
+    },
+    "where": "The background",
+    "prompt": "Look at the background.",
+    "hint": "What colours?",
+    "statements": [
+     {
+      "text": "Blue fading to pink.",
+      "why": "Misty.",
+      "isTrue": true
+     },
+     {
+      "text": "Black.",
+      "why": "Blue and pink."
+     },
+     {
+      "text": "Gold.",
+      "why": "Blue and pink."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, its fate.",
+    "hint": "What happened in 1937?",
+    "statements": [
+     {
+      "text": "The Nazis seized it as \"degenerate,\" and MoMA later bought it.",
+      "why": "It came to New York in 1939.",
+      "isTrue": true
+     },
+     {
+      "text": "It was destroyed.",
+      "why": "It survives."
+     },
+     {
+      "text": "It was hidden by Klee.",
+      "why": "It was seized."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "Thin black lines draw four strange birds perched on a wire attached to a hand crank, over a misty blue-pink background.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "modern"
+ },
+ {
+  "id": "jeanne-hebuterne",
+  "title": "Jeanne Hébuterne",
+  "artist": "Amedeo Modigliani",
+  "artistDates": "1884–1920",
+  "date": "1919",
+  "medium": "Oil on canvas",
+  "collection": "The Metropolitan Museum of Art, New York",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Who was she?",
+    "statements": [
+     {
+      "text": "Modigliani's partner and the mother of his daughter.",
+      "why": "She was an artist too.",
+      "isTrue": true
+     },
+     {
+      "text": "His sister.",
+      "why": "His partner."
+     },
+     {
+      "text": "A queen.",
+      "why": "His partner."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.4,
+     "y": 0.2,
+     "zoom": 3.0
+    },
+    "where": "Her face",
+    "prompt": "Look at her face.",
+    "hint": "What's distinctive?",
+    "statements": [
+     {
+      "text": "A long oval face and almond eyes.",
+      "why": "His signature style.",
+      "isTrue": true
+     },
+     {
+      "text": "A round face.",
+      "why": "It's oval."
+     },
+     {
+      "text": "No face.",
+      "why": "There's a face."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.35,
+     "y": 0.4,
+     "zoom": 2.5
+    },
+    "where": "Her neck",
+    "prompt": "Look at her neck.",
+    "hint": "How long?",
+    "statements": [
+     {
+      "text": "Elongated.",
+      "why": "Inspired by African and Cycladic sculpture.",
+      "isTrue": true
+     },
+     {
+      "text": "Short.",
+      "why": "It's long."
+     },
+     {
+      "text": "Hidden.",
+      "why": "It's visible."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.7,
+     "y": 0.6,
+     "zoom": 2.5
+    },
+    "where": "The chair",
+    "prompt": "Look at the chair.",
+    "hint": "What colour?",
+    "statements": [
+     {
+      "text": "Golden brown.",
+      "why": "It frames her.",
+      "isTrue": true
+     },
+     {
+      "text": "Pink.",
+      "why": "It's brown."
+     },
+     {
+      "text": "Blue.",
+      "why": "It's brown."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, their fate.",
+    "hint": "What happened?",
+    "statements": [
+     {
+      "text": "She died two days after Modigliani, in 1920.",
+      "why": "She was 21.",
+      "isTrue": true
+     },
+     {
+      "text": "She lived to 100.",
+      "why": "She died young."
+     },
+     {
+      "text": "They moved to America.",
+      "why": "She died in 1920."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A young woman with a long neck and an oval face rests her head on her hand, leaning on a chair.",
+  "credit": "Image: The Metropolitan Museum of Art, public domain (CC0)",
+  "category": "modern"
+ }
+]

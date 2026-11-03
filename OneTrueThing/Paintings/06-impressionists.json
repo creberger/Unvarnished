@@ -1,0 +1,1670 @@
+[
+ {
+  "id": "bridge-over-water-lilies",
+  "title": "Bridge over a Pond of Water Lilies",
+  "artist": "Claude Monet",
+  "artistDates": "1840–1926",
+  "date": "1899",
+  "medium": "Oil on canvas",
+  "collection": "The Metropolitan Museum of Art, New York",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Where is it?",
+    "statements": [
+     {
+      "text": "Monet's own garden at Giverny.",
+      "why": "He designed it to paint.",
+      "isTrue": true
+     },
+     {
+      "text": "A park in Tokyo.",
+      "why": "It's in France."
+     },
+     {
+      "text": "Versailles.",
+      "why": "It's Giverny."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.75,
+     "zoom": 2.0
+    },
+    "where": "The pond",
+    "prompt": "Look at the pond.",
+    "hint": "How was it made?",
+    "statements": [
+     {
+      "text": "Monet diverted a stream to create it.",
+      "why": "He needed permission from the town.",
+      "isTrue": true
+     },
+     {
+      "text": "It's a natural lake.",
+      "why": "He made it."
+     },
+     {
+      "text": "It's a swimming pool.",
+      "why": "It's a lily pond."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.3,
+     "zoom": 2.5
+    },
+    "where": "The bridge",
+    "prompt": "Look at the bridge.",
+    "hint": "What style?",
+    "statements": [
+     {
+      "text": "Japanese-style.",
+      "why": "Monet collected Japanese prints.",
+      "isTrue": true
+     },
+     {
+      "text": "Roman.",
+      "why": "It's Japanese style."
+     },
+     {
+      "text": "Iron industrial.",
+      "why": "It's a wooden footbridge."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.85,
+     "zoom": 2.5
+    },
+    "where": "The lilies",
+    "prompt": "Look at the lilies.",
+    "hint": "How many paintings of them?",
+    "statements": [
+     {
+      "text": "About 250.",
+      "why": "He painted them for decades.",
+      "isTrue": true
+     },
+     {
+      "text": "Five.",
+      "why": "He painted hundreds."
+     },
+     {
+      "text": "One.",
+      "why": "He painted many."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, Monet's eyes.",
+    "hint": "What troubled him later?",
+    "statements": [
+     {
+      "text": "Cataracts, which changed how he saw colour.",
+      "why": "His later works are redder.",
+      "isTrue": true
+     },
+     {
+      "text": "Blindness from birth.",
+      "why": "He had cataracts later."
+     },
+     {
+      "text": "Nothing.",
+      "why": "He had cataracts."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A pale green arched footbridge crosses a pond covered in water lilies, framed by dense foliage.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "impressionism"
+ },
+ {
+  "id": "stacks-of-wheat",
+  "title": "Stacks of Wheat (End of Summer)",
+  "artist": "Claude Monet",
+  "artistDates": "1840–1926",
+  "date": "1890–91",
+  "medium": "Oil on canvas",
+  "collection": "Art Institute of Chicago",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Is it one of many?",
+    "statements": [
+     {
+      "text": "It's one of about 25 paintings of the same stacks.",
+      "why": "He painted them in changing light.",
+      "isTrue": true
+     },
+     {
+      "text": "It's unique.",
+      "why": "It's part of a series."
+     },
+     {
+      "text": "He painted 2.",
+      "why": "About 25."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.3,
+     "y": 0.6,
+     "zoom": 2.5
+    },
+    "where": "The left stack",
+    "prompt": "Look at the left stack.",
+    "hint": "What's the light doing?",
+    "statements": [
+     {
+      "text": "Soft summer light, with coloured shadows.",
+      "why": "The shadows aren't grey.",
+      "isTrue": true
+     },
+     {
+      "text": "It's night.",
+      "why": "It's day."
+     },
+     {
+      "text": "It's raining.",
+      "why": "It's sunny."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.7,
+     "y": 0.55,
+     "zoom": 2.5
+    },
+    "where": "The right stack",
+    "prompt": "Look at the right stack.",
+    "hint": "Where are they?",
+    "statements": [
+     {
+      "text": "Near Monet's house at Giverny.",
+      "why": "He painted them in a nearby field.",
+      "isTrue": true
+     },
+     {
+      "text": "In Holland.",
+      "why": "It's France."
+     },
+     {
+      "text": "In America.",
+      "why": "It's France."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.25,
+     "zoom": 2.0
+    },
+    "where": "The hills",
+    "prompt": "Look at the background.",
+    "hint": "What's there?",
+    "statements": [
+     {
+      "text": "Trees, hills and houses.",
+      "why": "It's the countryside.",
+      "isTrue": true
+     },
+     {
+      "text": "The sea.",
+      "why": "It's land."
+     },
+     {
+      "text": "A city.",
+      "why": "It's countryside."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, the series' success.",
+    "hint": "How did it sell?",
+    "statements": [
+     {
+      "text": "The 1891 exhibition sold out within days.",
+      "why": "It made Monet rich.",
+      "isTrue": true
+     },
+     {
+      "text": "Nobody bought them.",
+      "why": "They sold quickly."
+     },
+     {
+      "text": "They were burned.",
+      "why": "They sold."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "Two large stacks of wheat sit in a field under a soft late-summer light, with hills and trees behind.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "impressionism"
+ },
+ {
+  "id": "boating-party",
+  "title": "Luncheon of the Boating Party",
+  "artist": "Pierre-Auguste Renoir",
+  "artistDates": "1841–1919",
+  "date": "1880–81",
+  "medium": "Oil on canvas",
+  "collection": "The Phillips Collection, Washington",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Where is it?",
+    "statements": [
+     {
+      "text": "On the balcony of a restaurant on the Seine, outside Paris.",
+      "why": "The Maison Fournaise, at Chatou.",
+      "isTrue": true
+     },
+     {
+      "text": "In Venice.",
+      "why": "It's on the Seine."
+     },
+     {
+      "text": "In a palace.",
+      "why": "It's a restaurant."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.12,
+     "y": 0.6,
+     "zoom": 2.5
+    },
+    "where": "The dog",
+    "prompt": "Look at the woman with the little dog.",
+    "hint": "Who is she?",
+    "statements": [
+     {
+      "text": "Aline Charigot, who later married Renoir.",
+      "why": "She was a seamstress.",
+      "isTrue": true
+     },
+     {
+      "text": "Renoir's mother.",
+      "why": "She married Renoir."
+     },
+     {
+      "text": "A queen.",
+      "why": "She married Renoir."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.8,
+     "y": 0.75,
+     "zoom": 2.5
+    },
+    "where": "Bottom right",
+    "prompt": "Look at the man in a straw hat at bottom right.",
+    "hint": "Who is he?",
+    "statements": [
+     {
+      "text": "The painter Gustave Caillebotte.",
+      "why": "He was a friend.",
+      "isTrue": true
+     },
+     {
+      "text": "Monet.",
+      "why": "It's Caillebotte."
+     },
+     {
+      "text": "A waiter.",
+      "why": "It's Caillebotte."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.45,
+     "y": 0.75,
+     "zoom": 2.0
+    },
+    "where": "The table",
+    "prompt": "Look at the table.",
+    "hint": "What's left?",
+    "statements": [
+     {
+      "text": "Bottles, glasses and fruit after the meal.",
+      "why": "A still life within a scene.",
+      "isTrue": true
+     },
+     {
+      "text": "Books.",
+      "why": "It's lunch."
+     },
+     {
+      "text": "Nothing.",
+      "why": "It's a meal."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, who bought it?",
+    "hint": "When?",
+    "statements": [
+     {
+      "text": "Duncan Phillips, in 1923.",
+      "why": "It's his museum's star.",
+      "isTrue": true
+     },
+     {
+      "text": "The Louvre.",
+      "why": "It's in Washington."
+     },
+     {
+      "text": "It was never sold.",
+      "why": "It was bought."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "Friends relax after lunch on a riverside restaurant balcony under a striped awning, drinking, chatting and flirting.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "impressionism"
+ },
+ {
+  "id": "dance-class",
+  "title": "The Dance Class",
+  "artist": "Edgar Degas",
+  "artistDates": "1834–1917",
+  "date": "1874",
+  "medium": "Oil on canvas",
+  "collection": "The Metropolitan Museum of Art, New York",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Did he paint it on the spot?",
+    "statements": [
+     {
+      "text": "No, he worked in his studio from models and sketches.",
+      "why": "It looks spontaneous.",
+      "isTrue": true
+     },
+     {
+      "text": "Yes, at the Opéra.",
+      "why": "He worked in his studio."
+     },
+     {
+      "text": "From a photograph.",
+      "why": "He used sketches."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.6,
+     "y": 0.5,
+     "zoom": 2.5
+    },
+    "where": "The ballet master",
+    "prompt": "Look at the old man.",
+    "hint": "Who is he?",
+    "statements": [
+     {
+      "text": "A real ballet master, Jules Perrot.",
+      "why": "He was a famous dancer.",
+      "isTrue": true
+     },
+     {
+      "text": "Degas.",
+      "why": "It's Perrot."
+     },
+     {
+      "text": "A janitor.",
+      "why": "He's a ballet master."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.15,
+     "y": 0.4,
+     "zoom": 2.5
+    },
+    "where": "The left",
+    "prompt": "Look at the dancer on the left.",
+    "hint": "What's she doing?",
+    "statements": [
+     {
+      "text": "Scratching her back.",
+      "why": "Degas loved unguarded moments.",
+      "isTrue": true
+     },
+     {
+      "text": "Dancing.",
+      "why": "She's scratching."
+     },
+     {
+      "text": "Sleeping.",
+      "why": "She's scratching."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.85,
+     "zoom": 2.0
+    },
+    "where": "The floor",
+    "prompt": "Look at the floor.",
+    "hint": "What does it suggest?",
+    "statements": [
+     {
+      "text": "A deep, slanted perspective.",
+      "why": "It pulls us into the room.",
+      "isTrue": true
+     },
+     {
+      "text": "A carpet.",
+      "why": "It's wood."
+     },
+     {
+      "text": "Water.",
+      "why": "It's floorboards."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, Degas' subjects.",
+    "hint": "How many dancers did he paint?",
+    "statements": [
+     {
+      "text": "Ballet dancers fill more than half his work.",
+      "why": "He was obsessed with them.",
+      "isTrue": true
+     },
+     {
+      "text": "Only one.",
+      "why": "He painted many."
+     },
+     {
+      "text": "None.",
+      "why": "Many."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "Young ballerinas in white tutus wait, stretch and chat in a studio as an old ballet master leans on his stick.",
+  "credit": "Image: The Metropolitan Museum of Art, public domain (CC0)",
+  "category": "impressionism"
+ },
+ {
+  "id": "paris-street-rainy-day",
+  "title": "Paris Street; Rainy Day",
+  "artist": "Gustave Caillebotte",
+  "artistDates": "1848–1894",
+  "date": "1877",
+  "medium": "Oil on canvas",
+  "collection": "Art Institute of Chicago",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Where is it?",
+    "statements": [
+     {
+      "text": "A real intersection in Paris near the Gare Saint-Lazare.",
+      "why": "The Place de Dublin.",
+      "isTrue": true
+     },
+     {
+      "text": "London.",
+      "why": "It's Paris."
+     },
+     {
+      "text": "New York.",
+      "why": "It's Paris."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.3,
+     "zoom": 2.5
+    },
+    "where": "The lamppost",
+    "prompt": "Look at the lamppost.",
+    "hint": "What does it do?",
+    "statements": [
+     {
+      "text": "Splits the painting in two.",
+      "why": "It organises the scene.",
+      "isTrue": true
+     },
+     {
+      "text": "It's on fire.",
+      "why": "It splits the scene."
+     },
+     {
+      "text": "It's a tree.",
+      "why": "It's a lamppost."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.65,
+     "y": 0.6,
+     "zoom": 2.5
+    },
+    "where": "The couple",
+    "prompt": "Look at the couple.",
+    "hint": "What's new?",
+    "statements": [
+     {
+      "text": "The boulevards were brand-new, built under Baron Haussmann.",
+      "why": "Paris was being rebuilt.",
+      "isTrue": true
+     },
+     {
+      "text": "They're tourists.",
+      "why": "They're Parisians."
+     },
+     {
+      "text": "They're ghosts.",
+      "why": "They're people."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.3,
+     "y": 0.85,
+     "zoom": 2.5
+    },
+    "where": "The cobbles",
+    "prompt": "Look at the cobblestones.",
+    "hint": "How do they look?",
+    "statements": [
+     {
+      "text": "Wet and shiny.",
+      "why": "It's raining.",
+      "isTrue": true
+     },
+     {
+      "text": "Dry.",
+      "why": "They're wet."
+     },
+     {
+      "text": "Snowy.",
+      "why": "They're wet."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, Caillebotte's role.",
+    "hint": "What did he do for Impressionism?",
+    "statements": [
+     {
+      "text": "He funded exhibitions and left his collection to France.",
+      "why": "He was a patron.",
+      "isTrue": true
+     },
+     {
+      "text": "He opposed it.",
+      "why": "He supported it."
+     },
+     {
+      "text": "He invented it.",
+      "why": "He supported it."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "Well-dressed Parisians with umbrellas walk across a wet cobbled intersection of new boulevards, split by a tall lamppost.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "impressionism"
+ },
+ {
+  "id": "the-cradle",
+  "title": "The Cradle",
+  "artist": "Berthe Morisot",
+  "artistDates": "1841–1895",
+  "date": "1872",
+  "medium": "Oil on canvas",
+  "collection": "Musée d'Orsay, Paris",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Who are they?",
+    "statements": [
+     {
+      "text": "Morisot's sister Edma and her baby.",
+      "why": "A family scene.",
+      "isTrue": true
+     },
+     {
+      "text": "A queen and prince.",
+      "why": "It's her sister."
+     },
+     {
+      "text": "Morisot and her son.",
+      "why": "It's her sister."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.65,
+     "y": 0.7,
+     "zoom": 2.5
+    },
+    "where": "The baby",
+    "prompt": "Look at the baby.",
+    "hint": "What's it doing?",
+    "statements": [
+     {
+      "text": "Sleeping.",
+      "why": "The mother watches.",
+      "isTrue": true
+     },
+     {
+      "text": "Crying.",
+      "why": "It's asleep."
+     },
+     {
+      "text": "Laughing.",
+      "why": "It's asleep."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.65,
+     "y": 0.3,
+     "zoom": 2.5
+    },
+    "where": "The curtain",
+    "prompt": "Look at the gauze.",
+    "hint": "How is it painted?",
+    "statements": [
+     {
+      "text": "Sheer and light, with quick strokes.",
+      "why": "It veils the cradle.",
+      "isTrue": true
+     },
+     {
+      "text": "Thick and dark.",
+      "why": "It's sheer."
+     },
+     {
+      "text": "Opaque.",
+      "why": "It's sheer."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.3,
+     "y": 0.5,
+     "zoom": 2.5
+    },
+    "where": "The mother",
+    "prompt": "Look at the mother.",
+    "hint": "What's her pose?",
+    "statements": [
+     {
+      "text": "Her hand rests near her chin as she watches.",
+      "why": "A tender pose.",
+      "isTrue": true
+     },
+     {
+      "text": "Sleeping.",
+      "why": "She's watching."
+     },
+     {
+      "text": "Singing.",
+      "why": "She's watching."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, its debut.",
+    "hint": "Where was it shown?",
+    "statements": [
+     {
+      "text": "At the first Impressionist exhibition, in 1874.",
+      "why": "Morisot was the only woman.",
+      "isTrue": true
+     },
+     {
+      "text": "At the Louvre in 1900.",
+      "why": "It debuted in 1874."
+     },
+     {
+      "text": "Never.",
+      "why": "It was shown."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A young mother sits by a cradle draped in sheer white gauze, watching her sleeping baby.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "impressionism"
+ },
+ {
+  "id": "childs-bath",
+  "title": "The Child's Bath",
+  "artist": "Mary Cassatt",
+  "artistDates": "1844–1926",
+  "date": "1893",
+  "medium": "Oil on canvas",
+  "collection": "Art Institute of Chicago",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "What inspired the view?",
+    "statements": [
+     {
+      "text": "Japanese prints, with their high viewpoint and bold patterns.",
+      "why": "Cassatt saw a big show in 1890.",
+      "isTrue": true
+     },
+     {
+      "text": "Photography.",
+      "why": "It's Japanese prints."
+     },
+     {
+      "text": "Greek vases.",
+      "why": "It's Japanese prints."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.8,
+     "zoom": 2.5
+    },
+    "where": "The basin",
+    "prompt": "Look at the basin.",
+    "hint": "What's happening?",
+    "statements": [
+     {
+      "text": "The child's feet are being washed.",
+      "why": "An ordinary moment.",
+      "isTrue": true
+     },
+     {
+      "text": "A fish swims.",
+      "why": "It's washing."
+     },
+     {
+      "text": "Nothing.",
+      "why": "It's washing."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.4,
+     "y": 0.5,
+     "zoom": 2.5
+    },
+    "where": "The dress",
+    "prompt": "Look at the dress.",
+    "hint": "What pattern?",
+    "statements": [
+     {
+      "text": "Stripes.",
+      "why": "They add movement.",
+      "isTrue": true
+     },
+     {
+      "text": "Polka dots.",
+      "why": "It's stripes."
+     },
+     {
+      "text": "Plain.",
+      "why": "It's stripes."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.25,
+     "zoom": 2.5
+    },
+    "where": "The faces",
+    "prompt": "Look at their faces.",
+    "hint": "Where do they look?",
+    "statements": [
+     {
+      "text": "Down at the water.",
+      "why": "They're absorbed.",
+      "isTrue": true
+     },
+     {
+      "text": "At us.",
+      "why": "They look down."
+     },
+     {
+      "text": "Away.",
+      "why": "They look down."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, Cassatt herself.",
+    "hint": "Who invited her to exhibit?",
+    "statements": [
+     {
+      "text": "Degas.",
+      "why": "She showed with the Impressionists.",
+      "isTrue": true
+     },
+     {
+      "text": "Picasso.",
+      "why": "It was Degas."
+     },
+     {
+      "text": "No one.",
+      "why": "Degas did."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A woman in a striped dress washes a small child's feet in a basin, seen from above.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "impressionism"
+ },
+ {
+  "id": "folies-bergere",
+  "title": "A Bar at the Folies-Bergère",
+  "artist": "Édouard Manet",
+  "artistDates": "1832–1883",
+  "date": "1882",
+  "medium": "Oil on canvas",
+  "collection": "The Courtauld, London",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Who is she?",
+    "statements": [
+     {
+      "text": "A real barmaid named Suzon who posed in Manet's studio.",
+      "why": "She worked at the Folies-Bergère.",
+      "isTrue": true
+     },
+     {
+      "text": "A queen.",
+      "why": "She's a barmaid."
+     },
+     {
+      "text": "Manet's wife.",
+      "why": "She's a barmaid."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.8,
+     "y": 0.35,
+     "zoom": 2.5
+    },
+    "where": "The reflection",
+    "prompt": "Look at the reflection on the right.",
+    "hint": "Is it correct?",
+    "statements": [
+     {
+      "text": "No, it's shifted to the side and shows a man not visible in front.",
+      "why": "It's a puzzle.",
+      "isTrue": true
+     },
+     {
+      "text": "Yes, perfectly.",
+      "why": "It's off."
+     },
+     {
+      "text": "There's no mirror.",
+      "why": "There is."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.05,
+     "y": 0.06,
+     "zoom": 3.0
+    },
+    "where": "Top left",
+    "prompt": "Look at the top left corner.",
+    "hint": "What's there?",
+    "statements": [
+     {
+      "text": "A trapeze artist's green-booted legs.",
+      "why": "A joke.",
+      "isTrue": true
+     },
+     {
+      "text": "A bird.",
+      "why": "It's legs."
+     },
+     {
+      "text": "A chandelier.",
+      "why": "It's legs."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.15,
+     "y": 0.8,
+     "zoom": 2.5
+    },
+    "where": "The bottles",
+    "prompt": "Look at the bottles.",
+    "hint": "What's the red triangle?",
+    "statements": [
+     {
+      "text": "The label of Bass beer, an English ale.",
+      "why": "A real brand.",
+      "isTrue": true
+     },
+     {
+      "text": "A warning sign.",
+      "why": "It's a beer label."
+     },
+     {
+      "text": "A flag.",
+      "why": "It's a label."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, its place.",
+    "hint": "Where is it in Manet's career?",
+    "statements": [
+     {
+      "text": "His last major painting.",
+      "why": "He died the next year.",
+      "isTrue": true
+     },
+     {
+      "text": "His first.",
+      "why": "His last."
+     },
+     {
+      "text": "A student copy.",
+      "why": "It's his."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A barmaid stands behind a marble counter of bottles and oranges, a mirror behind her reflecting a busy music hall.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "impressionism"
+ },
+ {
+  "id": "grande-jatte",
+  "title": "A Sunday on La Grande Jatte",
+  "artist": "Georges Seurat",
+  "artistDates": "1859–1891",
+  "date": "1884–86",
+  "medium": "Oil on canvas",
+  "collection": "Art Institute of Chicago",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "How is it painted?",
+    "statements": [
+     {
+      "text": "With tiny dots of pure colour, called pointillism.",
+      "why": "The eye mixes them.",
+      "isTrue": true
+     },
+     {
+      "text": "With a spray gun.",
+      "why": "It's dots."
+     },
+     {
+      "text": "With big strokes.",
+      "why": "It's dots."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.82,
+     "y": 0.85,
+     "zoom": 2.5
+    },
+    "where": "Bottom right",
+    "prompt": "Look at the woman's pet.",
+    "hint": "What is it?",
+    "statements": [
+     {
+      "text": "A monkey on a leash.",
+      "why": "A fashionable pet.",
+      "isTrue": true
+     },
+     {
+      "text": "A cat.",
+      "why": "It's a monkey."
+     },
+     {
+      "text": "A dog.",
+      "why": "It's a monkey."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.02,
+     "y": 0.5,
+     "zoom": 3.0
+    },
+    "where": "The edge",
+    "prompt": "Look at the edge.",
+    "hint": "What's there?",
+    "statements": [
+     {
+      "text": "A painted border of dots, added later.",
+      "why": "It frames the painting.",
+      "isTrue": true
+     },
+     {
+      "text": "A crack.",
+      "why": "It's a border."
+     },
+     {
+      "text": "Nothing.",
+      "why": "It's a border."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.6,
+     "y": 0.4,
+     "zoom": 2.0
+    },
+    "where": "The island",
+    "prompt": "Look at the river.",
+    "hint": "Where is it?",
+    "statements": [
+     {
+      "text": "An island in the Seine near Paris.",
+      "why": "A popular park.",
+      "isTrue": true
+     },
+     {
+      "text": "Venice.",
+      "why": "It's Paris."
+     },
+     {
+      "text": "London.",
+      "why": "It's Paris."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, its afterlife.",
+    "hint": "What did it inspire?",
+    "statements": [
+     {
+      "text": "The musical Sunday in the Park with George.",
+      "why": "By Stephen Sondheim.",
+      "isTrue": true
+     },
+     {
+      "text": "A film about pirates.",
+      "why": "It's a musical."
+     },
+     {
+      "text": "Nothing.",
+      "why": "It inspired a musical."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "Parisians relax in a sunny riverside park, built entirely from tiny dots of colour.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "impressionism"
+ },
+ {
+  "id": "moulin-rouge",
+  "title": "At the Moulin Rouge",
+  "artist": "Henri de Toulouse-Lautrec",
+  "artistDates": "1864–1901",
+  "date": "1892–95",
+  "medium": "Oil on canvas",
+  "collection": "Art Institute of Chicago",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Where is it?",
+    "statements": [
+     {
+      "text": "The Moulin Rouge nightclub in Paris.",
+      "why": "Lautrec was a regular.",
+      "isTrue": true
+     },
+     {
+      "text": "A church.",
+      "why": "It's a nightclub."
+     },
+     {
+      "text": "A train station.",
+      "why": "It's a nightclub."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.45,
+     "y": 0.15,
+     "zoom": 3.0
+    },
+    "where": "The background",
+    "prompt": "Look at the small man in the background.",
+    "hint": "Who is he?",
+    "statements": [
+     {
+      "text": "Toulouse-Lautrec himself, beside his tall cousin.",
+      "why": "He was short.",
+      "isTrue": true
+     },
+     {
+      "text": "A waiter.",
+      "why": "It's Lautrec."
+     },
+     {
+      "text": "A child.",
+      "why": "It's Lautrec."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.92,
+     "y": 0.4,
+     "zoom": 2.5
+    },
+    "where": "The right edge",
+    "prompt": "Look at the green face.",
+    "hint": "Who is she?",
+    "statements": [
+     {
+      "text": "A dancer, lit by the club's gaslight.",
+      "why": "The colour is eerie.",
+      "isTrue": true
+     },
+     {
+      "text": "A ghost.",
+      "why": "She's a dancer."
+     },
+     {
+      "text": "A statue.",
+      "why": "She's a person."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.65,
+     "y": 0.2,
+     "zoom": 2.5
+    },
+    "where": "The redhead",
+    "prompt": "Look at the woman fixing her hair.",
+    "hint": "Who is she?",
+    "statements": [
+     {
+      "text": "La Goulue, a famous cancan dancer.",
+      "why": "She starred at the club.",
+      "isTrue": true
+     },
+     {
+      "text": "A queen.",
+      "why": "She's a dancer."
+     },
+     {
+      "text": "Lautrec's mother.",
+      "why": "She's a dancer."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, its history.",
+    "hint": "Was it always this shape?",
+    "statements": [
+     {
+      "text": "A strip was cut off and later put back.",
+      "why": "The green face was on it.",
+      "isTrue": true
+     },
+     {
+      "text": "Yes.",
+      "why": "It was cut."
+     },
+     {
+      "text": "It was round.",
+      "why": "It's rectangular."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "Customers sit at a table in the nightclub, with a woman's ghostly green-lit face looming at the right edge.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "post-impressionism"
+ },
+ {
+  "id": "card-players",
+  "title": "The Card Players",
+  "artist": "Paul Cézanne",
+  "artistDates": "1839–1906",
+  "date": "1890–92",
+  "medium": "Oil on canvas",
+  "collection": "The Metropolitan Museum of Art, New York",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "How many versions?",
+    "statements": [
+     {
+      "text": "Five, of different sizes.",
+      "why": "Cézanne returned to it again and again.",
+      "isTrue": true
+     },
+     {
+      "text": "One.",
+      "why": "Five."
+     },
+     {
+      "text": "Fifty.",
+      "why": "Five."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.3,
+     "y": 0.6,
+     "zoom": 2.5
+    },
+    "where": "The pipe smoker",
+    "prompt": "Look at the man with the pipe.",
+    "hint": "Who were the models?",
+    "statements": [
+     {
+      "text": "Farm workers from Cézanne's family estate.",
+      "why": "He used locals.",
+      "isTrue": true
+     },
+     {
+      "text": "Actors.",
+      "why": "They were farm workers."
+     },
+     {
+      "text": "Kings.",
+      "why": "They were farm workers."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.75,
+     "zoom": 2.5
+    },
+    "where": "The table",
+    "prompt": "Look at the table.",
+    "hint": "What's missing?",
+    "statements": [
+     {
+      "text": "Money; they don't seem to be gambling.",
+      "why": "It's quiet.",
+      "isTrue": true
+     },
+     {
+      "text": "Cards.",
+      "why": "There are cards."
+     },
+     {
+      "text": "Legs.",
+      "why": "It has legs."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.2,
+     "zoom": 2.5
+    },
+    "where": "The standing man",
+    "prompt": "Look at the standing man.",
+    "hint": "What's he doing?",
+    "statements": [
+     {
+      "text": "Watching the game.",
+      "why": "He's an onlooker.",
+      "isTrue": true
+     },
+     {
+      "text": "Dancing.",
+      "why": "He's watching."
+     },
+     {
+      "text": "Sleeping.",
+      "why": "He's watching."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, the price.",
+    "hint": "What happened in 2011?",
+    "statements": [
+     {
+      "text": "Another version sold to Qatar for about $250 million.",
+      "why": "A record at the time.",
+      "isTrue": true
+     },
+     {
+      "text": "This one was stolen.",
+      "why": "Another sold."
+     },
+     {
+      "text": "It burned.",
+      "why": "It survives."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "Peasants in work clothes play cards around a table, one smoking a pipe, while another stands watching.",
+  "credit": "Image: The Metropolitan Museum of Art, public domain (CC0)",
+  "category": "post-impressionism"
+ },
+ {
+  "id": "starry-night",
+  "title": "The Starry Night",
+  "artist": "Vincent van Gogh",
+  "artistDates": "1853–1890",
+  "date": "1889",
+  "medium": "Oil on canvas",
+  "collection": "Museum of Modern Art, New York",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Where did he paint it?",
+    "statements": [
+     {
+      "text": "In the asylum at Saint-Rémy, from the view from his window.",
+      "why": "He painted it by day, from memory.",
+      "isTrue": true
+     },
+     {
+      "text": "In Paris.",
+      "why": "It's Saint-Rémy."
+     },
+     {
+      "text": "In Amsterdam.",
+      "why": "It's France."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.88,
+     "y": 0.18,
+     "zoom": 3.0
+    },
+    "where": "The moon",
+    "prompt": "Look at the moon.",
+    "hint": "What shape?",
+    "statements": [
+     {
+      "text": "A crescent with a glowing halo.",
+      "why": "It's dramatic.",
+      "isTrue": true
+     },
+     {
+      "text": "Full.",
+      "why": "It's a crescent."
+     },
+     {
+      "text": "Square.",
+      "why": "It's a crescent."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.57,
+     "y": 0.75,
+     "zoom": 3.0
+    },
+    "where": "The village",
+    "prompt": "Look at the church.",
+    "hint": "Is it accurate?",
+    "statements": [
+     {
+      "text": "The steeple looks Dutch, perhaps a memory of home.",
+      "why": "The village is partly invented.",
+      "isTrue": true
+     },
+     {
+      "text": "It's an exact view.",
+      "why": "It's invented."
+     },
+     {
+      "text": "It's a mosque.",
+      "why": "It's a church."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.2,
+     "y": 0.55,
+     "zoom": 2.5
+    },
+    "where": "The cypress",
+    "prompt": "Look at the dark tree.",
+    "hint": "What is it?",
+    "statements": [
+     {
+      "text": "A cypress, which seems to flicker like a flame.",
+      "why": "Cypresses are linked to death and eternity.",
+      "isTrue": true
+     },
+     {
+      "text": "A palm.",
+      "why": "It's a cypress."
+     },
+     {
+      "text": "A tower.",
+      "why": "It's a tree."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, its museum.",
+    "hint": "When did MoMA get it?",
+    "statements": [
+     {
+      "text": "In 1941.",
+      "why": "It's one of the world's most famous paintings.",
+      "isTrue": true
+     },
+     {
+      "text": "In 1889.",
+      "why": "In 1941."
+     },
+     {
+      "text": "It's in Paris.",
+      "why": "It's in New York."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A dark cypress flames up beside a sleeping village under a swirling night sky of glowing stars and a crescent moon.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "post-impressionism"
+ }
+]

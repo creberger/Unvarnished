@@ -1,0 +1,42 @@
+[
+ {
+  "id": "renaissance",
+  "name": "Renaissance",
+  "span": "c. 1290–1600"
+ },
+ {
+  "id": "golden-age",
+  "name": "Golden Age & Baroque",
+  "span": "1600s"
+ },
+ {
+  "id": "eighteenth-century",
+  "name": "Rococo & Revolution",
+  "span": "1700s"
+ },
+ {
+  "id": "romantic-realist",
+  "name": "Romantics & Realists",
+  "span": "1800–1870"
+ },
+ {
+  "id": "impressionism",
+  "name": "Impressionism",
+  "span": "1870s–1890s"
+ },
+ {
+  "id": "post-impressionism",
+  "name": "After Impressionism",
+  "span": "1880–1900"
+ },
+ {
+  "id": "modern",
+  "name": "Modern",
+  "span": "1905–1930"
+ },
+ {
+  "id": "asia-antiquity",
+  "name": "Asia & Antiquity",
+  "span": "Roman Egypt to Edo Japan"
+ }
+]

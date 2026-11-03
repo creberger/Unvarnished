@@ -1,0 +1,1670 @@
+[
+ {
+  "id": "the-bedroom",
+  "title": "The Bedroom",
+  "artist": "Vincent van Gogh",
+  "artistDates": "1853–1890",
+  "date": "1889",
+  "medium": "Oil on canvas",
+  "collection": "Art Institute of Chicago",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Whose room?",
+    "statements": [
+     {
+      "text": "Van Gogh's own bedroom in the Yellow House in Arles.",
+      "why": "He painted it three times.",
+      "isTrue": true
+     },
+     {
+      "text": "A hotel room in Paris.",
+      "why": "It's his room in Arles."
+     },
+     {
+      "text": "Gauguin's room.",
+      "why": "It's his own."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.65,
+     "y": 0.4,
+     "zoom": 2.2
+    },
+    "where": "The bed",
+    "prompt": "Look at the bed.",
+    "hint": "How many pillows?",
+    "statements": [
+     {
+      "text": "Two, like the two chairs; he hoped for company.",
+      "why": "Gauguin came to stay.",
+      "isTrue": true
+     },
+     {
+      "text": "None.",
+      "why": "Two."
+     },
+     {
+      "text": "Five.",
+      "why": "Two."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.15,
+     "zoom": 2.5
+    },
+    "where": "The walls",
+    "prompt": "Look at the walls.",
+    "hint": "Were they always blue?",
+    "statements": [
+     {
+      "text": "No, they were violet; the red in the paint has faded.",
+      "why": "Research revealed it.",
+      "isTrue": true
+     },
+     {
+      "text": "Yes.",
+      "why": "They faded."
+     },
+     {
+      "text": "They were white.",
+      "why": "They were violet."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.65,
+     "y": 0.2,
+     "zoom": 2.5
+    },
+    "where": "The pictures",
+    "prompt": "Look at the pictures on the wall.",
+    "hint": "What are they?",
+    "statements": [
+     {
+      "text": "Portraits and paintings by Van Gogh himself.",
+      "why": "His own work.",
+      "isTrue": true
+     },
+     {
+      "text": "Mirrors.",
+      "why": "They're paintings."
+     },
+     {
+      "text": "Windows.",
+      "why": "They're paintings."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, the perspective.",
+    "hint": "Why does it look tilted?",
+    "statements": [
+     {
+      "text": "The room really was an odd shape, and he exaggerated it.",
+      "why": "It wasn't a mistake.",
+      "isTrue": true
+     },
+     {
+      "text": "He was drunk.",
+      "why": "It was intentional."
+     },
+     {
+      "text": "It was cut wrong.",
+      "why": "It's intentional."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A small bedroom with a wooden bed, two chairs, a little table and pictures on blue walls, drawn in a tilted perspective.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "post-impressionism"
+ },
+ {
+  "id": "sunflowers",
+  "title": "Sunflowers",
+  "artist": "Vincent van Gogh",
+  "artistDates": "1853–1890",
+  "date": "1888",
+  "medium": "Oil on canvas",
+  "collection": "National Gallery, London",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Who was it for?",
+    "statements": [
+     {
+      "text": "To decorate Gauguin's room when he came to stay in Arles.",
+      "why": "Van Gogh wanted to impress him.",
+      "isTrue": true
+     },
+     {
+      "text": "For a florist's shop.",
+      "why": "It was for Gauguin."
+     },
+     {
+      "text": "For the King of the Netherlands.",
+      "why": "It was for Gauguin."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.75,
+     "zoom": 3.0
+    },
+    "where": "The vase",
+    "prompt": "Look at the vase.",
+    "hint": "What's written there?",
+    "statements": [
+     {
+      "text": "\"Vincent,\" his signature.",
+      "why": "He signed with his first name.",
+      "isTrue": true
+     },
+     {
+      "text": "The price.",
+      "why": "It's his name."
+     },
+     {
+      "text": "A poem.",
+      "why": "It's his name."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.4,
+     "y": 0.4,
+     "zoom": 2.5
+    },
+    "where": "The flowers",
+    "prompt": "Look at the flowers.",
+    "hint": "Are they all fresh?",
+    "statements": [
+     {
+      "text": "Some are wilting and dropping petals.",
+      "why": "The full life cycle.",
+      "isTrue": true
+     },
+     {
+      "text": "All are fresh.",
+      "why": "Some wilt."
+     },
+     {
+      "text": "They're plastic.",
+      "why": "They're painted sunflowers."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.3,
+     "zoom": 2.0
+    },
+    "where": "The yellow",
+    "prompt": "Look at the yellows.",
+    "hint": "What pigment?",
+    "statements": [
+     {
+      "text": "Chrome yellow, which can darken with time.",
+      "why": "Some has browned.",
+      "isTrue": true
+     },
+     {
+      "text": "Gold leaf.",
+      "why": "It's paint."
+     },
+     {
+      "text": "Lemon juice.",
+      "why": "It's paint."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, its history.",
+    "hint": "When did the gallery buy it?",
+    "statements": [
+     {
+      "text": "In 1924.",
+      "why": "It's among the most popular works there.",
+      "isTrue": true
+     },
+     {
+      "text": "In 1888.",
+      "why": "In 1924."
+     },
+     {
+      "text": "It was stolen.",
+      "why": "It wasn't."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "Fifteen sunflowers, some fresh and some wilting, crowd a yellow vase against a yellow background.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "post-impressionism"
+ },
+ {
+  "id": "straw-hat-self-portrait",
+  "title": "Self-Portrait with a Straw Hat",
+  "artist": "Vincent van Gogh",
+  "artistDates": "1853–1890",
+  "date": "1887",
+  "medium": "Oil on canvas",
+  "collection": "The Metropolitan Museum of Art, New York",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Where was he?",
+    "statements": [
+     {
+      "text": "In Paris.",
+      "why": "He lived there with his brother Theo.",
+      "isTrue": true
+     },
+     {
+      "text": "In Arles.",
+      "why": "It was Paris."
+     },
+     {
+      "text": "In London.",
+      "why": "It was Paris."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.5
+    },
+    "where": "The back",
+    "prompt": "Think about the back of the canvas.",
+    "hint": "What's on it?",
+    "statements": [
+     {
+      "text": "An earlier painting, The Potato Peeler.",
+      "why": "He reused the canvas to save money.",
+      "isTrue": true
+     },
+     {
+      "text": "Nothing.",
+      "why": "There's a painting."
+     },
+     {
+      "text": "A letter.",
+      "why": "There's a painting."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.45,
+     "zoom": 2.5
+    },
+    "where": "His face",
+    "prompt": "Look at his face.",
+    "hint": "How is it painted?",
+    "statements": [
+     {
+      "text": "With short strokes of contrasting colours.",
+      "why": "He learned from the pointillists.",
+      "isTrue": true
+     },
+     {
+      "text": "Smoothly.",
+      "why": "It's in strokes."
+     },
+     {
+      "text": "In black and white.",
+      "why": "It's colourful."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.15,
+     "zoom": 2.5
+    },
+    "where": "The hat",
+    "prompt": "Look at the hat.",
+    "hint": "What is it?",
+    "statements": [
+     {
+      "text": "A straw hat.",
+      "why": "He wore it in summer.",
+      "isTrue": true
+     },
+     {
+      "text": "A crown.",
+      "why": "It's straw."
+     },
+     {
+      "text": "A helmet.",
+      "why": "It's straw."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, his self-portraits.",
+    "hint": "How many?",
+    "statements": [
+     {
+      "text": "More than 35.",
+      "why": "He couldn't afford models.",
+      "isTrue": true
+     },
+     {
+      "text": "Three.",
+      "why": "More than 35."
+     },
+     {
+      "text": "None.",
+      "why": "Many."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "Van Gogh in a yellow straw hat, his face and coat built from short strokes of contrasting colour.",
+  "credit": "Image: The Metropolitan Museum of Art, public domain (CC0)",
+  "category": "post-impressionism"
+ },
+ {
+  "id": "where-do-we-come-from",
+  "title": "Where Do We Come From? What Are We? Where Are We Going?",
+  "artist": "Paul Gauguin",
+  "artistDates": "1848–1903",
+  "date": "1897–98",
+  "medium": "Oil on canvas",
+  "collection": "Museum of Fine Arts, Boston",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Which way should you read it?",
+    "statements": [
+     {
+      "text": "From right to left: a baby, then adults, then an old woman.",
+      "why": "It's a life cycle.",
+      "isTrue": true
+     },
+     {
+      "text": "Left to right.",
+      "why": "It's right to left."
+     },
+     {
+      "text": "Top to bottom.",
+      "why": "It's right to left."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.08,
+     "y": 0.08,
+     "zoom": 3.0
+    },
+    "where": "Top left",
+    "prompt": "Look at the top left corner.",
+    "hint": "What's there?",
+    "statements": [
+     {
+      "text": "The title, written by Gauguin.",
+      "why": "In French.",
+      "isTrue": true
+     },
+     {
+      "text": "A map.",
+      "why": "It's the title."
+     },
+     {
+      "text": "A bird.",
+      "why": "It's the title."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.65,
+     "y": 0.35,
+     "zoom": 2.5
+    },
+    "where": "The idol",
+    "prompt": "Look at the blue figure.",
+    "hint": "What is it?",
+    "statements": [
+     {
+      "text": "An idol.",
+      "why": "A spiritual presence.",
+      "isTrue": true
+     },
+     {
+      "text": "A ghost.",
+      "why": "It's an idol."
+     },
+     {
+      "text": "A tree.",
+      "why": "It's an idol."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.4,
+     "zoom": 2.5
+    },
+    "where": "The centre",
+    "prompt": "Look at the central figure.",
+    "hint": "What's he doing?",
+    "statements": [
+     {
+      "text": "Picking fruit.",
+      "why": "Perhaps a symbol of knowledge.",
+      "isTrue": true
+     },
+     {
+      "text": "Dancing.",
+      "why": "He's picking fruit."
+     },
+     {
+      "text": "Fishing.",
+      "why": "He's picking fruit."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, where did he paint it?",
+    "hint": "Which island?",
+    "statements": [
+     {
+      "text": "Tahiti.",
+      "why": "He lived there.",
+      "isTrue": true
+     },
+     {
+      "text": "Hawaii.",
+      "why": "It's Tahiti."
+     },
+     {
+      "text": "Jamaica.",
+      "why": "It's Tahiti."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A long frieze of Tahitian figures, from a baby on the right to an old woman on the left, with a blue idol behind.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "post-impressionism"
+ },
+ {
+  "id": "surprised",
+  "title": "Tiger in a Tropical Storm (Surprised!)",
+  "artist": "Henri Rousseau",
+  "artistDates": "1844–1910",
+  "date": "1891",
+  "medium": "Oil on canvas",
+  "collection": "National Gallery, London",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Did Rousseau see a jungle?",
+    "statements": [
+     {
+      "text": "No, he never left France; he studied plants in Paris's botanical garden.",
+      "why": "His jungles are imagined.",
+      "isTrue": true
+     },
+     {
+      "text": "Yes, in Brazil.",
+      "why": "He never left France."
+     },
+     {
+      "text": "Yes, in India.",
+      "why": "He never left France."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.55,
+     "y": 0.7,
+     "zoom": 2.5
+    },
+    "where": "The tiger",
+    "prompt": "Look at the tiger.",
+    "hint": "What's it doing?",
+    "statements": [
+     {
+      "text": "Crouching, startled by the storm.",
+      "why": "Its prey is out of sight.",
+      "isTrue": true
+     },
+     {
+      "text": "Sleeping.",
+      "why": "It's alert."
+     },
+     {
+      "text": "Eating.",
+      "why": "It's crouching."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.6,
+     "y": 0.2,
+     "zoom": 2.5
+    },
+    "where": "The rain",
+    "prompt": "Look at the sky.",
+    "hint": "How is the rain shown?",
+    "statements": [
+     {
+      "text": "As thin silver streaks.",
+      "why": "He scratched them into the paint.",
+      "isTrue": true
+     },
+     {
+      "text": "As dots.",
+      "why": "It's streaks."
+     },
+     {
+      "text": "It isn't.",
+      "why": "There's rain."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.15,
+     "y": 0.9,
+     "zoom": 3.0
+    },
+    "where": "Bottom left",
+    "prompt": "Look at the bottom left.",
+    "hint": "What's there?",
+    "statements": [
+     {
+      "text": "His signature.",
+      "why": "Henri Rousseau.",
+      "isTrue": true
+     },
+     {
+      "text": "A snake.",
+      "why": "It's his signature."
+     },
+     {
+      "text": "A flower.",
+      "why": "It's his signature."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, his job.",
+    "hint": "What was his nickname?",
+    "statements": [
+     {
+      "text": "\"Le Douanier,\" because he worked as a toll collector.",
+      "why": "He painted in his spare time.",
+      "isTrue": true
+     },
+     {
+      "text": "\"The Sailor.\"",
+      "why": "It's the customs man."
+     },
+     {
+      "text": "\"The Prince.\"",
+      "why": "It's the customs man."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A tiger crouches in tall jungle grass, lit by a flash of lightning as wind and rain lash the leaves.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "post-impressionism"
+ },
+ {
+  "id": "sleeping-gypsy",
+  "title": "The Sleeping Gypsy",
+  "artist": "Henri Rousseau",
+  "artistDates": "1844–1910",
+  "date": "1897",
+  "medium": "Oil on canvas",
+  "collection": "Museum of Modern Art, New York",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Is the woman in danger?",
+    "statements": [
+     {
+      "text": "The lion sniffs her but doesn't attack.",
+      "why": "It's dreamlike.",
+      "isTrue": true
+     },
+     {
+      "text": "She's fighting the lion.",
+      "why": "She's asleep."
+     },
+     {
+      "text": "She's dead.",
+      "why": "She's sleeping."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.55,
+     "y": 0.75,
+     "zoom": 2.5
+    },
+    "where": "Beside her",
+    "prompt": "Look beside her.",
+    "hint": "What's there?",
+    "statements": [
+     {
+      "text": "A mandolin and a water jug.",
+      "why": "She's a wandering musician.",
+      "isTrue": true
+     },
+     {
+      "text": "A sword.",
+      "why": "It's a mandolin."
+     },
+     {
+      "text": "A book.",
+      "why": "It's a mandolin."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.9,
+     "y": 0.1,
+     "zoom": 3.0
+    },
+    "where": "The sky",
+    "prompt": "Look at the sky.",
+    "hint": "What's there?",
+    "statements": [
+     {
+      "text": "A full moon.",
+      "why": "It lights the scene.",
+      "isTrue": true
+     },
+     {
+      "text": "The sun.",
+      "why": "It's night."
+     },
+     {
+      "text": "A bird.",
+      "why": "It's the moon."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.4,
+     "y": 0.4,
+     "zoom": 2.5
+    },
+    "where": "The lion",
+    "prompt": "Look at the lion.",
+    "hint": "What's its tail doing?",
+    "statements": [
+     {
+      "text": "Raised in the air.",
+      "why": "It's alert.",
+      "isTrue": true
+     },
+     {
+      "text": "Wagging.",
+      "why": "It's raised."
+     },
+     {
+      "text": "Missing.",
+      "why": "It's there."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, its history.",
+    "hint": "Who refused it?",
+    "statements": [
+     {
+      "text": "Rousseau's home town, Laval, declined to buy it.",
+      "why": "It was rediscovered in the 1920s.",
+      "isTrue": true
+     },
+     {
+      "text": "The Louvre.",
+      "why": "It was Laval."
+     },
+     {
+      "text": "No one.",
+      "why": "Laval refused."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "Under a full moon in the desert, a lion sniffs at a woman asleep beside a mandolin and a water jug.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "post-impressionism"
+ },
+ {
+  "id": "hammershoi-interior",
+  "title": "Interior, Strandgade 30",
+  "artist": "Vilhelm Hammershøi",
+  "artistDates": "1864–1916",
+  "date": "1900",
+  "medium": "Oil on canvas",
+  "collection": "Private collection",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Whose home?",
+    "statements": [
+     {
+      "text": "Hammershøi's own apartment in Copenhagen.",
+      "why": "He painted it about 60 times.",
+      "isTrue": true
+     },
+     {
+      "text": "A palace.",
+      "why": "It's his flat."
+     },
+     {
+      "text": "A museum.",
+      "why": "It's his flat."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.1,
+     "y": 0.5,
+     "zoom": 2.5
+    },
+    "where": "The woman",
+    "prompt": "Look at the woman.",
+    "hint": "Who is she?",
+    "statements": [
+     {
+      "text": "Usually his wife, Ida, often seen from behind.",
+      "why": "She's a quiet presence.",
+      "isTrue": true
+     },
+     {
+      "text": "A maid.",
+      "why": "Usually his wife."
+     },
+     {
+      "text": "A ghost.",
+      "why": "It's his wife."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.8,
+     "zoom": 2.5
+    },
+    "where": "The floor",
+    "prompt": "Look at the light on the floor.",
+    "hint": "What does it show?",
+    "statements": [
+     {
+      "text": "Sunlight through the window.",
+      "why": "It's a soft patch.",
+      "isTrue": true
+     },
+     {
+      "text": "A rug.",
+      "why": "It's light."
+     },
+     {
+      "text": "Water.",
+      "why": "It's light."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.3,
+     "zoom": 2.5
+    },
+    "where": "The window",
+    "prompt": "Look at the window.",
+    "hint": "What's the palette?",
+    "statements": [
+     {
+      "text": "Mostly greys and whites.",
+      "why": "He was a master of muted tones.",
+      "isTrue": true
+     },
+     {
+      "text": "Bright reds.",
+      "why": "It's grey."
+     },
+     {
+      "text": "Neon.",
+      "why": "It's grey."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, his nickname.",
+    "hint": "What was he called?",
+    "statements": [
+     {
+      "text": "\"The painter of silence.\"",
+      "why": "His rooms feel still.",
+      "isTrue": true
+     },
+     {
+      "text": "\"The loud painter.\"",
+      "why": "He was quiet."
+     },
+     {
+      "text": "\"The red painter.\"",
+      "why": "He used grey."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A quiet grey room with a woman standing by a tall window, a white door to the right and sunlight falling on the floor.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "post-impressionism"
+ },
+ {
+  "id": "sorolla-seashore",
+  "title": "Strolling along the Seashore",
+  "artist": "Joaquín Sorolla",
+  "artistDates": "1863–1923",
+  "date": "1909",
+  "medium": "Oil on canvas",
+  "collection": "Museo Sorolla, Madrid",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Who are they?",
+    "statements": [
+     {
+      "text": "Sorolla's wife, Clotilde, and their daughter María.",
+      "why": "His family were favourite models.",
+      "isTrue": true
+     },
+     {
+      "text": "Two queens.",
+      "why": "They're his family."
+     },
+     {
+      "text": "Actresses.",
+      "why": "They're his family."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.25,
+     "y": 0.4,
+     "zoom": 2.5
+    },
+    "where": "The dress",
+    "prompt": "Look at the white dress.",
+    "hint": "Is it really white?",
+    "statements": [
+     {
+      "text": "The whites are full of blues, purples and yellows.",
+      "why": "He was a master of light.",
+      "isTrue": true
+     },
+     {
+      "text": "Pure white only.",
+      "why": "There's colour."
+     },
+     {
+      "text": "It's grey.",
+      "why": "It's colourful."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.25,
+     "y": 0.1,
+     "zoom": 2.5
+    },
+    "where": "The hat",
+    "prompt": "Look at the hat.",
+    "hint": "What's it doing?",
+    "statements": [
+     {
+      "text": "The wind tugs at it and the veil.",
+      "why": "A breezy day.",
+      "isTrue": true
+     },
+     {
+      "text": "It's on fire.",
+      "why": "It's blowing."
+     },
+     {
+      "text": "Floating away.",
+      "why": "She holds it."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.85,
+     "zoom": 2.0
+    },
+    "where": "The sand",
+    "prompt": "Look at the sand.",
+    "hint": "Where is it?",
+    "statements": [
+     {
+      "text": "A beach at Valencia, Sorolla's home.",
+      "why": "He loved the sea there.",
+      "isTrue": true
+     },
+     {
+      "text": "The Sahara.",
+      "why": "It's a beach."
+     },
+     {
+      "text": "The moon.",
+      "why": "It's a beach."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, how he painted.",
+    "hint": "Indoors?",
+    "statements": [
+     {
+      "text": "Outdoors, on the beach, in the bright light.",
+      "why": "He worked fast.",
+      "isTrue": true
+     },
+     {
+      "text": "From photos.",
+      "why": "He painted outdoors."
+     },
+     {
+      "text": "At night.",
+      "why": "In daylight."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "Two women in long white dresses and veils walk on a bright beach, the wind catching the fabric.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "modern"
+ },
+ {
+  "id": "jack-pine",
+  "title": "The Jack Pine",
+  "artist": "Tom Thomson",
+  "artistDates": "1877–1917",
+  "date": "1916–17",
+  "medium": "Oil on canvas",
+  "collection": "National Gallery of Canada, Ottawa",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Where is it?",
+    "statements": [
+     {
+      "text": "Algonquin Park, in Ontario.",
+      "why": "Thomson spent summers there.",
+      "isTrue": true
+     },
+     {
+      "text": "The Alps.",
+      "why": "It's Canada."
+     },
+     {
+      "text": "Scotland.",
+      "why": "It's Canada."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.4,
+     "zoom": 2.5
+    },
+    "where": "The tree",
+    "prompt": "Look at the tree.",
+    "hint": "What kind?",
+    "statements": [
+     {
+      "text": "A jack pine.",
+      "why": "A Canadian tree.",
+      "isTrue": true
+     },
+     {
+      "text": "A palm.",
+      "why": "It's a pine."
+     },
+     {
+      "text": "An oak.",
+      "why": "It's a pine."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.6,
+     "zoom": 2.0
+    },
+    "where": "The water",
+    "prompt": "Look at the lake.",
+    "hint": "How is it shown?",
+    "statements": [
+     {
+      "text": "In bands of colour.",
+      "why": "It's flat and decorative.",
+      "isTrue": true
+     },
+     {
+      "text": "With waves.",
+      "why": "It's still."
+     },
+     {
+      "text": "With boats.",
+      "why": "It's empty."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.15,
+     "zoom": 2.0
+    },
+    "where": "The sky",
+    "prompt": "Look at the sky.",
+    "hint": "How is it painted?",
+    "statements": [
+     {
+      "text": "In stripes of yellow and orange.",
+      "why": "It glows.",
+      "isTrue": true
+     },
+     {
+      "text": "Dark night.",
+      "why": "It's sunset."
+     },
+     {
+      "text": "Clouds.",
+      "why": "It's stripes."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, Thomson's fate.",
+    "hint": "What happened?",
+    "statements": [
+     {
+      "text": "He drowned in Canoe Lake in 1917, in mysterious circumstances.",
+      "why": "He was 39.",
+      "isTrue": true
+     },
+     {
+      "text": "He became a senator.",
+      "why": "He drowned."
+     },
+     {
+      "text": "He moved to Paris.",
+      "why": "He drowned."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A twisted pine tree silhouetted against a glowing sunset sky over a still lake and blue hills.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "modern"
+ },
+ {
+  "id": "the-scream",
+  "title": "The Scream",
+  "artist": "Edvard Munch",
+  "artistDates": "1863–1944",
+  "date": "1893",
+  "medium": "Tempera and crayon on cardboard",
+  "collection": "National Museum, Oslo",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "What inspired it?",
+    "statements": [
+     {
+      "text": "A blood-red sunset Munch saw while walking in Oslo.",
+      "why": "He felt a scream pass through nature.",
+      "isTrue": true
+     },
+     {
+      "text": "A nightmare.",
+      "why": "It was a real sunset."
+     },
+     {
+      "text": "A film.",
+      "why": "It's 1893."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.15,
+     "y": 0.12,
+     "zoom": 3.0
+    },
+    "where": "Top left",
+    "prompt": "Look at the top left of the sky.",
+    "hint": "What's written there?",
+    "statements": [
+     {
+      "text": "\"Can only have been painted by a madman,\" in Munch's own hand.",
+      "why": "Confirmed in 2021.",
+      "isTrue": true
+     },
+     {
+      "text": "A prayer.",
+      "why": "It's a note."
+     },
+     {
+      "text": "A date.",
+      "why": "It's a note."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.55,
+     "zoom": 2.5
+    },
+    "where": "The figure",
+    "prompt": "Look at the figure.",
+    "hint": "What's it doing?",
+    "statements": [
+     {
+      "text": "Clutching its head.",
+      "why": "It's anguished.",
+      "isTrue": true
+     },
+     {
+      "text": "Laughing.",
+      "why": "It's anguished."
+     },
+     {
+      "text": "Singing.",
+      "why": "It's anguished."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.85,
+     "y": 0.45,
+     "zoom": 2.5
+    },
+    "where": "The bridge",
+    "prompt": "Look at the bridge.",
+    "hint": "Who's there?",
+    "statements": [
+     {
+      "text": "Two figures walking away.",
+      "why": "They don't notice.",
+      "isTrue": true
+     },
+     {
+      "text": "A dog.",
+      "why": "Two figures."
+     },
+     {
+      "text": "No one.",
+      "why": "Two figures."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, its history.",
+    "hint": "What happened in 1994?",
+    "statements": [
+     {
+      "text": "It was stolen from the National Gallery in Oslo and recovered.",
+      "why": "The thieves left a note.",
+      "isTrue": true
+     },
+     {
+      "text": "It was sold.",
+      "why": "It was stolen."
+     },
+     {
+      "text": "It burned.",
+      "why": "It survived."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A figure with a skull-like face clutches its head on a bridge under a blood-red swirling sky.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "post-impressionism"
+ },
+ {
+  "id": "the-kiss",
+  "title": "The Kiss",
+  "artist": "Gustav Klimt",
+  "artistDates": "1862–1918",
+  "date": "1907–08",
+  "medium": "Oil and gold leaf on canvas",
+  "collection": "Belvedere, Vienna",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "What's shiny?",
+    "statements": [
+     {
+      "text": "Real gold leaf.",
+      "why": "Klimt's \"golden period.\"",
+      "isTrue": true
+     },
+     {
+      "text": "Brass.",
+      "why": "It's gold."
+     },
+     {
+      "text": "Glitter.",
+      "why": "It's gold leaf."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.35,
+     "y": 0.4,
+     "zoom": 2.5
+    },
+    "where": "The robes",
+    "prompt": "Look at the robes.",
+    "hint": "What patterns?",
+    "statements": [
+     {
+      "text": "Rectangles for the man, circles and flowers for the woman.",
+      "why": "Masculine and feminine.",
+      "isTrue": true
+     },
+     {
+      "text": "Stripes for both.",
+      "why": "They differ."
+     },
+     {
+      "text": "Plain.",
+      "why": "They're patterned."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.9,
+     "zoom": 2.5
+    },
+    "where": "The meadow",
+    "prompt": "Look at the bottom.",
+    "hint": "Where are they?",
+    "statements": [
+     {
+      "text": "At the edge of a flower meadow.",
+      "why": "Some see a cliff.",
+      "isTrue": true
+     },
+     {
+      "text": "In a bed.",
+      "why": "On a meadow."
+     },
+     {
+      "text": "In the sea.",
+      "why": "On a meadow."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.6,
+     "y": 0.25,
+     "zoom": 2.5
+    },
+    "where": "The woman's face",
+    "prompt": "Look at her face.",
+    "hint": "Her eyes?",
+    "statements": [
+     {
+      "text": "Closed.",
+      "why": "She's absorbed.",
+      "isTrue": true
+     },
+     {
+      "text": "Wide open.",
+      "why": "They're closed."
+     },
+     {
+      "text": "Covered.",
+      "why": "They're closed."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, who bought it?",
+    "hint": "When?",
+    "statements": [
+     {
+      "text": "The Austrian state, in 1908, before it was finished.",
+      "why": "It's never left Vienna since.",
+      "isTrue": true
+     },
+     {
+      "text": "An American, in 2006.",
+      "why": "It's in Vienna."
+     },
+     {
+      "text": "Nobody.",
+      "why": "Austria did."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A couple wrapped in golden robes embrace on a flowered meadow, the man's robe patterned with rectangles and the woman's with circles.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "modern"
+ },
+ {
+  "id": "adele-bloch-bauer",
+  "title": "Portrait of Adele Bloch-Bauer I",
+  "artist": "Gustav Klimt",
+  "artistDates": "1862–1918",
+  "date": "1907",
+  "medium": "Oil, gold and silver leaf on canvas",
+  "collection": "Neue Galerie, New York",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Who was she?",
+    "statements": [
+     {
+      "text": "A Viennese patron and the wife of a sugar industrialist.",
+      "why": "She hosted a salon.",
+      "isTrue": true
+     },
+     {
+      "text": "A dancer.",
+      "why": "She was a patron."
+     },
+     {
+      "text": "Klimt's sister.",
+      "why": "She was a patron."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.6,
+     "y": 0.5,
+     "zoom": 2.5
+    },
+    "where": "The dress",
+    "prompt": "Look at the dress.",
+    "hint": "What patterns?",
+    "statements": [
+     {
+      "text": "Eye-like symbols and spirals.",
+      "why": "It's influenced by Egyptian art.",
+      "isTrue": true
+     },
+     {
+      "text": "Plain.",
+      "why": "It's patterned."
+     },
+     {
+      "text": "Flowers only.",
+      "why": "It has eyes."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.65,
+     "y": 0.2,
+     "zoom": 2.5
+    },
+    "where": "Her face",
+    "prompt": "Look at her face.",
+    "hint": "How long did it take?",
+    "statements": [
+     {
+      "text": "About three years.",
+      "why": "Klimt made many sketches.",
+      "isTrue": true
+     },
+     {
+      "text": "One day.",
+      "why": "Three years."
+     },
+     {
+      "text": "Ten years.",
+      "why": "Three years."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.8,
+     "zoom": 2.5
+    },
+    "where": "The background",
+    "prompt": "Look at the gold.",
+    "hint": "What's it made of?",
+    "statements": [
+     {
+      "text": "Gold and silver leaf.",
+      "why": "It shimmers.",
+      "isTrue": true
+     },
+     {
+      "text": "Yellow paint.",
+      "why": "It's metal leaf."
+     },
+     {
+      "text": "Glitter.",
+      "why": "It's leaf."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, its history.",
+    "hint": "What happened?",
+    "statements": [
+     {
+      "text": "Nazis seized it; her niece won it back in 2006 and it sold for $135 million.",
+      "why": "The film Woman in Gold tells the story.",
+      "isTrue": true
+     },
+     {
+      "text": "It never left Vienna.",
+      "why": "It went to New York."
+     },
+     {
+      "text": "It was destroyed.",
+      "why": "It survives."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A woman with dark hair sits in a shimmering field of gold patterns, her dress covered in eye-like symbols.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "modern"
+ }
+]

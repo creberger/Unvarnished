@@ -1,0 +1,1670 @@
+[
+ {
+  "id": "el-greco-assumption",
+  "title": "The Assumption of the Virgin",
+  "artist": "El Greco",
+  "artistDates": "1541–1614",
+  "date": "1577–79",
+  "medium": "Oil on canvas",
+  "collection": "Art Institute of Chicago",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "How big is it?",
+    "statements": [
+     {
+      "text": "It's about four metres tall, made as the centre of a church altarpiece.",
+      "why": "It was painted for Santo Domingo el Antiguo in Toledo.",
+      "isTrue": true
+     },
+     {
+      "text": "It's the size of a postcard.",
+      "why": "It's enormous."
+     },
+     {
+      "text": "It was painted on a ceiling.",
+      "why": "It stood above an altar."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.28,
+     "zoom": 2.5
+    },
+    "where": "Mary",
+    "prompt": "Look at Mary's feet.",
+    "hint": "What does she stand on?",
+    "statements": [
+     {
+      "text": "A crescent moon.",
+      "why": "A traditional symbol for Mary.",
+      "isTrue": true
+     },
+     {
+      "text": "A cloud shaped like a ship.",
+      "why": "It's a crescent moon."
+     },
+     {
+      "text": "A golden throne.",
+      "why": "It's a moon."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.6,
+     "zoom": 2.0
+    },
+    "where": "The apostles",
+    "prompt": "Look at the apostles below.",
+    "hint": "What's at their centre?",
+    "statements": [
+     {
+      "text": "Mary's empty tomb.",
+      "why": "They look up in wonder.",
+      "isTrue": true
+     },
+     {
+      "text": "A table set for a meal.",
+      "why": "It's an empty tomb."
+     },
+     {
+      "text": "A burning bush.",
+      "why": "It's a tomb."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.95,
+     "zoom": 3.0
+    },
+    "where": "The bottom",
+    "prompt": "Look at the bottom edge.",
+    "hint": "How did he sign?",
+    "statements": [
+     {
+      "text": "In Greek letters, on a slip of paper.",
+      "why": "He was proud of his Cretan roots.",
+      "isTrue": true
+     },
+     {
+      "text": "In Spanish.",
+      "why": "He signed in Greek."
+     },
+     {
+      "text": "He didn't sign it.",
+      "why": "It's signed."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, its significance.",
+    "hint": "What was it for El Greco?",
+    "statements": [
+     {
+      "text": "His first major commission after he arrived in Spain.",
+      "why": "It made his name in Toledo.",
+      "isTrue": true
+     },
+     {
+      "text": "His last painting.",
+      "why": "It's early in his Spanish career."
+     },
+     {
+      "text": "A painting he made for the Pope.",
+      "why": "It was for a Toledo convent."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A tall altarpiece: the apostles gather around an empty tomb below as Mary rises on a crescent moon among angels.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "renaissance"
+ },
+ {
+  "id": "las-meninas",
+  "title": "Las Meninas",
+  "artist": "Diego Velázquez",
+  "artistDates": "1599–1660",
+  "date": "1656",
+  "medium": "Oil on canvas",
+  "collection": "Museo del Prado, Madrid",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Who's at the easel?",
+    "statements": [
+     {
+      "text": "Velázquez, who painted himself at work.",
+      "why": "He looks out at us.",
+      "isTrue": true
+     },
+     {
+      "text": "A student.",
+      "why": "It's Velázquez."
+     },
+     {
+      "text": "The king.",
+      "why": "The painter is Velázquez."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.48,
+     "y": 0.44,
+     "zoom": 3.0
+    },
+    "where": "The mirror",
+    "prompt": "Look at the mirror on the back wall.",
+    "hint": "Who's reflected?",
+    "statements": [
+     {
+      "text": "The king and queen of Spain.",
+      "why": "They seem to stand where we are.",
+      "isTrue": true
+     },
+     {
+      "text": "Velázquez's wife.",
+      "why": "It's the king and queen."
+     },
+     {
+      "text": "An empty room.",
+      "why": "It shows two figures."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.36,
+     "y": 0.6,
+     "zoom": 3.0
+    },
+    "where": "The painter's chest",
+    "prompt": "Look at the red cross on his chest.",
+    "hint": "When was it added?",
+    "statements": [
+     {
+      "text": "After he was knighted in 1659, three years after the painting.",
+      "why": "Someone added it later.",
+      "isTrue": true
+     },
+     {
+      "text": "He had it from birth.",
+      "why": "He earned it later."
+     },
+     {
+      "text": "It's a bloodstain.",
+      "why": "It's the cross of the Order of Santiago."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.75,
+     "y": 0.88,
+     "zoom": 2.5
+    },
+    "where": "The dog",
+    "prompt": "Look at the dog at the front.",
+    "hint": "What's happening?",
+    "statements": [
+     {
+      "text": "A boy rests his foot on the sleepy dog.",
+      "why": "The dog ignores him.",
+      "isTrue": true
+     },
+     {
+      "text": "The dog is barking at the king.",
+      "why": "It's dozing."
+     },
+     {
+      "text": "It's a stuffed dog.",
+      "why": "It's alive."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, its influence.",
+    "hint": "Who reworked it?",
+    "statements": [
+     {
+      "text": "Picasso, who painted 58 variations in 1957.",
+      "why": "They're in the Museu Picasso in Barcelona.",
+      "isTrue": true
+     },
+     {
+      "text": "No one has dared copy it.",
+      "why": "Many have."
+     },
+     {
+      "text": "Napoleon had it cut in half.",
+      "why": "It's intact."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "The little Spanish princess in a wide white dress stands with her maids, a dog and dwarfs, while Velázquez paints at a huge canvas.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "golden-age"
+ },
+ {
+  "id": "juan-de-pareja",
+  "title": "Juan de Pareja",
+  "artist": "Diego Velázquez",
+  "artistDates": "1599–1660",
+  "date": "1650",
+  "medium": "Oil on canvas",
+  "collection": "The Metropolitan Museum of Art, New York",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Who is he?",
+    "statements": [
+     {
+      "text": "Velázquez's enslaved assistant, whom he freed and who became a painter himself.",
+      "why": "Pareja's own paintings are in the Prado.",
+      "isTrue": true
+     },
+     {
+      "text": "A Spanish prince.",
+      "why": "He was Velázquez's assistant."
+     },
+     {
+      "text": "Velázquez's brother.",
+      "why": "He was his assistant."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.3,
+     "zoom": 2.5
+    },
+    "where": "The face",
+    "prompt": "Look at his face.",
+    "hint": "Where was it first shown?",
+    "statements": [
+     {
+      "text": "At the Pantheon in Rome in 1650, to great acclaim.",
+      "why": "It made a sensation.",
+      "isTrue": true
+     },
+     {
+      "text": "At the Louvre in 1900.",
+      "why": "It was shown in Rome."
+     },
+     {
+      "text": "It was never shown.",
+      "why": "It was exhibited in 1650."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 2.2
+    },
+    "where": "The collar",
+    "prompt": "Look at his collar.",
+    "hint": "How is it painted?",
+    "statements": [
+     {
+      "text": "With loose, quick strokes.",
+      "why": "Velázquez's brushwork looks modern up close.",
+      "isTrue": true
+     },
+     {
+      "text": "With a fine pen.",
+      "why": "It's brushwork."
+     },
+     {
+      "text": "With gold leaf.",
+      "why": "It's paint."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.4,
+     "y": 0.7,
+     "zoom": 2.0
+    },
+    "where": "The coat",
+    "prompt": "Look at his coat.",
+    "hint": "What colours?",
+    "statements": [
+     {
+      "text": "Mostly greys and greens.",
+      "why": "A restrained palette.",
+      "isTrue": true
+     },
+     {
+      "text": "Bright red.",
+      "why": "It's muted."
+     },
+     {
+      "text": "Pure white.",
+      "why": "It's grey-green."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, the sale.",
+    "hint": "What happened in 1970?",
+    "statements": [
+     {
+      "text": "The Met bought it at auction for a then-record price.",
+      "why": "It cost $5.5 million.",
+      "isTrue": true
+     },
+     {
+      "text": "It was stolen.",
+      "why": "It was sold."
+     },
+     {
+      "text": "It burned.",
+      "why": "It survives."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A man with dark curly hair and a lace collar turns his head toward us with a steady, confident gaze.",
+  "credit": "Image: The Metropolitan Museum of Art, public domain (CC0)",
+  "category": "golden-age"
+ },
+ {
+  "id": "canaletto-stonemason",
+  "title": "The Stonemason's Yard",
+  "artist": "Canaletto",
+  "artistDates": "1697–1768",
+  "date": "c. 1725",
+  "medium": "Oil on canvas",
+  "collection": "National Gallery, London",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "What's unusual about it?",
+    "statements": [
+     {
+      "text": "It shows an everyday working corner of Venice, not a grand ceremony.",
+      "why": "Most of his views are of famous sights.",
+      "isTrue": true
+     },
+     {
+      "text": "It's an imaginary city.",
+      "why": "It's real Venice."
+     },
+     {
+      "text": "It's painted on copper.",
+      "why": "It's on canvas."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.2,
+     "y": 0.78,
+     "zoom": 3.0
+    },
+    "where": "Bottom left",
+    "prompt": "Look at the bottom left corner.",
+    "hint": "What's happening?",
+    "statements": [
+     {
+      "text": "A child has fallen over, and a woman rushes from a doorway.",
+      "why": "Everyday drama in the corner.",
+      "isTrue": true
+     },
+     {
+      "text": "A dog steals bread.",
+      "why": "A child has fallen."
+     },
+     {
+      "text": "A man paints the scene.",
+      "why": "It's a fallen child."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.4,
+     "y": 0.4,
+     "zoom": 2.5
+    },
+    "where": "Across the canal",
+    "prompt": "Look at the church across the canal.",
+    "hint": "What is it?",
+    "statements": [
+     {
+      "text": "The church of Santa Maria della Carità.",
+      "why": "It's now part of the Accademia gallery.",
+      "isTrue": true
+     },
+     {
+      "text": "Saint Mark's Basilica.",
+      "why": "It's the Carità."
+     },
+     {
+      "text": "A lighthouse.",
+      "why": "It's a church."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.8,
+     "y": 0.3,
+     "zoom": 2.5
+    },
+    "where": "The windows",
+    "prompt": "Look at the windows on the right.",
+    "hint": "What's hanging there?",
+    "statements": [
+     {
+      "text": "Washing and a woman tending flowers.",
+      "why": "Daily life fills the scene.",
+      "isTrue": true
+     },
+     {
+      "text": "Flags.",
+      "why": "It's washing."
+     },
+     {
+      "text": "Nothing.",
+      "why": "There's washing."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, its owner.",
+    "hint": "Who gave it to the nation?",
+    "statements": [
+     {
+      "text": "Sir George Beaumont, a collector who helped found the National Gallery.",
+      "why": "He loved this painting.",
+      "isTrue": true
+     },
+     {
+      "text": "Canaletto himself.",
+      "why": "It was a collector's gift."
+     },
+     {
+      "text": "The Queen of Venice.",
+      "why": "Venice had doges, not queens."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A dusty Venetian square full of marble blocks and workmen, with a church across the Grand Canal behind.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "eighteenth-century"
+ },
+ {
+  "id": "the-swing",
+  "title": "The Swing",
+  "artist": "Jean-Honoré Fragonard",
+  "artistDates": "1732–1806",
+  "date": "c. 1767",
+  "medium": "Oil on canvas",
+  "collection": "Wallace Collection, London",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Who ordered it?",
+    "statements": [
+     {
+      "text": "A baron who wanted to be painted watching his mistress on a swing.",
+      "why": "Another painter turned the job down.",
+      "isTrue": true
+     },
+     {
+      "text": "The king of France.",
+      "why": "It was a private commission."
+     },
+     {
+      "text": "A convent.",
+      "why": "It's not a religious painting."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.45,
+     "y": 0.55,
+     "zoom": 2.5
+    },
+    "where": "The shoe",
+    "prompt": "Look at the woman's foot.",
+    "hint": "What's happening?",
+    "statements": [
+     {
+      "text": "Her shoe is flying off into the air.",
+      "why": "It's a playful, flirtatious moment.",
+      "isTrue": true
+     },
+     {
+      "text": "She's barefoot.",
+      "why": "She's kicking off a shoe."
+     },
+     {
+      "text": "She's falling.",
+      "why": "She's swinging."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.07,
+     "y": 0.45,
+     "zoom": 3.0
+    },
+    "where": "The statue",
+    "prompt": "Look at the statue on the left.",
+    "hint": "What is he doing?",
+    "statements": [
+     {
+      "text": "Cupid puts a finger to his lips, as if to say \"shh.\"",
+      "why": "The scene is secret.",
+      "isTrue": true
+     },
+     {
+      "text": "He's playing a flute.",
+      "why": "He's hushing."
+     },
+     {
+      "text": "He's asleep.",
+      "why": "He's hushing."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.75,
+     "y": 0.65,
+     "zoom": 2.5
+    },
+    "where": "Pushing the swing",
+    "prompt": "Look at the man in the shadows.",
+    "hint": "Who is he?",
+    "statements": [
+     {
+      "text": "An older man pushing the swing, unaware of the lover.",
+      "why": "He's in shadow on the right.",
+      "isTrue": true
+     },
+     {
+      "text": "Her father, dancing.",
+      "why": "He's pushing the swing."
+     },
+     {
+      "text": "A gardener with a rake.",
+      "why": "He holds the swing's ropes."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, its condition.",
+    "hint": "What happened in 2021?",
+    "statements": [
+     {
+      "text": "A cleaning removed yellowed varnish and revealed brighter colours.",
+      "why": "Details like a lost path reappeared.",
+      "isTrue": true
+     },
+     {
+      "text": "It was cut in half.",
+      "why": "It was cleaned."
+     },
+     {
+      "text": "It was sold to a private buyer.",
+      "why": "It's still in the Wallace Collection."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A young woman in a pink dress swings high in a lush garden, kicking off a shoe toward a man hidden in the bushes.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "eighteenth-century"
+ },
+ {
+  "id": "soap-bubbles",
+  "title": "Soap Bubbles",
+  "artist": "Jean Siméon Chardin",
+  "artistDates": "1699–1779",
+  "date": "c. 1733–34",
+  "medium": "Oil on canvas",
+  "collection": "The Metropolitan Museum of Art, New York",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Is it unique?",
+    "statements": [
+     {
+      "text": "Chardin painted several versions; three survive in US museums.",
+      "why": "They're in New York, Washington and Los Angeles.",
+      "isTrue": true
+     },
+     {
+      "text": "It's his only painting.",
+      "why": "He painted many."
+     },
+     {
+      "text": "It's a print.",
+      "why": "It's a painting."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.57,
+     "y": 0.65,
+     "zoom": 2.5
+    },
+    "where": "The bubble",
+    "prompt": "Look at the bubble.",
+    "hint": "What does it mean?",
+    "statements": [
+     {
+      "text": "A symbol of how short life is.",
+      "why": "A bubble can burst at any moment.",
+      "isTrue": true
+     },
+     {
+      "text": "A crystal ball.",
+      "why": "It's a soap bubble."
+     },
+     {
+      "text": "A pearl.",
+      "why": "It's a bubble."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.8,
+     "y": 0.65,
+     "zoom": 2.5
+    },
+    "where": "The child",
+    "prompt": "Look at the right.",
+    "hint": "Who's peeking?",
+    "statements": [
+     {
+      "text": "A small child peers over the ledge.",
+      "why": "Only the head shows.",
+      "isTrue": true
+     },
+     {
+      "text": "A cat.",
+      "why": "It's a child."
+     },
+     {
+      "text": "A dog.",
+      "why": "It's a child."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.6,
+     "y": 0.35,
+     "zoom": 2.5
+    },
+    "where": "His face",
+    "prompt": "Look at his face.",
+    "hint": "What's he doing?",
+    "statements": [
+     {
+      "text": "Concentrating hard on the bubble.",
+      "why": "The moment is quiet and focused.",
+      "isTrue": true
+     },
+     {
+      "text": "Laughing loudly.",
+      "why": "He's concentrating."
+     },
+     {
+      "text": "Sleeping.",
+      "why": "He's blowing a bubble."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, Chardin's subjects.",
+    "hint": "What else did he paint?",
+    "statements": [
+     {
+      "text": "Still lifes and quiet scenes of everyday life.",
+      "why": "He was a master of humble subjects.",
+      "isTrue": true
+     },
+     {
+      "text": "Battle scenes.",
+      "why": "He painted quiet scenes."
+     },
+     {
+      "text": "Only kings.",
+      "why": "He painted ordinary people."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A young man leans out of a window blowing a large soap bubble through a straw while a small child peers over the ledge.",
+  "credit": "Image: The Metropolitan Museum of Art, public domain (CC0)",
+  "category": "eighteenth-century"
+ },
+ {
+  "id": "vigee-le-brun-straw-hat",
+  "title": "Self-Portrait in a Straw Hat",
+  "artist": "Élisabeth Louise Vigée Le Brun",
+  "artistDates": "1755–1842",
+  "date": "after 1782",
+  "medium": "Oil on canvas",
+  "collection": "National Gallery, London",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "What inspired it?",
+    "statements": [
+     {
+      "text": "Rubens's portrait The Straw Hat, which she saw in Flanders.",
+      "why": "She copied its outdoor light.",
+      "isTrue": true
+     },
+     {
+      "text": "A photograph.",
+      "why": "There were no photographs."
+     },
+     {
+      "text": "A dream.",
+      "why": "It was Rubens."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.15,
+     "zoom": 2.5
+    },
+    "where": "The hat",
+    "prompt": "Look at her hat.",
+    "hint": "What's on it?",
+    "statements": [
+     {
+      "text": "Flowers and a feather.",
+      "why": "She dressed for the portrait.",
+      "isTrue": true
+     },
+     {
+      "text": "A bird's nest.",
+      "why": "It's flowers and a feather."
+     },
+     {
+      "text": "A crown.",
+      "why": "It's a straw hat."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.7,
+     "y": 0.66,
+     "zoom": 2.5
+    },
+    "where": "Her hand",
+    "prompt": "Look at what she holds.",
+    "hint": "What is it?",
+    "statements": [
+     {
+      "text": "A palette and brushes.",
+      "why": "She shows her profession.",
+      "isTrue": true
+     },
+     {
+      "text": "A fan.",
+      "why": "It's a palette."
+     },
+     {
+      "text": "A book.",
+      "why": "It's a palette."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.5
+    },
+    "where": "Her face",
+    "prompt": "Look at her face.",
+    "hint": "Who did she paint most?",
+    "statements": [
+     {
+      "text": "Marie Antoinette, for whom she was court portraitist.",
+      "why": "She painted the queen many times.",
+      "isTrue": true
+     },
+     {
+      "text": "Napoleon.",
+      "why": "She painted Marie Antoinette."
+     },
+     {
+      "text": "Only herself.",
+      "why": "She painted many people."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, her later life.",
+    "hint": "What happened in 1789?",
+    "statements": [
+     {
+      "text": "She fled France at the start of the Revolution.",
+      "why": "She worked across Europe for years.",
+      "isTrue": true
+     },
+     {
+      "text": "She became queen.",
+      "why": "She fled."
+     },
+     {
+      "text": "She stopped painting.",
+      "why": "She kept painting."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A young woman in a straw hat with flowers and a feather holds a palette, set against a blue sky.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "eighteenth-century"
+ },
+ {
+  "id": "mr-and-mrs-andrews",
+  "title": "Mr and Mrs Andrews",
+  "artist": "Thomas Gainsborough",
+  "artistDates": "1727–1788",
+  "date": "c. 1750",
+  "medium": "Oil on canvas",
+  "collection": "National Gallery, London",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "How old was Gainsborough?",
+    "statements": [
+     {
+      "text": "About 22.",
+      "why": "It's an early work.",
+      "isTrue": true
+     },
+     {
+      "text": "About 70.",
+      "why": "He was young."
+     },
+     {
+      "text": "About 12.",
+      "why": "He was in his early twenties."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.27,
+     "y": 0.6,
+     "zoom": 3.0
+    },
+    "where": "Her lap",
+    "prompt": "Look at Mrs Andrews' lap.",
+    "hint": "What's odd?",
+    "statements": [
+     {
+      "text": "It's unfinished, a bare patch of canvas.",
+      "why": "Perhaps a pheasant or a baby was planned.",
+      "isTrue": true
+     },
+     {
+      "text": "She holds a cat.",
+      "why": "It's unfinished."
+     },
+     {
+      "text": "She holds a baby.",
+      "why": "It's blank."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.65,
+     "y": 0.55,
+     "zoom": 2.0
+    },
+    "where": "The fields",
+    "prompt": "Look at the fields.",
+    "hint": "Whose are they?",
+    "statements": [
+     {
+      "text": "The couple's own estate in Suffolk.",
+      "why": "The land shows their wealth.",
+      "isTrue": true
+     },
+     {
+      "text": "A royal park.",
+      "why": "It's their estate."
+     },
+     {
+      "text": "An imagined landscape.",
+      "why": "It's real."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.18,
+     "y": 0.5,
+     "zoom": 2.5
+    },
+    "where": "Mr Andrews",
+    "prompt": "Look at Mr Andrews.",
+    "hint": "What does he carry?",
+    "statements": [
+     {
+      "text": "A gun, with a hunting dog at his feet.",
+      "why": "He's a country gentleman.",
+      "isTrue": true
+     },
+     {
+      "text": "A fishing rod.",
+      "why": "It's a gun."
+     },
+     {
+      "text": "A book.",
+      "why": "It's a gun."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, its history.",
+    "hint": "When did the gallery get it?",
+    "statements": [
+     {
+      "text": "In 1960.",
+      "why": "It had stayed with the family for two centuries.",
+      "isTrue": true
+     },
+     {
+      "text": "In 1800.",
+      "why": "It came in 1960."
+     },
+     {
+      "text": "It was stolen in 1900.",
+      "why": "It wasn't."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A young couple pose under an oak tree at the left, with their wide Suffolk fields stretching away to the right.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "eighteenth-century"
+ },
+ {
+  "id": "death-of-socrates",
+  "title": "The Death of Socrates",
+  "artist": "Jacques-Louis David",
+  "artistDates": "1748–1825",
+  "date": "1787",
+  "medium": "Oil on canvas",
+  "collection": "The Metropolitan Museum of Art, New York",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "What's happening?",
+    "statements": [
+     {
+      "text": "Socrates keeps teaching as he reaches for the poison hemlock.",
+      "why": "He was sentenced to death in Athens.",
+      "isTrue": true
+     },
+     {
+      "text": "He's toasting a wedding.",
+      "why": "He's about to die."
+     },
+     {
+      "text": "He's refusing the cup.",
+      "why": "He reaches calmly for it."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.6,
+     "zoom": 2.5
+    },
+    "where": "The cup",
+    "prompt": "Look at the cup.",
+    "hint": "What's in it?",
+    "statements": [
+     {
+      "text": "Hemlock, a poison.",
+      "why": "It was his death sentence.",
+      "isTrue": true
+     },
+     {
+      "text": "Wine.",
+      "why": "It's poison."
+     },
+     {
+      "text": "Water.",
+      "why": "It's hemlock."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.1,
+     "y": 0.6,
+     "zoom": 2.5
+    },
+    "where": "The bed's end",
+    "prompt": "Look at the old man at the foot of the bed.",
+    "hint": "Who is he?",
+    "statements": [
+     {
+      "text": "Plato, shown old, though he was young at the time.",
+      "why": "David took liberties.",
+      "isTrue": true
+     },
+     {
+      "text": "Socrates' father.",
+      "why": "It's Plato."
+     },
+     {
+      "text": "A jailer.",
+      "why": "The jailer hands the cup."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.45,
+     "y": 0.55,
+     "zoom": 2.5
+    },
+    "where": "The cupbearer",
+    "prompt": "Look at the man handing the cup.",
+    "hint": "What's he doing?",
+    "statements": [
+     {
+      "text": "Turning his face away, covering his eyes.",
+      "why": "He can't bear it.",
+      "isTrue": true
+     },
+     {
+      "text": "Smiling.",
+      "why": "He's grieving."
+     },
+     {
+      "text": "Drinking from it.",
+      "why": "He hands it over."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, its reception.",
+    "hint": "How was it received?",
+    "statements": [
+     {
+      "text": "Thomas Jefferson saw it in Paris and praised it.",
+      "why": "It was a sensation.",
+      "isTrue": true
+     },
+     {
+      "text": "It was hidden away.",
+      "why": "It was exhibited."
+     },
+     {
+      "text": "It was rejected by the Salon.",
+      "why": "It was a triumph."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "The philosopher Socrates, seated on a bed, reaches for a cup of poison while lecturing his grieving followers.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "eighteenth-century"
+ },
+ {
+  "id": "death-of-marat",
+  "title": "The Death of Marat",
+  "artist": "Jacques-Louis David",
+  "artistDates": "1748–1825",
+  "date": "1793",
+  "medium": "Oil on canvas",
+  "collection": "Royal Museums of Fine Arts of Belgium, Brussels",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Who killed him?",
+    "statements": [
+     {
+      "text": "Charlotte Corday, who stabbed him in his bath.",
+      "why": "She opposed his politics.",
+      "isTrue": true
+     },
+     {
+      "text": "He died of illness.",
+      "why": "He was murdered."
+     },
+     {
+      "text": "A soldier.",
+      "why": "It was Charlotte Corday."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.6,
+     "y": 0.48,
+     "zoom": 2.5
+    },
+    "where": "The letter",
+    "prompt": "Look at the letter.",
+    "hint": "Whose is it?",
+    "statements": [
+     {
+      "text": "Corday's, which got her in to see him.",
+      "why": "It's a request for help.",
+      "isTrue": true
+     },
+     {
+      "text": "A love letter.",
+      "why": "It's Corday's request."
+     },
+     {
+      "text": "His will.",
+      "why": "It's Corday's letter."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.65,
+     "y": 0.85,
+     "zoom": 2.5
+    },
+    "where": "The box",
+    "prompt": "Look at the wooden box.",
+    "hint": "What's written there?",
+    "statements": [
+     {
+      "text": "\"To Marat, David.\"",
+      "why": "The dedication is like an epitaph.",
+      "isTrue": true
+     },
+     {
+      "text": "A price.",
+      "why": "It's a dedication."
+     },
+     {
+      "text": "A Bible verse.",
+      "why": "It's a dedication."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.3,
+     "y": 0.6,
+     "zoom": 2.0
+    },
+    "where": "The bath",
+    "prompt": "Look at the bath.",
+    "hint": "Why was he in it?",
+    "statements": [
+     {
+      "text": "He bathed for hours to ease a painful skin disease.",
+      "why": "He worked from the tub.",
+      "isTrue": true
+     },
+     {
+      "text": "He was hiding.",
+      "why": "He had a skin disease."
+     },
+     {
+      "text": "It was his birthday.",
+      "why": "He had a skin condition."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, David and Marat.",
+    "hint": "Did David know him?",
+    "statements": [
+     {
+      "text": "Yes, they were political allies; David saw him the day before.",
+      "why": "David was a revolutionary.",
+      "isTrue": true
+     },
+     {
+      "text": "They never met.",
+      "why": "They knew each other."
+     },
+     {
+      "text": "David was his enemy.",
+      "why": "They were allies."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "The revolutionary Marat lies dead in his bath, a letter in one hand and a pen in the other, against a bare wall.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "eighteenth-century"
+ },
+ {
+  "id": "manuel-osorio",
+  "title": "Manuel Osorio Manrique de Zuñiga",
+  "artist": "Francisco de Goya",
+  "artistDates": "1746–1828",
+  "date": "1787–88",
+  "medium": "Oil on canvas",
+  "collection": "The Metropolitan Museum of Art, New York",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Who is he?",
+    "statements": [
+     {
+      "text": "The young son of a Spanish count.",
+      "why": "He died at age eight.",
+      "isTrue": true
+     },
+     {
+      "text": "Goya's son.",
+      "why": "He's a count's son."
+     },
+     {
+      "text": "A prince.",
+      "why": "He's a count's son."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.3,
+     "y": 0.72,
+     "zoom": 3.0
+    },
+    "where": "The bird",
+    "prompt": "Look at the magpie.",
+    "hint": "What's in its beak?",
+    "statements": [
+     {
+      "text": "Goya's calling card.",
+      "why": "It's a sly signature.",
+      "isTrue": true
+     },
+     {
+      "text": "A worm.",
+      "why": "It's a card."
+     },
+     {
+      "text": "A coin.",
+      "why": "It's a card."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.12,
+     "y": 0.75,
+     "zoom": 2.5
+    },
+    "where": "The cats",
+    "prompt": "Look at the cats.",
+    "hint": "What are they doing?",
+    "statements": [
+     {
+      "text": "Staring hungrily at the bird.",
+      "why": "A hint of danger.",
+      "isTrue": true
+     },
+     {
+      "text": "Sleeping.",
+      "why": "They're watching."
+     },
+     {
+      "text": "Playing with yarn.",
+      "why": "They're watching the bird."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.78,
+     "y": 0.72,
+     "zoom": 2.5
+    },
+    "where": "The cage",
+    "prompt": "Look at the right.",
+    "hint": "What's in it?",
+    "statements": [
+     {
+      "text": "Finches.",
+      "why": "More caged birds.",
+      "isTrue": true
+     },
+     {
+      "text": "A rabbit.",
+      "why": "It's finches."
+     },
+     {
+      "text": "Nothing.",
+      "why": "There are birds."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, its meaning.",
+    "hint": "What might it suggest?",
+    "statements": [
+     {
+      "text": "How fragile childhood is.",
+      "why": "The boy died young.",
+      "isTrue": true
+     },
+     {
+      "text": "A wedding.",
+      "why": "It's about innocence."
+     },
+     {
+      "text": "A war.",
+      "why": "It's about childhood."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A small boy in a red suit holds a magpie on a string, while three cats stare at it and a cage of finches sits nearby.",
+  "credit": "Image: The Metropolitan Museum of Art, public domain (CC0)",
+  "category": "eighteenth-century"
+ },
+ {
+  "id": "third-of-may",
+  "title": "The Third of May 1808",
+  "artist": "Francisco de Goya",
+  "artistDates": "1746–1828",
+  "date": "1814",
+  "medium": "Oil on canvas",
+  "collection": "Museo del Prado, Madrid",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "What does it show?",
+    "statements": [
+     {
+      "text": "French soldiers executing Spanish civilians after an uprising in Madrid.",
+      "why": "It happened in 1808.",
+      "isTrue": true
+     },
+     {
+      "text": "A celebration.",
+      "why": "It's an execution."
+     },
+     {
+      "text": "A battle at sea.",
+      "why": "It's on land."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.45,
+     "y": 0.45,
+     "zoom": 2.5
+    },
+    "where": "The man in white",
+    "prompt": "Look at the man in white.",
+    "hint": "How does he stand?",
+    "statements": [
+     {
+      "text": "Arms raised like a crucifixion.",
+      "why": "He's a martyr.",
+      "isTrue": true
+     },
+     {
+      "text": "Running away.",
+      "why": "He faces the soldiers."
+     },
+     {
+      "text": "Kneeling to pray.",
+      "why": "He stands with arms raised."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.75,
+     "y": 0.5,
+     "zoom": 2.0
+    },
+    "where": "The soldiers",
+    "prompt": "Look at the soldiers.",
+    "hint": "What can't you see?",
+    "statements": [
+     {
+      "text": "Their faces.",
+      "why": "They're anonymous.",
+      "isTrue": true
+     },
+     {
+      "text": "Their rifles.",
+      "why": "The rifles are clear."
+     },
+     {
+      "text": "Their feet.",
+      "why": "Their faces are hidden."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.55,
+     "y": 0.75,
+     "zoom": 2.5
+    },
+    "where": "The lantern",
+    "prompt": "Look at the lantern.",
+    "hint": "What does it do?",
+    "statements": [
+     {
+      "text": "It lights the victims and leaves the soldiers in shadow.",
+      "why": "The light is dramatic.",
+      "isTrue": true
+     },
+     {
+      "text": "It's on fire.",
+      "why": "It's a light."
+     },
+     {
+      "text": "It's a moon.",
+      "why": "It's a lantern."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, its influence.",
+    "hint": "Who echoed it?",
+    "statements": [
+     {
+      "text": "Manet, in The Execution of Maximilian.",
+      "why": "And Picasso later.",
+      "isTrue": true
+     },
+     {
+      "text": "No one.",
+      "why": "Many have."
+     },
+     {
+      "text": "It was hidden for 200 years.",
+      "why": "It's been on view."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "At night, a line of French soldiers aims rifles at Spanish civilians, one in a white shirt flinging his arms wide.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "romantic-realist"
+ }
+]

@@ -1,0 +1,1670 @@
+[
+ {
+  "id": "wanderer",
+  "title": "Wanderer above the Sea of Fog",
+  "artist": "Caspar David Friedrich",
+  "artistDates": "1774–1840",
+  "date": "c. 1818",
+  "medium": "Oil on canvas",
+  "collection": "Hamburger Kunsthalle, Hamburg",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Why can't we see his face?",
+    "statements": [
+     {
+      "text": "He's a \"Rückenfigur,\" a figure seen from behind, so we look through his eyes.",
+      "why": "Friedrich used this device often.",
+      "isTrue": true
+     },
+     {
+      "text": "He's hiding from the police.",
+      "why": "It's an artistic device."
+     },
+     {
+      "text": "The face was cut out.",
+      "why": "It's painted from behind."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.4,
+     "zoom": 2.5
+    },
+    "where": "The man",
+    "prompt": "Look at the man.",
+    "hint": "What does he hold?",
+    "statements": [
+     {
+      "text": "A walking stick.",
+      "why": "He's a hiker.",
+      "isTrue": true
+     },
+     {
+      "text": "A sword.",
+      "why": "It's a stick."
+     },
+     {
+      "text": "An umbrella.",
+      "why": "It's a walking stick."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.8,
+     "y": 0.3,
+     "zoom": 2.5
+    },
+    "where": "The mountains",
+    "prompt": "Look at the distant peaks.",
+    "hint": "Are they one view?",
+    "statements": [
+     {
+      "text": "No, he combined sketches of different places into one scene.",
+      "why": "The rocks come from the Elbe Sandstone Mountains.",
+      "isTrue": true
+     },
+     {
+      "text": "It's an exact view of the Alps.",
+      "why": "It's a composite."
+     },
+     {
+      "text": "They're invented with no reference.",
+      "why": "He used sketches."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.3,
+     "y": 0.6,
+     "zoom": 2.5
+    },
+    "where": "The fog",
+    "prompt": "Look at the fog.",
+    "hint": "How is it painted?",
+    "statements": [
+     {
+      "text": "With thin, smooth layers that blur the rocks into mist.",
+      "why": "The surface feels endless.",
+      "isTrue": true
+     },
+     {
+      "text": "With real cotton glued on.",
+      "why": "It's paint."
+     },
+     {
+      "text": "With a spray gun.",
+      "why": "It's brushwork."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, where is it?",
+    "hint": "Which museum?",
+    "statements": [
+     {
+      "text": "The Hamburger Kunsthalle, which bought it in 1970.",
+      "why": "It's become an icon of Romanticism.",
+      "isTrue": true
+     },
+     {
+      "text": "The Louvre.",
+      "why": "It's in Hamburg."
+     },
+     {
+      "text": "It was destroyed in the war.",
+      "why": "It survives."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A man in a dark coat stands with his back to us on a rocky peak, looking out over a sea of fog and distant mountains.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "romantic-realist"
+ },
+ {
+  "id": "hay-wain",
+  "title": "The Hay Wain",
+  "artist": "John Constable",
+  "artistDates": "1776–1837",
+  "date": "1821",
+  "medium": "Oil on canvas",
+  "collection": "National Gallery, London",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Where is it?",
+    "statements": [
+     {
+      "text": "On the River Stour in Suffolk, near Flatford Mill.",
+      "why": "Constable grew up there.",
+      "isTrue": true
+     },
+     {
+      "text": "In the Lake District.",
+      "why": "It's Suffolk."
+     },
+     {
+      "text": "In France.",
+      "why": "It's England."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.6,
+     "y": 0.7,
+     "zoom": 2.5
+    },
+    "where": "The wagon",
+    "prompt": "Look at the wagon.",
+    "hint": "Why is it in the river?",
+    "statements": [
+     {
+      "text": "Driving through water was a way to soak and swell the wooden wheels.",
+      "why": "It also let the horses drink.",
+      "isTrue": true
+     },
+     {
+      "text": "It's stuck in a flood.",
+      "why": "It's a normal crossing."
+     },
+     {
+      "text": "It's sinking.",
+      "why": "It's crossing."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.12,
+     "y": 0.55,
+     "zoom": 2.5
+    },
+    "where": "The cottage",
+    "prompt": "Look at the cottage on the left.",
+    "hint": "Whose was it?",
+    "statements": [
+     {
+      "text": "A farmer named Willy Lott, who lived there for decades.",
+      "why": "It still stands.",
+      "isTrue": true
+     },
+     {
+      "text": "Constable's.",
+      "why": "It was Willy Lott's."
+     },
+     {
+      "text": "The king's.",
+      "why": "It was a farmer's."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.6,
+     "y": 0.3,
+     "zoom": 2.0
+    },
+    "where": "The sky",
+    "prompt": "Look at the clouds.",
+    "hint": "How did Constable study them?",
+    "statements": [
+     {
+      "text": "He made many oil sketches of skies, noting the weather.",
+      "why": "He called it \"skying.\"",
+      "isTrue": true
+     },
+     {
+      "text": "He traced photographs.",
+      "why": "He painted outdoors."
+     },
+     {
+      "text": "He copied old masters.",
+      "why": "He studied real skies."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, its fame.",
+    "hint": "Where did it win a medal?",
+    "statements": [
+     {
+      "text": "At the Paris Salon of 1824.",
+      "why": "French painters admired it.",
+      "isTrue": true
+     },
+     {
+      "text": "At the Olympics.",
+      "why": "It was the Paris Salon."
+     },
+     {
+      "text": "It never won anything.",
+      "why": "It won a gold medal."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A horse-drawn hay cart stands in a shallow river beside a cottage, under a sky of summer clouds.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "romantic-realist"
+ },
+ {
+  "id": "fighting-temeraire",
+  "title": "The Fighting Temeraire",
+  "artist": "J. M. W. Turner",
+  "artistDates": "1775–1851",
+  "date": "1839",
+  "medium": "Oil on canvas",
+  "collection": "National Gallery, London",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "What's happening?",
+    "statements": [
+     {
+      "text": "An old warship is towed away to be broken up.",
+      "why": "The Temeraire had fought at Trafalgar.",
+      "isTrue": true
+     },
+     {
+      "text": "A ship is being launched.",
+      "why": "It's going to the breakers."
+     },
+     {
+      "text": "It's a naval battle.",
+      "why": "It's a peaceful tow."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.25,
+     "y": 0.5,
+     "zoom": 2.5
+    },
+    "where": "The ship",
+    "prompt": "Look at the ship.",
+    "hint": "What battle did it fight in?",
+    "statements": [
+     {
+      "text": "Trafalgar, in 1805.",
+      "why": "It helped Nelson's victory.",
+      "isTrue": true
+     },
+     {
+      "text": "Waterloo.",
+      "why": "That was on land."
+     },
+     {
+      "text": "The Armada.",
+      "why": "That was 1588."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.38,
+     "y": 0.65,
+     "zoom": 3.0
+    },
+    "where": "The tug",
+    "prompt": "Look at the small boat.",
+    "hint": "What powers it?",
+    "statements": [
+     {
+      "text": "Steam.",
+      "why": "The new age replaces the old.",
+      "isTrue": true
+     },
+     {
+      "text": "Sails.",
+      "why": "It's a steam tug."
+     },
+     {
+      "text": "Oars.",
+      "why": "It's steam-powered."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.8,
+     "y": 0.5,
+     "zoom": 2.0
+    },
+    "where": "The sun",
+    "prompt": "Look at the sunset.",
+    "hint": "Is it accurate?",
+    "statements": [
+     {
+      "text": "Turner took liberties; the real tow happened in different light.",
+      "why": "He wanted the drama.",
+      "isTrue": true
+     },
+     {
+      "text": "It's an exact record.",
+      "why": "He changed things."
+     },
+     {
+      "text": "It's a sunrise.",
+      "why": "It's a sunset."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, its fame.",
+    "hint": "Where can you see it every day?",
+    "statements": [
+     {
+      "text": "On the Bank of England's £20 note.",
+      "why": "It appeared in 2020.",
+      "isTrue": true
+     },
+     {
+      "text": "On a stamp only.",
+      "why": "It's on the £20 note."
+     },
+     {
+      "text": "Nowhere.",
+      "why": "It's on banknotes."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A pale old warship is towed up the Thames by a small dark steam tug against a blazing sunset.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "romantic-realist"
+ },
+ {
+  "id": "burning-of-parliament",
+  "title": "The Burning of the Houses of Lords and Commons",
+  "artist": "J. M. W. Turner",
+  "artistDates": "1775–1851",
+  "date": "1835",
+  "medium": "Oil on canvas",
+  "collection": "Cleveland Museum of Art",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Was Turner there?",
+    "statements": [
+     {
+      "text": "Yes, he watched the fire on 16 October 1834 and made sketches.",
+      "why": "He painted two oils of it.",
+      "isTrue": true
+     },
+     {
+      "text": "No, he read about it.",
+      "why": "He saw it."
+     },
+     {
+      "text": "He was in Italy.",
+      "why": "He was in London."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.45,
+     "y": 0.35,
+     "zoom": 2.0
+    },
+    "where": "The flames",
+    "prompt": "Look at the flames.",
+    "hint": "How many versions did he paint?",
+    "statements": [
+     {
+      "text": "Two oils; this one is in Cleveland, the other in Philadelphia.",
+      "why": "Both are in the US.",
+      "isTrue": true
+     },
+     {
+      "text": "Ten.",
+      "why": "There are two oils."
+     },
+     {
+      "text": "One.",
+      "why": "There are two."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.3,
+     "y": 0.8,
+     "zoom": 2.5
+    },
+    "where": "The crowd",
+    "prompt": "Look at the bank.",
+    "hint": "Who's there?",
+    "statements": [
+     {
+      "text": "Crowds of onlookers.",
+      "why": "The fire drew thousands.",
+      "isTrue": true
+     },
+     {
+      "text": "Firefighters only.",
+      "why": "It's a crowd."
+     },
+     {
+      "text": "Nobody.",
+      "why": "There's a crowd."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.6,
+     "y": 0.55,
+     "zoom": 2.5
+    },
+    "where": "The bridge",
+    "prompt": "Look at the bridge.",
+    "hint": "What's it lit by?",
+    "statements": [
+     {
+      "text": "The glow of the fire.",
+      "why": "The reflections are vivid.",
+      "isTrue": true
+     },
+     {
+      "text": "Electric lights.",
+      "why": "There was no electricity."
+     },
+     {
+      "text": "The moon.",
+      "why": "It's firelight."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, the aftermath.",
+    "hint": "What replaced the old building?",
+    "statements": [
+     {
+      "text": "The Palace of Westminster we know today, with Big Ben.",
+      "why": "It was rebuilt in Gothic style.",
+      "isTrue": true
+     },
+     {
+      "text": "Nothing.",
+      "why": "It was rebuilt."
+     },
+     {
+      "text": "A glass palace.",
+      "why": "It's Gothic stone."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "Flames and smoke pour into the night sky over the Thames as crowds watch from the bank.",
+  "credit": "Image: Cleveland Museum of Art, public domain (CC0)",
+  "category": "romantic-realist"
+ },
+ {
+  "id": "raft-of-the-medusa",
+  "title": "The Raft of the Medusa",
+  "artist": "Théodore Géricault",
+  "artistDates": "1791–1824",
+  "date": "1818–19",
+  "medium": "Oil on canvas",
+  "collection": "Musée du Louvre, Paris",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "What really happened?",
+    "statements": [
+     {
+      "text": "In 1816 a French navy ship wrecked; of about 150 on the raft, 15 survived.",
+      "why": "The scandal shook France.",
+      "isTrue": true
+     },
+     {
+      "text": "It's an invented story.",
+      "why": "It's a real disaster."
+     },
+     {
+      "text": "Everyone was rescued safely.",
+      "why": "Most died."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.85,
+     "y": 0.4,
+     "zoom": 2.5
+    },
+    "where": "The horizon",
+    "prompt": "Look at the top right.",
+    "hint": "What are they waving at?",
+    "statements": [
+     {
+      "text": "A tiny ship on the horizon, the Argus.",
+      "why": "It did eventually rescue them.",
+      "isTrue": true
+     },
+     {
+      "text": "A whale.",
+      "why": "It's a ship."
+     },
+     {
+      "text": "An island.",
+      "why": "It's a ship."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.3,
+     "y": 0.75,
+     "zoom": 2.5
+    },
+    "where": "The bodies",
+    "prompt": "Look at the figures at the front.",
+    "hint": "How did Géricault prepare?",
+    "statements": [
+     {
+      "text": "He interviewed survivors, built a model raft and studied corpses.",
+      "why": "He was obsessive.",
+      "isTrue": true
+     },
+     {
+      "text": "He used dolls.",
+      "why": "He studied real bodies."
+     },
+     {
+      "text": "He painted from memory.",
+      "why": "He did research."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.5
+    },
+    "where": "The colours",
+    "prompt": "Look at the dark shadows.",
+    "hint": "Why so dark?",
+    "statements": [
+     {
+      "text": "He used bitumen, which has darkened over time.",
+      "why": "It can't be reversed.",
+      "isTrue": true
+     },
+     {
+      "text": "It was painted at night.",
+      "why": "It's bitumen."
+     },
+     {
+      "text": "Soot from a fire.",
+      "why": "It's the paint."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, its size.",
+    "hint": "How big is it?",
+    "statements": [
+     {
+      "text": "About 5 by 7 metres.",
+      "why": "The figures are larger than life.",
+      "isTrue": true
+     },
+     {
+      "text": "About A4 size.",
+      "why": "It's huge."
+     },
+     {
+      "text": "About a metre wide.",
+      "why": "It's huge."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "Desperate survivors on a makeshift raft wave toward a tiny ship on the horizon, the dead and dying around them.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "romantic-realist"
+ },
+ {
+  "id": "liberty-leading-the-people",
+  "title": "Liberty Leading the People",
+  "artist": "Eugène Delacroix",
+  "artistDates": "1798–1863",
+  "date": "1830",
+  "medium": "Oil on canvas",
+  "collection": "Musée du Louvre, Paris",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Which revolution?",
+    "statements": [
+     {
+      "text": "The July Revolution of 1830.",
+      "why": "Not the famous one of 1789.",
+      "isTrue": true
+     },
+     {
+      "text": "The 1789 Revolution.",
+      "why": "It's 1830."
+     },
+     {
+      "text": "The Russian Revolution.",
+      "why": "It's French."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.48,
+     "y": 0.25,
+     "zoom": 2.5
+    },
+    "where": "Liberty",
+    "prompt": "Look at her cap.",
+    "hint": "What is it?",
+    "statements": [
+     {
+      "text": "A Phrygian cap, a symbol of freedom.",
+      "why": "Freed slaves wore it in ancient Rome.",
+      "isTrue": true
+     },
+     {
+      "text": "A crown.",
+      "why": "It's a red cap."
+     },
+     {
+      "text": "A helmet.",
+      "why": "It's a cap."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.3,
+     "y": 0.45,
+     "zoom": 2.5
+    },
+    "where": "The man in the top hat",
+    "prompt": "Look at the man with a rifle.",
+    "hint": "Who is he?",
+    "statements": [
+     {
+      "text": "Nobody knows for sure; some thought it was Delacroix himself.",
+      "why": "It's debated.",
+      "isTrue": true
+     },
+     {
+      "text": "Napoleon.",
+      "why": "It's not Napoleon."
+     },
+     {
+      "text": "The king.",
+      "why": "He's a citizen."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.63,
+     "y": 0.45,
+     "zoom": 2.5
+    },
+    "where": "The boy",
+    "prompt": "Look at the boy with pistols.",
+    "hint": "What did he inspire?",
+    "statements": [
+     {
+      "text": "He's often said to have inspired Gavroche in Les Misérables.",
+      "why": "Hugo's novel came later.",
+      "isTrue": true
+     },
+     {
+      "text": "A statue.",
+      "why": "He's linked to Gavroche."
+     },
+     {
+      "text": "Nothing.",
+      "why": "He's linked to Gavroche."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.9,
+     "y": 0.4,
+     "zoom": 2.5
+    },
+    "where": "The background",
+    "prompt": "Look at the towers.",
+    "hint": "What are they?",
+    "statements": [
+     {
+      "text": "The towers of Notre-Dame.",
+      "why": "The scene is set in Paris.",
+      "isTrue": true
+     },
+     {
+      "text": "The Eiffel Tower.",
+      "why": "It didn't exist yet."
+     },
+     {
+      "text": "Big Ben.",
+      "why": "It's Paris."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A bare-breasted woman in a red cap raises the French flag and a rifle, leading armed citizens over a barricade of bodies.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "romantic-realist"
+ },
+ {
+  "id": "princesse-de-broglie",
+  "title": "Princesse de Broglie",
+  "artist": "Jean-Auguste-Dominique Ingres",
+  "artistDates": "1780–1867",
+  "date": "1851–53",
+  "medium": "Oil on canvas",
+  "collection": "The Metropolitan Museum of Art, New York",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "Who is she?",
+    "statements": [
+     {
+      "text": "A French aristocrat, Pauline de Broglie.",
+      "why": "Ingres painted the elite of Paris.",
+      "isTrue": true
+     },
+     {
+      "text": "A queen.",
+      "why": "She's a princess by marriage."
+     },
+     {
+      "text": "An actress.",
+      "why": "She's an aristocrat."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.35,
+     "y": 0.65,
+     "zoom": 2.2
+    },
+    "where": "The dress",
+    "prompt": "Look at the dress.",
+    "hint": "What's it made of?",
+    "statements": [
+     {
+      "text": "Blue satin, painted so it seems to shimmer.",
+      "why": "Ingres loved fabric.",
+      "isTrue": true
+     },
+     {
+      "text": "Velvet.",
+      "why": "It's satin."
+     },
+     {
+      "text": "Wool.",
+      "why": "It's satin."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.75,
+     "y": 0.6,
+     "zoom": 2.5
+    },
+    "where": "The chair",
+    "prompt": "Look at the chair.",
+    "hint": "What's it covered in?",
+    "statements": [
+     {
+      "text": "Gold damask.",
+      "why": "It complements the blue.",
+      "isTrue": true
+     },
+     {
+      "text": "Leather.",
+      "why": "It's gold fabric."
+     },
+     {
+      "text": "Fur.",
+      "why": "It's damask."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.3,
+     "zoom": 2.5
+    },
+    "where": "Her face",
+    "prompt": "Look at her face.",
+    "hint": "What happened to her?",
+    "statements": [
+     {
+      "text": "She died young, aged 35.",
+      "why": "Her husband kept the portrait.",
+      "isTrue": true
+     },
+     {
+      "text": "She became empress.",
+      "why": "She died young."
+     },
+     {
+      "text": "She lived to 100.",
+      "why": "She died young."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, how it reached the Met.",
+    "hint": "Which collection?",
+    "statements": [
+     {
+      "text": "The Robert Lehman Collection, given in 1975.",
+      "why": "Lehman was a banker.",
+      "isTrue": true
+     },
+     {
+      "text": "The Rockefellers.",
+      "why": "It was Lehman."
+     },
+     {
+      "text": "It was found in a barn.",
+      "why": "It came with the Lehman gift."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A young aristocrat in a shimmering blue satin dress leans on a gold upholstered chair, her hands crossed.",
+  "credit": "Image: The Metropolitan Museum of Art, public domain (CC0)",
+  "category": "romantic-realist"
+ },
+ {
+  "id": "oxbow",
+  "title": "The Oxbow",
+  "artist": "Thomas Cole",
+  "artistDates": "1801–1848",
+  "date": "1836",
+  "medium": "Oil on canvas",
+  "collection": "The Metropolitan Museum of Art, New York",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "What's the contrast?",
+    "statements": [
+     {
+      "text": "Wild, stormy forest on the left, tamed farmland on the right.",
+      "why": "It's about America's changing land.",
+      "isTrue": true
+     },
+     {
+      "text": "Summer and winter.",
+      "why": "It's wild and tame."
+     },
+     {
+      "text": "Day and night.",
+      "why": "It's wild and cultivated."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.53,
+     "y": 0.84,
+     "zoom": 3.0
+    },
+    "where": "The bottom",
+    "prompt": "Look near the bottom middle.",
+    "hint": "Who's there?",
+    "statements": [
+     {
+      "text": "Cole painted himself at his easel.",
+      "why": "He's tiny.",
+      "isTrue": true
+     },
+     {
+      "text": "A bear.",
+      "why": "It's the artist."
+     },
+     {
+      "text": "A hunter.",
+      "why": "It's the artist."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.65,
+     "y": 0.35,
+     "zoom": 2.5
+    },
+    "where": "The far hill",
+    "prompt": "Look at the distant hillside.",
+    "hint": "What's hidden there?",
+    "statements": [
+     {
+      "text": "Cleared trees that spell Hebrew letters.",
+      "why": "They can be read as \"Noah.\"",
+      "isTrue": true
+     },
+     {
+      "text": "A giant face.",
+      "why": "It's letters."
+     },
+     {
+      "text": "Nothing.",
+      "why": "There are letters."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.25,
+     "y": 0.45,
+     "zoom": 2.5
+    },
+    "where": "The storm",
+    "prompt": "Look at the storm.",
+    "hint": "Which way is it moving?",
+    "statements": [
+     {
+      "text": "Away, as the sky clears.",
+      "why": "The weather is turning.",
+      "isTrue": true
+     },
+     {
+      "text": "Toward the farms.",
+      "why": "It's passing."
+     },
+     {
+      "text": "Nowhere.",
+      "why": "It's moving away."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, Cole's legacy.",
+    "hint": "What movement did he found?",
+    "statements": [
+     {
+      "text": "The Hudson River School of landscape painters.",
+      "why": "He's seen as its founder.",
+      "isTrue": true
+     },
+     {
+      "text": "Impressionism.",
+      "why": "That came later, in France."
+     },
+     {
+      "text": "Cubism.",
+      "why": "That was much later."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A storm clears over wild forest on the left while sunlit farmland curves around a looping river on the right.",
+  "credit": "Image: The Metropolitan Museum of Art, public domain (CC0)",
+  "category": "romantic-realist"
+ },
+ {
+  "id": "heart-of-the-andes",
+  "title": "Heart of the Andes",
+  "artist": "Frederic Edwin Church",
+  "artistDates": "1826–1900",
+  "date": "1859",
+  "medium": "Oil on canvas",
+  "collection": "The Metropolitan Museum of Art, New York",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "How was it first shown?",
+    "statements": [
+     {
+      "text": "Alone in a darkened room, lit by gas, with visitors paying to see it.",
+      "why": "Some used opera glasses.",
+      "isTrue": true
+     },
+     {
+      "text": "In a train station.",
+      "why": "It was a special show."
+     },
+     {
+      "text": "It was hidden.",
+      "why": "It was a sensation."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.12,
+     "y": 0.15,
+     "zoom": 2.5
+    },
+    "where": "The snowy peak",
+    "prompt": "Look at the snowy peak.",
+    "hint": "Which mountain?",
+    "statements": [
+     {
+      "text": "Chimborazo, in Ecuador.",
+      "why": "Church traveled there.",
+      "isTrue": true
+     },
+     {
+      "text": "Everest.",
+      "why": "It's in the Andes."
+     },
+     {
+      "text": "Kilimanjaro.",
+      "why": "It's in South America."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.6,
+     "y": 0.85,
+     "zoom": 2.5
+    },
+    "where": "The waterfall",
+    "prompt": "Look at the waterfall.",
+    "hint": "Is it all real?",
+    "statements": [
+     {
+      "text": "It's a composite of sketches from his travels.",
+      "why": "He combined many places.",
+      "isTrue": true
+     },
+     {
+      "text": "It's a single exact view.",
+      "why": "It's a composite."
+     },
+     {
+      "text": "It's invented with no travel.",
+      "why": "He traveled."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.1,
+     "y": 0.85,
+     "zoom": 3.0
+    },
+    "where": "The tree",
+    "prompt": "Look at the lower left tree.",
+    "hint": "What's carved there?",
+    "statements": [
+     {
+      "text": "Church's signature and the date.",
+      "why": "It's like a carving.",
+      "isTrue": true
+     },
+     {
+      "text": "A heart.",
+      "why": "It's a signature."
+     },
+     {
+      "text": "A map.",
+      "why": "It's a signature."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, its price.",
+    "hint": "What did it sell for?",
+    "statements": [
+     {
+      "text": "$10,000, a record for a living American artist.",
+      "why": "It made him famous.",
+      "isTrue": true
+     },
+     {
+      "text": "$10.",
+      "why": "It was a record."
+     },
+     {
+      "text": "It was never sold.",
+      "why": "It sold."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A vast South American landscape: a waterfall and jungle in front, rolling hills behind, and a snowy peak far in the distance.",
+  "credit": "Image: The Metropolitan Museum of Art, public domain (CC0)",
+  "category": "romantic-realist"
+ },
+ {
+  "id": "ninth-wave",
+  "title": "The Ninth Wave",
+  "artist": "Ivan Aivazovsky",
+  "artistDates": "1817–1900",
+  "date": "1850",
+  "medium": "Oil on canvas",
+  "collection": "State Russian Museum, St Petersburg",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "What's the title about?",
+    "statements": [
+     {
+      "text": "Sailors believed every ninth wave was the biggest.",
+      "why": "It's the most dangerous.",
+      "isTrue": true
+     },
+     {
+      "text": "It's the ninth painting he made.",
+      "why": "It's a sailors' legend."
+     },
+     {
+      "text": "A ship named Nine.",
+      "why": "It's a legend."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.3,
+     "y": 0.75,
+     "zoom": 2.5
+    },
+    "where": "The survivors",
+    "prompt": "Look at the survivors.",
+    "hint": "What are they holding?",
+    "statements": [
+     {
+      "text": "A broken mast.",
+      "why": "They cling on.",
+      "isTrue": true
+     },
+     {
+      "text": "A lifeboat.",
+      "why": "It's a mast."
+     },
+     {
+      "text": "A whale.",
+      "why": "It's a mast."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.4,
+     "zoom": 2.0
+    },
+    "where": "The sun",
+    "prompt": "Look at the sun.",
+    "hint": "What does it suggest?",
+    "statements": [
+     {
+      "text": "Hope.",
+      "why": "Light breaks through.",
+      "isTrue": true
+     },
+     {
+      "text": "Night.",
+      "why": "It's the sun."
+     },
+     {
+      "text": "Fire.",
+      "why": "It's the sun."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.7,
+     "y": 0.7,
+     "zoom": 2.5
+    },
+    "where": "The waves",
+    "prompt": "Look at the waves.",
+    "hint": "How did he paint them?",
+    "statements": [
+     {
+      "text": "From memory, in the studio.",
+      "why": "He studied the sea constantly.",
+      "isTrue": true
+     },
+     {
+      "text": "Outdoors in a storm.",
+      "why": "He painted from memory."
+     },
+     {
+      "text": "From photographs.",
+      "why": "He painted from memory."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, how prolific?",
+    "hint": "How many works?",
+    "statements": [
+     {
+      "text": "About 6,000 in his lifetime.",
+      "why": "He was incredibly fast.",
+      "isTrue": true
+     },
+     {
+      "text": "Five.",
+      "why": "He made thousands."
+     },
+     {
+      "text": "Fifty.",
+      "why": "He made thousands."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "Survivors cling to a broken mast on a stormy sea as the sun breaks through orange clouds.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "romantic-realist"
+ },
+ {
+  "id": "gleaners",
+  "title": "The Gleaners",
+  "artist": "Jean-François Millet",
+  "artistDates": "1814–1875",
+  "date": "1857",
+  "medium": "Oil on canvas",
+  "collection": "Musée d'Orsay, Paris",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "What is gleaning?",
+    "statements": [
+     {
+      "text": "Picking up grain left after the harvest, allowed for the very poor.",
+      "why": "It was back-breaking work.",
+      "isTrue": true
+     },
+     {
+      "text": "Planting seeds.",
+      "why": "It's collecting leftovers."
+     },
+     {
+      "text": "Watering crops.",
+      "why": "It's collecting."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.85,
+     "y": 0.35,
+     "zoom": 2.5
+    },
+    "where": "The background",
+    "prompt": "Look at the far right.",
+    "hint": "What's there?",
+    "statements": [
+     {
+      "text": "A huge harvest and an overseer on horseback.",
+      "why": "A contrast of wealth and poverty.",
+      "isTrue": true
+     },
+     {
+      "text": "A church.",
+      "why": "It's the harvest."
+     },
+     {
+      "text": "A city.",
+      "why": "It's a farm."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.45,
+     "y": 0.6,
+     "zoom": 2.5
+    },
+    "where": "The women",
+    "prompt": "Look at the women.",
+    "hint": "How are they shown?",
+    "statements": [
+     {
+      "text": "Bent double, faces hidden.",
+      "why": "They're anonymous.",
+      "isTrue": true
+     },
+     {
+      "text": "Smiling at us.",
+      "why": "They're bent over."
+     },
+     {
+      "text": "Dancing.",
+      "why": "They're working."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.7,
+     "y": 0.6,
+     "zoom": 2.5
+    },
+    "where": "The third woman",
+    "prompt": "Look at the standing woman.",
+    "hint": "What's she doing?",
+    "statements": [
+     {
+      "text": "Straightening up, about to bend again.",
+      "why": "The work never stops.",
+      "isTrue": true
+     },
+     {
+      "text": "Leaving.",
+      "why": "She's working."
+     },
+     {
+      "text": "Sleeping.",
+      "why": "She's working."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, the reaction.",
+    "hint": "How did critics react?",
+    "statements": [
+     {
+      "text": "Some called it dangerous, a call for revolution.",
+      "why": "The poor were rarely shown so heroically.",
+      "isTrue": true
+     },
+     {
+      "text": "They loved it unanimously.",
+      "why": "It was controversial."
+     },
+     {
+      "text": "No one noticed it.",
+      "why": "It was debated."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "Three peasant women stoop to pick up leftover grain in a stubble field, with a busy harvest behind them.",
+  "credit": "Image: public domain, via Wikimedia Commons",
+  "category": "romantic-realist"
+ },
+ {
+  "id": "horse-fair",
+  "title": "The Horse Fair",
+  "artist": "Rosa Bonheur",
+  "artistDates": "1822–1899",
+  "date": "1852–55",
+  "medium": "Oil on canvas",
+  "collection": "The Metropolitan Museum of Art, New York",
+  "rounds": [
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Start with the whole picture.",
+    "hint": "How did she study the horses?",
+    "statements": [
+     {
+      "text": "She dressed in men's clothes to sketch at the Paris horse market.",
+      "why": "She had a police permit to wear trousers.",
+      "isTrue": true
+     },
+     {
+      "text": "She used photographs.",
+      "why": "She sketched in person."
+     },
+     {
+      "text": "She never saw a horse.",
+      "why": "She studied them closely."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.6,
+     "y": 0.45,
+     "zoom": 2.5
+    },
+    "where": "The rearing horses",
+    "prompt": "Look at the white horses.",
+    "hint": "What are they doing?",
+    "statements": [
+     {
+      "text": "Rearing up.",
+      "why": "The energy is wild.",
+      "isTrue": true
+     },
+     {
+      "text": "Sleeping.",
+      "why": "They're rearing."
+     },
+     {
+      "text": "Grazing.",
+      "why": "They're rearing."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.45,
+     "y": 0.4,
+     "zoom": 2.5
+    },
+    "where": "The rider",
+    "prompt": "Look at the rider in the centre.",
+    "hint": "Who might it be?",
+    "statements": [
+     {
+      "text": "Bonheur is thought to have included herself among the riders.",
+      "why": "It's a sly self-portrait.",
+      "isTrue": true
+     },
+     {
+      "text": "Napoleon.",
+      "why": "It's thought to be her."
+     },
+     {
+      "text": "Her brother.",
+      "why": "It's thought to be her."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.85,
+     "zoom": 2.0
+    },
+    "where": "The ground",
+    "prompt": "Look at the dust.",
+    "hint": "How big is the canvas?",
+    "statements": [
+     {
+      "text": "About 2.4 by 5 metres.",
+      "why": "It's huge.",
+      "isTrue": true
+     },
+     {
+      "text": "About A4 size.",
+      "why": "It's huge."
+     },
+     {
+      "text": "About 50 cm.",
+      "why": "It's huge."
+     }
+    ]
+   },
+   {
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
+    },
+    "where": "Full painting",
+    "prompt": "Finally, how it reached the Met.",
+    "hint": "Who gave it?",
+    "statements": [
+     {
+      "text": "Cornelius Vanderbilt gave it in 1887.",
+      "why": "It's one of the Met's most popular works.",
+      "isTrue": true
+     },
+     {
+      "text": "Rosa Bonheur herself.",
+      "why": "It was Vanderbilt."
+     },
+     {
+      "text": "It was found in a stable.",
+      "why": "It was a gift."
+     }
+    ]
+   }
+  ],
+  "imageDescription": "A surging mass of horses and grooms at a Paris horse market, the white horses rearing in the centre.",
+  "credit": "Image: The Metropolitan Museum of Art, public domain (CC0)",
+  "category": "romantic-realist"
+ }
+]
