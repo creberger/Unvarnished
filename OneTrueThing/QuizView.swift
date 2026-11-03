@@ -122,7 +122,7 @@ private struct RoundView: View {
             Text(round.prompt)
                 .font(Theme.display(23))
                 .fixedSize(horizontal: false, vertical: true)
-            Text("\(round.hint) Two of these are false.")
+            Text(round.hint)
                 .font(.subheadline)
                 .foregroundStyle(Theme.muted)
 
