@@ -2,7 +2,7 @@
 
 ## Done
 
-- [x] App name, icon and bundle ID (`net.reberger.unvarnished`), version 1.0, build 1
+- [x] App name, icon and bundle ID (`net.reberger.unvarnished`), version 1.0, build 2
 - [x] Bundle ID registered with Apple (App ID "XC net reberger unvarnished"), with an App Store distribution profile
 - [x] Release archive builds and signs with team M85BW7JMH8, with no build warnings
 - [x] Privacy manifest (`PrivacyInfo.xcprivacy`): no tracking, no data collected, UserDefaults declared with reason CA92.1
