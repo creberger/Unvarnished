@@ -16,6 +16,8 @@ struct Painting: Codable, Identifiable, Hashable {
     var credit: String
     /// The id of the `PaintingCategory` it belongs to.
     var category: String
+    /// About 100 words on the painting, shown once all five rounds are done.
+    var summary: String?
     var rounds: [Round]
 
     struct Round: Codable, Hashable {

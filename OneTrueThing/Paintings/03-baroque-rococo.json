@@ -136,7 +136,8 @@
   ],
   "imageDescription": "A tall altarpiece: the apostles gather around an empty tomb below as Mary rises on a crescent moon among angels.",
   "credit": "Image: public domain, via Wikimedia Commons",
-  "category": "renaissance"
+  "category": "renaissance",
+  "summary": "El Greco painted this towering altarpiece between 1577 and 1579, soon after arriving in Toledo from Italy. It was his first major commission in Spain, made for the convent church of Santo Domingo el Antiguo. Below, the apostles crowd around Mary's empty tomb, while above she rises on a crescent moon, surrounded by angels. The elongated figures, swirling movement and vivid colours show the style that made him famous. Born on Crete and trained as an icon painter, he signed it in Greek letters. The Art Institute of Chicago has owned it since 1906."
  },
  {
   "id": "las-meninas",
@@ -275,7 +276,8 @@
   ],
   "imageDescription": "The little Spanish princess in a wide white dress stands with her maids, a dog and dwarfs, while Velázquez paints at a huge canvas.",
   "credit": "Image: public domain, via Wikimedia Commons",
-  "category": "golden-age"
+  "category": "golden-age",
+  "summary": "Diego Velázquez painted Las Meninas in 1656 at the Spanish royal palace in Madrid. The little Infanta Margarita stands at the centre among her maids of honour, dwarfs, a chaperone and a sleepy dog. Velázquez includes himself at a huge canvas, looking out at us, while a mirror on the back wall reflects the king and queen, who seem to stand where we are. The painting plays with who is watching whom, and has been analysed endlessly. Picasso painted 58 variations of it in 1957. It is one of the treasures of the Prado."
  },
  {
   "id": "juan-de-pareja",
@@ -414,7 +416,8 @@
   ],
   "imageDescription": "A man with dark curly hair and a lace collar turns his head toward us with a steady, confident gaze.",
   "credit": "Image: The Metropolitan Museum of Art, public domain (CC0)",
-  "category": "golden-age"
+  "category": "golden-age",
+  "summary": "Diego Velázquez painted this portrait in Rome in 1650. Juan de Pareja was his enslaved assistant, of Moorish descent, who ground his pigments and helped in the studio. Velázquez signed papers freeing him that same year, and Pareja went on to become a painter himself; his works are in the Prado. The portrait shows him with a steady, dignified gaze, painted with loose, quick strokes that seem strikingly modern up close. When it was exhibited at the Pantheon in Rome it caused a sensation. In 1970 the Met bought it at auction for a then-record price."
  },
  {
   "id": "canaletto-stonemason",
@@ -553,7 +556,8 @@
   ],
   "imageDescription": "A dusty Venetian square full of marble blocks and workmen, with a church across the Grand Canal behind.",
   "credit": "Image: public domain, via Wikimedia Commons",
-  "category": "eighteenth-century"
+  "category": "eighteenth-century",
+  "summary": "Canaletto painted this view of Venice around 1725, early in his career. Instead of the grand canals and ceremonies he later sold to wealthy British tourists, it shows a working corner of the city: a dusty stonemason's yard in the Campo San Vidal, littered with marble blocks. Across the Grand Canal stands the church of Santa Maria della Carità. Everyday life fills the scene, from washing hung at windows to a child who has fallen over while a woman rushes out to help. Many consider it his masterpiece. It came to the National Gallery in London from the collector Sir George Beaumont."
  },
  {
   "id": "the-swing",
@@ -692,7 +696,8 @@
   ],
   "imageDescription": "A young woman in a pink dress swings high in a lush garden, kicking off a shoe toward a man hidden in the bushes.",
   "credit": "Image: public domain, via Wikimedia Commons",
-  "category": "eighteenth-century"
+  "category": "eighteenth-century",
+  "summary": "Jean-Honoré Fragonard painted The Swing around 1767 for a baron who asked to be shown watching his mistress on a swing. In a lush, overgrown garden, a young woman in a frothy pink dress flies high, kicking off a shoe toward her lover hidden in the bushes, while an older man pushes the swing, unaware. A statue of Cupid raises a finger to his lips. It is the most famous image of the playful, flirtatious Rococo style. A cleaning in 2021 removed yellowed varnish and revealed brighter colours. It hangs in the Wallace Collection in London."
  },
  {
   "id": "soap-bubbles",
@@ -831,7 +836,8 @@
   ],
   "imageDescription": "A young man leans out of a window blowing a large soap bubble through a straw while a small child peers over the ledge.",
   "credit": "Image: The Metropolitan Museum of Art, public domain (CC0)",
-  "category": "eighteenth-century"
+  "category": "eighteenth-century",
+  "summary": "Jean Siméon Chardin painted Soap Bubbles around 1733 to 1734. A young man leans out of a window, carefully blowing a large bubble through a straw, while a small child peers over the ledge to watch. The bubble, which could burst at any moment, was a traditional symbol of how brief life is. Chardin was celebrated for quiet still lifes and everyday scenes, painted with soft light and patient attention. He painted several versions of this subject; three survive, in New York, Washington and Los Angeles. This one belongs to the Metropolitan Museum of Art."
  },
  {
   "id": "vigee-le-brun-straw-hat",
@@ -970,7 +976,8 @@
   ],
   "imageDescription": "A young woman in a straw hat with flowers and a feather holds a palette, set against a blue sky.",
   "credit": "Image: public domain, via Wikimedia Commons",
-  "category": "eighteenth-century"
+  "category": "eighteenth-century",
+  "summary": "Élisabeth Louise Vigée Le Brun painted this self-portrait after 1782, inspired by Rubens's portrait known as The Straw Hat, which she had seen in Flanders. She shows herself outdoors under a blue sky, wearing a straw hat trimmed with flowers and a feather, holding a palette and brushes. She was one of the most successful portrait painters of her time and Marie Antoinette's favourite portraitist. When the French Revolution broke out in 1789, she fled France and worked across Europe for years, painting royalty and aristocrats. This version belongs to the National Gallery in London."
  },
  {
   "id": "mr-and-mrs-andrews",
@@ -1109,7 +1116,8 @@
   ],
   "imageDescription": "A young couple pose under an oak tree at the left, with their wide Suffolk fields stretching away to the right.",
   "credit": "Image: public domain, via Wikimedia Commons",
-  "category": "eighteenth-century"
+  "category": "eighteenth-century",
+  "summary": "Thomas Gainsborough painted this portrait around 1750, when he was only about 22. Robert Andrews and his young wife Frances pose beneath an oak tree on their estate in Suffolk, with their fields stretching away under a wide summer sky. He holds a gun, a hunting dog at his feet. The landscape is as important as the sitters, a display of the land they owned. Oddly, Mrs Andrews' lap is unfinished, a patch of bare canvas, perhaps meant for a pheasant or a baby. It stayed with the family for two centuries and came to the National Gallery in 1960."
  },
  {
   "id": "death-of-socrates",
@@ -1248,7 +1256,8 @@
   ],
   "imageDescription": "The philosopher Socrates, seated on a bed, reaches for a cup of poison while lecturing his grieving followers.",
   "credit": "Image: public domain, via Wikimedia Commons",
-  "category": "eighteenth-century"
+  "category": "eighteenth-century",
+  "summary": "Jacques-Louis David painted this scene in 1787. Condemned to death in ancient Athens, the philosopher Socrates calmly reaches for the cup of poison hemlock while still teaching his grieving followers. The man handing him the cup turns away, unable to watch. Plato sits at the foot of the bed, shown as an old man although he was young at the time. With its clear outlines, stagecraft and moral message about dying for one's principles, the painting became a key work of Neoclassicism. It was a sensation at the Paris Salon. The Metropolitan Museum has owned it since 1931."
  },
  {
   "id": "death-of-marat",
@@ -1387,7 +1396,8 @@
   ],
   "imageDescription": "The revolutionary Marat lies dead in his bath, a letter in one hand and a pen in the other, against a bare wall.",
   "credit": "Image: public domain, via Wikimedia Commons",
-  "category": "eighteenth-century"
+  "category": "eighteenth-century",
+  "summary": "Jacques-Louis David painted this picture in 1793, during the French Revolution. Jean-Paul Marat, a radical journalist and David's political ally, had been stabbed in his bath by Charlotte Corday, who opposed his politics. Marat spent hours in the tub to ease a painful skin disease, and worked from there. David shows him dead, still holding Corday's letter and his pen, against a bare, empty wall. The wooden box bears a simple dedication: \"To Marat, David.\" The painting turned a murder into a revolutionary martyrdom. It belongs to the Royal Museums of Fine Arts of Belgium in Brussels."
  },
  {
   "id": "manuel-osorio",
@@ -1526,7 +1536,8 @@
   ],
   "imageDescription": "A small boy in a red suit holds a magpie on a string, while three cats stare at it and a cage of finches sits nearby.",
   "credit": "Image: The Metropolitan Museum of Art, public domain (CC0)",
-  "category": "eighteenth-century"
+  "category": "eighteenth-century",
+  "summary": "Francisco de Goya painted this portrait of the young son of a Spanish count in 1787 to 1788. The boy stands in a bright red suit, holding a pet magpie on a string; in its beak the bird carries Goya's calling card. At his side, three cats stare hungrily at the bird, and a cage of finches sits nearby. The charming scene carries a hint of danger, often read as a reminder of how fragile childhood is. The boy died young, at about eight. The portrait belongs to the Metropolitan Museum of Art and is one of its best-loved works."
  },
  {
   "id": "third-of-may",
@@ -1665,6 +1676,7 @@
   ],
   "imageDescription": "At night, a line of French soldiers aims rifles at Spanish civilians, one in a white shirt flinging his arms wide.",
   "credit": "Image: public domain, via Wikimedia Commons",
-  "category": "romantic-realist"
+  "category": "romantic-realist",
+  "summary": "Francisco de Goya painted this scene in 1814, after the French had been driven out of Spain. It shows the night after the uprising of 2 May 1808 in Madrid, when Napoleon's soldiers executed Spanish civilians in reprisal. The firing squad stands faceless, in a regimented line, while a lantern lights the victims. At the centre, a man in a white shirt flings his arms wide like a figure on a cross. The painting's raw horror and lack of glory made it one of the first modern images of war. Manet and Picasso later echoed it. It hangs in the Prado."
  }
 ]

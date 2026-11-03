@@ -136,7 +136,8 @@
   ],
   "imageDescription": "A swaggering man with an upturned moustache, a wide black hat and a lace collar, his sleeve covered in embroidery.",
   "credit": "Image: public domain, via Wikimedia Commons",
-  "category": "golden-age"
+  "category": "golden-age",
+  "summary": "Frans Hals painted this swaggering portrait in Haarlem in 1624. The sitter, whose name is unknown, was 26 according to the inscription. He isn't really laughing: the famous title was invented in the nineteenth century. His upturned moustache, cocked hat and hand on hip give him confidence, and his sleeve is embroidered with bees, arrows and flaming horns of plenty, emblems of love. Hals painted the lace and fabric with quick, loose strokes that look modern up close. Lord Hertford bought it at a Paris auction in 1865, and it hangs in the Wallace Collection, London."
  },
  {
   "id": "leyster-self-portrait",
@@ -275,7 +276,8 @@
   ],
   "imageDescription": "A smiling woman in a lace collar turns from her easel, brush in hand, with a painting of a laughing fiddler behind her.",
   "credit": "Image: public domain, via Wikimedia Commons",
-  "category": "golden-age"
+  "category": "golden-age",
+  "summary": "Judith Leyster painted this self-portrait in Haarlem around 1630, when she was about 21. She turns from her easel with an open, easy smile, as if we have just interrupted her, holding a palette and a bundle of brushes. On the easel is a laughing fiddler, the kind of lively scene she was known for. In 1633 she became one of the first women admitted to Haarlem's painters' guild, and she ran a workshop with students. For about two centuries her paintings were credited to Frans Hals. It belongs to the National Gallery of Art in Washington."
  },
  {
   "id": "peeters-cheeses",
@@ -414,7 +416,8 @@
   ],
   "imageDescription": "A table laid with stacked cheeses, a jug, a glass goblet, pretzels and a blue-and-white bowl of almonds and raisins.",
   "credit": "Image: public domain, via Wikimedia Commons",
-  "category": "golden-age"
+  "category": "golden-age",
+  "summary": "Clara Peeters painted this table of food in Antwerp around 1615. She was one of the first painters in the Low Countries to specialise in still lifes of laid tables, and one of very few women working in the genre. Stacked cheeses, a stoneware jug, a glass goblet, pretzels and a Chinese porcelain bowl of almonds and raisins are seen from slightly above, every surface carefully observed. She signed her name on the silver handle of the knife at the front. Little is known about her life. The painting belongs to the Mauritshuis in The Hague."
  },
  {
   "id": "ruysch-flowers",
@@ -553,7 +556,8 @@
   ],
   "imageDescription": "A tumbling bouquet of roses, tulips and other flowers in a vase against a dark background.",
   "credit": "Image: public domain, via Wikimedia Commons",
-  "category": "golden-age"
+  "category": "golden-age",
+  "summary": "Rachel Ruysch painted this bouquet around 1700. The flowers spill and twist out of the vase against a dark background, each petal and leaf carefully observed. The arrangement could never have existed, since the flowers bloom in different seasons; painters assembled such bouquets from studies made over many months. Ruysch was the daughter of a famous anatomist and botanist, and she painted for nearly 70 years. She became court painter to the Elector Palatine in Düsseldorf, and in her lifetime her paintings sold for more than Rembrandt's had. This one belongs to the Mauritshuis in The Hague."
  },
  {
   "id": "mona-lisa",
@@ -692,7 +696,8 @@
   ],
   "imageDescription": "A woman with folded hands and a faint smile sits before a hazy, winding landscape.",
   "credit": "Image: public domain, via Wikimedia Commons",
-  "category": "renaissance"
+  "category": "renaissance",
+  "summary": "Leonardo da Vinci began this portrait in Florence around 1503 and kept working on it for years, carrying it with him to France, where he died in 1519. The sitter is generally identified as Lisa Gherardini, wife of a Florentine merchant. Leonardo blended the shadows so softly, a technique called sfumato, that her expression seems to change as you look. Behind her, a misty, imagined landscape doesn't quite line up from one side to the other. The painting became world famous after it was stolen from the Louvre in 1911 by a museum worker and recovered two years later."
  },
  {
   "id": "castiglione",
@@ -831,7 +836,8 @@
   ],
   "imageDescription": "A bearded man in a dark beret and grey fur sleeves looks calmly at us, his hands folded.",
   "credit": "Image: public domain, via Wikimedia Commons",
-  "category": "renaissance"
+  "category": "renaissance",
+  "summary": "Raphael painted this portrait of his friend Baldassare Castiglione around 1514 to 1515. Castiglione was a diplomat and writer whose Book of the Courtier described the ideal gentleman: graceful, learned and never seeming to try too hard. Raphael gave the painting the same qualities, with a calm, direct gaze and a restrained palette of greys, blacks and creams. The relaxed pose and clasped hands, cut off by the frame, make the sitter feel present. The portrait influenced generations of painters. Rembrandt sketched it at an Amsterdam auction in 1639 and borrowed the pose for his own self-portraits."
  },
  {
   "id": "bacchus-and-ariadne",
@@ -970,7 +976,8 @@
   ],
   "imageDescription": "Bacchus leaps from a chariot pulled by two big cats toward Ariadne on a shore under a deep blue sky with a ring of stars.",
   "credit": "Image: public domain, via Wikimedia Commons",
-  "category": "renaissance"
+  "category": "renaissance",
+  "summary": "Titian painted this blazing mythological scene between 1520 and 1523 for the private study of Alfonso d'Este, Duke of Ferrara. Ariadne, abandoned by Theseus on the island of Naxos, turns in alarm as Bacchus, god of wine, leaps from his chariot at the very moment he falls in love with her. His noisy, drunken followers tumble in behind, and two cheetahs pull the chariot. Above her head a ring of stars shows the crown he will give her, later set in the sky. Titian used costly ultramarine generously for the sky. The National Gallery in London owns it."
  },
  {
   "id": "supper-at-emmaus",
@@ -1109,7 +1116,8 @@
   ],
   "imageDescription": "Christ blesses bread at a table as two disciples recognise him in astonishment, one flinging his arms wide.",
   "credit": "Image: public domain, via Wikimedia Commons",
-  "category": "golden-age"
+  "category": "golden-age",
+  "summary": "Caravaggio painted this scene in Rome in 1601. After the Resurrection, two disciples share a meal with a stranger, and at the moment he blesses the bread they realise he is Christ. One flings his arms wide, the other starts up from his chair. Caravaggio shows Christ beardless and young, and fills the table with real, slightly bruised fruit in a basket teetering on the edge. Strong light against deep shadow makes the moment feel like theatre. His blunt realism shocked some viewers and inspired many painters. The painting hangs in the National Gallery, London."
  },
  {
   "id": "artemisia-catherine",
@@ -1248,7 +1256,8 @@
   ],
   "imageDescription": "A woman in a red dress and crown, holding a palm frond, leans on a broken spiked wheel and looks over her shoulder.",
   "credit": "Image: public domain, via Wikimedia Commons",
-  "category": "golden-age"
+  "category": "golden-age",
+  "summary": "Artemisia Gentileschi painted herself as Saint Catherine of Alexandria around 1615 to 1617, during her years in Florence. Catherine was a princess martyred for her faith; she wears a small crown, holds a martyr's palm and leans on the broken spiked wheel that was meant to kill her. Gentileschi was one of the most successful painters of her age and the first woman admitted to Florence's Academy of Design. For centuries her work was overshadowed or credited to men. When the National Gallery in London bought this painting in 2018, it was the gallery's first work by her."
  },
  {
   "id": "anguissola-chess",
@@ -1387,7 +1396,8 @@
   ],
   "imageDescription": "Three young sisters play chess at a table outdoors while an older servant watches from the edge.",
   "credit": "Image: public domain, via Wikimedia Commons",
-  "category": "renaissance"
+  "category": "renaissance",
+  "summary": "Sofonisba Anguissola painted this scene of her three younger sisters playing chess in 1555, when she was in her early twenties. Showing educated young women at an intellectual game was itself a statement, and the relaxed, affectionate expressions were new in portraiture. The youngest sister grins at the game while a servant watches from the edge. Anguissola became one of the first women painters to win international fame, serving at the Spanish court of Philip II. She lived to about 93, and the young Anthony van Dyck visited and sketched her in her old age. It is in Poznań, Poland."
  },
  {
   "id": "duccio-madonna",
@@ -1526,7 +1536,8 @@
   ],
   "imageDescription": "Mary holds the infant Christ, who reaches for her veil, behind a painted ledge in a small gold panel with a scorched frame.",
   "credit": "Image: The Metropolitan Museum of Art, public domain (CC0)",
-  "category": "renaissance"
+  "category": "renaissance",
+  "summary": "Duccio di Buoninsegna painted this small Madonna and Child in Siena around 1300, when Italian painting was beginning to move away from the flat, formal style of Byzantine icons. Mary still sits against a field of real gold leaf, but the Child reaches up to tug at her veil, a tender, human gesture, and a painted ledge in front makes the figures feel close enough to touch. The scorched frame shows it was used for private prayer by candlelight. When the Metropolitan Museum bought it in 2004, for around 45 million dollars, it was the most expensive purchase in the museum's history."
  },
  {
   "id": "view-of-toledo",
@@ -1665,6 +1676,7 @@
   ],
   "imageDescription": "The city of Toledo on a green hill under a stormy, dark sky.",
   "credit": "Image: The Metropolitan Museum of Art, public domain (CC0)",
-  "category": "renaissance"
+  "category": "renaissance",
+  "summary": "El Greco painted this stormy view of his adopted city around 1599 to 1600. It is one of only two landscapes he is known to have made. Toledo rises on its hill under a dark, turbulent sky, the green fields glowing with an almost unnatural light. El Greco rearranged the buildings for effect, moving the cathedral to stand beside the royal palace, the Alcázar. Rather than an accurate record, it feels like a vision of the city's spirit. Its expressive freedom made it a favourite of modern painters. It came to the Met in 1929 with the Havemeyer collection."
  }
 ]

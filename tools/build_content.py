@@ -60,6 +60,26 @@ def parse(path):
     return paintings
 
 
+def load_summaries():
+    """Each painting's end-of-game summary, from content/summaries/*.txt ("## id" then a paragraph)."""
+    out, pid = {}, None
+    for path in sorted(glob.glob(os.path.join(CONTENT, "summaries", "*.txt"))):
+        for line in open(path, encoding="utf-8"):
+            line = line.strip()
+            if line.startswith("## "):
+                pid = line[3:].strip()
+                assert pid not in out, f"two summaries for {pid}"
+                out[pid] = []
+            elif line:
+                out[pid].append(line)
+    return {pid: " ".join(lines) for pid, lines in out.items()}
+
+
+def check_summary(pid, text):
+    words = len(text.split())
+    assert 85 <= words <= 120, f"{pid}: summary is {words} words; aim for about 100"
+
+
 def check(p):
     w = p.pop("_where")
     assert "imageDescription" in p, f"{w}: missing desc"
@@ -82,6 +102,7 @@ def main():
         for pid in ids:
             assert pid not in category_of, f"{pid} is in two categories"
             category_of[pid] = cid
+    summaries = load_summaries()
     seen = set()
     for path in sorted(glob.glob(os.path.join(CONTENT, "*.txt"))):
         batch = parse(path)
@@ -93,6 +114,9 @@ def main():
             p["credit"] = f'Image: {src.get("credit", "public domain")}'
             assert p["id"] in category_of, f"{p['id']} has no category"
             p["category"] = category_of[p["id"]]
+            assert p["id"] in summaries, f"{p['id']} has no summary"
+            check_summary(p["id"], summaries[p["id"]])
+            p["summary"] = summaries[p["id"]]
             for suffix in (".jpg", "-thumb.jpg"):
                 shutil.copy(os.path.join(images, p["id"] + suffix), os.path.join(OUT, p["id"] + suffix))
         name = os.path.splitext(os.path.basename(path))[0]
@@ -110,6 +134,9 @@ def main():
         for p in data if isinstance(data, list) else [data]:
             assert p["id"] in category_of, f"{p['id']} has no category"
             p["category"] = category_of[p["id"]]
+            assert p["id"] in summaries, f"{p['id']} has no summary"
+            check_summary(p["id"], summaries[p["id"]])
+            p["summary"] = summaries[p["id"]]
             seen.add(p["id"])
         with open(path, "w", encoding="utf-8") as f:
             json.dump(data, f, indent=1, ensure_ascii=False)

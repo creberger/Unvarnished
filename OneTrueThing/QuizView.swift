@@ -60,7 +60,10 @@ struct QuizView: View {
                         PaintingView(painting: quiz.painting,
                                      focus: quiz.focus,
                                      label: quiz.round?.where ?? "Full painting")
-                            .containerRelativeFrame(.vertical) { height, _ in height * 0.46 }
+                            // Once the game is over there's nothing left to zoom into, so the
+                            // painting shrinks to leave room for reading the summary.
+                            .containerRelativeFrame(.vertical) { height, _ in height * (quiz.isFinished ? 0.24 : 0.46) }
+                            .animation(.easeInOut(duration: 0.5), value: quiz.isFinished)
                             .frame(maxWidth: .infinity)
                             .padding(.horizontal, 20)
                             .padding(.top, 8)
@@ -295,6 +298,31 @@ private struct EndView: View {
                     .foregroundStyle(Theme.muted)
             }
 
+            HStack(spacing: 12) {
+                Button("Next painting", action: onNext)
+                    .buttonStyle(PrimaryButton())
+                if !retiredNow {
+                    Button("Try again") { withAnimation { quiz.restart() } }
+                        .buttonStyle(SecondaryButton())
+                }
+            }
+            .padding(.top, 4)
+
+            if let summary = quiz.painting.summary {
+                VStack(alignment: .leading, spacing: 8) {
+                    Text("About the painting")
+                        .font(Theme.display(21))
+                    Text(summary)
+                        .lineSpacing(3)
+                        .fixedSize(horizontal: false, vertical: true)
+                }
+                .padding(.top, 10)
+            }
+
+            Text("Your five answers")
+                .font(Theme.display(21))
+                .padding(.top, 10)
+
             VStack(alignment: .leading, spacing: 10) {
                 ForEach(quiz.painting.rounds.indices, id: \.self) { i in
                     let right = quiz.results[i]
@@ -313,16 +341,6 @@ private struct EndView: View {
                     }
                 }
             }
-
-            HStack(spacing: 12) {
-                Button("Next painting", action: onNext)
-                    .buttonStyle(PrimaryButton())
-                if !retiredNow {
-                    Button("Try again") { withAnimation { quiz.restart() } }
-                        .buttonStyle(SecondaryButton())
-                }
-            }
-            .padding(.top, 4)
         }
     }
 }

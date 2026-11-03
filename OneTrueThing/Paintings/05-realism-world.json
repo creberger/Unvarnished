@@ -136,7 +136,8 @@
   ],
   "imageDescription": "A long frieze of villagers in black gathers around an open grave in a bleak landscape, with a crucifix raised above.",
   "credit": "Image: public domain, via Wikimedia Commons",
-  "category": "romantic-realist"
+  "category": "romantic-realist",
+  "summary": "Gustave Courbet painted this enormous canvas in 1849 to 1850. It shows a funeral in Ornans, his home town in eastern France, with dozens of villagers in black gathered around an open grave beneath a raised crucifix. The mourners were real locals, including Courbet's own family. What shocked critics was its scale: about three by seven metres, a size usually kept for history paintings of heroes and gods, here given to ordinary people. Courbet made it a manifesto of Realism, painting the world as it is rather than as it should be. It hangs in the Musée d'Orsay."
  },
  {
   "id": "barge-haulers",
@@ -275,7 +276,8 @@
   ],
   "imageDescription": "Eleven exhausted men in rags drag a barge along a sandy riverbank by harness straps, a young man straining upward among them.",
   "credit": "Image: public domain, via Wikimedia Commons",
-  "category": "romantic-realist"
+  "category": "romantic-realist",
+  "summary": "Ilya Repin painted this scene between 1870 and 1873, after travelling along the Volga River. Eleven exhausted men, harnessed with straps, drag a barge along a sandy bank under a hot sun. Each is an individual: the leader was a former priest Repin met, and a young man in pink strains upward, not yet beaten. A steamship in the distance hints that machines would soon replace them. The painting made Repin famous and became a powerful image of human endurance and social injustice in Russia. Grand Duke Vladimir bought it. It belongs to the State Russian Museum."
  },
  {
   "id": "whistlers-mother",
@@ -414,7 +416,8 @@
   ],
   "imageDescription": "An elderly woman in black sits in profile on a chair against a grey wall, a framed print and curtain beside her.",
   "credit": "Image: public domain, via Wikimedia Commons",
-  "category": "romantic-realist"
+  "category": "romantic-realist",
+  "summary": "James McNeill Whistler painted his mother, Anna, in London in 1871. He called it Arrangement in Grey and Black No. 1, because he wanted it seen as a harmony of tones, like music, rather than as a sentimental portrait. She sits in profile against a grey wall, beside a curtain and one of his own etchings. She was meant to stand, but tired, so he painted her seated. In 1891 the French state bought it, the first American painting in a French national collection. It became an icon of motherhood in America. It hangs in the Musée d'Orsay."
  },
  {
   "id": "max-schmitt",
@@ -553,7 +556,8 @@
   ],
   "imageDescription": "A rower rests on his oars on a calm river, bridges in the distance and autumn trees along the bank.",
   "credit": "Image: The Metropolitan Museum of Art, public domain (CC0)",
-  "category": "romantic-realist"
+  "category": "romantic-realist",
+  "summary": "Thomas Eakins painted his friend Max Schmitt, a champion rower, in 1871. Schmitt rests on his oars on the Schuylkill River in Philadelphia, on a calm autumn afternoon, with bridges in the distance. Eakins, himself a keen rower, appears further back in another boat, with his name painted on it. He worked out the perspective of the boats with precise drawings, combining scientific accuracy with a quiet, reflective mood. It was one of his first major paintings after studying in Paris. Today Eakins is regarded as one of America's greatest realist painters. It belongs to the Met."
  },
  {
   "id": "gulf-stream",
@@ -692,7 +696,8 @@
   ],
   "imageDescription": "A lone sailor lies on a dismasted boat in rough water, sharks circling and a waterspout on the horizon.",
   "credit": "Image: The Metropolitan Museum of Art, public domain (CC0)",
-  "category": "post-impressionism"
+  "category": "post-impressionism",
+  "summary": "Winslow Homer painted The Gulf Stream in 1899, after trips to the Caribbean. A lone Black sailor lies on the deck of a small boat that has lost its mast, drifting in rough water. Sharks circle around him, a waterspout rises on the horizon, and a distant ship may or may not see him. Sugar cane spills from the hold. The sailor seems strangely calm. Viewers asked what would happen to him, and Homer joked that he would be rescued. The painting is now seen as one of his masterpieces. The Metropolitan Museum bought it in 1906."
  },
  {
   "id": "madame-x",
@@ -831,7 +836,8 @@
   ],
   "imageDescription": "A pale woman in a sleek black gown with jewelled straps stands in profile, one hand on a table.",
   "credit": "Image: The Metropolitan Museum of Art, public domain (CC0)",
-  "category": "post-impressionism"
+  "category": "post-impressionism",
+  "summary": "John Singer Sargent painted this portrait of Virginie Gautreau, a famous Paris socialite, in 1883 to 1884. She stands in profile in a sleek black gown, her pale skin set against a dark background, a small crescent tiara in her hair. When it was shown at the Paris Salon in 1884, one strap had slipped from her shoulder, and the scandal was so great that Sargent repainted it and moved to London. He kept the painting for over thirty years. In 1916 he sold it to the Metropolitan Museum, calling it the best thing he had done."
  },
  {
   "id": "spoliarium",
@@ -970,7 +976,8 @@
   ],
   "imageDescription": "In a dark Roman arena chamber, dead gladiators are dragged away as an old man searches and a woman weeps.",
   "credit": "Image: public domain, via Wikimedia Commons",
-  "category": "post-impressionism"
+  "category": "post-impressionism",
+  "summary": "Juan Luna painted Spoliarium in 1884, while studying in Rome. The title refers to the chamber beneath a Roman arena where dead gladiators were dragged and stripped. In the gloom, the bodies are hauled away, while an old man searches among them and a woman weeps. The canvas is about four by seven and a half metres, the largest painting in the Philippines. It won a gold medal at the Madrid Exposition of 1884, a triumph celebrated by Filipino reformers such as José Rizal. It hangs in the National Museum of Fine Arts in Manila."
  },
  {
   "id": "great-wave",
@@ -1109,7 +1116,8 @@
   ],
   "imageDescription": "A towering wave with claw-like foam curls over three boats of rowers, with tiny Mount Fuji in the distance.",
   "credit": "Image: The Metropolitan Museum of Art, public domain (CC0)",
-  "category": "asia-antiquity"
+  "category": "asia-antiquity",
+  "summary": "Katsushika Hokusai made Under the Wave off Kanagawa, known as The Great Wave, around 1830 to 1832, when he was about 70. It is a woodblock print from his series Thirty-six Views of Mount Fuji. A towering wave with claw-like foam curls over three boats of rowers, while tiny Mount Fuji sits calmly in the distance. Hokusai used Prussian blue, a vivid new imported pigment. Thousands of impressions were printed and sold cheaply. It became one of the most famous images in the world and deeply influenced European artists. This impression belongs to the Metropolitan Museum."
  },
  {
   "id": "sudden-shower",
@@ -1248,7 +1256,8 @@
   ],
   "imageDescription": "People hurry across a wooden bridge in a sudden downpour, shown as fine dark lines over the river.",
   "credit": "Image: The Metropolitan Museum of Art, public domain (CC0)",
-  "category": "asia-antiquity"
+  "category": "asia-antiquity",
+  "summary": "Utagawa Hiroshige made this woodblock print in 1857, as part of his series One Hundred Famous Views of Edo, the city now called Tokyo. People hurry across the Ōhashi bridge over the Sumida River as a sudden summer downpour sweeps in, the rain shown as fine dark lines at two angles. The steep bridge and the misty far bank give the scene depth and drama. The print was hugely popular, and Vincent van Gogh copied it in oil in 1887. It shows the Japanese art that shaped Impressionism. This impression belongs to the Metropolitan Museum."
  },
  {
   "id": "night-shining-white",
@@ -1387,7 +1396,8 @@
   ],
   "imageDescription": "A spirited white horse tethered to a post rears and strains, surrounded by red collectors' seals and inscriptions.",
   "credit": "Image: The Metropolitan Museum of Art, public domain (CC0)",
-  "category": "asia-antiquity"
+  "category": "asia-antiquity",
+  "summary": "Han Gan painted this horse around 750 in China, during the Tang dynasty. It shows Night-Shining White, a favourite horse of the Emperor Xuanzong, tethered to a post and straining with energy, drawn in confident ink lines. Han Gan was the most celebrated horse painter of his time. Over the centuries, emperors, collectors and scholars added their red seals and written comments to the scroll, recording who owned or admired it; the marks are now part of the work. It is one of the oldest Chinese paintings in a Western museum. It belongs to the Metropolitan Museum of Art."
  },
  {
   "id": "fayum-portrait",
@@ -1526,7 +1536,8 @@
   ],
   "imageDescription": "A young woman with dark eyes and a gold wreath, painted on a narrow wooden panel.",
   "credit": "Image: The Metropolitan Museum of Art, public domain (CC0)",
-  "category": "asia-antiquity"
+  "category": "asia-antiquity",
+  "summary": "This portrait of a young woman was painted in Egypt around 90 to 120 AD, when the country was part of the Roman Empire. It was placed over the face of her mummy, so that her likeness would last into the afterlife. Hundreds of these portraits have been found, many in the Fayum region. The artist painted in encaustic, pigment mixed with hot wax, which has kept the colours fresh for nearly 2,000 years. Her large, lifelike eyes, gold wreath and red tunic make her feel startlingly present. It belongs to the Metropolitan Museum of Art."
  },
  {
   "id": "impression-sunrise",
@@ -1665,6 +1676,7 @@
   ],
   "imageDescription": "An orange sun rises over a hazy blue harbour, with small dark boats in the foreground.",
   "credit": "Image: public domain, via Wikimedia Commons",
-  "category": "impressionism"
+  "category": "impressionism",
+  "summary": "Claude Monet painted this view of the harbour at Le Havre, where he grew up, in 1872. An orange sun rises through blue morning haze, reflected in the water, while small dark boats are sketched in with a few quick strokes. When it was shown in 1874 at an independent exhibition in Paris, a critic mocked its title, calling the whole group \"Impressionists,\" and the name stuck. The painting captures a fleeting moment of light rather than precise detail, which was exactly the point. It was stolen in 1985 and recovered in 1990. It hangs in the Musée Marmottan Monet, Paris."
  }
 ]

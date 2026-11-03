@@ -42,7 +42,7 @@ To add a painting:
    python tools/contact_sheet.py <image_dir> <sheet_dir>
    ```
 
-4. Write its rounds in a content file, and add its id to a category in `tools/categories.py`.
+4. Write its rounds in a content file, add its id to a category in `tools/categories.py`, and write a summary of about 100 words in `tools/content/summaries/` (shown on the score screen and in Your Collection).
 5. Build the app's JSON and copy the images in. This step also checks that every painting has five rounds with exactly one true statement each, and belongs to exactly one category:
 
    ```bash

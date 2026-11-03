@@ -118,6 +118,16 @@ struct CollectionDetailView: View {
                     }
                 }
 
+                if let summary = painting.summary {
+                    VStack(alignment: .leading, spacing: 8) {
+                        Text("About the painting")
+                            .font(Theme.display(21))
+                        Text(summary)
+                            .lineSpacing(3)
+                            .fixedSize(horizontal: false, vertical: true)
+                    }
+                }
+
                 VStack(alignment: .leading, spacing: 12) {
                     Text("Five true things")
                         .font(Theme.display(21))
