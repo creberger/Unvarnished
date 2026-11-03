@@ -9,7 +9,7 @@
 - [x] Export compliance: `ITSAppUsesNonExemptEncryption = NO`, so uploads skip the encryption question
 - [x] App category set to Trivia
 - [x] iPhone only, portrait only, iOS 17 or later
-- [x] Five screenshots as JPEGs without transparency, at 1320 × 2868 (`screenshots/6.9-inch/`) and 1284 × 2778 (`screenshots/6.5-inch/`)
+- [x] Five screenshots as 72-dpi PNGs without transparency, in all four accepted iPhone sizes (`screenshots/`)
 - [x] Listing text, keywords and age-rating notes (`listing.md`)
 - [x] Privacy policy text (`privacy-policy.md`)
 

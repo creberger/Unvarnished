@@ -59,7 +59,7 @@ That will most likely give a 13+ rating.
 
 ## Screenshots
 
-`screenshots/6.9-inch/` (1320 × 2868) and `screenshots/6.5-inch/` (1284 × 2778) hold the same five screenshots as JPEGs without transparency. Upload whichever size App Store Connect asks for, in order:
+`screenshots/` holds the same five screenshots as 72-dpi PNGs without transparency, in each size App Store Connect accepts for iPhone: 6.9-inch at 1320 × 2868 or 1290 × 2796, and 6.5-inch at 1284 × 2778 or 1242 × 2688. Upload one folder into the matching slot, in order:
 
 1. The category list
 2. A painting, ready to play (Judith Leyster)
