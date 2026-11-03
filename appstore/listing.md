@@ -66,3 +66,7 @@ That will most likely give a 13+ rating.
 3. A zoomed detail (the fiddler on Leyster's easel)
 4. The answers revealed, with the countdown to the next detail
 5. The score screen, with the painting acquired
+
+## App preview video
+
+`appstore/preview/unvarnished-app-preview.mov` (also on the Desktop as `unvarnished-app-preview.mov`): 29.5 seconds, 886 × 1920, 30 fps, H.264 with stereo AAC audio, about 25 MB. It's cut from a screen recording with `tools/make_preview.swift` and shows the categories, a painting's rounds with a zoomed detail and the countdown, the score screen, and Your Collection. Upload it in the iPhone slot above the screenshots; App Store Connect lets you choose the poster frame. The video isn't in git because of its size.

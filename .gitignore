@@ -10,3 +10,6 @@ build/
 
 # Python
 __pycache__/
+
+# App preview videos (large; kept locally)
+appstore/preview/*.mov
