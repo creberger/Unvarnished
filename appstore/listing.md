@@ -59,7 +59,7 @@ That will most likely give a 13+ rating.
 
 ## Screenshots
 
-`screenshots/` holds five 1320 × 2868 screenshots for the 6.9-inch iPhone size, which App Store Connect scales down for smaller iPhones. Upload them in order:
+`screenshots/6.9-inch/` (1320 × 2868) and `screenshots/6.5-inch/` (1284 × 2778) hold the same five screenshots as JPEGs without transparency. Upload whichever size App Store Connect asks for, in order:
 
 1. The category list
 2. A painting, ready to play (Judith Leyster)
