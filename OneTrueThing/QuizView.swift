@@ -122,10 +122,10 @@ struct QuizView: View {
 private struct RoundView: View {
     let quiz: Quiz
     let round: Painting.Round
-    /// How far through the pause before moving on after a right answer, from 0 to 1.
-    @State private var countdown: CGFloat = 0
+    /// When the true statement was found, which starts the countdown to the next detail.
+    @State private var solvedAt: Date?
 
-    /// A first-try right answer moves on by itself after this long; otherwise the player taps on.
+    /// Once the true statement is found, the next detail starts by itself after this long.
     private static let autoAdvanceDelay: Double = 5
 
     var body: some View {
@@ -160,28 +160,18 @@ private struct RoundView: View {
             }
 
             if quiz.isSolved {
-                Button(quiz.isLastRound ? "See your score" : "Look closer →") {
-                    withAnimation { quiz.next() }
+                Button { withAnimation { quiz.next() } } label: {
+                    CountdownLabel(title: quiz.isLastRound ? "See your score" : "Look closer →",
+                                   start: solvedAt, duration: Self.autoAdvanceDelay)
                 }
-                .buttonStyle(PrimaryButton())
-                .overlay(alignment: .bottomLeading) {
-                    // A bar fills along the button's bottom edge until it moves on by itself.
-                    if quiz.solvedFirstTry {
-                        GeometryReader { geo in
-                            Theme.label.opacity(0.6)
-                                .frame(width: geo.size.width * countdown, height: 3)
-                                .frame(maxHeight: .infinity, alignment: .bottom)
-                        }
-                        .allowsHitTesting(false)
-                    }
-                }
+                .buttonStyle(CountdownButton())
                 .padding(.top, 4)
             }
         }
         .task(id: quiz.picked) {
-            countdown = 0
-            guard quiz.solvedFirstTry, let picked = quiz.picked else { return }
-            withAnimation(.linear(duration: Self.autoAdvanceDelay)) { countdown = 1 }
+            solvedAt = nil
+            guard let picked = quiz.picked else { return }
+            solvedAt = .now
             try? await Task.sleep(for: .seconds(Self.autoAdvanceDelay))
             // Cancelled if the player moved on themselves or left the screen.
             guard !Task.isCancelled, quiz.picked == picked else { return }
@@ -342,6 +332,51 @@ private struct EndView: View {
                 }
             }
         }
+    }
+}
+
+/// The button's label with the countdown shown inside it: the button fills from left to right
+/// and the seconds left count down, so it's clear the next detail is coming by itself.
+private struct CountdownLabel: View {
+    let title: String
+    let start: Date?
+    let duration: Double
+
+    var body: some View {
+        TimelineView(.animation(paused: start == nil)) { context in
+            let elapsed = start.map { context.date.timeIntervalSince($0) } ?? 0
+            let progress = min(1, max(0, elapsed / duration))
+            let secondsLeft = Int(ceil(duration - elapsed))
+            HStack(spacing: 10) {
+                Text(title)
+                if start != nil, secondsLeft > 0 {
+                    Text("\(secondsLeft)")
+                        .font(Theme.mono(15, weight: .medium))
+                        .monospacedDigit()
+                        .opacity(0.8)
+                        .contentTransition(.numericText(countsDown: true))
+                }
+            }
+            .padding(.horizontal, 20)
+            .padding(.vertical, 14)
+            .background(alignment: .leading) {
+                GeometryReader { geo in
+                    Theme.ultramarine
+                        .frame(width: geo.size.width * progress)
+                }
+            }
+            .background(Theme.ultramarine.opacity(0.6))
+        }
+        .accessibilityLabel(title)
+    }
+}
+
+private struct CountdownButton: ButtonStyle {
+    func makeBody(configuration: Configuration) -> some View {
+        configuration.label
+            .font(.body.weight(.semibold))
+            .foregroundStyle(Theme.label)
+            .opacity(configuration.isPressed ? 0.8 : 1)
     }
 }
 
