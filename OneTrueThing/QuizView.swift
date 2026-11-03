@@ -5,7 +5,7 @@ struct QuizScreen: View {
     let library: Library
     let onNext: () -> Void
     @State private var quiz: Quiz
-    @State private var retiredNow = false
+    @State private var acquiredNow = false
 
     init(painting: Painting, library: Library, onNext: @escaping () -> Void) {
         self.library = library
@@ -14,11 +14,11 @@ struct QuizScreen: View {
     }
 
     var body: some View {
-        QuizView(quiz: quiz, retiredNow: retiredNow, wasRetired: library.isRetired(quiz.painting) && !retiredNow, onNext: onNext)
+        QuizView(quiz: quiz, acquiredNow: acquiredNow, alreadyAcquired: library.isAcquired(quiz.painting) && !acquiredNow, onNext: onNext)
             .onAppear { library.markPlayed(quiz.painting) }
             .onChange(of: quiz.isFinished) { _, finished in
-                guard finished else { retiredNow = false; return }
-                retiredNow = library.record(quiz.painting, score: quiz.score)
+                guard finished else { acquiredNow = false; return }
+                acquiredNow = library.record(quiz.painting, score: quiz.score)
             }
             .navigationBarTitleDisplayMode(.inline)
             .toolbarBackground(Theme.wall, for: .navigationBar)
@@ -27,53 +27,55 @@ struct QuizScreen: View {
 
 struct QuizView: View {
     let quiz: Quiz
-    var retiredNow = false
-    var wasRetired = false
+    var acquiredNow = false
+    var alreadyAcquired = false
     var onNext: () -> Void = {}
 
     var body: some View {
         // One scroll view with the painting pinned as its header: the zoom stays in view while the
         // wall label scrolls beneath it, and a swipe that starts on the painting still scrolls.
-        ScrollViewReader { proxy in
-            ScrollView {
-                LazyVStack(alignment: .leading, spacing: 0, pinnedViews: [.sectionHeaders]) {
-                    Color.clear.frame(height: 0).id("top")
-                    Section {
-                        VStack(alignment: .leading, spacing: 20) {
-                            caption
-                            progress
+        GeometryReader { screen in
+            ScrollViewReader { proxy in
+                ScrollView {
+                    LazyVStack(alignment: .leading, spacing: 0, pinnedViews: [.sectionHeaders]) {
+                        Color.clear.frame(height: 0).id("top")
+                        Section {
+                            VStack(alignment: .leading, spacing: 20) {
+                                caption
+                                progress
 
-                            if let round = quiz.round {
-                                RoundView(quiz: quiz, round: round)
-                            } else {
-                                EndView(quiz: quiz, retiredNow: retiredNow, wasRetired: wasRetired, onNext: onNext)
+                                if let round = quiz.round {
+                                    RoundView(quiz: quiz, round: round)
+                                } else {
+                                    EndView(quiz: quiz, acquiredNow: acquiredNow, alreadyAcquired: alreadyAcquired, onNext: onNext)
+                                }
+
+                                Text("\(quiz.painting.credit). One statement per detail is true.")
+                                    .font(Theme.mono(11))
+                                    .foregroundStyle(Theme.muted)
+                                    .padding(.top, 8)
                             }
-
-                            Text("\(quiz.painting.credit). One statement per detail is true.")
-                                .font(Theme.mono(11))
-                                .foregroundStyle(Theme.muted)
-                                .padding(.top, 8)
-                        }
-                        .padding(.horizontal, 20)
-                        .padding(.bottom, 24)
-                    } header: {
-                        PaintingView(painting: quiz.painting,
-                                     focus: quiz.focus,
-                                     label: quiz.round?.where ?? "Full painting")
-                            // Once the game is over there's nothing left to zoom into, so the
-                            // painting shrinks to leave room for reading the summary.
-                            .containerRelativeFrame(.vertical) { height, _ in height * (quiz.isFinished ? 0.24 : 0.46) }
-                            .animation(.easeInOut(duration: 0.5), value: quiz.isFinished)
-                            .frame(maxWidth: .infinity)
                             .padding(.horizontal, 20)
-                            .padding(.top, 8)
-                            .padding(.bottom, 16)
-                            .background(Theme.wall)
+                            .padding(.bottom, 24)
+                        } header: {
+                            PaintingView(painting: quiz.painting,
+                                         focus: quiz.focus,
+                                         label: quiz.round?.where ?? "Full painting")
+                                // Once the game is over there's nothing left to zoom into, so the
+                                // painting shrinks to leave room for reading the summary.
+                                .frame(height: screen.size.height * (quiz.isFinished ? 0.24 : 0.46))
+                                .animation(.easeInOut(duration: 0.5), value: quiz.isFinished)
+                                .frame(maxWidth: .infinity)
+                                .padding(.horizontal, 20)
+                                .padding(.top, 8)
+                                .padding(.bottom, 16)
+                                .background(Theme.wall)
+                        }
                     }
                 }
-            }
-            .onChange(of: quiz.roundIndex) {
-                withAnimation(.easeInOut(duration: 0.4)) { proxy.scrollTo("top", anchor: .top) }
+                .onChange(of: quiz.roundIndex) {
+                    withAnimation(.easeInOut(duration: 0.4)) { proxy.scrollTo("top", anchor: .top) }
+                }
             }
         }
         .background(Theme.wall.ignoresSafeArea())
@@ -252,8 +254,8 @@ private struct StatementButton: View {
 
 private struct EndView: View {
     let quiz: Quiz
-    let retiredNow: Bool
-    let wasRetired: Bool
+    let acquiredNow: Bool
+    let alreadyAcquired: Bool
     let onNext: () -> Void
 
     private let verdicts = ["A fresh pair of eyes.", "You noticed something.", "A good look.",
@@ -274,11 +276,11 @@ private struct EndView: View {
             Text(verdicts[min(quiz.score, verdicts.count - 1)])
                 .font(Theme.display(19))
 
-            if retiredNow {
+            if acquiredNow {
                 Label("Five in a row. Acquired for your collection.", systemImage: "checkmark.seal.fill")
                     .font(.subheadline.weight(.semibold))
                     .foregroundStyle(Theme.truth)
-            } else if wasRetired {
+            } else if alreadyAcquired {
                 Text("This painting is already in your collection.")
                     .font(.subheadline)
                     .foregroundStyle(Theme.muted)
@@ -291,7 +293,7 @@ private struct EndView: View {
             HStack(spacing: 12) {
                 Button("Next painting", action: onNext)
                     .buttonStyle(PrimaryButton())
-                if !retiredNow {
+                if !acquiredNow {
                     Button("Try again") { withAnimation { quiz.restart() } }
                         .buttonStyle(SecondaryButton())
                 }

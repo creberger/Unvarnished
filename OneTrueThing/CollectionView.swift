@@ -13,12 +13,12 @@ struct CollectionView: View {
                 VStack(alignment: .leading, spacing: 4) {
                     Text("Your Collection")
                         .font(Theme.display(32))
-                    Text("\(library.successes.count) of \(library.paintings.count) acquired")
+                    Text("\(library.collection.count) of \(library.paintings.count) acquired")
                         .font(Theme.mono(12))
                         .foregroundStyle(Theme.muted)
                 }
 
-                if library.successes.isEmpty {
+                if library.collection.isEmpty {
                     Text("Get all five rounds of a painting right and it's acquired for your collection, out of the game.")
                         .foregroundStyle(Theme.muted)
                         .fixedSize(horizontal: false, vertical: true)
@@ -57,9 +57,9 @@ struct CollectionView: View {
 
     /// Acquired paintings grouped by category, in category order, skipping empty ones.
     private var sections: [Section] {
-        let successes = library.successes
+        let collection = library.collection
         return library.categories.compactMap { category -> Section? in
-            let items = successes.filter { $0.painting.category == category.id }
+            let items = collection.filter { $0.painting.category == category.id }
             return items.isEmpty ? nil : Section(category: category, items: items)
         }
     }
@@ -110,7 +110,7 @@ struct CollectionDetailView: View {
                     Text(painting.caption)
                         .font(Theme.mono(11.5))
                         .foregroundStyle(Theme.muted)
-                    if let date = library.retired[painting.id] {
+                    if let date = library.acquired[painting.id] {
                         Label("Acquired \(date.formatted(date: .abbreviated, time: .omitted))", systemImage: "checkmark.seal.fill")
                             .font(.subheadline.weight(.semibold))
                             .foregroundStyle(Theme.truth)

@@ -54,7 +54,7 @@ struct HomeView: View {
 
     private func categoryRow(id: String?, name: String, span: String) -> some View {
         let total = library.paintings(in: id).count
-        let done = library.retiredCount(in: id)
+        let done = library.acquiredCount(in: id)
         let complete = done == total
         return Button { start(id) } label: {
             VStack(alignment: .leading, spacing: 10) {
@@ -111,7 +111,7 @@ struct HomeView: View {
                 VStack(alignment: .leading, spacing: 2) {
                     Text("Your Collection")
                         .font(.body.weight(.semibold))
-                    Text("\(library.successes.count) of \(library.paintings.count) acquired")
+                    Text("\(library.collection.count) of \(library.paintings.count) acquired")
                         .font(Theme.mono(12))
                         .foregroundStyle(Theme.muted)
                 }

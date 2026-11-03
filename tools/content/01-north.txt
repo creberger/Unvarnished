@@ -165,7 +165,7 @@ desc: A girl in a blue and yellow turban looks over her shoulder, lips parted, a
 + It's a tronie, a study of a face, not a portrait of a known person. || Nobody knows who modelled for it.
 - It's a portrait of Vermeer's wife, signed with her name. || The sitter is unknown.
 - It was commissioned by a Turkish ambassador. || There's no record of a commission.
-@ 0.48 0.56 3 | The pearl | Look at the earring. | How is it painted?
+@ 0.6 0.55 3 | The pearl | Look at the earring. | How is it painted?
 + It's just a few strokes: a bright highlight and a soft reflection. || There's no hook to hang it from.
 - It's real pearl dust mixed into paint. || It's ordinary paint.
 - It's gold leaf. || It's paint.

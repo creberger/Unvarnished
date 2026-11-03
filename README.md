@@ -53,6 +53,8 @@ The Xcode project and source folder still use the working name, OneTrueThing. Ro
 
 To rewrite many rounds at once, `tools/apply_rewrites.py` swaps new statements into the content files (see the format at the top of the script).
 
+App Store listing, privacy policy, screenshots and a submission checklist are in `appstore/`.
+
 `OneTrueThing/Paintings/milkmaid.json` was written by hand before the content files existed, and is edited directly.
 
 Check every true statement against the museum's own catalogue before shipping.

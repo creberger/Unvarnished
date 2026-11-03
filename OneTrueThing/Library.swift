@@ -10,13 +10,13 @@ final class Library {
     var selectedCategory: String? {
         didSet { defaults.set(selectedCategory, forKey: Self.categoryKey) }
     }
-    /// Painting id → when it was acquired for the collection. Stored under "retired", its original name.
-    private(set) var retired: [String: Date]
+    /// Painting id → when it was acquired for the collection.
+    private(set) var acquired: [String: Date]
     /// Paintings the player has started at least once.
     private(set) var played: Set<String>
 
     private let defaults: UserDefaults
-    private static let retiredKey = "retired"
+    private static let acquiredKey = "retired"  // the original name, kept so saved progress still loads
     private static let playedKey = "played"
     private static let categoryKey = "category"
 
@@ -29,21 +29,17 @@ final class Library {
         selectedCategory = defaults.string(forKey: Self.categoryKey).flatMap { id in
             categories.contains { $0.id == id } ? id : nil
         }
-        let stored = defaults.dictionary(forKey: Self.retiredKey) as? [String: Double] ?? [:]
-        retired = stored.mapValues(Date.init(timeIntervalSince1970:))
+        let stored = defaults.dictionary(forKey: Self.acquiredKey) as? [String: Double] ?? [:]
+        acquired = stored.mapValues(Date.init(timeIntervalSince1970:))
         played = Set(defaults.stringArray(forKey: Self.playedKey) ?? [])
     }
 
-    var active: [Painting] { paintings.filter { retired[$0.id] == nil } }
-
-    /// Retired paintings, most recent first.
-    var successes: [(painting: Painting, date: Date)] {
-        paintings.compactMap { p in retired[p.id].map { (p, $0) } }.sorted { $0.date > $1.date }
+    /// Acquired paintings, most recent first.
+    var collection: [(painting: Painting, date: Date)] {
+        paintings.compactMap { p in acquired[p.id].map { (p, $0) } }.sorted { $0.date > $1.date }
     }
 
     func painting(_ id: String) -> Painting? { paintings.first { $0.id == id } }
-
-    func category(_ id: String?) -> PaintingCategory? { categories.first { $0.id == id } }
 
     /// Paintings in a category, or all of them for nil.
     func paintings(in category: String?) -> [Painting] {
@@ -51,15 +47,15 @@ final class Library {
         return paintings.filter { $0.category == category }
     }
 
-    func retiredCount(in category: String?) -> Int {
-        paintings(in: category).filter { retired[$0.id] != nil }.count
+    func acquiredCount(in category: String?) -> Int {
+        paintings(in: category).filter { acquired[$0.id] != nil }.count
     }
 
-    func isRetired(_ painting: Painting) -> Bool { retired[painting.id] != nil }
+    func isAcquired(_ painting: Painting) -> Bool { acquired[painting.id] != nil }
 
     /// A painting still in play in the selected category, preferring ones the player hasn't seen yet.
     func next(after current: Painting? = nil) -> Painting? {
-        let inPlay = paintings(in: selectedCategory).filter { retired[$0.id] == nil }
+        let inPlay = paintings(in: selectedCategory).filter { acquired[$0.id] == nil }
         let candidates = inPlay.filter { $0.id != current?.id }
         let unseen = candidates.filter { !played.contains($0.id) }
         return (unseen.isEmpty ? candidates : unseen).randomElement() ?? inPlay.first
@@ -70,12 +66,12 @@ final class Library {
         defaults.set(Array(played), forKey: Self.playedKey)
     }
 
-    /// Records a finished game. Five out of five retires the painting; returns true if it just did.
+    /// Records a finished game. Five out of five acquires the painting; returns true if it just did.
     @discardableResult
     func record(_ painting: Painting, score: Int) -> Bool {
-        guard score == painting.rounds.count, retired[painting.id] == nil else { return false }
-        retired[painting.id] = .now
-        defaults.set(retired.mapValues(\.timeIntervalSince1970), forKey: Self.retiredKey)
+        guard score == painting.rounds.count, acquired[painting.id] == nil else { return false }
+        acquired[painting.id] = .now
+        defaults.set(acquired.mapValues(\.timeIntervalSince1970), forKey: Self.acquiredKey)
         return true
     }
 }
