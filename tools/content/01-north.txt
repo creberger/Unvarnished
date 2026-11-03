@@ -4,11 +4,11 @@ desc: A man in a dark fur-trimmed robe and a woman in a green dress stand hand i
 + It's oil paint on an oak panel, and one of the earliest full-length double portraits in European art. || Van Eyck was a master of oil paint, layering thin glazes for its glowing colour.
 - It's painted on canvas, rolled up so it could be carried to Italy. || It's on oak. Canvas only became common in northern Europe later.
 - It's a fresco, cut from the wall of a house in Bruges. || It's a panel painting, made to be portable.
-@ 0.5 0.43 3 | The mirror | Look at the round mirror on the back wall. | What does it reflect?
+@ 0.5 0.31 3 | The mirror | Look at the round mirror on the back wall. | What does it reflect?
 + It reflects two more figures standing in the doorway, facing the couple. || One of them may be van Eyck himself. The mirror's frame holds ten tiny scenes of Christ's Passion.
 - It shows the painter's face in clear, sharp detail. || The figures in the mirror are tiny and can't be identified for sure.
 - The mirror was added by a restorer in the 1800s. || It's original. Technical studies show it was part of the painting from the start.
-@ 0.5 0.36 3 | Above the mirror | Now the writing above the mirror. | What does the Latin above the mirror say?
+@ 0.5 0.25 3 | Above the mirror | Now the writing above the mirror. | What does the Latin above the mirror say?
 + "Jan van Eyck was here, 1434." || It's written like a witness's signature on a document.
 - "As I can, Jan van Eyck, 1434." || That motto appears on some of his other frames, not here.
 - "Giovanni Arnolfini and his wife, 1434." || The couple aren't named anywhere on the painting.

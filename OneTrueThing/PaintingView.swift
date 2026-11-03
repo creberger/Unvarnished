@@ -14,6 +14,9 @@ struct PaintingView: View {
                 .frame(width: size.width, height: size.height)
                 .scaleEffect(focus.zoom, anchor: .topLeading)
                 .offset(x: offset(focus.x) * size.width, y: offset(focus.y) * size.height)
+                // Clipping hides the zoomed image beyond the frame but doesn't stop it catching
+                // touches there, which blocked the answers below. The painting never needs taps.
+                .allowsHitTesting(false)
         }
         .aspectRatio(painting.imageAspect, contentMode: .fit)
         .clipped()
