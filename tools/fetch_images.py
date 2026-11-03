@@ -16,7 +16,7 @@ from PIL import Image
 
 from manifest import PAINTINGS
 
-UA = {"User-Agent": "Unvarnished/0.1 (art quiz prototype; christopher@44consulting.net)"}
+UA = {"User-Agent": "Unvarnished/0.1 (art quiz content tools; https://github.com/creberger/Unvarnished)"}
 Image.MAX_IMAGE_PIXELS = None
 
 
