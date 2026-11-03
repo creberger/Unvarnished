@@ -32,42 +32,45 @@ struct QuizView: View {
     var onNext: () -> Void = {}
 
     var body: some View {
-        // The painting stays put while the wall label scrolls beneath it, so the zoom is always in view.
-        VStack(spacing: 0) {
-            PaintingView(painting: quiz.painting,
-                         focus: quiz.focus,
-                         label: quiz.round?.where ?? "Full painting")
-                .containerRelativeFrame(.vertical) { height, _ in height * 0.46 }
-                .frame(maxWidth: .infinity)
-                .padding(.horizontal, 20)
-                .padding(.top, 8)
-                .padding(.bottom, 16)
-                .zIndex(1)
+        // One scroll view with the painting pinned as its header: the zoom stays in view while the
+        // wall label scrolls beneath it, and a swipe that starts on the painting still scrolls.
+        ScrollViewReader { proxy in
+            ScrollView {
+                LazyVStack(alignment: .leading, spacing: 0, pinnedViews: [.sectionHeaders]) {
+                    Color.clear.frame(height: 0).id("top")
+                    Section {
+                        VStack(alignment: .leading, spacing: 20) {
+                            caption
+                            progress
 
-            ScrollViewReader { proxy in
-                ScrollView {
-                    VStack(alignment: .leading, spacing: 20) {
-                        caption
-                            .id("top")
-                        progress
+                            if let round = quiz.round {
+                                RoundView(quiz: quiz, round: round)
+                            } else {
+                                EndView(quiz: quiz, retiredNow: retiredNow, wasRetired: wasRetired, onNext: onNext)
+                            }
 
-                        if let round = quiz.round {
-                            RoundView(quiz: quiz, round: round)
-                        } else {
-                            EndView(quiz: quiz, retiredNow: retiredNow, wasRetired: wasRetired, onNext: onNext)
+                            Text("\(quiz.painting.credit). One statement per detail is true.")
+                                .font(Theme.mono(11))
+                                .foregroundStyle(Theme.muted)
+                                .padding(.top, 8)
                         }
-
-                        Text("\(quiz.painting.credit). One statement per detail is true.")
-                            .font(Theme.mono(11))
-                            .foregroundStyle(Theme.muted)
+                        .padding(.horizontal, 20)
+                        .padding(.bottom, 24)
+                    } header: {
+                        PaintingView(painting: quiz.painting,
+                                     focus: quiz.focus,
+                                     label: quiz.round?.where ?? "Full painting")
+                            .containerRelativeFrame(.vertical) { height, _ in height * 0.46 }
+                            .frame(maxWidth: .infinity)
+                            .padding(.horizontal, 20)
                             .padding(.top, 8)
+                            .padding(.bottom, 16)
+                            .background(Theme.wall)
                     }
-                    .padding(.horizontal, 20)
-                    .padding(.bottom, 24)
                 }
-                .onChange(of: quiz.roundIndex) {
-                    withAnimation(.easeInOut(duration: 0.4)) { proxy.scrollTo("top", anchor: .top) }
-                }
+            }
+            .onChange(of: quiz.roundIndex) {
+                withAnimation(.easeInOut(duration: 0.4)) { proxy.scrollTo("top", anchor: .top) }
             }
         }
         .background(Theme.wall.ignoresSafeArea())
@@ -119,12 +122,8 @@ private struct RoundView: View {
     /// How far through the pause before moving on after a right answer, from 0 to 1.
     @State private var countdown: CGFloat = 0
 
-    /// After a right answer the next round starts on its own; a wrong answer waits for the player.
+    /// A first-try right answer moves on by itself after this long; otherwise the player taps on.
     private static let autoAdvanceDelay: Double = 5
-
-    private var pickedRight: Bool {
-        quiz.picked.map { round.statements[$0].isTrue } ?? false
-    }
 
     var body: some View {
         VStack(alignment: .leading, spacing: 14) {
@@ -135,32 +134,36 @@ private struct RoundView: View {
                 .font(.subheadline)
                 .foregroundStyle(Theme.muted)
 
-            if let picked = quiz.picked {
-                let right = round.statements[picked].isTrue
-                Text(right ? "Right. That one is true." : "Not quite. The true one is marked.")
+            if quiz.isSolved {
+                Text(quiz.solvedFirstTry ? "Right. That one is true." : "That's the one.")
                     .font(Theme.display(19))
-                    .foregroundStyle(right ? Theme.truth : Theme.falsehood)
+                    .foregroundStyle(quiz.solvedFirstTry ? Theme.truth : Theme.ink)
+            } else if !quiz.ruledOut.isEmpty {
+                Text("Not that one. Try again.")
+                    .font(Theme.display(19))
+                    .foregroundStyle(Theme.falsehood)
             }
 
             VStack(spacing: 10) {
                 ForEach(Array(quiz.order.enumerated()), id: \.element) { position, index in
                     StatementButton(letter: ["A", "B", "C", "D"][position],
                                     statement: round.statements[index],
-                                    revealed: quiz.picked != nil,
+                                    revealed: quiz.isSolved,
+                                    ruledOut: quiz.ruledOut.contains(index),
                                     picked: quiz.picked == index) {
                         withAnimation(.easeOut(duration: 0.25)) { quiz.pick(index) }
                     }
                 }
             }
 
-            if quiz.picked != nil {
+            if quiz.isSolved {
                 Button(quiz.isLastRound ? "See your score" : "Look closer →") {
                     withAnimation { quiz.next() }
                 }
                 .buttonStyle(PrimaryButton())
                 .overlay(alignment: .bottomLeading) {
                     // A bar fills along the button's bottom edge until it moves on by itself.
-                    if pickedRight {
+                    if quiz.solvedFirstTry {
                         GeometryReader { geo in
                             Theme.label.opacity(0.6)
                                 .frame(width: geo.size.width * countdown, height: 3)
@@ -174,16 +177,15 @@ private struct RoundView: View {
         }
         .task(id: quiz.picked) {
             countdown = 0
-            guard pickedRight, let picked = quiz.picked else { return }
+            guard quiz.solvedFirstTry, let picked = quiz.picked else { return }
             withAnimation(.linear(duration: Self.autoAdvanceDelay)) { countdown = 1 }
             try? await Task.sleep(for: .seconds(Self.autoAdvanceDelay))
             // Cancelled if the player moved on themselves or left the screen.
             guard !Task.isCancelled, quiz.picked == picked else { return }
             withAnimation { quiz.next() }
         }
-        .sensoryFeedback(trigger: quiz.picked) { _, picked in
-            guard let picked else { return nil }
-            return round.statements[picked].isTrue ? .success : .error
+        .sensoryFeedback(trigger: quiz.attempts) { _, _ in
+            quiz.isSolved ? .success : .error
         }
     }
 }
@@ -191,7 +193,11 @@ private struct RoundView: View {
 private struct StatementButton: View {
     let letter: String
     let statement: Painting.Statement
+    /// The round is solved: every statement shows whether it's true and why.
     let revealed: Bool
+    /// The player picked this false statement; it's greyed out and can't be picked again.
+    let ruledOut: Bool
+    /// The player picked this true statement.
     let picked: Bool
     let action: () -> Void
 
@@ -226,13 +232,19 @@ private struct StatementButton: View {
             }
             .padding(14)
             .background(Theme.label)
-            .overlay(Rectangle().stroke(borderColor, lineWidth: picked || (revealed && statement.isTrue) ? 1.5 : 1))
+            .overlay(Rectangle().stroke(borderColor, lineWidth: picked ? 1.5 : 1))
+            .opacity(ruledOut ? 0.4 : 1)
             .contentShape(Rectangle())
         }
         .buttonStyle(.plain)
-        .allowsHitTesting(!revealed)
-        .accessibilityLabel(revealed ? "\(statement.isTrue ? "True" : "False"). \(statement.text) \(statement.why)" : statement.text)
+        .allowsHitTesting(!revealed && !ruledOut)
+        .accessibilityLabel(accessibilityText)
         .accessibilityAddTraits(picked ? .isSelected : [])
+    }
+
+    private var accessibilityText: String {
+        if revealed { return "\(statement.isTrue ? "True" : "False"). \(statement.text) \(statement.why)" }
+        return ruledOut ? "Ruled out. \(statement.text)" : statement.text
     }
 
     private var keyColor: Color {
@@ -241,9 +253,7 @@ private struct StatementButton: View {
     }
 
     private var borderColor: Color {
-        guard revealed else { return Theme.rule }
-        if statement.isTrue { return Theme.truth }
-        return picked ? Theme.falsehood : Theme.rule
+        revealed && statement.isTrue ? Theme.truth : Theme.rule
     }
 }
 
