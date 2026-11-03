@@ -98,17 +98,17 @@
    "hint": "What was here before the foot warmer?",
    "statements": [
     {
-     "text": "Scans show he first painted a wicker laundry basket in that spot.",
-     "why": "He replaced it with the foot warmer, a box that held hot coals.",
+     "text": "Scans show he first painted a wicker fire basket in that spot.",
+     "why": "Such baskets held a pot of coals for warming and drying. He replaced it with a foot warmer.",
      "isTrue": true
     },
     {
      "text": "Scans show he first painted a sleeping dog in that spot.",
-     "why": "It was a laundry basket."
+     "why": "It was a wicker fire basket."
     },
     {
      "text": "Scans show he first painted a second jug of milk in that spot.",
-     "why": "It was a laundry basket."
+     "why": "It was a wicker fire basket."
     }
    ]
   },
@@ -139,5 +139,5 @@
   }
  ],
  "category": "golden-age",
- "summary": "Johannes Vermeer painted The Milkmaid around 1658, when he was in his mid-twenties. A kitchen maid pours milk into an earthenware bowl, so absorbed that she seems unaware of us. Light from the window falls across her yellow bodice and her apron of costly ultramarine, and Vermeer dabbed tiny dots of pale paint on the bread so it seems to sparkle. Scans show he first painted a laundry basket where the foot warmer now sits. The painting is small, only 45.5 by 41 centimetres. The Rijksmuseum bought it in 1908, and it is one of its most beloved works."
+ "summary": "Johannes Vermeer painted The Milkmaid around 1658, when he was in his mid-twenties. A kitchen maid pours milk into an earthenware bowl, so absorbed that she seems unaware of us. Light from the window falls across her yellow bodice and her apron of costly ultramarine, and Vermeer dabbed tiny dots of pale paint on the bread so it seems to sparkle. Scans show he first painted a wicker fire basket where the foot warmer now sits. The painting is small, only 45.5 by 41 centimetres. The Rijksmuseum bought it in 1908, and it is one of its most beloved works."
 }

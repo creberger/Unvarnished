@@ -93,7 +93,7 @@ desc: Flames and smoke pour into the night sky over the Thames as crowds watch f
 ## raft-of-the-medusa | The Raft of the Medusa | Théodore Géricault | 1791–1824 | 1818–19 | Oil on canvas | Musée du Louvre, Paris
 desc: Desperate survivors on a makeshift raft wave toward a tiny ship on the horizon, the dead and dying around them.
 @ 0.5 0.5 1 | Full painting | Start with the whole picture. | What really happened?
-+ In 1816 a French navy ship wrecked; of about 150 on the raft, 15 survived. || The scandal shook France.
++ In 1816 a French navy ship ran aground; of about 150 on the raft, only 15 were rescued. || Several of them died soon after. The scandal shook France.
 - It's an invented story. || It's a real disaster.
 - Everyone was rescued safely. || Most died.
 @ 0.85 0.4 2.5 | The horizon | Look at the top right. | What are they waving at?

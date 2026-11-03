@@ -62,10 +62,10 @@ desc: A table laid with stacked cheeses, a jug, a glass goblet, pretzels and a b
 + Slightly above, so we look down onto the table. || The high viewpoint lets her show everything.
 - Straight across at table height, as if seated. || We look down from above.
 - Slightly below, as if looking up at the table. || We look down from above.
-@ 0.5 0.5 1 | Full painting | Finally, the details. | What do the shiny surfaces reflect?
-+ Tiny reflections of a window. || Peeters loved reflective surfaces.
-- Tiny reflections of a fire in a hearth. || It's a window.
-- Tiny reflections of a candle flame. || It's daylight from a window.
+@ 0.5 0.5 1 | Full painting | Finally, the details. | What's reflected in the jug's pewter lid?
++ A tiny self-portrait of Peeters herself. || She hid her own reflection in shiny surfaces in several paintings.
+- A tiny view of the window and the street. || It's her own face, in a white cap.
+- A tiny portrait of a buyer for the painting. || It's her own face, in a white cap.
 
 ## ruysch-flowers | Vase of Flowers | Rachel Ruysch | 1664–1750 | c. 1700 | Oil on canvas | Mauritshuis, The Hague
 desc: A tumbling bouquet of roses, tulips and other flowers in a vase against a dark background.
@@ -202,7 +202,7 @@ desc: A woman in a red dress and crown, holding a palm frond, leans on a broken 
 - Catherine was crowned as a poet. || She was a princess.
 @ 0.5 0.5 1 | Full painting | Finally, her career. | What first did Artemisia achieve?
 + First woman in Florence's Academy of Design. || She joined in 1616.
-- First woman in Rome's Academy of Saint Luke. || Another painter, Lavinia Fontana, had joined before her.
+- First woman in Bologna's Academy of Design. || Bologna's academy wasn't founded until 1710.
 - First woman to sign a painting in Italy. || Women had signed paintings long before.
 
 ## anguissola-chess | The Chess Game | Sofonisba Anguissola | c. 1532–1625 | 1555 | Oil on canvas | National Museum, Poznań

@@ -259,17 +259,17 @@
     "hint": "How did the 1891 show go?",
     "statements": [
      {
-      "text": "It sold out within days.",
-      "why": "It made Monet rich.",
+      "text": "Most of the paintings sold within a month.",
+      "why": "The series made Monet wealthy.",
       "isTrue": true
      },
      {
-      "text": "Not one painting sold.",
-      "why": "It sold out."
+      "text": "Not one painting sold until after his death.",
+      "why": "Most sold within a month."
      },
      {
-      "text": "Critics forced it to close early.",
-      "why": "It was a hit."
+      "text": "Critics forced the gallery to close it early.",
+      "why": "It was a success."
      }
     ]
    }
@@ -277,7 +277,7 @@
   "imageDescription": "Two large stacks of wheat sit in a field under a soft late-summer light, with hills and trees behind.",
   "credit": "Image: public domain, via Wikimedia Commons",
   "category": "impressionism",
-  "summary": "Claude Monet painted Stacks of Wheat (End of Summer) in 1890 to 1891, in a field near his house at Giverny. It belongs to a series of about 25 paintings of the same stacks, painted at different times of day and in different seasons and weather. Monet wanted to capture how light and atmosphere change what we see, even with an ordinary subject. The shadows are full of colour rather than grey. When he exhibited the series in Paris in 1891, it sold out within days and made him wealthy. The Art Institute of Chicago owns six of them."
+  "summary": "Claude Monet painted Stacks of Wheat (End of Summer) in 1890 to 1891, in a field near his house at Giverny. It belongs to a series of about 25 paintings of the same stacks, painted at different times of day and in different seasons and weather. Monet wanted to capture how light and atmosphere change what we see, even with an ordinary subject. The shadows are full of colour rather than grey. When he exhibited fifteen of them in Paris in 1891, most sold within a month, and the series made him wealthy. The Art Institute of Chicago owns six of them."
  },
  {
   "id": "boating-party",
@@ -480,26 +480,26 @@
    },
    {
     "focus": {
-     "x": 0.15,
-     "y": 0.4,
-     "zoom": 2.5
+     "x": 0.5,
+     "y": 0.5,
+     "zoom": 1.0
     },
-    "where": "The left",
-    "prompt": "Look at the dancer on the left.",
-    "hint": "What's the dancer on the left doing?",
+    "where": "Full painting",
+    "prompt": "Look at the whole room.",
+    "hint": "What's going on in the room?",
     "statements": [
      {
-      "text": "Scratching her back.",
-      "why": "Degas loved unguarded moments.",
+      "text": "An examination: one dancer performs while the others wait.",
+      "why": "Some of the waiting women are the dancers' mothers.",
       "isTrue": true
      },
      {
-      "text": "Reading a letter.",
-      "why": "She's scratching her back."
+      "text": "A performance in front of a paying audience.",
+      "why": "It's a class, not a show."
      },
      {
-      "text": "Eating an orange.",
-      "why": "She's scratching her back."
+      "text": "A dress rehearsal on the Opéra's main stage.",
+      "why": "It's a practice room, not the stage."
      }
     ]
    },
@@ -557,7 +557,7 @@
   "imageDescription": "Young ballerinas in white tutus wait, stretch and chat in a studio as an old ballet master leans on his stick.",
   "credit": "Image: The Metropolitan Museum of Art, public domain (CC0)",
   "category": "impressionism",
-  "summary": "Edgar Degas painted The Dance Class in 1874. Young ballerinas in white tutus wait, stretch, chat and fidget in a rehearsal room while the elderly ballet master Jules Perrot leans on a tall stick he used to beat time. One dancer scratches her back; another adjusts her dress. Degas was fascinated by the unglamorous moments behind the performance, and dancers fill more than half his work. Though the scene looks spontaneous, he composed it carefully in his studio from models and sketches. The steep, slanting floor pulls us into the room. It belongs to the Metropolitan Museum of Art."
+  "summary": "Edgar Degas painted The Dance Class in 1874. Young ballerinas in white tutus wait, stretch, chat and fidget in a rehearsal room while the elderly ballet master Jules Perrot leans on a tall stick he used to beat time. One dancer performs for an examination while the others look on. Degas was fascinated by the unglamorous moments behind the performance, and dancers fill more than half his work. Though the scene looks spontaneous, he composed it carefully in his studio from models and sketches. The steep, slanting floor pulls us into the room. It belongs to the Metropolitan Museum of Art."
  },
  {
   "id": "paris-street-rainy-day",

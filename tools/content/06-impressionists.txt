@@ -40,9 +40,9 @@ desc: Two large stacks of wheat sit in a field under a soft late-summer light, w
 - One. || It owns six.
 - Twenty. || It owns six.
 @ 0.5 0.5 1 | Full painting | Finally, the series' success. | How did the 1891 show go?
-+ It sold out within days. || It made Monet rich.
-- Not one painting sold. || It sold out.
-- Critics forced it to close early. || It was a hit.
++ Most of the paintings sold within a month. || The series made Monet wealthy.
+- Not one painting sold until after his death. || Most sold within a month.
+- Critics forced the gallery to close it early. || It was a success.
 
 ## boating-party | Luncheon of the Boating Party | Pierre-Auguste Renoir | 1841–1919 | 1880–81 | Oil on canvas | The Phillips Collection, Washington
 desc: Friends relax after lunch on a riverside restaurant balcony under a striped awning, drinking, chatting and flirting.
@@ -77,10 +77,10 @@ desc: Young ballerinas in white tutus wait, stretch and chat in a studio as an o
 + A real ballet master, Jules Perrot. || He was a famous dancer.
 - Degas. || It's Perrot.
 - A janitor. || He's a ballet master.
-@ 0.15 0.4 2.5 | The left | Look at the dancer on the left. | What's the dancer on the left doing?
-+ Scratching her back. || Degas loved unguarded moments.
-- Reading a letter. || She's scratching her back.
-- Eating an orange. || She's scratching her back.
+@ 0.5 0.5 1 | Full painting | Look at the whole room. | What's going on in the room?
++ An examination: one dancer performs while the others wait. || Some of the waiting women are the dancers' mothers.
+- A performance in front of a paying audience. || It's a class, not a show.
+- A dress rehearsal on the Opéra's main stage. || It's a practice room, not the stage.
 @ 0.5 0.85 2 | The floor | Look at the floor. | What is the ballet master leaning on?
 + A tall stick, used to beat time. || He keeps the rhythm with it.
 - A violin, played for the class. || It's a stick.

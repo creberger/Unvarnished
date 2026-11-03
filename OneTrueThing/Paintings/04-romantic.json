@@ -579,8 +579,8 @@
     "hint": "What really happened?",
     "statements": [
      {
-      "text": "In 1816 a French navy ship wrecked; of about 150 on the raft, 15 survived.",
-      "why": "The scandal shook France.",
+      "text": "In 1816 a French navy ship ran aground; of about 150 on the raft, only 15 were rescued.",
+      "why": "Several of them died soon after. The scandal shook France.",
       "isTrue": true
      },
      {
@@ -697,7 +697,7 @@
   "imageDescription": "Desperate survivors on a makeshift raft wave toward a tiny ship on the horizon, the dead and dying around them.",
   "credit": "Image: public domain, via Wikimedia Commons",
   "category": "romantic-realist",
-  "summary": "Théodore Géricault painted this huge canvas in 1818 to 1819. In 1816 the French navy frigate Méduse ran aground off West Africa; around 150 people were set adrift on a makeshift raft, and only 15 survived the starvation, madness and cannibalism that followed. The scandal embarrassed the French government. Géricault interviewed survivors, built a model raft and studied corpses. He shows the moment the survivors spot a tiny ship on the horizon. The painting, about five by seven metres, became a landmark of French Romanticism. Bitumen in the paint has darkened it over time. It hangs in the Louvre."
+  "summary": "Théodore Géricault painted this huge canvas in 1818 to 1819. In 1816 the French navy frigate Méduse ran aground off West Africa; around 150 people were set adrift on a makeshift raft, and only 15 were rescued after days of starvation, madness and cannibalism. The scandal embarrassed the French government. Géricault interviewed survivors, built a model raft and studied corpses. He shows the moment the survivors spot a tiny ship on the horizon. The painting, about five by seven metres, became a landmark of French Romanticism. Bitumen in the paint has darkened it over time. It hangs in the Louvre."
  },
  {
   "id": "liberty-leading-the-people",
