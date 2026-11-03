@@ -37,7 +37,7 @@ struct HomeView: View {
             .padding(.horizontal, 20)
             .padding(.vertical, 16)
         }
-        .background { MosaicBackground().ignoresSafeArea() }
+        .background(Theme.wall.ignoresSafeArea())
         .foregroundStyle(Theme.ink)
         .toolbar(.hidden, for: .navigationBar)
     }
@@ -93,7 +93,7 @@ struct HomeView: View {
                 }
             }
             .padding(16)
-            .background(Theme.label.opacity(0.88))
+            .background(Theme.label)
             .overlay(Rectangle().stroke(Theme.rule, lineWidth: 1))
             .contentShape(Rectangle())
         }
@@ -120,32 +120,11 @@ struct HomeView: View {
                     .foregroundStyle(Theme.muted)
             }
             .padding(16)
-            .background(Theme.label.opacity(0.88))
+            .background(Theme.label)
             .overlay(Rectangle().stroke(Theme.rule, lineWidth: 1))
             .contentShape(Rectangle())
         }
         .buttonStyle(.plain)
-    }
-}
-
-/// Every painting in black and white, tiled and faded into the gallery wall behind the start screen.
-/// The image is made by tools/make_mosaic.py.
-private struct MosaicBackground: View {
-    private static let image = UIImage(named: "home-mosaic.jpg")
-
-    var body: some View {
-        ZStack {
-            Theme.wall
-            if let image = Self.image {
-                Image(uiImage: image)
-                    .resizable()
-                    .aspectRatio(contentMode: .fill)
-                    .opacity(0.24)
-                    .accessibilityHidden(true)
-            }
-            // Fade the mosaic out behind the title, where the text sits straight on it.
-            LinearGradient(colors: [Theme.wall, Theme.wall.opacity(0)], startPoint: .top, endPoint: .init(x: 0.5, y: 0.3))
-        }
     }
 }
 
